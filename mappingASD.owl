@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C42">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0031831"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C40">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0019994"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C32">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0450973"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C31">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0162791"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C21">
+    <owl:sameAs rdf:resource="https://autismpdc.fpg.unc.edu/evidence-based-practices"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C20">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/semantic-network/T061"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C10">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C1457887"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C12">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0038273"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C11">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0150080"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://w3id.org/ASD_KG/1.0/ontology/classes/C1">
+    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0524528"/>
+  </owl:Class>
+</rdf:RDF>
