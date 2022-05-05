@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/D0> <https://w3id.org/asdkb/ontology/instances/dataproperties/Chinese_description> "在多种场所下，社交交流和社交互动方面存在持续性的缺陷"@zh .
+

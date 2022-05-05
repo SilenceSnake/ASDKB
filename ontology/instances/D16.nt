@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D16> <https://w3id.org/asdkb/ontology/instances/dataproperties/Chinese_description> "社会互动的非语言交流的缺陷"@zh .
+<https://w3id.org/asdkb/ontology/instances/D16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_social_interaction> .
+

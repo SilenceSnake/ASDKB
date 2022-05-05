@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/D26> <https://w3id.org/asdkb/ontology/instances/dataproperties/Chinese_description> "无法理解一种场景中被认为恰当而在另一种场景中不恰当的行为（例如，讽刺、善意的谎言）"@zh .
+

@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D7> <https://w3id.org/asdkb/ontology/instances/dataproperties/Chinese_description> "异常的眼神接触和身体语言"@zh .
+<https://w3id.org/asdkb/ontology/instances/D7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_social_interaction> .
+
