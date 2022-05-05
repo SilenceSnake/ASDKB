@@ -4,8 +4,8 @@
 
 ## Project Structure
 
-- Ontology: [ontology.owl](ontology.owl)
-- Manual ontology mapping to Clinga: [mapping.owl](mapping.owl)
+- Ontology: [ontology.owl](./ontology/ontology.owl)
+- Manual ontology mapping to Clinga: [mapping.owl](./mapping/mapping.owl)
 - Source for ontology and ontology generation script: [ontology/](./ontology/)
 - Source for demo frontend: [demo/](./demo/)
 - Source for demo backend: [api/](./api/)
