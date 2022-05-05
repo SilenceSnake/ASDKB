@@ -20,4 +20,5 @@
 ```sparql
 PREFIX classs: <http://w3id.org/asdkb/ontology/classes/>
 PREFIX properties: <http://w3id.org/asdkb/ontology/properties/>
+PREFIX instances: <http://w3id.org/asdkb/ontology/instances/>
 ```
