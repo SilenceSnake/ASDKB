@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital78> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海神经内科"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital78> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市闸北区延长中路301号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital78> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital78> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital78> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "总机：021-66300588 服务台咨询热线：021-66303643 "@zh .
+

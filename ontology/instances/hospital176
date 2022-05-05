@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital176> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital176> <https://w3id.org/asdkb/ontology/dataproperties/city> "连云港市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital176> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "连云港市妇幼保健院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital176> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0518-85820018(导医台),0518-85826231(门诊部),0518-85833975"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital176> <https://w3id.org/asdkb/ontology/dataproperties/address> "江苏省连云港市海州开发区秦东门大街669号"@zh .
+

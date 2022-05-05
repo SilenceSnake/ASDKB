@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital10> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "022-23519459 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital10> <https://w3id.org/asdkb/ontology/dataproperties/address> "天津市河西区马场道225号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital10> <https://w3id.org/asdkb/ontology/dataproperties/city> "天津市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital10> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital10> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "天津儿童医院"@zh .
+

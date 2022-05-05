@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital86> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0769-85010001 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital86> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "东莞市滨海湾中心医院 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital86> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省东莞市虎门镇虎门大道111号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital86> <https://w3id.org/asdkb/ontology/dataproperties/city> "东莞市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital86> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+

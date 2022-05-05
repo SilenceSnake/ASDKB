@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital132> <https://w3id.org/asdkb/ontology/dataproperties/address> "商丘市凯旋南路292号(本部)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital132> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0370-3255630(门诊咨询),0370-3255637(院办)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital132> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "商丘市第一人民医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital132> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital132> <https://w3id.org/asdkb/ontology/dataproperties/city> "商丘市"@zh .
+

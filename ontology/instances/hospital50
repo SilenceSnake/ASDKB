@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital50> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital50> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州中医药大学第一附属医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital50> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-36591912、36591222"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital50> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省广州市白云区机场路16号大院 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital50> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
+

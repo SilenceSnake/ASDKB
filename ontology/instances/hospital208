@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital208> <https://w3id.org/asdkb/ontology/dataproperties/address> "甘肃省兰州市城关区铁路西村街道和政西街1号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital208> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0931-4921888,0931-4924457"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital208> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital208> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "甘肃省第二人民医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital208> <https://w3id.org/asdkb/ontology/dataproperties/city> "兰州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

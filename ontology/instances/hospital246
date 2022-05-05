@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital246> <https://w3id.org/asdkb/ontology/dataproperties/address> "广州市大南路130号和82号(总院)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital246> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital246> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州市越秀区儿童医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital246> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "二级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital246> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-83335376,020-83327917"@zh .
+

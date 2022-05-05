@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital106> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital106> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市徐汇区宛平南路600号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital106> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-64387250(总机)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital106> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海市精神卫生中心"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital106> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+

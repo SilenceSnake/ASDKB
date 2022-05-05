@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/hospital67> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州市第一人民医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital67> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital67> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省广州市芳村区花地大道南30-32号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital67> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-81628820 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

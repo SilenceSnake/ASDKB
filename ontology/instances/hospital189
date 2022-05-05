@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital189> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "阜阳市人民医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital189> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0558-2516117(总机),0558-2515111(预约门诊)0558-3011111(南区)0558-3010999(南区预约电话)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital189> <https://w3id.org/asdkb/ontology/dataproperties/address> "安徽省阜阳市颍州区鹿祠街63号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital189> <https://w3id.org/asdkb/ontology/dataproperties/city> "阜阳市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital189> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+

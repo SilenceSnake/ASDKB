@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital249> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-59935000"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital249> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital249> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "二级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital249> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海市嘉定区精神卫生中心"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital249> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市嘉定区外冈镇望安路701号"@zh .
+

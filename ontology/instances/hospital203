@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital203> <https://w3id.org/asdkb/ontology/dataproperties/city> "三明市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital203> <https://w3id.org/asdkb/ontology/dataproperties/address> "福建省三明市永安市燕江东路86号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital203> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "三明市第二医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital203> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0598-3633452(院办公室)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital203> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital55> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0768-2224092 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital55> <https://w3id.org/asdkb/ontology/dataproperties/city> "潮州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital55> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省潮州市环城西路84号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital55> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital55> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "潮州市中心医院"@zh .
+

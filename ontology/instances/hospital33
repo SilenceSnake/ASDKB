@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/hospital33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital33> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省广州市白云大道北17号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital33> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-86336633 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital33> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital33> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "康正医院"@zh .
+

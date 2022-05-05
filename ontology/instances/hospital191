@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital191> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-968886(客服热线),021-20261000(浦东总院总机),021-20261000(浦西分院总机)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital191> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海市第一妇婴保健院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital191> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市浦东新区高科西路2699号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital191> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital191> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
+

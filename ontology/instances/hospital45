@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital45> <https://w3id.org/asdkb/ontology/dataproperties/city> "长沙市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital45> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital45> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0731- 85232351 / 0731- 85226120 / 85216500 / 85232650 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital45> <https://w3id.org/asdkb/ontology/dataproperties/address> "长沙市芙蓉中路三段（涂家冲）427号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital45> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "湖南省第二人民医院"@zh .
+

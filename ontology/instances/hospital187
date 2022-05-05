@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital187> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital187> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital187> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-66343114(总机),010-66343337(咨询)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital187> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "火箭军特色医学中心"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital187> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市西城区新街口外大街16号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

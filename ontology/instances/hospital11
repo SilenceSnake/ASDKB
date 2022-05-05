@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital11> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "025-86405066、86415071-8016、86415096 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital11> <https://w3id.org/asdkb/ontology/dataproperties/city> "南京市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital11> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital11> <https://w3id.org/asdkb/ontology/dataproperties/address> "江苏省南京市建邺区南湖路23号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital11> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "江苏省第二中医院"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital234> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital234> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市东城区交道口北二条36号(本部)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital234> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京市第六医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital234> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-64035566(总机)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital234> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
+

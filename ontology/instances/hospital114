@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital114> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0731-88638888(总机),0731-88618577(预约挂号),0731-88618576(预约挂号),0731-88618575(门诊),0731-88618120(急救)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital114> <https://w3id.org/asdkb/ontology/dataproperties/address> "湖南省长沙市河西岳麓区桐梓坡路138号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital114> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "中南大学湘雅三医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital114> <https://w3id.org/asdkb/ontology/dataproperties/city> "长沙市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital114> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital238> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital238> <https://w3id.org/asdkb/ontology/dataproperties/city> "日照市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital238> <https://w3id.org/asdkb/ontology/dataproperties/address> "山东省日照市东港区威海路28号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital238> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0633-8702555,0633-8770120"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital238> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "日照市妇幼保健院"@zh .
+

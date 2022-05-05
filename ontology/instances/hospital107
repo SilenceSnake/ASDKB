@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital107> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-64931990(万源路门诊部总机),021-64931923(医疗咨询),021-64931990转1001(枫林路门诊部),021-64175173(医疗咨询)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital107> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital107> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "复旦大学附属儿科医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital107> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市闵行区万源路399号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital107> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

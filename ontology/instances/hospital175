@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital175> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "024-86900157(总机),024-86903488(医务科)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital175> <https://w3id.org/asdkb/ontology/dataproperties/city> "沈阳市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital175> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "沈阳市儿童医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital175> <https://w3id.org/asdkb/ontology/dataproperties/address> "沈阳市皇姑区崇山东路74号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital175> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+

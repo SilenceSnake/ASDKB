@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital48> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital48> <https://w3id.org/asdkb/ontology/dataproperties/address> "十堰市丹江路1号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital48> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0719-8781061，（0719）8792195（急救） "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital48> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "十堰市中医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital48> <https://w3id.org/asdkb/ontology/dataproperties/city> "十堰市"@zh .
+

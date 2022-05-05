@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital225> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "028-65978133(咨询),028-87738249(院办公室)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital225> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "四川省妇幼保健院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital225> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital225> <https://w3id.org/asdkb/ontology/dataproperties/address> "四川省成都市武侯区晋阳路沙堰村西二街290号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital225> <https://w3id.org/asdkb/ontology/dataproperties/city> "成都市"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital222> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-88257755(总机)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital222> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital222> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市石景山区石景山路5号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital222> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital222> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "清华大学玉泉医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

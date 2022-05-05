@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital260> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital260> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市通州区翠屏西路116号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital260> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京中医药大学东直门医院通州院区"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital260> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital260> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-80816655(总机)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

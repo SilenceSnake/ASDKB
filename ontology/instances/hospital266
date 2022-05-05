@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital266> <https://w3id.org/asdkb/ontology/dataproperties/city> "南昌市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital266> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0791-88692748(总值班)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital266> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "南昌大学第一附属医院象湖院区"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital266> <https://w3id.org/asdkb/ontology/dataproperties/address> "江西省南昌市南昌县东岳大道1519号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital266> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

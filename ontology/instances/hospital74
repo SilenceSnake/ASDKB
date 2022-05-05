@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital74> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "总机：025-82296000 预约挂号：025-82296386 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital74> <https://w3id.org/asdkb/ontology/dataproperties/city> "南京市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital74> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "南京脑科医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital74> <https://w3id.org/asdkb/ontology/dataproperties/address> "南京市广州路264号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital74> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

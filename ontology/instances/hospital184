@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital184> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "024-31961603(导诊台),024-31961120(急诊)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital184> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "辽宁中医药大学附属医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital184> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital184> <https://w3id.org/asdkb/ontology/dataproperties/city> "沈阳市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital184> <https://w3id.org/asdkb/ontology/dataproperties/address> "辽宁省沈阳市皇姑区北陵大街33号"@zh .
+

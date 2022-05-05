@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital139> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "022-60362255(总机),022-60361301(预约),022-60361365(预约),022-60362288(咨询)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital139> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "天津医科大学总医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital139> <https://w3id.org/asdkb/ontology/dataproperties/city> "天津市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital139> <https://w3id.org/asdkb/ontology/dataproperties/address> "天津市和平区鞍山道154号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital139> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+

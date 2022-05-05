@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital87> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital87> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "秦皇岛市妇幼保健院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital87> <https://w3id.org/asdkb/ontology/dataproperties/city> "秦皇岛市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital87> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0335—3852999 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital87> <https://w3id.org/asdkb/ontology/dataproperties/address> "河北省秦皇岛市海港区红旗路452号(火车站西行200米) "@zh .
+

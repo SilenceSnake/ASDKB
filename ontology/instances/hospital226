@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital226> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital226> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital226> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京京煤集团总医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital226> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市门头沟区黑山大街18号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital226> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-69842525(总机),010-69820541(预约挂号)"@zh .
+

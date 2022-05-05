@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/hospital262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital262> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "024-57709031"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital262> <https://w3id.org/asdkb/ontology/dataproperties/city> "抚顺市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital262> <https://w3id.org/asdkb/ontology/dataproperties/address> "抚顺市顺城区浑河北路62号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital262> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "抚顺市妇幼保健院"@zh .
+

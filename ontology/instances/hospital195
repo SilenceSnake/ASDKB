@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital195> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0373-3029611(咨询处)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital195> <https://w3id.org/asdkb/ontology/dataproperties/city> "新乡市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital195> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital195> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "新乡医学院第三附属医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital195> <https://w3id.org/asdkb/ontology/dataproperties/address> "新乡市华兰大道东段"@zh .
+

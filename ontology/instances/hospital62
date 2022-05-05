@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital62> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "南方医科大学深圳医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital62> <https://w3id.org/asdkb/ontology/dataproperties/city> "深圳市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital62> <https://w3id.org/asdkb/ontology/dataproperties/address> "深圳市宝安区新湖路1333号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital62> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital62> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0755-23329999 "@zh .
+

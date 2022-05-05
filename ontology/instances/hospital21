@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/hospital21> <https://w3id.org/asdkb/ontology/dataproperties/address> "南京市广州路72号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital21> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "南京市儿童医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital21> <https://w3id.org/asdkb/ontology/dataproperties/city> "南京市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital21> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "025-83117426"@zh .
+
