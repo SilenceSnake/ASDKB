@@ -1,0 +1,195 @@
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/time> "10-15分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools8> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "发育检查表-早期筛查(DBD-ES)"@zh .
+<https://w3id.org/asdkb/ontology/tools18> <https://w3id.org/asdkb/ontology/dataproperties/author> "Rutter, Bailey, Lord & Berument, 2003"@en .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/author> "Ehlers, Gillberg & Wing, 1999"@en .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/age> "5-18 岁"@zh .
+<https://w3id.org/asdkb/ontology/tools13> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Krug Asperger's Disorder Index"@en .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Modified Checklist for Autism in Toddlers"@en .
+<https://w3id.org/asdkb/ontology/tools15> <https://w3id.org/asdkb/ontology/dataproperties/author> "Siegel, 2004"@en .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "2.25"@zh .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "M-CHAT是一份针对父母和照顾者的23个项目的问卷，由是/否组成。M-CHAT基于CHAT;但是，它不包括需要医生观察/给药的项目。"@zh .
+<https://w3id.org/asdkb/ontology/tools8> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools18> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "SCQ以“是”或“否”的形式，由40个项目组成，有两种形式:以发展历史和行为为重点的“一生形式”和以最近3个月的行为为重点的“当前形式”。"@zh .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工(青少年儿童版本);自测(成年人版本)"@zh .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "3"@zh .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "STAT由12个互动活动组成，这些活动是在游戏活动的背景下进行的. "@zh .
+<https://w3id.org/asdkb/ontology/tools18> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/rule> "所有项目都以“通过”或“失败”的形式评分。每个域的失败项目将转换为分数。两个项目域的分数是 0、0.5 或 1，而四个项目域的分数是 0、0.25、0.50、0.75 或 1。将所有分数加起来为总分。2.25–2.75 STAT 的截止分数"@zh .
+<https://w3id.org/asdkb/ontology/tools11> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "Gilliam阿斯伯格症(GADS)"@zh .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "幼儿自闭症定量检查表(Q-CHAT)"@zh .
+<https://w3id.org/asdkb/ontology/tools11> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Gilliam Asperger's Disorder Scale"@en .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Screening Tool for Autism in Toddlers and Young Children"@en .
+<https://w3id.org/asdkb/ontology/tools19> <https://w3id.org/asdkb/ontology/dataproperties/time> "15-20分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/author> "Dietz, Swinkels, van Daalen, can Engeland, & Buitellar, 2006; Swinkels et al., 2006"@en .
+<https://w3id.org/asdkb/ontology/tools12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/time> "15-29分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "CARS 2由两个15个项目的评定量表组成。标准版(CARS 2-ST)适用于6岁以下儿童。高功能版本(CARS 2-HF)用于语言流利的6岁及6岁以上的人，具有平均或以上的智力能力. "@zh .
+<https://w3id.org/asdkb/ontology/tools15> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发展障碍筛查测试-第二版(PDDST-II)"@zh .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/author> "Myles, Bock, & SimpsonMyles, Bock, & Simpson, 2001"@en .
+<https://w3id.org/asdkb/ontology/tools3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Checklist for Autism in Toddlers"@en .
+<https://w3id.org/asdkb/ontology/tools15> <https://w3id.org/asdkb/ontology/dataproperties/time> "10-20分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism Spectrum Quotient"@en .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/age> "16-30个月"@zh .
+<https://w3id.org/asdkb/ontology/tools16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/classes/physician> "16"@zh .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/rule> "根据实际情况回答问题，当遇到的第一个选择否的问题结束。一般病情严重的终止于第三题，较轻病情的终止于第八题。"@zh .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/rule> "稍微同意第1、7、8、10题，得1分。对第2、3、4、5、6、9题有明确或轻微的分歧，得1分。如果个人超过6分，考虑参考他们进行专科诊断评估。"@zh .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/age> "4-11岁"@zh .
+<https://w3id.org/asdkb/ontology/tools13> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "KADI由32个项目组成，分别提供初级和次级形式. "@zh .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/rule> "“完全同意”或“稍微同意”的回答在以下项目上得分1分：1、2、4、5、6、7、9、12、13、16、18、19、20、21、22、23、26、33、35、39、41、42、43、45、46。“完全不同意”或“有点不同意”的回答在以下项目上得分1分：3、8、10、11、14、15、17、24、25、27、28、29、30、31、32、34、36、37、38、40、44、47、48、49、50。超过16分就有较大可能性患病，32分为临界点，超过32分基本确诊。"@zh .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/author> "Allison, Auyeung, & Baron-Cohen, 2012"@en .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/age> "3-14岁"@zh .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "Gilliam孤独症评分量表-第2版(GARS-2)"@zh .
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Early Screening for Autistic Traits"@en .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症行为检查表(ABC)"@zh .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/classes/physician> "2.75"@zh .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/rule> "分数为从0（从未观察到），1（很少观察到），2（有时观察到）到3（经常观察到，将所有题目的分数加起来。CARS上30的截止值灵敏度为.88，特异性为.86.其他研究在儿童身上也发现了类似的结果。然而，一些研究人员建议对非常年幼的儿童进行更高的截止值，对青少年和成人使用较低的截止值。在一项大型研究中，4岁儿童的截止值为30，但在2岁儿童中，32的截止值是最佳的."@zh .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "这个10项量表采用李克特量表5分制(总是、通常、有时、很少、从不). "@zh .
+<https://w3id.org/asdkb/ontology/tools8> <https://w3id.org/asdkb/ontology/dataproperties/age> "18-48个月"@zh .
+<https://w3id.org/asdkb/ontology/tools8> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "DBD-ES是一个由DPC-P衍生而来的17项工具，用于筛查18-48个月发育迟缓儿童的自闭症。结果通过非加权分数报告。"@zh .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工或专家"@zh .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/time> "10-15分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "asq由27个项目组成，以3分制进行评分。这些项目旨在筛查AS和其他自闭症谱系的高功能障碍. "@zh .
+<https://w3id.org/asdkb/ontology/tools18> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "社会交往问卷(SCQ)"@zh .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "修订版幼儿自闭症检查表(M-CHAT)"@zh .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "1"@zh .
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "AQ已经开发了三个版本:儿童、青少年和成人。AQ有50个项目，围绕着五个子领域:社会互动、沟通、注意细节、注意力转换和想象。"@zh .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/author> "Robbins, Fein, Barton, & Green, 2001"@en .
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "3"@zh .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools19> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "社交反应量表(SRS)包括一个65个项目的评定量表，用于测量在自然社会环境中发生的自闭症谱系症状的严重程度. "@zh .
+<https://w3id.org/asdkb/ontology/tools11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "76"@zh .
+<https://w3id.org/asdkb/ontology/tools11> <https://w3id.org/asdkb/ontology/dataproperties/age> "3-22岁"@zh .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/author> "Baron-Cohen, Allen, & Gillberg, 1992"@en .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "发展检查表由29个项目组成，这些项目来源于发展检查表中的父母/主要照顾者报告(DBC-P)。结果通过非加权评分报告。"@zh .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism Behavior Checklist"@en .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/author> "Krug, Arick, & Almond, 2008"@en .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "儿童阿斯伯格综合症测试(CAST)"@zh .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "儿童孤独症量表第二版(CARS-2)"@zh .
+<https://w3id.org/asdkb/ontology/tools18> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "17"@zh .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/time> "15分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools8> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Developmental Checklist-Early Screen"@en .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/classes/physician> "32"@zh .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "ABC是ASIEP-3的一个子测试，是一份包含57个项目的问卷，以yes/no的形式回答. "@zh .
+<https://w3id.org/asdkb/ontology/tools15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "30"@zh .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/rule> "将所选题目选项分值相加，总分数超过27分说明有可能较大患病，可以考虑前往相关医院进行进一步诊断"@zh .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/age> "3-22岁"@zh .
+<https://w3id.org/asdkb/ontology/tools0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/age> "4-18岁"@zh .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism Spectrum Screening Questionnaire"@en .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "幼儿孤独症检查表(CHAT)"@zh .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工(青少年儿童版本);自测(成年人版本)"@zh .
+<https://w3id.org/asdkb/ontology/tools13> <https://w3id.org/asdkb/ontology/dataproperties/age> "6-22岁"@zh .
+<https://w3id.org/asdkb/ontology/tools18> <https://w3id.org/asdkb/ontology/dataproperties/age> "4岁以上"@zh .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/time> "5分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "27"@zh .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/classes/physician> "36"@zh .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长, 护工或教师"@zh .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "52"@zh .
+<https://w3id.org/asdkb/ontology/tools11> <https://w3id.org/asdkb/ontology/dataproperties/time> "10-15分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "Q-CHAT包含了M-CHAT中10个最具区别性的项目。项目得分为是/否。"@zh .
+<https://w3id.org/asdkb/ontology/tools11> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "GADS是一份32项的问卷，包含以下分量表:社交互动、受限模式、认知模式和实用技能。"@zh .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "阿斯伯格综合症诊断量表(ASDS)"@zh .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/rule> "请在每项做“是”“否”的判断。如判断为“是”，在此项打勾，并按此在量表中的负荷大小给评1、2、3、4分。总分158分；筛查界限分为53分，诊断分为67分"@zh .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/time> "10-15分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/age> "18-24个月"@zh .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "发育行为检查表-自闭症筛查算法(DBC-ASA)"@zh .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/author> "Gilliam, 2006"@en .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/author> "Schopler, Van Bourgondien, Wellman, & Love, 2010"@en .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症谱系筛查问卷(ASSQ)"@zh .
+<https://w3id.org/asdkb/ontology/tools11> <https://w3id.org/asdkb/ontology/dataproperties/author> "Gilliam, 2003"@en .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "16"@zh .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "53"@zh .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/rule> "共计十五项，见下表;采「正常」得1分，「轻微不正常」得2分，「很不正常」得3分，「极度不正常」得4分的评分方式，总得分低于30分者非自闭症，得分介于30-36分之间者有孤独症倾向，得分高过36分者则确实为孤独症"@zh .
+<https://w3id.org/asdkb/ontology/tools14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools13> <https://w3id.org/asdkb/ontology/dataproperties/time> "15-20分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/rule> "所有25个项目都使用5分频率等级进行评分，得分范围从0到4，将分数之和作为总分。正常人的平均分数为26分，患者的平均分为52分"@zh .
+<https://w3id.org/asdkb/ontology/tools13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "6"@zh .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Childhood Asperger Syndrome Test"@en .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/age> "24-36个月"@zh .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/rule> "总分的计算方法是将所有项目的分数相加。当使用17分或更高分表示自闭症时，DBC-ASA的敏感性为0.86，特异性为0.69。也就是说，样本中86%的实际孤独症患者被正确识别。31%的非自闭症患者被误认为患有自闭症。使用大于17的临界值，DBC-ASA对检测自闭症病例的敏感性降低，但也降低了非自闭症病例被错误地认定为自闭症病例的可能性。根据验证研究的结果，18分或更高的分数正确识别了样本中81%的实际自闭症患者，而错误地将29%的非自闭症患者归类为自闭症患者。19分或更高的分数正确识别了样本中79%的实际自闭症病例，而错误地将28%的非自闭症病例归类为自闭症。"@zh .
+<https://w3id.org/asdkb/ontology/tools8> <https://w3id.org/asdkb/ontology/dataproperties/time> "10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "自闭症幼儿筛查工具(STAT)"@zh .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Quantitative Checklist for Autism in Toddlers"@en .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/rule> "关键性项目中有两项或两项以上的答案为未通过，或是所有项目当中有任何三项的答案为未通过，该名儿童就被评定为未通过。检查表判定为未通过的儿童并非全都达到自闭症范围诊断的标淮。然而，未通过检查表的儿童应该由医师做进一步的评估，或是交由专家做发展评估。粗体字的项目为关键性项目2、7、9、13、14、15。下为M-CHAT上所有项目未通过的答案。1.否、2.否、3.否、4.否、5.否、6.否、7.否、8.否、9.否、10.否、11.是、12.否、13.否、14.否、15.否、16.否、17.否、18.是、19.否、20.是、21.否、22.是、23.否"@zh .
+<https://w3id.org/asdkb/ontology/tools15> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pervasive Developmental Disorders Screening Test-Second Edition"@en .
+<https://w3id.org/asdkb/ontology/tools16> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools19> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/rule> "每个题目的七个选项从1到7（或是描述状况的严重性从小到大）依次计分为0、1、2、3、4、5、6分，76分为筛查界限，自闭症患者的临床平均分为102分，正常儿童平均为15分"@zh .
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/rule> "如果家长回答3个或更多问题为“否”，那么孩子需要继续接受筛查。"@zh .
+<https://w3id.org/asdkb/ontology/tools19> <https://w3id.org/asdkb/ontology/dataproperties/age> "4-18岁"@zh .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Childhood Autism Rating Scale"@en .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/age> "7-16岁"@zh .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/author> "Scott, Baron-Cohen, Bolton, & Brayne, 2002"@en .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/author> "Baron-Cohen, Wheelwright, Skinner, Martin & Clubley, 2001"@en .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/rule> "一共三十一道题，选择[是的]的0分，选[没有]的1分。在实验中，得分6分以上有较大可能患病，临界分数为13分，"@zh .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/age> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools15> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "PDDST-II PCS是一份22个项目的问卷，有三个版本(阶段)用于不同的环境:阶段1:初级保健;第二阶段:发育临床;第三阶段:自闭症临床严重程度。"@zh .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/age> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "ESAT有14个项目。答案为“是”或“否”的项目，涉及ASD的三个症状域和对感官刺激的反应。"@zh .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Asperger Syndrome Diagnostic Scale"@en .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/author> "Allison, Auyeung, & Baron-Cohen, 2012"@en .
+<https://w3id.org/asdkb/ontology/tools7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools19> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Social Responsiveness Scale"@en .
+<https://w3id.org/asdkb/ontology/tools13> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "克鲁格亚斯伯格症指数(KADI)"@zh .
+<https://w3id.org/asdkb/ontology/tools8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools13> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工或专家"@zh .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/time> "20分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools19> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "社会反应量表(SRS)"@zh .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "30"@zh .
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "自闭症特征的早期筛查(ESAT)"@zh .
+<https://w3id.org/asdkb/ontology/tools15> <https://w3id.org/asdkb/ontology/dataproperties/age> "12-48个月"@zh .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/author> "Stone, Coonrod, & Ousley, 2000"@en .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "6"@zh .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "ASDS包括50个项目，这些项目被用来评估是否存在与阿斯伯格综合症相关的行为."@zh .
+<https://w3id.org/asdkb/ontology/tools14> <https://w3id.org/asdkb/ontology/dataproperties/age> "16-30个月"@zh .
+<https://w3id.org/asdkb/ontology/tools10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "GARS-2包含42个项目，描述自闭症患者的特征行为。这些项目被分成三个分量表:刻板行为、沟通和社会互动。"@zh .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症谱系指数-10(AQ-10)"@zh .
+<https://w3id.org/asdkb/ontology/tools13> <https://w3id.org/asdkb/ontology/dataproperties/author> "Krug & Arick, 2003"@en .
+<https://w3id.org/asdkb/ontology/tools17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/author> "Brereton, Tonge, Mackinnon, & Einfeld, 2002"@en .
+<https://w3id.org/asdkb/ontology/tools9> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Developmental Behavior Checklist-Autism Screening Algorithm"@en .
+<https://w3id.org/asdkb/ontology/tools9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools19> <https://w3id.org/asdkb/ontology/dataproperties/author> "Constantino & Gruver, 2005"@en .
+<https://w3id.org/asdkb/ontology/tools6> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "CAST是一份包含37个项目的、针对可能的阿斯伯格综合症行为指标的父母评定量表。项目被记分为存在/不存在。"@zh .
+<https://w3id.org/asdkb/ontology/tools2> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长, 护工"@zh .
+<https://w3id.org/asdkb/ontology/tools10> <https://w3id.org/asdkb/ontology/dataproperties/age> "14-15个月"@zh .
+<https://w3id.org/asdkb/ontology/tools1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "在孩子18个月的体检期间，由医生和父母一起完成聊天。"@zh .
+<https://w3id.org/asdkb/ontology/tools15> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/tools17> <https://w3id.org/asdkb/ontology/dataproperties/user> "经过专业训练的人士"@zh .
+<https://w3id.org/asdkb/ontology/tools8> <https://w3id.org/asdkb/ontology/dataproperties/author> "Gray & Tonge, 2005"@en .
+<https://w3id.org/asdkb/ontology/tools5> <https://w3id.org/asdkb/ontology/classes/physician> "3"@zh .
+<https://w3id.org/asdkb/ontology/tools1> <https://w3id.org/asdkb/ontology/classes/physician> "67"@zh .
+<https://w3id.org/asdkb/ontology/tools4> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism Spectrum Quotient – 10"@en .
+<https://w3id.org/asdkb/ontology/tools3> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症谱系指数(AQ)"@zh .
+<https://w3id.org/asdkb/ontology/tools12> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Gilliam Autism Rating Scale-2nd Edition"@en .
+<https://w3id.org/asdkb/ontology/tools7> <https://w3id.org/asdkb/ontology/dataproperties/age> "0-6岁(CARS 2-ST); 6岁以上(CARS 2-HF)"@zh .
+<https://w3id.org/asdkb/ontology/tools18> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Social Communication Questionnaire"@en .
+<https://w3id.org/asdkb/ontology/tools11> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工或专家"@zh .
+<https://w3id.org/asdkb/ontology/tools0> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长, 护工或教师"@zh .
+

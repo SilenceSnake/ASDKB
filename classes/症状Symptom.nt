@@ -1,0 +1,296 @@
+<https://w3id.org/asdkb/ontology/symptom9> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom9"@zh .
+<https://w3id.org/asdkb/ontology/symptom4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom55> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "运动控制能力的恶化"@zh .
+<https://w3id.org/asdkb/ontology/symptom29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom29> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "咬伤手腕"@zh .
+<https://w3id.org/asdkb/ontology/symptom6> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a lack of socio-emotional reciprocity"@en .
+<https://w3id.org/asdkb/ontology/symptom55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom38> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "几乎总是无法控制肠道和膀胱 "@zh .
+<https://w3id.org/asdkb/ontology/symptom13> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom13"@zh .
+<https://w3id.org/asdkb/ontology/symptom13> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对他人的口头和非口头提议缺乏情绪反应"@zh .
+<https://w3id.org/asdkb/ontology/symptom8> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom8"@zh .
+<https://w3id.org/asdkb/ontology/symptom30> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom30"@zh .
+<https://w3id.org/asdkb/ontology/symptom8> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a lack of social usage of whatever language skills are present"@en .
+<https://w3id.org/asdkb/ontology/symptom40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom61> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "互惠的社会互动、交流"@zh .
+<https://w3id.org/asdkb/ontology/symptom58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom63> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom14> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "使用节奏或强调的变化来反映社交方式的能力受损 "@zh .
+<https://w3id.org/asdkb/ontology/symptom54> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a loss of bowel or bladder control"@en .
+<https://w3id.org/asdkb/ontology/symptom34> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "tortuous wringing or \"hand-washing\" movements, with the arms flexed in front of the chest or chin"@en .
+<https://w3id.org/asdkb/ontology/symptom31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom0> <https://w3id.org/asdkb/ontology/dataproperties/English_description> " qualitative impairments in reciprocal social interaction"@en .
+<https://w3id.org/asdkb/ontology/symptom17> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "倾向于将僵化和刻板模式强加于日常生活"@zh .
+<https://w3id.org/asdkb/ontology/symptom40> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a loss of social engagement"@en .
+<https://w3id.org/asdkb/ontology/symptom20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom10> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "会话交流中的缺乏统一性，同步性差"@zh .
+<https://w3id.org/asdkb/ontology/symptom49> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "stereotypic \"hand-washing\" movements"@en .
+<https://w3id.org/asdkb/ontology/symptom39> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom39"@zh .
+<https://w3id.org/asdkb/ontology/symptom15> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom52> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom52"@zh .
+<https://w3id.org/asdkb/ontology/symptom57> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "an autistic-like impairment of social interaction and communication"@en .
+<https://w3id.org/asdkb/ontology/symptom56> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom56"@zh .
+<https://w3id.org/asdkb/ontology/symptom43> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom48"@zh .
+<https://w3id.org/asdkb/ontology/symptom10> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom15> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom15"@zh .
+<https://w3id.org/asdkb/ontology/symptom17> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a tendency to impose rigidity and routine on a wide range of aspects of day-to day functioning"@en .
+<https://w3id.org/asdkb/ontology/symptom46> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom46"@zh .
+<https://w3id.org/asdkb/ontology/symptom18> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对不寻常的、典型的非软性物体有特定的依恋"@zh .
+<https://w3id.org/asdkb/ontology/symptom36> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom36"@zh .
+<https://w3id.org/asdkb/ontology/symptom6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom45> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom48"@zh .
+<https://w3id.org/asdkb/ontology/symptom50> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom50"@zh .
+<https://w3id.org/asdkb/ontology/symptom49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom2> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom2"@zh .
+<https://w3id.org/asdkb/ontology/symptom29> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom28"@zh .
+<https://w3id.org/asdkb/ontology/symptom8> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "缺乏社交语言技能"@zh .
+<https://w3id.org/asdkb/ontology/symptom22> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "人们对物体的非功能元素（如气味或感觉）有着特殊的兴趣 "@zh .
+<https://w3id.org/asdkb/ontology/symptom19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom46> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "缺乏有目的的手部动作"@zh .
+<https://w3id.org/asdkb/ontology/symptom63> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "互惠社会互动中的质量缺陷"@zh .
+<https://w3id.org/asdkb/ontology/symptom4> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom4"@zh .
+<https://w3id.org/asdkb/ontology/symptom7> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "qualitative impairments in communications"@en .
+<https://w3id.org/asdkb/ontology/symptom37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom48> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "运动失调"@zh .
+<https://w3id.org/asdkb/ontology/symptom33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom51> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom51"@zh .
+<https://w3id.org/asdkb/ontology/symptom14> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "impaired use of variations in cadence or emphasis to reflect communicative modulation"@en .
+<https://w3id.org/asdkb/ontology/symptom42> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "The stance and gait tend to become broad-based, the muscles are hypotonic, trunk movements usually become poorly coordinated, and scoliosis or kyphoscoliosis usually develops. "@en .
+<https://w3id.org/asdkb/ontology/symptom18> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "be specific attachment to unusual, typically non-soft objects"@en .
+<https://w3id.org/asdkb/ontology/symptom4> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "社交信号使用不当"@zh .
+<https://w3id.org/asdkb/ontology/symptom51> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a definite loss of previously acquired skills"@en .
+<https://w3id.org/asdkb/ontology/symptom51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom60> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "moderate to severe mental retardation"@en .
+<https://w3id.org/asdkb/ontology/symptom50> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "缺乏适当的咀嚼 "@zh .
+<https://w3id.org/asdkb/ontology/symptom42> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom48"@zh .
+<https://w3id.org/asdkb/ontology/symptom31> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "在大约四分之三的病例中存在明显的精神发育迟滞"@zh .
+<https://w3id.org/asdkb/ontology/symptom59> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom59"@zh .
+<https://w3id.org/asdkb/ontology/symptom42> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "姿势和步态倾向于基础广泛，肌肉张力低，躯干运动通常不协调，脊柱侧凸或后凸通常会发展"@zh .
+<https://w3id.org/asdkb/ontology/symptom5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom60> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "中重度智力迟钝"@zh .
+<https://w3id.org/asdkb/ontology/symptom3> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a lack of modulation of behaviour according to social context"@en .
+<https://w3id.org/asdkb/ontology/symptom45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom29> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom29"@zh .
+<https://w3id.org/asdkb/ontology/symptom8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom11> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "语言表达的灵活性差"@zh .
+<https://w3id.org/asdkb/ontology/symptom28> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom28"@zh .
+<https://w3id.org/asdkb/ontology/symptom23> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a resistance to changes in routine or in details of the personal environment (such as the movement of ornaments or furniture in the family home)."@en .
+<https://w3id.org/asdkb/ontology/symptom58> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "combination of developmentally inappropriate severe overactivity"@en .
+<https://w3id.org/asdkb/ontology/symptom20> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "be stereotyped preoccupations with interests such as dates, routes or timetables"@en .
+<https://w3id.org/asdkb/ontology/symptom14> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom14"@zh .
+<https://w3id.org/asdkb/ontology/symptom10> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom10"@zh .
+<https://w3id.org/asdkb/ontology/symptom25> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/ontology/symptom64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom25> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "fear/phobias"@en .
+<https://w3id.org/asdkb/ontology/symptom64> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "restricted, repetitive, stereotyped patterns of behaviour, interests, and activities"@en .
+<https://w3id.org/asdkb/ontology/symptom45> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "僵硬的痉挛可能变得明显，通常在下肢比上肢更明显。"@zh .
+<https://w3id.org/asdkb/ontology/symptom49> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom49"@zh .
+<https://w3id.org/asdkb/ontology/symptom62> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom40> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "社交活动的丧失"@zh .
+<https://w3id.org/asdkb/ontology/symptom27> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom27"@zh .
+<https://w3id.org/asdkb/ontology/symptom43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom30> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/ontology/symptom61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom6> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "缺乏社会情感沟通"@zh .
+<https://w3id.org/asdkb/ontology/symptom34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom5> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "社交、情感和交际行为的统一性差"@zh .
+<https://w3id.org/asdkb/ontology/symptom6> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom6"@zh .
+<https://w3id.org/asdkb/ontology/symptom39> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "经常过度流口水和舌头突出"@zh .
+<https://w3id.org/asdkb/ontology/symptom35> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom35"@zh .
+<https://w3id.org/asdkb/ontology/symptom39> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "often excessive drooling and protrusion of the tongue"@en .
+<https://w3id.org/asdkb/ontology/symptom32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom22> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a specific interest in nonfunctional elements of objects (such as their smell or feel) is common"@en .
+<https://w3id.org/asdkb/ontology/symptom13> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom37> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom37"@zh .
+<https://w3id.org/asdkb/ontology/symptom0> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "社会活动交往中的质性障碍"@zh .
+<https://w3id.org/asdkb/ontology/symptom1> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对社会情感线索的理解不足"@zh .
+<https://w3id.org/asdkb/ontology/symptom26> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "睡眠和饮食障碍 "@zh .
+<https://w3id.org/asdkb/ontology/symptom37> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "经常出现过度换气"@zh .
+<https://w3id.org/asdkb/ontology/symptom44> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "8岁之前癫痫发作"@zh .
+<https://w3id.org/asdkb/ontology/symptom26> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "sleeping and eating disturbances"@en .
+<https://w3id.org/asdkb/ontology/symptom1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom21> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom53> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a regression in the level of play, social skills, and adaptive behaviour"@en .
+<https://w3id.org/asdkb/ontology/symptom63> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "qualitative deficiencies in reciprocal social interaction"@en .
+<https://w3id.org/asdkb/ontology/symptom39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom19> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "坚持在非功能性的仪式中执行特定的例行程序"@zh .
+<https://w3id.org/asdkb/ontology/symptom3> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom7> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "沟通中的定性障碍"@zh .
+<https://w3id.org/asdkb/ontology/symptom21> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "存在运动刻板印象"@zh .
+<https://w3id.org/asdkb/ontology/symptom1> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom1"@zh .
+<https://w3id.org/asdkb/ontology/symptom56> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a general loss of interest in the environment, by stereotyped, repetitive motor mannerisms"@en .
+<https://w3id.org/asdkb/ontology/symptom8> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom34> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom34"@zh .
+<https://w3id.org/asdkb/ontology/symptom33> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "loss,partial loss or lack of development of language"@en .
+<https://w3id.org/asdkb/ontology/symptom57> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "一种类似自闭症的社交和交流障碍"@zh .
+<https://w3id.org/asdkb/ontology/symptom10> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "poor synchrony and lack of reciprocity in conversational interchange"@en .
+<https://w3id.org/asdkb/ontology/symptom37> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "often episodes of hyperventilation"@en .
+<https://w3id.org/asdkb/ontology/symptom53> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom53"@zh .
+<https://w3id.org/asdkb/ontology/symptom40> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom40"@zh .
+<https://w3id.org/asdkb/ontology/symptom20> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom20"@zh .
+<https://w3id.org/asdkb/ontology/symptom11> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom31> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom31"@zh .
+<https://w3id.org/asdkb/ontology/symptom52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom35> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "stereotypic wetting of the hands with saliva"@en .
+<https://w3id.org/asdkb/ontology/symptom25> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom25"@zh .
+<https://w3id.org/asdkb/ontology/symptom12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom41> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "retain a kind of \"social smile\", looking at or \"through\" people, but not interacting socially with them in early childhood (although social interaction often develops later). "@en .
+<https://w3id.org/asdkb/ontology/symptom62> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "restrictive, stereotyped, repetitive behaviour"@en .
+<https://w3id.org/asdkb/ontology/symptom46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom23> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对日常生活或个人环境细节变化的抵制（如家庭中装饰品或家具的移动）。 "@zh .
+<https://w3id.org/asdkb/ontology/symptom60> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom60"@zh .
+<https://w3id.org/asdkb/ontology/symptom54> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom54"@zh .
+<https://w3id.org/asdkb/ontology/symptom15> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "在口语交际中，缺乏强调或辅助意义的手势"@zh .
+<https://w3id.org/asdkb/ontology/symptom62> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom62"@zh .
+<https://w3id.org/asdkb/ontology/symptom55> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom55"@zh .
+<https://w3id.org/asdkb/ontology/symptom38> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom38"@zh .
+<https://w3id.org/asdkb/ontology/symptom33> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom33"@zh .
+<https://w3id.org/asdkb/ontology/symptom61> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "reciprocal social interactions, communication"@en .
+<https://w3id.org/asdkb/ontology/symptom0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom12> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom32> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "失去有目的的手部动作和获得精细运动操作技能 "@zh .
+<https://w3id.org/asdkb/ontology/symptom25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom28> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/ontology/symptom48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom24> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "其他非特异性问题"@zh .
+<https://w3id.org/asdkb/ontology/symptom29> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "by wrist-biting"@en .
+<https://w3id.org/asdkb/ontology/symptom13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom49> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "刻板的“洗手”动作"@zh .
+<https://w3id.org/asdkb/ontology/symptom5> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a weak integration of social, emotional, and communicative behaviours"@en .
+<https://w3id.org/asdkb/ontology/symptom64> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom64"@zh .
+<https://w3id.org/asdkb/ontology/symptom16> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom2> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a lack of responses to other people's emotions"@en .
+<https://w3id.org/asdkb/ontology/symptom9> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "impairment in make-believe and social imitative play"@en .
+<https://w3id.org/asdkb/ontology/symptom17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom2> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom41> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom41"@zh .
+<https://w3id.org/asdkb/ontology/symptom63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom53> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "游戏水平、社交技能和适应行为的退化"@zh .
+<https://w3id.org/asdkb/ontology/symptom3> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "缺乏根据社交环境调整行为的能力 "@zh .
+<https://w3id.org/asdkb/ontology/symptom6> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom42> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom42"@zh .
+<https://w3id.org/asdkb/ontology/symptom23> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom58> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "发育不当和过度活动的组合 "@zh .
+<https://w3id.org/asdkb/ontology/symptom26> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/ontology/symptom0> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom56> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对环境的普遍兴趣丧失、刻板印象、重复的运动习惯"@zh .
+<https://w3id.org/asdkb/ontology/symptom33> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "语言的丧失、部分丧失或缺乏发展 "@zh .
+<https://w3id.org/asdkb/ontology/symptom57> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom57"@zh .
+<https://w3id.org/asdkb/ontology/symptom45> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom45"@zh .
+<https://w3id.org/asdkb/ontology/symptom11> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "poor flexibility in language expression"@en .
+<https://w3id.org/asdkb/ontology/symptom18> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom47> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "deceleration of head growth"@en .
+<https://w3id.org/asdkb/ontology/symptom31> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/ontology/symptom22> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom21> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "there are motor stereotypies"@en .
+<https://w3id.org/asdkb/ontology/symptom41> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "保持一种“社交微笑”，看着或“透过”人们，但在幼儿时期不与他们进行社交互动（尽管社交互动通常在以后发展）。 "@zh .
+<https://w3id.org/asdkb/ontology/symptom16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom46> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "the lack of purposive hand movements"@en .
+<https://w3id.org/asdkb/ontology/symptom30> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "在闲暇时间时缺乏自发性、主动性和创造性，在工作决策中难以应用概念化 "@zh .
+<https://w3id.org/asdkb/ontology/symptom28> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "Self-injury "@en .
+<https://w3id.org/asdkb/ontology/symptom64> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom5> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom20> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom58> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom58"@zh .
+<https://w3id.org/asdkb/ontology/symptom62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom20> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对日期、路线或时间表等兴趣有刻板印象 "@zh .
+<https://w3id.org/asdkb/ontology/symptom54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom13> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "lack of emotional response to other people's verbal and nonverbal overtures"@en .
+<https://w3id.org/asdkb/ontology/symptom62> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "限制性的、刻板的、重复的行为"@zh .
+<https://w3id.org/asdkb/ontology/symptom35> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "手被唾液弄湿的刻板印象"@zh .
+<https://w3id.org/asdkb/ontology/symptom63> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom63"@zh .
+<https://w3id.org/asdkb/ontology/symptom9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom52> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "regression in, or loss of, language"@en .
+<https://w3id.org/asdkb/ontology/symptom64> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "受限制的、重复的、刻板的行为、兴趣和活动模式 "@zh .
+<https://w3id.org/asdkb/ontology/symptom30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom36> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "lack of proper chewing of food"@en .
+<https://w3id.org/asdkb/ontology/symptom51> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对先前获得的技能的明确丧失 "@zh .
+<https://w3id.org/asdkb/ontology/symptom36> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "食物咀嚼不当"@zh .
+<https://w3id.org/asdkb/ontology/symptom54> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "肠道或膀胱控制能力的丧失"@zh .
+<https://w3id.org/asdkb/ontology/symptom3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom4> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "poor use of social signals"@en .
+<https://w3id.org/asdkb/ontology/symptom47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom14> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom34> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "扭曲的扭动或“洗手”动作，手臂在胸部或下巴前弯曲 "@zh .
+<https://w3id.org/asdkb/ontology/symptom19> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom19"@zh .
+<https://w3id.org/asdkb/ontology/symptom52> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "语言能力的严重退化或丧失"@zh .
+<https://w3id.org/asdkb/ontology/symptom24> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "other nonspecific problems"@en .
+<https://w3id.org/asdkb/ontology/symptom4> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom61> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom43> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "脊柱萎缩，伴有严重运动障碍"@zh .
+<https://w3id.org/asdkb/ontology/symptom23> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom23"@zh .
+<https://w3id.org/asdkb/ontology/symptom3> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom3"@zh .
+<https://w3id.org/asdkb/ontology/symptom22> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom22"@zh .
+<https://w3id.org/asdkb/ontology/symptom47> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom47"@zh .
+<https://w3id.org/asdkb/ontology/symptom12> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "思维过程中相对缺乏创造力和幻想"@zh .
+<https://w3id.org/asdkb/ontology/symptom17> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom31> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "there is significant mental retardation in some three-quarters of cases"@en .
+<https://w3id.org/asdkb/ontology/symptom48> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom48"@zh .
+<https://w3id.org/asdkb/ontology/symptom1> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "an inadequate appreciation of socio-emotional cues"@en .
+<https://w3id.org/asdkb/ontology/symptom30> <https://w3id.org/asdkb/ontology/dataproperties/English_description> " lack spontaneity, initiative, and creativity in the organization of their leisure time and have difficulty applying conceptualizations in decision-making in work"@en .
+<https://w3id.org/asdkb/ontology/symptom44> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "Epileptic fits, usually involving some type of minor attack, and with an onset generally before the age of 8 years, occur in the majority of cases. "@en .
+<https://w3id.org/asdkb/ontology/symptom47> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "头部生长减速 "@zh .
+<https://w3id.org/asdkb/ontology/symptom53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom32> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom32"@zh .
+<https://w3id.org/asdkb/ontology/symptom27> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/ontology/symptom18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom1> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/symptom15> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a similar lack of accompanying gesture to provide emphasis or aid meaning in spoken communication"@en .
+<https://w3id.org/asdkb/ontology/symptom26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom12> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a relative lack of creativity and fantasy in thought processes"@en .
+<https://w3id.org/asdkb/ontology/symptom27> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "脾气暴躁和攻击性"@zh .
+<https://w3id.org/asdkb/ontology/symptom2> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对他人情绪缺乏反应"@zh .
+<https://w3id.org/asdkb/ontology/symptom18> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom18"@zh .
+<https://w3id.org/asdkb/ontology/symptom32> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a loss of purposive hand movements and acquired fine motor manipulative skills"@en .
+<https://w3id.org/asdkb/ontology/symptom12> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom12"@zh .
+<https://w3id.org/asdkb/ontology/symptom19> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "insist on the performance of particular routines in rituals of a nonfunctional character"@en .
+<https://w3id.org/asdkb/ontology/symptom43> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom43"@zh .
+<https://w3id.org/asdkb/ontology/symptom26> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom26"@zh .
+<https://w3id.org/asdkb/ontology/symptom61> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom61"@zh .
+<https://w3id.org/asdkb/ontology/symptom45> <https://w3id.org/asdkb/ontology/dataproperties/English_description> " rigid spasticity may become manifest, and is usually more pronounced in the lower than in the upper limbs."@en .
+<https://w3id.org/asdkb/ontology/symptom7> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom25> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "恐惧"@zh .
+<https://w3id.org/asdkb/ontology/symptom21> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom21"@zh .
+<https://w3id.org/asdkb/ontology/symptom15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom27> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "temper tantrums, and aggression"@en .
+<https://w3id.org/asdkb/ontology/symptom11> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom11"@zh .
+<https://w3id.org/asdkb/ontology/symptom50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/symptom9> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/symptom16> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "限制、重复和刻板的行为、兴趣和活动模式"@zh .
+<https://w3id.org/asdkb/ontology/symptom43> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "Spinal atrophies, with severe motor disability"@en .
+<https://w3id.org/asdkb/ontology/symptom59> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "motor stereotypies"@en .
+<https://w3id.org/asdkb/ontology/symptom16> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "restricted, repetitive, and stereotyped patterns of behaviour, interests, and activities"@en .
+<https://w3id.org/asdkb/ontology/symptom9> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "假装和社交模仿游戏中的障碍 "@zh .
+<https://w3id.org/asdkb/ontology/symptom10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/symptom17> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom17"@zh .
+<https://w3id.org/asdkb/ontology/symptom50> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "lack of proper chewing"@en .
+<https://w3id.org/asdkb/ontology/symptom19> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/symptom59> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "运动刻板印象"@zh .
+<https://w3id.org/asdkb/ontology/symptom28> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "自我损伤"@zh .
+<https://w3id.org/asdkb/ontology/symptom5> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom5"@zh .
+<https://w3id.org/asdkb/ontology/symptom28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom38> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "almost always a failure to gain bowel and bladder control"@en .
+<https://w3id.org/asdkb/ontology/symptom55> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a deteriorating motor control"@en .
+<https://w3id.org/asdkb/ontology/symptom24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/symptom44> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom44"@zh .
+<https://w3id.org/asdkb/ontology/symptom48> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "ataxia"@en .
+<https://w3id.org/asdkb/ontology/symptom24> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom24"@zh .
+

@@ -1,0 +1,502 @@
+<https://w3id.org/asdkb/ontology/disease27> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease1> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "环境和先天"@zh .
+<https://w3id.org/asdkb/ontology/disease24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/39951000119105> .
+<https://w3id.org/asdkb/ontology/disease31> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease0> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease25> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease26> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴认知发育迟缓和功能性语言完全受损"@en .
+<https://w3id.org/asdkb/ontology/disease2> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/191689008> .
+<https://w3id.org/asdkb/ontology/disease41> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease32> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease19> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "23560001"@zh .
+<https://w3id.org/asdkb/ontology/disease38> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303005"@zh .
+<https://w3id.org/asdkb/ontology/disease6> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/disease34> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease38> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease0> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease51> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "失语症（发现）；失语症；失语症；丧失表达或理解能力"@zh .
+<https://w3id.org/asdkb/ontology/disease48> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "733623005"@zh .
+<https://w3id.org/asdkb/ontology/disease18> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Residual disintegrative psychoses (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease51> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "失语是脑血管病的一个常见症状，主要表现是对语言的理解和表达能力丧失，是由于大脑皮层(优势半球)的语言中枢损伤所引起的。1.语言运动中枢：位于主侧半球的额下回后部。这个中枢支配着人的说话，如果这个中枢损伤，会使患者丧失说话能力，不会说话。但能理解别人说话的意思，常用手势或点头来回答问题。根据病变的范围，可表现为完全性不能说话，称完全性失语。或只能讲单字、单词，说话不流利，称为不完全性失语。这种情况叫做运动性失语。　　2.语言感觉中枢：位于主侧半球颞上回后部。此中枢可以使人能够领悟别人说话的意思。如果这个中枢受损，则引起患者听不懂别人说话的内容，不理解问话。但这种人语言运动中枢完好，仍会说话，而且有时说起话来快而流利，但所答非所问，这种情况叫感觉性失语。"@zh .
+<https://w3id.org/asdkb/ontology/disease32> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease48> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease18> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease14> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "基因"@zh .
+<https://w3id.org/asdkb/ontology/disease11> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "活跃但奇怪的孤独症;活跃但奇怪的孤独症(障碍);"@zh .
+<https://w3id.org/asdkb/ontology/disease25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870307006> .
+<https://w3id.org/asdkb/ontology/disease21> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Atypical Rett syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease32> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease48> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease40> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease0> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "771448004"@zh .
+<https://w3id.org/asdkb/ontology/disease17> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease28> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease25> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴功能性语言缺失(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease35> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "普遍性发育障碍伴智力发育障碍和普遍性功能性语言障碍，但不丧失先前获得的技能（障碍）；普遍性发育障碍伴智力发育障碍和普遍性功能性语言障碍，但不丧失先前获得的技能；自闭症谱系障碍伴障碍 智力发展和功能性语言的缺失，而不丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease12> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "231536004"@zh .
+<https://w3id.org/asdkb/ontology/disease33> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴智力发育障碍和功能性语言显着障碍并丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease7> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "活跃的孤独症"@zh .
+<https://w3id.org/asdkb/ontology/disease35> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "普遍性发育障碍伴智力发育障碍和功能性语言普遍性障碍但未丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/702450004> .
+<https://w3id.org/asdkb/ontology/disease29> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303005"@zh .
+<https://w3id.org/asdkb/ontology/disease9> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/disease32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303011> .
+<https://w3id.org/asdkb/ontology/disease38> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "伴有功能性语言障碍的广泛性发育障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease35> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease45> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "702450004"@zh .
+<https://w3id.org/asdkb/ontology/disease28> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍(障碍)伴功能性语言完全受损"@en .
+<https://w3id.org/asdkb/ontology/disease35> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303004"@zh .
+<https://w3id.org/asdkb/ontology/disease4> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease2> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease26> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease0> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "支链酮酸脱氢酶激酶缺乏症所致孤独症癫痫综合征"@en .
+<https://w3id.org/asdkb/ontology/disease29> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "这组障碍的特点是互惠社会互动和交流模式的质量异常，以及兴趣和活动的局限性、刻板印象和重复性。这些质量异常是个人在所有情况下功能的普遍特征，尽管程度可能不同。在大多数情况下，从婴儿期开始发育异常，只有少数例外情况下，这种情况在生命的前5年变得明显。通常，但并非一成不变的是，存在一定程度的一般认知障碍，但这些障碍是根据与心理年龄相关的异常行为来定义的（无论个体是否智障）。对这一普遍性发育障碍的总体分类存在一些分歧。"@zh .
+<https://w3id.org/asdkb/ontology/disease19> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "阿斯伯格症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease11> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.1"@zh .
+<https://w3id.org/asdkb/ontology/disease40> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303007"@zh .
+<https://w3id.org/asdkb/ontology/disease33> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease20> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Residual Asperger's disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease4> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease51> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "其他疾病导致和先天"@zh .
+<https://w3id.org/asdkb/ontology/disease44> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease24> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease29> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease18> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303008> .
+<https://w3id.org/asdkb/ontology/disease12> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "非典型孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease24> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease1> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Developmental mental disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease31> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴智力发育障碍和功能性语言缺失并丧失先前获得的技能（障碍）；广泛性发育障碍伴智力发育障碍和功能性语言缺失伴先前获得的技能丧失；自闭症谱系障碍伴智力障碍 功能性语言的发展和缺乏以及先前获得的技能的丧失"@zh .
+<https://w3id.org/asdkb/ontology/disease2> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autistic disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.9"@zh .
+<https://w3id.org/asdkb/ontology/disease26> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease17> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease23> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/191690004> .
+<https://w3id.org/asdkb/ontology/disease26> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease48> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q87.8"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症谱系障碍;广泛性发展障碍;广泛性发展障碍;"@zh .
+<https://w3id.org/asdkb/ontology/disease22> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/712884004> .
+<https://w3id.org/asdkb/ontology/disease23> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/733623005> .
+<https://w3id.org/asdkb/ontology/disease1> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "智力障碍（障碍）；智力障碍；智力发育障碍；智力低下"@zh .
+<https://w3id.org/asdkb/ontology/disease27> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease37> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴智力发育障碍但未丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease39> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303008"@zh .
+<https://w3id.org/asdkb/ontology/disease8> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "残余幼儿孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303004> .
+<https://w3id.org/asdkb/ontology/disease21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/718393002> .
+<https://w3id.org/asdkb/ontology/disease21> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303005> .
+<https://w3id.org/asdkb/ontology/disease19> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease39> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴功能性语言显着障碍并丧失先前获得的技能（障碍）；广泛性发育障碍伴功能性语言显着障碍伴先前获得的技能丧失；自闭症谱系障碍伴功能性语言显着障碍伴先前获得的技能丧失"@zh .
+<https://w3id.org/asdkb/ontology/disease45> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease2> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症;孤独症;孤独症;Kanner综合症;"@zh .
+<https://w3id.org/asdkb/ontology/disease15> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Childhood disintegrative disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease24> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "PDD的症状可能包括行为和沟通问题，如:难以使用和理解语言。与人、物体和事件相关的困难;例如，缺乏眼神交流，指指点点的行为，以及缺乏面部反应。不寻常地玩玩具和其他东西。"@zh .
+<https://w3id.org/asdkb/ontology/disease0> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "E71.1"@zh .
+<https://w3id.org/asdkb/ontology/disease8> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "191690004"@zh .
+<https://w3id.org/asdkb/ontology/disease42> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发展障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease26> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴认知发育迟缓和功能性语言完全障碍；广泛性发育障碍伴认知发育迟缓和功能性语言完全障碍；自闭症谱系障碍伴智力发育障碍和功能性语言完全障碍"@zh .
+<https://w3id.org/asdkb/ontology/disease19> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease31> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴智力发育障碍和功能性语言缺失伴原有的技能丧失(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease5> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "702732007"@zh .
+<https://w3id.org/asdkb/ontology/disease50> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "等着心15号染色体综合征(紊乱)"@en .
+<https://w3id.org/asdkb/ontology/disease39> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease45> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease16> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Active disintegrative psychoses (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease3> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症和面部葡萄酒色综合症"@zh .
+<https://w3id.org/asdkb/ontology/disease6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/408857007> .
+<https://w3id.org/asdkb/ontology/disease11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/442314000> .
+<https://w3id.org/asdkb/ontology/disease42> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease50> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Isodicentric chromosome 15 syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease50> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种具有独特临床表现的染色体疾病，特征为早期中枢性张力减退、发育迟缓和智力缺陷、癫痫和自闭症行为。面部畸形不存在或很轻微，严重的畸形很少见。这种综合征通常是偶发的，不是遗传的，是由每个细胞中含有镜像基因片段的异常额外染色体引起的。等着心点染色体是由15号染色体上一段遗传物质的两个额外拷贝组成的，这是端对端连接的。通常，这种被复制的遗传物质包括染色体上一个叫做15q11-q13的区域。"@zh .
+<https://w3id.org/asdkb/ontology/disease9> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "191690004"@zh .
+<https://w3id.org/asdkb/ontology/disease30> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease34> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴智力发育障碍和明显功能性语言障碍，但不丧失先前获得的技能（障碍）；广泛性发育障碍伴智力发育障碍和明显功能性语言障碍，但不丧失先前获得的技能；自闭症谱系障碍伴障碍 智力发育和功能性语言受损，但不丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease31> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/35919005> .
+<https://w3id.org/asdkb/ontology/disease5> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "高功能孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease32> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴智力发育障碍和功能性语言完全障碍，但不丧失先前获得的技能（障碍）；广泛性发育障碍伴智力发育障碍和功能性语言完全障碍，但不丧失先前获得的技能；自闭症谱系障碍伴障碍 智力发育和功能性语言的完全损害，而不丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease46> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "活动依赖神经保护器同源框与多种先天性异常、智力残疾、孤独症谱系障碍相关"@en .
+<https://w3id.org/asdkb/ontology/disease40> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease7> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/disease26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870308001> .
+<https://w3id.org/asdkb/ontology/disease36> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴智力发育障碍伴原有的技能丧失(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303005> .
+<https://w3id.org/asdkb/ontology/disease46> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q87.0"@zh .
+<https://w3id.org/asdkb/ontology/disease30> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease49> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "719600006"@zh .
+<https://w3id.org/asdkb/ontology/disease31> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease51> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "失语"@en .
+<https://w3id.org/asdkb/ontology/disease38> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease49> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease17> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Residual disintegrative psychoses (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease46> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/702732007> .
+<https://w3id.org/asdkb/ontology/disease38> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/373618009> .
+<https://w3id.org/asdkb/ontology/disease41> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴功能性语言严重受损并丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease14> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.2"@zh .
+<https://w3id.org/asdkb/ontology/disease33> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease49> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease4> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autistic disorder of childhood onset (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease45> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "FOXG1综合症"@zh .
+<https://w3id.org/asdkb/ontology/disease13> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.1"@zh .
+<https://w3id.org/asdkb/ontology/disease40> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease46> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease4> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "儿童期发病的孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease28> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease34> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease23> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "病态需求回避(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease40> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease15> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "儿童崩解障碍是指儿童在3岁或4岁之前发育正常的一种疾病。然后，几个月后，他们失去了语言、运动、社交和其他他们已经学会的技能。"@zh .
+<https://w3id.org/asdkb/ontology/disease16> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "活动性分裂性精神病(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease28> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease23> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "病理需求回避是一种与自闭症谱系障碍(ASD)相关的疾病。这是一种罕见的ASD行为表现型，其特征是压倒性的或强迫性的抵抗或避免要求，这往往会导致感官上的压倒，导致精神崩溃和暴力爆发。"@zh .
+<https://w3id.org/asdkb/ontology/disease6> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease25> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "缺乏功能性语言的普遍性发育障碍； 广泛性发育障碍伴功能性语言缺失；自闭症谱系障碍伴功能性语言缺失"@zh .
+<https://w3id.org/asdkb/ontology/disease41> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴有严重功能性语言障碍并丧失先前获得的技能（障碍）；广泛性发育障碍伴有严重功能性语言障碍并丧失先前获得的技能；自闭症谱系障碍伴有严重功能性语言障碍并丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303009> .
+<https://w3id.org/asdkb/ontology/disease41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303009> .
+<https://w3id.org/asdkb/ontology/disease50> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q99.8"@zh .
+<https://w3id.org/asdkb/ontology/disease49> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "1p21.3微缺失综合征(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease38> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease11> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "活跃但奇怪的孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease11> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "活跃但古怪的社交方式与孤独症、注意力缺陷和多动症的症状呈正相关。此外，活跃但古怪的社会互动方式与儿童的心理-社会健康呈负相关，与执行功能问题呈正相关。"@zh .
+<https://w3id.org/asdkb/ontology/disease2> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease0> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "支链酮酸脱氢酶激酶缺乏症所致孤独症癫痫综合征"@zh .
+<https://w3id.org/asdkb/ontology/disease44> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease34> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303006"@zh .
+<https://w3id.org/asdkb/ontology/disease15> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "儿童崩解性障碍;儿童崩解性障碍;婴幼儿痴呆;崩解性精神病;海勒综合征"@zh .
+<https://w3id.org/asdkb/ontology/disease44> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "Savant 综合征（障碍）；Savant 综合征"@zh .
+<https://w3id.org/asdkb/ontology/disease37> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease41> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease7> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "活动性婴儿孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease6> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "婴儿孤独症是一种发育障碍，其特征是在30个月之前出现社会和语言发育障碍。它必须与几种疾病区分开来，包括智力迟钝和精神分裂症。大多数证据支持该综合征的器官基础。"@zh .
+<https://w3id.org/asdkb/ontology/disease21> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease19> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.5"@zh .
+<https://w3id.org/asdkb/ontology/disease3> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "以面部单侧血管瘤和自闭症发展问题为特征的综合征，具有语言延迟和非典型社会互动的特点。到目前为止，已有四名儿童出现这种综合征。"@zh .
+<https://w3id.org/asdkb/ontology/disease1> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "患脑疾病的婴儿"@zh .
+<https://w3id.org/asdkb/ontology/disease28> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease32> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303011"@zh .
+<https://w3id.org/asdkb/ontology/disease41> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease46> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "adnp相关的多重先天性异常、智力障碍、孤独症谱系障碍、Helsmoortel-van der Aa综合征;"@zh .
+<https://w3id.org/asdkb/ontology/disease22> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "最近的一项研究2表明，超过70%的孤独症儿童和成人在记忆（52%的样本）、视觉空间能力（32%）、计算、绘画或音乐（每个领域约17%）方面具有特殊的孤立技能。"@zh .
+<https://w3id.org/asdkb/ontology/disease40> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴功能性语言显着障碍但未丧失先前获得的技能（障碍）；广泛性发育障碍伴功能性语言显着障碍但未丧失先前获得的技能；自闭症谱系障碍伴功能性语言显着障碍但未丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease46> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "766824003"@zh .
+<https://w3id.org/asdkb/ontology/disease42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303001> .
+<https://w3id.org/asdkb/ontology/disease1> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "110359009"@zh .
+<https://w3id.org/asdkb/ontology/disease46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/766824003> .
+<https://w3id.org/asdkb/ontology/disease27> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease19> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Asperger's disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease34> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴智力发育障碍和功能性语言障碍但未丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease46> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种极其罕见的染色体异常，具有严重的言语和语言延迟、智力缺陷、自闭症谱系障碍等特征。迄今报告的病例不到10例。该综合征是由1号染色体短臂上的半合子间质微缺失引起的，主要是从头发生的，涉及DPYD（二氢嘧啶脱氢酶）和与miRNA途径相关的MIR137基因。"@zh .
+<https://w3id.org/asdkb/ontology/disease28> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870306002"@zh .
+<https://w3id.org/asdkb/ontology/disease5> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "“高功能孤独症”不是一个正式的医学术语或诊断。这是一些人在谈论患有孤独症谱系障碍的人时使用的非正式用语，他们可以说、读、写，并处理基本的生活技能，比如吃饭和穿衣。他们可以独立生活。"@zh .
+<https://w3id.org/asdkb/ontology/disease27> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease0> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种罕见的支链氨基酸代谢紊乱，以儿童期癫痫、孤独症和智力残疾为特征，血浆支链氨基酸水平降低。由染色体16p11上BCKDK基因的纯合突变引起。"@zh .
+<https://w3id.org/asdkb/ontology/disease29> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍(障碍)伴功能性语言完全受损并失去原有的语言能力"@en .
+<https://w3id.org/asdkb/ontology/disease20> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "708037001"@zh .
+<https://w3id.org/asdkb/ontology/disease49> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "1p21.3微缺失综合征的特征是严重的言语和语言延迟，介于轻度到中度的智力缺陷，孤独症谱系障碍（见本术语）特征，以及轻微的面部畸形特征，如长耳朵、深陷的眼睛、宽鼻尖和厚下唇。"@zh .
+<https://w3id.org/asdkb/ontology/disease42> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303001"@zh .
+<https://w3id.org/asdkb/ontology/disease32> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/110359009> .
+<https://w3id.org/asdkb/ontology/disease35> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease5> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "高功能孤独症"@zh .
+<https://w3id.org/asdkb/ontology/disease6> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症"@zh .
+<https://w3id.org/asdkb/ontology/disease8> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Residual infantile autism (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/719600006> .
+<https://w3id.org/asdkb/ontology/disease35> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/231536004> .
+<https://w3id.org/asdkb/ontology/disease1> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "精神发育迟滞"@en .
+<https://w3id.org/asdkb/ontology/disease36> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease8> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/723332005> .
+<https://w3id.org/asdkb/ontology/disease10> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "770790004"@zh .
+<https://w3id.org/asdkb/ontology/disease21> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "非典型Rett综合征(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease20> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "残余阿斯伯格症;残余阿斯伯格症;轻度阿斯伯格症见于成人;"@zh .
+<https://w3id.org/asdkb/ontology/disease19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/23560001> .
+<https://w3id.org/asdkb/ontology/disease10> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "发育迟缓伴孤独症谱系障碍和步态不稳;"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "35919005"@zh .
+<https://w3id.org/asdkb/ontology/disease8> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease17> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "剩余使分裂的精神病"@zh .
+<https://w3id.org/asdkb/ontology/disease5> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/disease24> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "39951000119105"@zh .
+<https://w3id.org/asdkb/ontology/disease22> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症谱系障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease29> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease9> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease47> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "大头畸形、智力障碍、孤独症综合症;"@zh .
+<https://w3id.org/asdkb/ontology/disease51> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "R47.0"@zh .
+<https://w3id.org/asdkb/ontology/disease13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/771512003> .
+<https://w3id.org/asdkb/ontology/disease2> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/disease47> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种罕见的遗传性神经疾病，与头颅畸形、面部畸形和精神运动迟缓相关，导致智力残疾和孤独症谱系障碍。面部畸形可能包括额叶隆起、长隆凸、面部中部发育不全、鼻梁凹陷、短鼻和中长。"@zh .
+<https://w3id.org/asdkb/ontology/disease14> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "蕾特氏症（瑞特氏症候群、Rett Syndrome、RTT），是一种X染色体性联显性遗传疾病，突变点位于MeCP2基因上，属于罕见神经疾病，发病率约为1/12,000～1/15,000，而且临床表征缺乏特殊性，因此诊断上十分困难。蕾特氏症是由Dr.Andreas Rett所发现，并发表于1966年，后人将此病以Rett命名。此病尚未有治疗方法，现阶段主要是针对出现的疾病进行复健治疗。多发于女性婴孩或幼童 ，病童会有神经急速退化、发展迟缓的现象，而男性患者几乎无法存活。患者于出生至6～18个月内，生长发育与常人一样。刚开始发病时，初始症状有翻白眼、婴儿失去吸吮反射、不规则转头、运动发展障碍等现象发生，有些初始症状与普瑞德威利症候群出现重叠，加上文献资料极为稀少，故难以判明症状。之后，开始出现神经失调：运动能力渐渐消失、失去语言能力、正确的反射能力、便秘，也可以经脑部扫描发现脑皮质萎缩的情形，在生活中也经常发生痉挛、癫痫等神经阈值低下的症状。"@zh .
+<https://w3id.org/asdkb/ontology/disease27> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴认知发育迟缓和功能性语言显着障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease13> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease9> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease13> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "AUTS2综合症"@zh .
+<https://w3id.org/asdkb/ontology/disease38> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴功能性语言障碍（障碍）；广泛性发育障碍伴功能性语言障碍；自闭症谱系障碍伴功能性语言障碍"@zh .
+<https://w3id.org/asdkb/ontology/disease45> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "FOXG1 syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease10> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease36> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303003"@zh .
+<https://w3id.org/asdkb/ontology/disease3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/722287002> .
+<https://w3id.org/asdkb/ontology/disease39> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870306002> .
+<https://w3id.org/asdkb/ontology/disease13> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease10> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303003> .
+<https://w3id.org/asdkb/ontology/disease37> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease6> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease32> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴智力发育障碍伴未丧失原有的技能的功能性语言完全受损"@en .
+<https://w3id.org/asdkb/ontology/disease19> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "阿斯伯格症;阿斯伯格症;阿斯伯格症;阿斯伯格综合症;阿斯伯格症;儿童精神分裂症;"@zh .
+<https://w3id.org/asdkb/ontology/disease9> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "残余幼儿孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease8> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "剩余孤独症"@zh .
+<https://w3id.org/asdkb/ontology/disease47> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "大头畸形，智力障碍，孤独症综合症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease49> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q93.5"@zh .
+<https://w3id.org/asdkb/ontology/disease49> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "1p21.3微缺失综合征"@zh .
+<https://w3id.org/asdkb/ontology/disease6> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease29> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴功能性语言完全障碍并丧失先前获得的技能（障碍）；广泛性发育障碍伴功能性语言完全障碍并丧失先前获得的技能；自闭症谱系障碍伴功能性语言完全障碍并丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pervasive developmental disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease39> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease26> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870308001"@zh .
+<https://w3id.org/asdkb/ontology/disease51> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "脑血管疾病患者"@zh .
+<https://w3id.org/asdkb/ontology/disease1> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F79.9"@zh .
+<https://w3id.org/asdkb/ontology/disease10> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种罕见的遗传性神经系统疾病，其特征为婴儿张力过低和喂养困难、全身发育迟缓、轻度至中度智力残疾、独立行走迟缓、手臂伸直并在肘部弯曲、走路或跑步轻快以及语言能力有限。行为模式是高度可变的，范围从社交和亲昵到孤独症。由染色体15q13上HERC2基因的纯合突变引起。"@zh .
+<https://w3id.org/asdkb/ontology/disease4> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "43614003"@zh .
+<https://w3id.org/asdkb/ontology/disease23> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/708037001> .
+<https://w3id.org/asdkb/ontology/disease3> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/disease39> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴功能性语言受损并丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease22> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症谱系障碍与孤立技能"@zh .
+<https://w3id.org/asdkb/ontology/disease44> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F88"@zh .
+<https://w3id.org/asdkb/ontology/disease39> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/191693002> .
+<https://w3id.org/asdkb/ontology/disease40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303007> .
+<https://w3id.org/asdkb/ontology/disease23> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "712884004"@zh .
+<https://w3id.org/asdkb/ontology/disease47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/783089006> .
+<https://w3id.org/asdkb/ontology/disease51> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "87486003"@zh .
+<https://w3id.org/asdkb/ontology/disease3> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症和面部port-wine染色综合征(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease9> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Residual infantile autism (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease18> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "剩余使分裂的精神病"@zh .
+<https://w3id.org/asdkb/ontology/disease14> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "68618008"@zh .
+<https://w3id.org/asdkb/ontology/disease50> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "723332005"@zh .
+<https://w3id.org/asdkb/ontology/disease36> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴智力发育障碍并丧失先前获得的技能（障碍）；广泛性发育障碍伴智力发育障碍伴先前获得技能丧失；自闭症谱系障碍伴智力发育障碍且功能性语言轻度或无损伤 失去以前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/43614003> .
+<https://w3id.org/asdkb/ontology/disease31> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303009"@zh .
+<https://w3id.org/asdkb/ontology/disease37> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴智力发育障碍但未丧失先前获得的技能（障碍）；广泛性发育障碍伴智力发育障碍但未丧失先前获得的技能；自闭症谱系障碍伴智力发育障碍且功能性语言轻度或无损伤 不损失以前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease49> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "1p21.3 microdeletion syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease25> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease45> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "FOXG1综合征的特征是发育受损和大脑结构异常。受影响的婴儿出生时个头很小，他们的头比正常情况下长得更慢，导致在幼儿时期头部异常小(小头症)。"@zh .
+<https://w3id.org/asdkb/ontology/disease16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/191692007> .
+<https://w3id.org/asdkb/ontology/disease30> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease27> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "伴有认知发育迟缓和明显功能性语言障碍的广泛性发育障碍（障碍）；伴有认知发育迟缓和明显功能性语言障碍的广泛性发育障碍；伴有智力发育障碍和功能性语言障碍的自闭症谱系障碍"@zh .
+<https://w3id.org/asdkb/ontology/disease14> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "女性儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/432091002> .
+<https://w3id.org/asdkb/ontology/disease42> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870308001> .
+<https://w3id.org/asdkb/ontology/disease33> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease24> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease7> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Active infantile autism (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease36> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease3> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "722287002"@zh .
+<https://w3id.org/asdkb/ontology/disease25> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease47> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease22> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autistic spectrum disorder with isolated skills (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/771448004> .
+<https://w3id.org/asdkb/ontology/disease33> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease34> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease16> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.3"@zh .
+<https://w3id.org/asdkb/ontology/disease25> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/770790004> .
+<https://w3id.org/asdkb/ontology/disease3> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease33> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴智力发育障碍和功能性语言显着障碍并丧失先前获得的技能（障碍）；广泛性发育障碍伴智力发育障碍和功能性语言显着障碍伴先前获得的技能丧失；自闭症谱系障碍伴障碍 智力发育障碍和功能性语言受损，失去先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease42> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴有严重的功能性语言障碍但未丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease29> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease48> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症谱系障碍、癫痫、关节挛缩综合征(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease48> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism spectrum disorder, epilepsy, arthrogryposis syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease22> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "373618009"@zh .
+<https://w3id.org/asdkb/ontology/disease34> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease24> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育剩余状态障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease45> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q07.8"@zh .
+<https://w3id.org/asdkb/ontology/disease16> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "积极使分裂的精神病"@zh .
+<https://w3id.org/asdkb/ontology/disease3> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303006> .
+<https://w3id.org/asdkb/ontology/disease4> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "儿童发病的孤独症;儿童发病的孤独症;儿童孤独症"@zh .
+<https://w3id.org/asdkb/ontology/disease11> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Active but odd autism (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/71961003> .
+<https://w3id.org/asdkb/ontology/disease48> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症谱系障碍，癫痫，关节挛缩综合征"@zh .
+<https://w3id.org/asdkb/ontology/disease25> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870307006"@zh .
+<https://w3id.org/asdkb/ontology/disease18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/191693002> .
+<https://w3id.org/asdkb/ontology/disease24> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "残余状态的广泛性发展障碍"@zh .
+<https://w3id.org/asdkb/ontology/disease47> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q87.0"@zh .
+<https://w3id.org/asdkb/ontology/disease10> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "发育迟缓伴孤独症谱系障碍和步态不稳(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease26> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/68618008> .
+<https://w3id.org/asdkb/ontology/disease13> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "771512003"@zh .
+<https://w3id.org/asdkb/ontology/disease12> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Atypical autism (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/191690004> .
+<https://w3id.org/asdkb/ontology/disease6> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "408857007"@zh .
+<https://w3id.org/asdkb/ontology/disease21> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种神经发育障碍，当儿童出现Rett样综合征，但不符合典型Rett综合征的所有诊断标准时诊断。已经定义了几个亚变异体；早发性癫痫类型（Hanefeld）、先天性变异（Rolando）、forme-fruste型、儿童晚期退化型和保留的言语变异（PSD或Zappella变异）。诊断依赖于临床评估，使用1994年Hagberg最初定义的非典型Rett诊断标准：非典型病例必须满足六个主要标准中的至少三个，以及十一个支持标准中的至少五个。"@zh .
+<https://w3id.org/asdkb/ontology/disease50> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "等着心15染色体综合征;重复/倒位15q11;倒位重复15染色体"@zh .
+<https://w3id.org/asdkb/ontology/disease47> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease18> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "残余分裂性精神病(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease21> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "718393002"@zh .
+<https://w3id.org/asdkb/ontology/disease20> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease24> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pervasive developmental disorder of residual state (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease4> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/disease10> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Developmental delay with autism spectrum disorder and gait instability (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease11> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "442314000"@zh .
+<https://w3id.org/asdkb/ontology/disease51> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Aphasia, agnosia, dyslexia AND/OR apraxia (finding)"@zh .
+<https://w3id.org/asdkb/ontology/disease0> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease33> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303002"@zh .
+<https://w3id.org/asdkb/ontology/disease17> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "残余分裂性精神病(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease41> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303009"@zh .
+<https://w3id.org/asdkb/ontology/disease18> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "191693002"@zh .
+<https://w3id.org/asdkb/ontology/disease13> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "AUTS2转录激活因子和发育调节因子缺失引起的孤独症谱系障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease7> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease48> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种N-连锁糖基化的先天性疾病，具有远端关节错位（手指轻度屈曲挛缩、远端指骨偏斜、天鹅颈畸形）、后小颌畸形、全身肌肉张力降低、精神运动发育迟缓、，自闭症谱系障碍（言语延迟、言语使用异常、启动、理解和维持社会互动困难、非语言交流有限）、癫痫发作、小头症和随年龄增长而变得明显的轻中度智力残疾。这种疾病是由SLC35A3（1p21）基因突变引起的。"@zh .
+<https://w3id.org/asdkb/ontology/disease37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303000> .
+<https://w3id.org/asdkb/ontology/disease31> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease41> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease12> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.1"@zh .
+<https://w3id.org/asdkb/ontology/disease21> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "非典型Rett综合症"@zh .
+<https://w3id.org/asdkb/ontology/disease16> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease7> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease12> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "1994年至2013年间，非典型孤独症或未另行说明的普遍性发育障碍（PDD-NOS）是一种诊断方法。1﻿﻿ 它首次出现在《精神障碍诊断和统计手册》第四版（DSM-IV）中，涵盖了许多有一些但不是全部孤独症症状的儿童。"@zh .
+<https://w3id.org/asdkb/ontology/disease44> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "患有自闭症的群体"@zh .
+<https://w3id.org/asdkb/ontology/disease17> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "191693002"@zh .
+<https://w3id.org/asdkb/ontology/disease13> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种罕见的遗传综合征性智力残疾，其特征是全球发育迟缓，接近严重智力残疾，自闭症谱系障碍伴强迫行为，多动症，但通常性格友好和蔼可亲，进食困难，身材矮小，肌肉张力降低，小头畸形，特征性畸形特征（过度伸长、高拱形眉毛、上睑下垂、深和/或宽鼻梁、宽/突出鼻尖、短和/或中上翘、窄嘴和小颌畸形）和骨骼异常（后凸和/或脊柱侧凸、关节斜视、细长惯习和四肢）。其他临床特征可能包括疝气、先天性心脏缺陷、隐睾和癫痫。由染色体7q11上KIAA0442基因（AUTS2）的杂合基因内拷贝数变异引起。"@zh .
+<https://w3id.org/asdkb/ontology/disease15> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.3"@zh .
+<https://w3id.org/asdkb/ontology/disease14> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "雷特征候群"@en .
+<https://w3id.org/asdkb/ontology/disease15> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "71961003"@zh .
+<https://w3id.org/asdkb/ontology/disease16> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease21> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease5> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "High-functioning autism (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease50> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease30> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease10> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0;R26.8;F89"@zh .
+<https://w3id.org/asdkb/ontology/disease22> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease18> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.3"@zh .
+<https://w3id.org/asdkb/ontology/disease23> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "病理需求回避;PDA"@zh .
+<https://w3id.org/asdkb/ontology/disease30> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303004"@zh .
+<https://w3id.org/asdkb/ontology/disease9> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "剩余孤独症"@zh .
+<https://w3id.org/asdkb/ontology/disease50> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease13> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism spectrum disorder due to AUTS2 activator of transcription and developmental regulator deficiency (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease40> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴的功能性语言受损但未丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease14> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease30> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍，功能性语言完全受损，但不丧失先前获得的技能（障碍）；广泛性发育障碍，功能性语言完全受损，但不丧失先前获得的技能；自闭症谱系障碍，功能性语言完全受损，但不丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease22> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease45> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "FOXG1综合征(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease6> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Infantile autism (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease20> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease11> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease15> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "儿童解体性障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/disease17> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.3"@zh .
+<https://w3id.org/asdkb/ontology/disease33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303002> .
+<https://w3id.org/asdkb/ontology/disease44> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "学者症候群（英语：Savant syndrome）是指仅在某个很有限的领域有超出常人的表现，然而却广泛地在其他方面有明显的心智障碍。这样的突出表现有多种不同形式，包括演奏乐器、绘画、记忆、心算、日历运算能力等。学者症候群常见于自闭症、亚斯伯格症候群或脑伤患者身上。[1][2]学者症候群并没有被正式纳入DSM-5的诊断，因为其心智障碍的部分多半可以归类于其他疾病。"@zh .
+<https://w3id.org/asdkb/ontology/disease44> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "学者症候群"@en .
+<https://w3id.org/asdkb/ontology/disease35> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/disease16> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "191692007"@zh .
+<https://w3id.org/asdkb/ontology/disease11> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease27> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870308001"@zh .
+<https://w3id.org/asdkb/ontology/disease12> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "非典型孤独症;非典型孤独症综合征;"@zh .
+<https://w3id.org/asdkb/ontology/disease19> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "阿斯伯格综合症是孤独症谱系障碍的一种，是一种发育障碍。患有阿斯伯格综合症的年轻人很难与他人进行社交，他们的行为和思维模式可能是僵化和重复的。"@zh .
+<https://w3id.org/asdkb/ontology/disease7> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "191689008"@zh .
+<https://w3id.org/asdkb/ontology/disease28> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "功能性语言完全障碍的广泛性发育障碍（障碍）；功能性语言完全障碍的广泛性发育障碍；功能性语言完全障碍的自闭症谱系障碍"@zh .
+<https://w3id.org/asdkb/ontology/disease20> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "残余阿斯伯格综合症"@en .
+<https://w3id.org/asdkb/ontology/disease1> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "精神发育迟滞（Mental retardation）又称精神发育不全，是一种可由多种原因引起的脑发育障碍所致的综合征，以智力低下和社会适应困难为主要特征，可伴有某种精神或躯体疾病。于发育期起病，随年龄增长，智力也稍有进步，但中、重度患者仍给家庭社会带来沉重负担。轻度患者的身体发育无明显异常，在征兵体验中常被忽视而入选，造成部队训练和管理困难，应予以注视。"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease46> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Activity dependent neuroprotector homeobox related multiple congenital anomalies, intellectual disability, autism spectrum disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease23> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pathological demand avoidance (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease36> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease43> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/408856003> .
+<https://w3id.org/asdkb/ontology/disease5> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease42> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴有严重的功能性语言障碍，但未丧失先前获得的技能（障碍）；广泛性发育障碍伴有严重的功能性语言障碍，但未丧失先前获得的技能；自闭症谱系障碍伴有严重的功能性语言障碍，但未丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/ontology/disease8> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/disease14> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "雷特病（障碍）；雷特病；脑萎缩性高氨血症；RTS-雷特综合征；雷特病；雷特综合征；雷特综合征；脑萎缩性高氨血症"@zh .
+<https://w3id.org/asdkb/ontology/disease36> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease3> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism and facial port-wine stain syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease5> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease12> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease37> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease20> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.5"@zh .
+<https://w3id.org/asdkb/ontology/disease30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303004> .
+<https://w3id.org/asdkb/ontology/disease15> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/disease47> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "783089006"@zh .
+<https://w3id.org/asdkb/ontology/disease42> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/87486003> .
+<https://w3id.org/asdkb/ontology/disease2> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "408856003"@zh .
+<https://w3id.org/asdkb/ontology/disease12> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease37> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease2> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "Kanner孤独症，或经典孤独症，是一种神经发育障碍，其特征是社交沟通困难，行为受限和重复。[3] 它现在被认为是更广泛的孤独症谱系的一部分。“孤独症”一词在历史上被专门用来指代Kanner孤独症[13]，这是本条目中使用的惯例，但现在更常用于整个谱系。"@zh .
+<https://w3id.org/asdkb/ontology/disease15> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/disease30> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍(障碍)伴功能性语言完全受损未丧失原有的语言能力"@en .
+<https://w3id.org/asdkb/ontology/disease47> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Macrocephaly, intellectual disability, autism syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/disease37> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303000"@zh .
+<https://w3id.org/asdkb/ontology/disease44> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "432091002"@zh .
+<https://w3id.org/asdkb/ontology/icddisease1> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "儿童孤独症"@en .
+<https://w3id.org/asdkb/ontology/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Rett's syndrome"@zh .
+<https://w3id.org/asdkb/ontology/icddisease4> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种普遍的发育障碍（Rett综合征除外），其定义为发病前的一段正常发育期，以及在几个月的过程中，至少在几个发展领域中，先前获得的技能的明确丧失，以及社交、交流和行为功能的特征性异常的发病。通常会有一段模糊疾病的前驱期；孩子变得烦躁、易怒、焦虑和过度活跃。接下来是贫困，然后是语言和语言的丧失，伴随着行为的解体。"@zh .
+<https://w3id.org/asdkb/ontology/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "女孩"@zh .
+<https://w3id.org/asdkb/ontology/icddisease1> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种普遍的发育障碍，定义为3岁之前出现明显的发育异常和/或受损，以及社交、沟通和限制性重复行为这三个领域功能异常的特征类型。这种疾病发生在男孩身上的频率是女孩的三到四倍。"@zh .
+<https://w3id.org/asdkb/ontology/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "Rett综合征"@en .
+<https://w3id.org/asdkb/ontology/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.2"@zh .
+<https://w3id.org/asdkb/ontology/icddisease5> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "这是一种定义不清的疾病，其病理组织学有效性不确定。之所以列入这一类别，是因为有证据表明，在多动和注意力不集中方面表现出严重问题的中度至重度智力迟钝（智商低于50）儿童经常表现出刻板的行为；这类儿童往往不会从兴奋剂中获益（与智商正常的儿童不同），在服用兴奋剂时可能会表现出严重的烦躁反应（有时伴有精神运动迟缓）；在青春期，过度活动往往被活动不足所取代（这种模式在智力正常的多动症儿童中并不常见）。该综合征还常与各种发育迟缓相关，无论是特定的还是普遍性的。"@zh .
+<https://w3id.org/asdkb/ontology/icddisease6> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "男孩与女孩的比例是8:1"@zh .
+<https://w3id.org/asdkb/ontology/icddisease2> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Atypical autism"@zh .
+<https://w3id.org/asdkb/ontology/icddisease4> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.3"@zh .
+<https://w3id.org/asdkb/ontology/icddisease7> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/icddisease6> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "该障碍与自闭症的主要区别在于，在语言或认知发展方面没有普遍的延迟或迟滞。大多数人一般智力正常，但他们明显笨拙是很常见的；这种情况主要发生在男孩身上（男孩与女孩的比例约为八比一）。似乎很可能至少有一些病例代表轻度自闭症，但不确定是否所有人都是如此。这种异常很容易持续到青春期和成年，似乎它们代表了不受环境影响的个体特征。精神病发作偶尔发生在成年早期。"@zh .
+<https://w3id.org/asdkb/ontology/icddisease8> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.9 "@zh .
+<https://w3id.org/asdkb/ontology/icddisease6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.5> .
+<https://w3id.org/asdkb/ontology/icddisease1> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/icddisease5> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Overactive disorder associated with mental retardation and stereotyped movements"@zh .
+<https://w3id.org/asdkb/ontology/icddisease6> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "阿斯伯格综合症"@en .
+<https://w3id.org/asdkb/ontology/icddisease2> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种普遍的发育障碍，在发病年龄或未能满足所有三组诊断标准方面不同于自闭症。因此，只有在3岁之后，发育异常和/或受损才会首次显现；和/或诊断自闭症所需的三个精神病理学领域（即相互的社会互动、沟通和限制性、刻板印象、重复行为）中的一个或两个领域没有足够的可证明的异常，尽管其他领域存在特征性异常。"@zh .
+<https://w3id.org/asdkb/ontology/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种原因不明的疾病，目前仅在女孩中报道，根据特征性的发病、病程和症状模式进行了区分。通常情况下，在明显正常或接近正常的早期发育之后，会部分或完全丧失获得的手部技能和语言能力，并伴有头部生长减速，通常在7到24个月之间发病。"@zh .
+<https://w3id.org/asdkb/ontology/icddisease4> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Other childhood disintegrate disorder"@zh .
+<https://w3id.org/asdkb/ontology/icddisease7> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "其他广泛性发育障碍"@en .
+<https://w3id.org/asdkb/ontology/icddisease7> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/icddisease4> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "其他儿童解体障碍"@en .
+<https://w3id.org/asdkb/ontology/icddisease1> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/icddisease9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_related__diseases> .
+<https://w3id.org/asdkb/ontology/icddisease8> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "这是一个剩余诊断类别，应用于符合普遍性发育障碍一般描述的疾病，但缺乏足够的信息或相互矛盾的发现意味着无法满足任何其他F84代码的标准。"@zh .
+<https://w3id.org/asdkb/ontology/icddisease5> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "中度至重度智力迟钝（智商低于50）的儿童 "@zh .
+<https://w3id.org/asdkb/ontology/icddisease8> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/icddisease9> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "其他相关疾病"@en .
+<https://w3id.org/asdkb/ontology/icddisease0> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84"@zh .
+<https://w3id.org/asdkb/ontology/icddisease6> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Asperger's syndrome"@zh .
+<https://w3id.org/asdkb/ontology/icddisease0> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pervasive developmental disorders"@zh .
+<https://w3id.org/asdkb/ontology/icddisease2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.1> .
+<https://w3id.org/asdkb/ontology/icddisease6> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.5"@zh .
+<https://w3id.org/asdkb/ontology/icddisease1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.0> .
+<https://w3id.org/asdkb/ontology/icddisease7> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Other pervasive developmental disorders"@zh .
+<https://w3id.org/asdkb/ontology/icddisease8> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发展障碍，未指明"@en .
+<https://w3id.org/asdkb/ontology/icddisease4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.3> .
+<https://w3id.org/asdkb/ontology/icddisease2> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "智力障碍患者和特异性接受性语言发育障碍的个体"@zh .
+<https://w3id.org/asdkb/ontology/icddisease0> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发展障碍"@en .
+<https://w3id.org/asdkb/ontology/icddisease0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/autism_spectrum_disorder> .
+<https://w3id.org/asdkb/ontology/icddisease2> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "非典型自闭症"@en .
+<https://w3id.org/asdkb/ontology/icddisease4> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/icddisease4> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/icddisease3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.2> .
+<https://w3id.org/asdkb/ontology/icddisease5> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "一些相关的脑病引起的"@zh .
+<https://w3id.org/asdkb/ontology/icddisease0> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "这组障碍的特点是互惠社会互动和交流模式的质量异常，以及兴趣和活动的局限性、刻板印象和重复性。这些质量异常是个人在所有情况下功能的普遍特征，尽管程度可能不同。在大多数情况下，从婴儿期开始发育异常，只有少数例外情况下，这种情况在生命的前5年变得明显。"@zh .
+<https://w3id.org/asdkb/ontology/icddisease5> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.4"@zh .
+<https://w3id.org/asdkb/ontology/icddisease7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.8> .
+<https://w3id.org/asdkb/ontology/icddisease1> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/icddisease8> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pervasive developmental disorder, unspecified"@zh .
+<https://w3id.org/asdkb/ontology/icddisease2> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.1"@zh .
+<https://w3id.org/asdkb/ontology/icddisease5> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "与智力迟钝和刻板动作相关的过度活跃障碍"@en .
+<https://w3id.org/asdkb/ontology/icddisease8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.9> .
+<https://w3id.org/asdkb/ontology/icddisease1> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Childhood autism"@zh .
+<https://w3id.org/asdkb/ontology/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/icddisease5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.4> .
+
+

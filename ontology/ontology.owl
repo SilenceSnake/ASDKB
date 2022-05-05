@@ -1,0 +1,1151 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/correspondTo -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/correspondTo">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_question"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:label xml:lang="en">correspondTo</rdfs:label>
+        <rdfs:label xml:lang="zh">对应</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/diagnosedBy -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/diagnosedBy">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/physician"/>
+        <rdfs:label xml:lang="en">diagnosedBy</rdfs:label>
+        <rdfs:label xml:lang="zh">诊断专家</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/hasOption -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/hasOption">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_question"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/option"/>
+        <rdfs:label xml:lang="en">hasOption</rdfs:label>
+        <rdfs:label xml:lang="zh">具体选项</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/hasSymptom -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/hasSymptom">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:label xml:lang="en">hasSymptom</rdfs:label>
+        <rdfs:label xml:lang="zh">症状</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/hit -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/hit">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/option"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/diagnostic_standard"/>
+        <rdfs:label xml:lang="en">hit</rdfs:label>
+        <rdfs:label xml:lang="zh">命中</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/intervenedBy -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/intervenedBy">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/EBP"/>
+        <rdfs:label xml:lang="en">intervenedBy</rdfs:label>
+        <rdfs:label xml:lang="zh">干预方法</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/isPartOf -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/isPartOf">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_question"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:label xml:lang="en">isPartOf</rdfs:label>
+        <rdfs:label xml:lang="zh">属于</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/screenedBy -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/screenedBy">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:label xml:lang="en">screenedBy</rdfs:label>
+        <rdfs:label xml:lang="zh">筛查工具</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/properties/workAt -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/workAt">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/physician"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/hospital"/>
+        <rdfs:label xml:lang="en">workAt</rdfs:label>
+        <rdfs:label xml:lang="zh">就职</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/Address -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/Address">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/hospital"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Address</rdfs:label>
+        <rdfs:label xml:lang="zh">地址</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/Chinese_description -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/Chinese_description">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Chinese Description</rdfs:label>
+        <rdfs:label xml:lang="zh">中文描述</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/Chinese_name -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/Chinese_name">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/EBP"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/hospital"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Chinese Name</rdfs:label>
+        <rdfs:label xml:lang="zh">中文名称</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/English_description -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/English_description">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">English Description</rdfs:label>
+        <rdfs:label xml:lang="zh">英文描述</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/English_name -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/English_name">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/EBP"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">English Name</rdfs:label>
+        <rdfs:label xml:lang="zh">英文名称</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/SCTID -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/SCTID">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">SCTID</rdfs:label>
+        <rdfs:label xml:lang="zh">snomed-ct编码</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/age -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/age">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Age</rdfs:label>
+        <rdfs:label xml:lang="zh">适用年龄</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/author -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/author">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Author</rdfs:label>
+        <rdfs:label xml:lang="zh">提出者</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/city -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/city">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/hospital"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">City</rdfs:label>
+        <rdfs:label xml:lang="zh">所属市</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/contact_details -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/contact_details">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/hospital"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Contact Details</rdfs:label>
+        <rdfs:label xml:lang="zh">联系方式</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/hospital -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/hospital">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/physician"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Hospital</rdfs:label>
+        <rdfs:label xml:lang="zh">所属医院</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/hospital_department -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/hospital_department">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/physician"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Hospital Department</rdfs:label>
+        <rdfs:label xml:lang="zh">所属科室</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/hospital_level -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/hospital_level">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/hospital"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Hospital Level</rdfs:label>
+        <rdfs:label xml:lang="zh">等级</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/icd-10_code -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/icd-10_code">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">ICD-10 Code</rdfs:label>
+        <rdfs:label xml:lang="zh">ICD-10编码</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/introduction -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/introduction">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/EBP"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Introduction</rdfs:label>
+        <rdfs:label xml:lang="zh">介绍</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/name -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/name">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/physician"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Name</rdfs:label>
+        <rdfs:label xml:lang="zh">姓名</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/option_content -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/option_content">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/option"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Option Content</rdfs:label>
+        <rdfs:label xml:lang="zh">选项内容</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Parent Symptom ID</rdfs:label>
+        <rdfs:label xml:lang="zh">父级症状ID</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/pathogeny -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/pathogeny">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Pathogeny</rdfs:label>
+        <rdfs:label xml:lang="zh">病因</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/patient_groups -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/patient_groups">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Patient Groups</rdfs:label>
+        <rdfs:label xml:lang="zh">发病群体</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/question_content -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/question_content">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_question"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Question Content</rdfs:label>
+        <rdfs:label xml:lang="zh">问题内容</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/rule -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/rule">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Rule</rdfs:label>
+        <rdfs:label xml:lang="zh">评判规则</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/score -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/score">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/option"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:label xml:lang="en">Score</rdfs:label>
+        <rdfs:label xml:lang="zh">分值</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/screening_boundary -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/screening_boundary">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_question"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Screening Boundary</rdfs:label>
+        <rdfs:label xml:lang="zh">筛查界限</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/specialty -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/specialty">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/physician"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Specialty</rdfs:label>
+        <rdfs:label xml:lang="zh">擅长方向</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/symptom_id -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/symptom_id">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Symptom ID</rdfs:label>
+        <rdfs:label xml:lang="zh">症状ID</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/synonym -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/synonym">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Synonym</rdfs:label>
+        <rdfs:label xml:lang="zh">同义词</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/time -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/time">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Time</rdfs:label>
+        <rdfs:label xml:lang="zh">花费时间</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/title -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/title">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/physician"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Title</rdfs:label>
+        <rdfs:label xml:lang="zh">职称</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperties/user -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperties/user">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">User</rdfs:label>
+        <rdfs:label xml:lang="zh">使用者</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://w3id.org/asdkb/432091002 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/432091002">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/other_disease"/>
+        <rdfs:label xml:lang="en">Disorder of psychological development (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">学者症候群</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/702450004 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/702450004">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/other_disease"/>
+        <rdfs:label xml:lang="en">FOXG1 syndrome (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">FOXG1综合征(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/719600006 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/719600006">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/other_disease"/>
+        <rdfs:label xml:lang="en">1p21.3 microdeletion syndrome (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">1p21.3微缺失综合征(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/723332005 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/723332005">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/other_disease"/>
+        <rdfs:label xml:lang="en">Isodicentric chromosome 15 syndrome (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">等核双着丝粒15号染色体综合征</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/733623005 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/733623005">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/other_disease"/>
+        <rdfs:label xml:lang="en">Autism spectrum disorder, epilepsy, arthrogryposis syndrome (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">孤独症谱系障碍、癫痫、关节挛缩综合征(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/766824003 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/766824003">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/other_disease"/>
+        <rdfs:label xml:lang="en">Activity dependent neuroprotector homeobox related multiple congenital anomalies, intellectual disability, autism spectrum disorder (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">活动依赖神经保护器同源框与多种先天性异常、智力残疾、孤独症谱系障碍相关</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/771448004 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/771448004">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/other_disease"/>
+        <rdfs:label xml:lang="en">Autism epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">支链酮酸脱氢酶激酶缺乏症所致孤独症癫痫综合征</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/783089006 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/783089006">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/other_disease"/>
+        <rdfs:label xml:lang="en">Macrocephaly, intellectual disability, autism syndrome (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">大头畸形，智力障碍，孤独症综合症(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/EBP -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/EBP">
+        <rdfs:label xml:lang="en">Evidence-Based Practice</rdfs:label>
+        <rdfs:label xml:lang="zh">实证有效的干预方法</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/F84.0 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/F84.0">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">Childhood autism</rdfs:label>
+        <rdfs:label xml:lang="zh">儿童孤独症</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/F84.1 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/F84.1">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">Atypical autism</rdfs:label>
+        <rdfs:label xml:lang="zh">非典型孤独症</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/F84.2 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/F84.2">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">Rett&apos;s syndrome</rdfs:label>
+        <rdfs:label xml:lang="zh">雷特征候群</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/F84.3 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/F84.3">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">Other childhood disintegrative disorder</rdfs:label>
+        <rdfs:label xml:lang="zh">其他儿童瓦解性障碍</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/F84.4 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/F84.4">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">Over active disorder associated with mental retardation and stereotyped movements</rdfs:label>
+        <rdfs:label xml:lang="zh">伴有精神阻滞和刻板运动的过度活跃障碍</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/F84.5 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/F84.5">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">Asperger&apos;s syndrome</rdfs:label>
+        <rdfs:label xml:lang="zh">阿斯伯格综合症</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/F84.8 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/F84.8">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">Other pervasive developmental disorders</rdfs:label>
+        <rdfs:label xml:lang="zh">其他广泛性发育障碍</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/F84.9 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/F84.9">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder, unspecified</rdfs:label>
+        <rdfs:label xml:lang="zh">未明确的广泛性发育障碍症</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder">
+        <rdfs:label xml:lang="en">Autism Spectrum Disorder</rdfs:label>
+        <rdfs:label xml:lang="zh">孤独症谱系障碍</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/diagnostic_standard -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/diagnostic_standard">
+        <rdfs:label xml:lang="en">Diagnostic Standard</rdfs:label>
+        <rdfs:label xml:lang="zh">诊断标准</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/hospital -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/hospital">
+        <rdfs:label xml:lang="en">Hospital</rdfs:label>
+        <rdfs:label xml:lang="zh">医院</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/impairments_in_social_interaction -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/impairments_in_social_interaction">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:label xml:lang="en">Impairments in Social Interaction</rdfs:label>
+        <rdfs:label xml:lang="zh">社会交往障碍</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/option -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/option">
+        <rdfs:label xml:lang="en">Option</rdfs:label>
+        <rdfs:label xml:lang="zh">选项</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/other_disease -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/other_disease">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/autism_spectrum_disorder"/>
+        <rdfs:label xml:lang="en">other_disease</rdfs:label>
+        <rdfs:label xml:lang="zh">其他相关疾病</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/other_symptoms -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/other_symptoms">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:label xml:lang="en">Other Symptoms</rdfs:label>
+        <rdfs:label xml:lang="zh">其他症状</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/physician -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/physician">
+        <rdfs:label xml:lang="en">Physician</rdfs:label>
+        <rdfs:label xml:lang="zh">医生</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/repetitive_behavior -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/repetitive_behavior">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+        <rdfs:label xml:lang="en">Repetitive Behavior</rdfs:label>
+        <rdfs:label xml:lang="zh">刻板行为活动</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/screening_question -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/screening_question">
+        <rdfs:label xml:lang="en">Screening Question</rdfs:label>
+        <rdfs:label xml:lang="zh">筛查问题</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/screening_tool -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/screening_tool">
+        <rdfs:label xml:lang="en">Screening Tool</rdfs:label>
+        <rdfs:label xml:lang="zh">筛查量表</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/standard_of_repetitive_behavior -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/standard_of_repetitive_behavior">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/diagnostic_standard"/>
+        <rdfs:label xml:lang="en">Standard of Repetitive Behavior</rdfs:label>
+        <rdfs:label xml:lang="zh">刻板行为标准</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/standard_of_social_interaction -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/standard_of_social_interaction">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/diagnostic_standard"/>
+        <rdfs:label xml:lang="en">Standard of Social Interaction</rdfs:label>
+        <rdfs:label xml:lang="zh">社交障碍标准</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/symptom -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/symptom">
+        <rdfs:label xml:lang="en">Symptom</rdfs:label>
+        <rdfs:label xml:lang="zh">症状类型</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/191689008 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/191689008">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/408857007"/>
+        <rdfs:label xml:lang="en">Active infantile autism (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">活动性婴儿孤独症(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/191690004 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/191690004">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/39951000119105"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/408857007"/>
+        <rdfs:label xml:lang="en">Residual infantile autism (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">残余幼儿孤独症(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/191692007 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/191692007">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.3"/>
+        <rdfs:label xml:lang="en">Active disintegrative psychoses (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">活动性分裂性精神病(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/191693002 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/191693002">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.3"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/39951000119105"/>
+        <rdfs:label xml:lang="en">Residual disintegrative psychoses (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">残余分裂性精神病(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/373618009 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/373618009">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Autistic spectrum disorder with isolated skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">孤独症谱系障碍伴随技能丢失(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/39951000119105 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/39951000119105">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder of residual state (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育剩余状态障碍(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/408856003 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/408856003">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.0"/>
+        <rdfs:label xml:lang="en">Autistic disorder (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">孤独症(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/408857007 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/408857007">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/408856003"/>
+        <rdfs:label xml:lang="en">Infantile autism (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">婴儿孤独症(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/43614003 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/43614003">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/408856003"/>
+        <rdfs:label xml:lang="en">Autistic disorder of childhood onset (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">儿童期发病的孤独症(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/442314000 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/442314000">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.1"/>
+        <rdfs:label xml:lang="en">Active but odd autism (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">活跃但奇怪的孤独症(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/702732007 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/702732007">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/408856003"/>
+        <rdfs:label xml:lang="en">High-functioning autism (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">高功能孤独症(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/708037001 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/708037001">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.5"/>
+        <rdfs:label xml:lang="en">Residual Asperger&apos;s disorder (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">残余阿斯伯格综合症</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/712884004 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/712884004">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pathological demand avoidance (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">病态需求回避(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/718393002 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/718393002">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Atypical Rett syndrome (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">非典型Rett综合征(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/722287002 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/722287002">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/408856003"/>
+        <rdfs:label xml:lang="en">Autism and facial port-wine stain syndrome (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">孤独症和面部port-wine染色综合征(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/770790004 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/770790004">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/43614003"/>
+        <rdfs:label xml:lang="en">Developmental delay with autism spectrum disorder and gait instability (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">发育迟缓伴孤独症谱系障碍和步态不稳(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/771512003 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/771512003">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.1"/>
+        <rdfs:label xml:lang="zh">AUTS2转录激活因子和发育调节因子缺失引起的孤独症谱系障碍(障碍)</rdfs:label>
+        <rdfs:label xml:lang="en">Autism spectrum disorder due to AUTS2 activator of transcription and developmental regulator deficiency (disorder)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870260008 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870260008">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with marked impairment of functional language with loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴功能性语言受损并丧失原有的技能(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870261007 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870261007">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with marked impairment of functional language without loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴的功能性语言受损但未丧失原有的技能(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870262000 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870262000">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with disorder of intellectual development without loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴智力发育障碍但未丧失原有的技能(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870263005 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870263005">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with impairment of functional language (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">伴有功能性语言障碍的广泛性发育障碍(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870264004 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870264004">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with disorder of intellectual development and pervasive impairment of functional language without loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴智力发育障碍伴原有的技能丧失(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870265003 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870265003">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with disorder of intellectual development with loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴智力发育障碍伴先前获得的技能丧失（障碍）</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870266002 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870266002">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with disorder of intellectual development and marked impairment of functional language with loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴智力发育障碍和功能性语言障碍但未丧失原有的技能(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870267006 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870267006">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with disorder of intellectual development and marked impairment of functional language without loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴智力发育障碍和功能性语言普遍性障碍但未丧失原有的技能(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870268001 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870268001">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with disorder of intellectual development and complete impairment of functional language without loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴智力发育障碍和功能性语言显着障碍并丧失原有的技能(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870269009 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870269009">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with disorder of intellectual development and absence of functional language with loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴智力发育障碍和功能性语言缺失伴原有的技能丧失(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870270005 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870270005">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with disorder of intellectual development and complete impairment of functional language with loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴智力发育障碍伴未丧失原有的技能的功能性语言完全受损</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870280009 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870280009">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with severe impairment of functional language with loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴功能性语言严重受损并丧失原有的技能(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870282001 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870282001">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with severe impairment of functional language without loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴有严重的功能性语言障碍但未丧失原有的技能(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870303005 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870303005">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with complete impairment of functional language with loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍(障碍)伴功能性语言完全受损并失去原有的语言能力</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870304004 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870304004">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with complete impairment of functional language without loss of previously acquired skills (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍(障碍)伴功能性语言完全受损未丧失原有的语言能力</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870305003 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870305003">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with cognitive developmental delay and marked impairment of functional language (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴认知发育迟缓和功能性语言显着障碍(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870306002 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870306002">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with complete impairment of functional language (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍(障碍)伴功能性语言完全受损</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870307006 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870307006">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with abscence of functional language (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴功能性语言缺失(障碍)</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/classes/870308001 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/classes/870308001">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/classes/F84.8"/>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder with cognitive developmental delay and complete impairment of functional language (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">广泛性发育障碍伴认知发育迟缓和功能性语言完全受损</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
