@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor497> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor497> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童发育迟缓 智力语言落后 自闭症 脑损伤 脑性瘫痪 多动症 注意力不集中 感统失调等诊断和治疗 早产儿 高危儿 儿童保健等管理和诊疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor497> <https://w3id.org/asdkb/ontology/dataproperties/name> "王松"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor497> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'抚顺市妇幼保健院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor497> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', '讲师'"@zh .
+

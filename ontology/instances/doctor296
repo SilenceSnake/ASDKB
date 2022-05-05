@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor296> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor296> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'滕州市中心人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor296> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor296> <https://w3id.org/asdkb/ontology/dataproperties/name> "邱厚兴"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor296> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿肾炎、肾病、小儿反复咳嗽、支气管炎、肺炎、抽动症、儿童保健、小儿血液病"@zh .
+

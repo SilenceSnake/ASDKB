@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor201> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'常州市第一人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor201> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童多动症、抽动症，孤独症谱系障碍，发育落后，对立违抗障碍，学习障碍，情绪障碍，儿童青少年心理问题的诊治成人常见精神心理问题如焦虑症、抑郁症等的诊治。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor201> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '讲师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor201> <https://w3id.org/asdkb/ontology/dataproperties/name> "任艳玲"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor201> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童心理门诊'"@zh .
+

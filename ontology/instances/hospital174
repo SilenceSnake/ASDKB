@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital174> <https://w3id.org/asdkb/ontology/dataproperties/city> "威海市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital174> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0631-5287855(门诊部),0631-5287510(医务处),0631-5287508(院办公室)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital174> <https://w3id.org/asdkb/ontology/dataproperties/address> "山东省威海市环翠区和平路70号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital174> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital174> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "威海市立医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital174> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 

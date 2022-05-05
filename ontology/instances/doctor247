@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor247> <https://w3id.org/asdkb/ontology/dataproperties/name> "黄艳军"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor247> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'南京医科大学附属儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor247> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿内科常见病、多发病的诊治，尤其对小儿神经内科相关疾病具有较丰富的临床经验"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor247> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor247> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/symptom47> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "deceleration of head growth"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom47> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "头部生长减速 "@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom47> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom47"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+

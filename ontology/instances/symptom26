@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom26> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom26> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "sleeping and eating disturbances"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom26> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "睡眠和饮食障碍 "@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/instances/symptom26> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom26"@zh .
+

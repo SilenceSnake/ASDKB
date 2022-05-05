@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor54> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿疑难杂症、注意力不集中、多动症、抽动症、孤独症、佝偻病、贫血、抑郁症、焦虑症、擦腿综合症、染色体病、遗传代谢病、智力低下、脑瘫、遗尿症、发育延迟、免疫力低下等疾病"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor54> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'盛京医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor54> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor54> <https://w3id.org/asdkb/ontology/dataproperties/name> "昝书亮"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor54> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+

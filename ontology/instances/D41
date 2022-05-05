@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/instances/D41> <https://w3id.org/asdkb/ontology/instances/Dataproperties/Chinese_description> "对光线或旋转物体特别感兴趣"@zh .
+

@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease0> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease0> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "支链酮酸脱氢酶激酶缺乏症所致孤独症癫痫综合征"@en .
+<https://w3id.org/asdkb/ontology/instances/disease0> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease0> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种罕见的支链氨基酸代谢紊乱，以儿童期癫痫、孤独症和智力残疾为特征，血浆支链氨基酸水平降低。由染色体16p11上BCKDK基因的纯合突变引起。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/771448004> .
+<https://w3id.org/asdkb/ontology/instances/disease0> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease0> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "771448004"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease0> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "E71.1"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease0> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "支链酮酸脱氢酶激酶缺乏症所致孤独症癫痫综合征"@zh .
+

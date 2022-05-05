@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor449> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "脑瘫、自闭、智障、多动、抽动等儿童脑病"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor449> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor449> <https://w3id.org/asdkb/ontology/dataproperties/name> "吴强"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor449> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor449> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'福建中医药大学附属第三人民医院'"@zh .
+

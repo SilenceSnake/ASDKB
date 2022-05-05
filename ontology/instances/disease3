@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease3> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "以面部单侧血管瘤和自闭症发展问题为特征的综合征，具有语言延迟和非典型社会互动的特点。到目前为止，已有四名儿童出现这种综合征。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/722287002> .
+<https://w3id.org/asdkb/ontology/instances/disease3> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症和面部葡萄酒色综合症"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease3> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease3> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症和面部port-wine染色综合征(障碍)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease3> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "722287002"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease3> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease3> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism and facial port-wine stain syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease3> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+

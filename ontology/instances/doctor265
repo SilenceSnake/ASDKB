@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor265> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor265> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海市精神卫生中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor265> <https://w3id.org/asdkb/ontology/dataproperties/name> "廖力维"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor265> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童青少年常见精神问题，焦虑障碍，抑郁症，双相情感障碍，强迫症，痴呆，精神分裂症等常见精神心理问题诊断、药物治疗和康复训练。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor265> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
+

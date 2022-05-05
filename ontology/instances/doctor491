@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor491> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心身医学科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor491> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈赞"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor491> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "抑郁症，失眠症，焦虑症，双相情感障碍，强迫症，恐艾，神经官能症，精神分裂症，性心理障碍等疾病的诊治，特别擅长青少年情绪心理问题。通过非药物“精神益生菌“治疗抑郁，焦虑，强迫，儿童青少年情绪问题，抽动症，多动症，慢性疲劳等取得众多临床经验。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor491> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor491> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'宁波市康宁医院'"@zh .
+

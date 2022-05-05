@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor329> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor329> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童营养性疾病、儿童矮小症、性早熟、儿童多动症、抽动症、智力障碍、学习障碍等病的诊断与治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor329> <https://w3id.org/asdkb/ontology/dataproperties/name> "张功"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor329> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'安徽省儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor329> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '副教授'"@zh .
+

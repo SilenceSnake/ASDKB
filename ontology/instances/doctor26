@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor26> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '内分泌科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor26> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "不明原因智力落后、孤独症、多发畸形等疾患的分子诊断，肥胖，矮小，性早熟等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor26> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor26> <https://w3id.org/asdkb/ontology/dataproperties/name> "余永国"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor26> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海儿童医学中心'"@zh .
+

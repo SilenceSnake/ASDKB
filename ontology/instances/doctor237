@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor237> <https://w3id.org/asdkb/ontology/dataproperties/name> "林义雯"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor237> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿神经内科、小儿生长发育、小儿精神发育方；小儿癫痫、智能落后、脑损伤、脑瘫有独到的诊断与治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor237> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor237> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor237> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+

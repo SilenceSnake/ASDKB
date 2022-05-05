@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/levelA2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/levelA2> <https://w3id.org/asdkb/ontology/instances/Dataproperties/Chinese_description> "水平2“需要多的支持”在语言和非语言社交交流技能方面的显著缺陷；即使有支持仍有明显社交损害；启动社交互动有限；对他人社交示意反应较少或异常。例如，个体只讲几个简单的句子，其互动局限在非常狭窄的特定兴趣方面，且有显著的奇怪的非语言交流	行为缺乏灵活性，应对改变困难，或其他局限的/重复行为对普通观察者来说看起来足够明显，且影响了不同情况下的功能。改变注意力或行动痛苦/困难"@zh .
+

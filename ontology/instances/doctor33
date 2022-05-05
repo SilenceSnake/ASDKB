@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor33> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童矮小症、肥胖症、性早熟、多动症、抽动症、学习障碍、孤独症、精神发育迟滞以及微量元素缺乏、铅污染防治"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor33> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘丽君"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor33> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor33> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'河北省儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor33> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+

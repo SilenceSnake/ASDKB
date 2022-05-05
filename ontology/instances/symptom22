@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom22> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom22> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a specific interest in nonfunctional elements of objects (such as their smell or feel) is common"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom22> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "人们对物体的非功能元素（如气味或感觉）有着特殊的兴趣 "@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom22> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom22"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+

@@ -1,0 +1,12 @@
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/rule> "所有项目都以“通过”或“失败”的形式评分。每个域的失败项目将转换为分数。两个项目域的分数是 0、0.5 或 1，而四个项目域的分数是 0、0.25、0.50、0.75 或 1。将所有分数加起来为总分。2.25–2.75 STAT 的截止分数"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/author> "Stone, Coonrod, & Ousley, 2000"@en .
+<https://w3id.org/asdkb/ontology/instances/tools17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/user> "经过专业训练的人士"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "2.25"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/time> "20分钟"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "自闭症幼儿筛查工具(STAT)"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/age> "24-36个月"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Screening Tool for Autism in Toddlers and Young Children"@en .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "STAT由12个互动活动组成，这些活动是在游戏活动的背景下进行的. "@zh .
+<https://w3id.org/asdkb/ontology/instances/tools17> <https://w3id.org/asdkb/ontology/classes/physician> "2.75"@zh .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/symptom51> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a definite loss of previously acquired skills"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom51> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom51"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom51> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对先前获得的技能的明确丧失 "@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor231> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈连红"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor231> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor231> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童癫癎病，儿童偏头痛，小儿脑发育异常，小儿急性周围性面瘫，儿童多发性抽动及小儿神经系统疾病中某些疑难杂症。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor231> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海市儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor231> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+

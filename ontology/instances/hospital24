@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital24> <https://w3id.org/asdkb/ontology/dataproperties/address> "成都市新都区宝光大道中段278号  "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital24> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "028-83016600,83999111,83999222 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital24> <https://w3id.org/asdkb/ontology/dataproperties/city> "成都市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital24> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "成都医学院第一附属医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital24> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital24> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "028-83016600,83999111,83999222 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital24> <https://w3id.org/asdkb/ontology/dataproperties/address> "成都市新都区宝光大道中段278号  "@zh .
 

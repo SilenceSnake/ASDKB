@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州医科大学附属脑科医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-81580392（芳村总院门诊首层）；020-81268070（芳村总院门诊二层）；020-81899120（芳村总院住院部） "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省广州市荔湾区芳村明心路36号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省广州市荔湾区芳村明心路36号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州医科大学附属脑科医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital8> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
 

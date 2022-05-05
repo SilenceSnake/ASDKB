@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor382> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'三明市第二医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor382> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '临床心理科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor382> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor382> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈美英"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor382> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长临床心理咨询与治疗、青少年心理卫生、心理测验。对抑郁症、焦虑症、恐怖症、强迫症、心境障碍、、创伤后应激障碍、各种原因引起的顽固性失眠、躯体形式障碍、神经衰弱、适应障碍、儿童青少年心理行为障碍、多动症、抽动症、学习困难、自闭症、婚恋家庭问题等有较丰富的临床经验。"@zh .
+

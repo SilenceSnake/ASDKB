@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom17> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "倾向于将僵化和刻板模式强加于日常生活"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom17> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a tendency to impose rigidity and routine on a wide range of aspects of day-to day functioning"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom17> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom17"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom17> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+

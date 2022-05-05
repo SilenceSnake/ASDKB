@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital127> <https://w3id.org/asdkb/ontology/dataproperties/city> "郑州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital127> <https://w3id.org/asdkb/ontology/dataproperties/address> "河南省郑州市人民路19号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital127> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "河南中医药大学第一附属医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital127> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital127> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0371-96129(咨询),0371-66232471(咨询),0371-66245034(门诊),0371-66221040(办公室)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital127> <https://w3id.org/asdkb/ontology/dataproperties/address> "河南省郑州市人民路19号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital127> <https://w3id.org/asdkb/ontology/dataproperties/city> "郑州市"@zh .
 

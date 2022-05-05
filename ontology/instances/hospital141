@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital141> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital141> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "吉林大学第一医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital141> <https://w3id.org/asdkb/ontology/dataproperties/city> "长春市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital141> <https://w3id.org/asdkb/ontology/dataproperties/address> "长春市新民大街71号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital141> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital141> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0431-88782222(总机),0431-88782291(门诊),0431-88782120(急救),0431-84808114(分院)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital141> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "吉林大学第一医院"@zh .
 

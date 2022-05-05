@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question57> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "对直线的视觉关注(例如，百叶窗，墙/地板底部的框架等)"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools0question57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

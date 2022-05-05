@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor452> <https://w3id.org/asdkb/ontology/dataproperties/name> "孙仲礼"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor452> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor452> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'嘉定区精神卫生中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor452> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "精神分裂症，抑郁障碍，双相情感障碍，创伤后应激障碍，酒精依赖等精神科疾病的诊治及心理咨询"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor452> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+

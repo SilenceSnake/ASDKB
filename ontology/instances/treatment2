@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/treatment2> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Augmentative and Alternative Communication"@en .
+<https://w3id.org/asdkb/ontology/instances/treatment2> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种可以替代言语沟通的方法或技术，如：图片沟通交流系统，交流书，手语等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment2> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "替代的沟通系统(AAC)"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
+

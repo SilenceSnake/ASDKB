@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/instances/D33> <https://w3id.org/asdkb/ontology/instances/Dataproperties/Chinese_description> "重复的言语（例如，模仿言语、迟缓或即刻机械地模仿听到的单词；当提到自己时使用“你”；刻板地使用单词、短语或韵律模式）"@zh .
+

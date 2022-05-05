@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools0question59> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "当有听觉干扰时，视觉上无法集中在特定活动上(例如，听收音机时不能看书，等等)。"@zh .
+

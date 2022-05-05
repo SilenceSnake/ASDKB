@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools18question26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools18question26> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "28.在您的孩子4-5岁时(或过去一年中)，他/她是否会把自己感兴趣的东西(例如玩具等)拿给您看以引起您的注意？"@zh .
+

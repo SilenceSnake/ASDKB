@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools0question44> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "有一定的饮食习惯(例如，只吃某些食物或食物纹理，避免某些食物纹理，等等)"@zh .
+

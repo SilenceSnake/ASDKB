@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools0question26> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "不使用他人的情绪反应来引导行为(即，社会参照)"@zh .
+

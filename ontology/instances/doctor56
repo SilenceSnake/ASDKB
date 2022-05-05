@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor56> <https://w3id.org/asdkb/ontology/dataproperties/name> "郭嘉"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor56> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科神经内分泌专科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor56> <https://w3id.org/asdkb/ontology/dataproperties/title> "'医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor56> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长儿童孤独症、阿斯伯格综合征、儿童多动症、学习障碍、抽动症、儿童问题行为、睡眠障碍、情绪障碍等儿童心理行为疾病的诊断、评估、咨询、治疗、教养指导及正常儿童养育环境的最佳构建指导。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor56> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中山大学孙逸仙纪念医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

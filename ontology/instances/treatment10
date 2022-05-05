@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/treatment10> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "确定行为的功能和目的系统性评估方法，以便教学者制定有效的干预计划。"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment10> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Functional Behavioral Assessment"@en .
+<https://w3id.org/asdkb/ontology/instances/treatment10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
+<https://w3id.org/asdkb/ontology/instances/treatment10> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "功能行为分析(FBA)"@zh .
+

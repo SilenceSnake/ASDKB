@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor376> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'湘雅二医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor376> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor376> <https://w3id.org/asdkb/ontology/dataproperties/name> "王如蜜"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor376> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "说话晚、不开口说话、语言发育迟缓、吐词不清、吞咽困难等；儿童与成人言语障碍、语言障碍、认知障碍和吞咽障碍：包括失语症、吞咽障碍、语音障碍、社交沟通障碍、语言发育迟缓、口吃、嗓音障碍、认知障碍等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor376> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任康复师', ''"@zh .
+

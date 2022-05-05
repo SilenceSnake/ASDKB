@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor477> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "精神心理疾病"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor477> <https://w3id.org/asdkb/ontology/dataproperties/name> "林颖"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor477> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理咨询科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor477> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor477> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/treatment19> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "非目标行为出现的时候，提供一个辅助/评价/其他干扰行为，使学习者的注意力从非目标行为上转移。"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment19> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Response Interruption/Redirection"@en .
+<https://w3id.org/asdkb/ontology/instances/treatment19> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "反应干扰/转移(RIR)"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
+

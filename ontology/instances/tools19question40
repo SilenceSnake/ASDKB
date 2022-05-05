@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools19question40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools19question40> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "41. 无目标地从一个活动游走到另外一个"@zh .
+

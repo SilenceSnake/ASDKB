@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor409> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor409> <https://w3id.org/asdkb/ontology/dataproperties/name> "吴至凤"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor409> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'陆军军医大学新桥医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor409> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长小儿神经系统疾病，发育行为，头型问题，小儿癫痫，脑损伤、孤独症、多动症、抽动症等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor409> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科康复中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

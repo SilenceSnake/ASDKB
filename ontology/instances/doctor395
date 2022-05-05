@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor395> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童营养、生长发育、心理行为发育，如佝偻病、肥胖症、高危儿早期评估干预、矮小、性早熟、抽动症、多动症等疾病专业指导及诊治。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor395> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor395> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'日照市妇幼保健院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor395> <https://w3id.org/asdkb/ontology/dataproperties/name> "王桂菊"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor395> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

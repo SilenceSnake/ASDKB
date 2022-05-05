@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor426> <https://w3id.org/asdkb/ontology/dataproperties/name> "李晓凤"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor426> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "焦虑、抑郁、恐惧等情绪问题，睡眠障碍，强迫症，躯体化障碍，双向情感障碍的诊治以及身心疾病，婚姻家庭、情感、人际关系等内容的心理咨询与治疗，有较强的临床工作经验。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor426> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'火箭军特色医学中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor426> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor426> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+

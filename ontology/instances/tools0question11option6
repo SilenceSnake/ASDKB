@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question11option6> <https://w3id.org/asdkb/ontology/得分> "6"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools0question11option6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/option> .
+<https://w3id.org/asdkb/ontology/instances/tools0question11option6> <https://w3id.org/asdkb/ontology/选项内容> "7.每天持续进行"@zh .
+

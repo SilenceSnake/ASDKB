@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools10question4> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "你能很容易地从孩子的脸上看出他/她是什么感觉吗？"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools10question4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

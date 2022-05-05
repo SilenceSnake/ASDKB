@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital239> <https://w3id.org/asdkb/ontology/dataproperties/address> "西安市长安区广场北路与西部大道交叉路口东南侧"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital239> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "西安工会医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital239> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital239> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "029-87910666"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital239> <https://w3id.org/asdkb/ontology/dataproperties/city> "西安市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital239> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital239> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "西安工会医院"@zh .
 

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor46> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor46> <https://w3id.org/asdkb/ontology/dataproperties/name> "杨婷"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor46> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor46> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿脑瘫、精神发育迟滞、遗传代谢性疾病、言语障碍、癫痫、行为异常、孤独症等多种疾病的治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor46> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'银川市第一人民医院'"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor8> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童孤独症儿童精神分裂症小儿多动症焦虑症抽动障碍儿童抽动障碍"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor8> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'徐州市东方人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor8> <https://w3id.org/asdkb/ontology/dataproperties/name> "王士勋"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor8> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神二科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor8> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
+

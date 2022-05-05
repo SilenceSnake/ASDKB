@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor112> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor112> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor112> <https://w3id.org/asdkb/ontology/dataproperties/name> "张海强"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor112> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'武汉市妇女儿童医疗保健中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor112> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "	应用中医或高压氧疗法治疗脑瘫、癫痫、部分脑血管病、抽动及注意多动障碍，孤独症、睡眠障碍、哮喘、消化性溃疡、溃疡性结肠炎、肾炎、糖尿病、骨髓炎、视神经萎缩、突发性耳聋、难治性荨麻疹等疾病	"@zh .
+

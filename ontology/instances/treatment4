@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/treatment4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
+<https://w3id.org/asdkb/ontology/instances/treatment4> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Cognitive Behavioral/Instructional Strategies"@en .
+<https://w3id.org/asdkb/ontology/instances/treatment4> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "认知行为干预(CBIS)"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment4> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "通过指导使学习者控制或管理他们的认知过程，使得行为、社交和学业能力得到提升。"@zh .
+

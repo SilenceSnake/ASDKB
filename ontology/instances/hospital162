@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital162> <https://w3id.org/asdkb/ontology/dataproperties/city> "济南市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital162> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "山东第一医科大学第一附属医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital162> <https://w3id.org/asdkb/ontology/dataproperties/address> "济南市经十路16766号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital162> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital162> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0531-82968900(总机),0531-89269995(急救),0531-89268763(病人服务中心),4001880531(客服)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital162> <https://w3id.org/asdkb/ontology/dataproperties/address> "济南市经十路16766号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital162> <https://w3id.org/asdkb/ontology/dataproperties/city> "济南市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 

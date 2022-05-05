@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor260> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京安定医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor260> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '临床心理中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor260> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "1）各种心理疾病（抑郁、双相、焦虑、强迫、惊恐、社交恐怖、躯体形式障碍、进食障碍等神经症）的药物及心理治疗  2）学生心理问题（网瘾、厌学、适应障碍、情绪障碍、多动、人际障碍、阿斯伯格）3）心理咨询（婚姻恋爱情感困惑、职场困惑、心理减压、心理成长）"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor260> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '讲师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor260> <https://w3id.org/asdkb/ontology/dataproperties/name> "黄建军"@zh .
+

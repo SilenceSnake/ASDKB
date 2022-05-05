@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools16question0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools16question0> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "当您喊孩子的名字时，他/她会看您吗？"@zh .
+

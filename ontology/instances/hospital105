@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital105> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "厦门市儿童医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital105> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0592-5696161(咨询),0592-5056161(预约)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital105> <https://w3id.org/asdkb/ontology/dataproperties/city> "厦门市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital105> <https://w3id.org/asdkb/ontology/dataproperties/address> "福建省厦门市湖里区宜宾路92-98号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital105> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "厦门市儿童医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital105> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital105> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0592-5696161(咨询),0592-5056161(预约)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital105> <https://w3id.org/asdkb/ontology/dataproperties/city> "厦门市"@zh .
 

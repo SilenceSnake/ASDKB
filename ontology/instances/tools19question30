@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools19question30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools19question30> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "31. 他一旦开始思考某件事情就无法将它从心里移除"@zh .
+

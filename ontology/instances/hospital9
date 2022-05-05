@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital9> <https://w3id.org/asdkb/ontology/dataproperties/city> "长沙市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital9> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "中南大学湘雅二医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital9> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital9> <https://w3id.org/asdkb/ontology/dataproperties/address> "湖南省长沙市湘雅路87号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital9> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital9> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "中南大学湘雅二医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital9> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "总机：0731-84328888，夜间值班室：0731-84327324 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital9> <https://w3id.org/asdkb/ontology/dataproperties/city> "长沙市"@zh .
 

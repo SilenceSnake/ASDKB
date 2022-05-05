@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/ontology/instances/hospital73> <https://w3id.org/asdkb/ontology/dataproperties/city> "济南市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital73> <https://w3id.org/asdkb/ontology/dataproperties/address> "山东省济南市槐荫区段兴西路4号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital73> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "山东省耳鼻喉医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital73> <https://w3id.org/asdkb/ontology/dataproperties/city> "济南市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital73> <https://w3id.org/asdkb/ontology/dataproperties/address> "山东省济南市槐荫区段兴西路4号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital73> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "400-889-7067"@zh .
 

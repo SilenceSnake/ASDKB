@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital89> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "青岛市妇女儿童医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital89> <https://w3id.org/asdkb/ontology/dataproperties/city> "青岛市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital89> <https://w3id.org/asdkb/ontology/dataproperties/address> "青岛市市北区辽阳西路217号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital89> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0532-68661233(咨询电话)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital89> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital89> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "青岛市妇女儿童医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital89> <https://w3id.org/asdkb/ontology/dataproperties/address> "青岛市市北区辽阳西路217号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital89> <https://w3id.org/asdkb/ontology/dataproperties/city> "青岛市"@zh .
 

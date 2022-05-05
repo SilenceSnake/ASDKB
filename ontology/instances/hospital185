@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/ontology/instances/hospital185> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital185> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0512-80693588(总机),0512-80695102(景德路院区服务台)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital185> <https://w3id.org/asdkb/ontology/dataproperties/city> "苏州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital185> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "苏州大学附属儿童医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital185> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "苏州大学附属儿童医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital185> <https://w3id.org/asdkb/ontology/dataproperties/city> "苏州市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital185> <https://w3id.org/asdkb/ontology/dataproperties/address> "江苏省苏州市苏州工业园区钟南街92"@zh .
 

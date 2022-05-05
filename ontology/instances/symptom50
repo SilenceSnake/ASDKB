@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/symptom50> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom50"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom50> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "lack of proper chewing"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom50> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "缺乏适当的咀嚼 "@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+

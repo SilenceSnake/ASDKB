@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor41> <https://w3id.org/asdkb/ontology/dataproperties/specialty> " 擅长儿童多动症，儿童抽动障碍，孤独症谱系障碍，情绪问题及各种儿童心理疾病的诊治以及儿童心理咨询。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor41> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor41> <https://w3id.org/asdkb/ontology/dataproperties/name> "冯哲"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor41> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor41> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'深圳市妇幼保健院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

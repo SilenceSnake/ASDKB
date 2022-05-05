@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/ontology/instances/tools2question7option1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/option> .
+<https://w3id.org/asdkb/ontology/instances/tools2question7option1> <https://w3id.org/asdkb/ontology/得分> "1"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2question7option1> <https://w3id.org/asdkb/ontology/选项内容> "1"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor192> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor192> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor192> <https://w3id.org/asdkb/ontology/dataproperties/name> "麦坚凝"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor192> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广州市妇女儿童医疗中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor192> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "专长于：1、0~3岁婴幼儿神经发育保健2.、儿童神经发育/脑发育障碍、损伤所导致神经、精神及心理功能障碍疾病的诊断，鉴别诊断，治疗;3、神经发育障碍功能评定、预后评估、针对性治疗方法选择及疗效评估等问题;3、家庭和院外治疗指导。主要专长如下：发热性抽搐、癫痫、非癫痫性发作（打狠，抽动，点头、打挺、睡眠中异常表现等）、“外部性脑积水”、额叶发育不良、脑性瘫痪和运动发育障碍、儿童睡眠障碍、抽动障碍、儿童多动症等诊断治疗。专注于：试管儿、剖腹产、早产儿、高龄产妇儿早期神经发育指导与管理开展如下服务：1．	精准、个体化的45分钟咨询面诊（疾病诊治、疗效评估，发育异常早期预防、家庭训练指导）2．	儿童睡眠障碍诊断、评估及治疗干预指导3．	试管儿、剖腹产、早产儿、高龄产妇儿神经发育指导与管理4．	脑损伤、脑发育障碍诊冶、管理及预后评估5．	儿童颈椎病与脊柱侧弯早期预防与诊治6．	儿童情绪障碍与多动症早期预防与诊治"@zh .
+

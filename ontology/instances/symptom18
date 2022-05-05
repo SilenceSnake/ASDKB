@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom18> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "be specific attachment to unusual, typically non-soft objects"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom18> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom18> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom18"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom18> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对不寻常的、典型的非软性物体有特定的依恋"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+

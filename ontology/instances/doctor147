@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor147> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor147> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广东省人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor147> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "对于青少年学习困难、家庭和人际关系冲突；青少年和成人生活事件带来的心理冲突（如心理创伤、罹患肿瘤等），常见的焦虑抑郁、睡眠障碍、强迫症、社交焦虑、双相情感障碍、老年痴呆症综合医学模式的干预，难以解释的功能性躯体疼痛、查不出原因的躯体不适等疑难疾患具有丰富诊疗经验和心理治疗技能；具有指导解决心理、精神科疑难重症的专业技能；对于心理危机干预有丰富的实践经验；擅长压力与情绪管理、个人和家庭心理治疗、个人心理成长的心理辅导。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor147> <https://w3id.org/asdkb/ontology/dataproperties/name> "谢永标"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor147> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理精神科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

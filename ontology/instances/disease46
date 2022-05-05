@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease46> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "adnp相关的多重先天性异常、智力障碍、孤独症谱系障碍、Helsmoortel-van der Aa综合征;"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/766824003> .
+<https://w3id.org/asdkb/ontology/instances/disease46> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease46> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "活动依赖神经保护器同源框与多种先天性异常、智力残疾、孤独症谱系障碍相关"@en .
+<https://w3id.org/asdkb/ontology/instances/disease46> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease46> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种极其罕见的染色体异常，具有严重的言语和语言延迟、智力缺陷、自闭症谱系障碍等特征。迄今报告的病例不到10例。该综合征是由1号染色体短臂上的半合子间质微缺失引起的，主要是从头发生的，涉及DPYD（二氢嘧啶脱氢酶）和与miRNA途径相关的MIR137基因。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease46> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q87.0"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease46> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "766824003"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease46> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Activity dependent neuroprotector homeobox related multiple congenital anomalies, intellectual disability, autism spectrum disorder (disorder)"@zh .
+

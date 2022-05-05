@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor176> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童心理研究中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor176> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童精神分裂症、心境障碍、情绪障碍、进食障碍、孤独谱系障碍、多动症、抽动症的诊治以及心理治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor176> <https://w3id.org/asdkb/ontology/dataproperties/name> "焦公凯"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor176> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'南京脑科医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor176> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+

@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease48> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症谱系障碍，癫痫，关节挛缩综合征"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease48> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease48> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q87.8"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease48> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "733623005"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease48> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种N-连锁糖基化的先天性疾病，具有远端关节错位（手指轻度屈曲挛缩、远端指骨偏斜、天鹅颈畸形）、后小颌畸形、全身肌肉张力降低、精神运动发育迟缓、，自闭症谱系障碍（言语延迟、言语使用异常、启动、理解和维持社会互动困难、非语言交流有限）、癫痫发作、小头症和随年龄增长而变得明显的轻中度智力残疾。这种疾病是由SLC35A3（1p21）基因突变引起的。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease48> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism spectrum disorder, epilepsy, arthrogryposis syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease48> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症谱系障碍、癫痫、关节挛缩综合征(障碍)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease48> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/733623005> .
+

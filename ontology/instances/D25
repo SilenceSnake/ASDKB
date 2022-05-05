@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/D25> <https://w3id.org/asdkb/ontology/instances/Dataproperties/Chinese_description> "幼儿缺乏共同的社交游戏和想象（例如，与年龄相匹配的灵活的假扮游戏），并且后来坚持按照非常固定的规则进行游戏"@zh .
+

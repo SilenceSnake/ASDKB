@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor205> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor205> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘建军"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor205> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中国康复研究中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor205> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor205> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童脑瘫、发育迟滞、自闭症、孤独症谱系障碍、神经发育迟滞、运动发育落后、智力低下的诊断和康复。肉毒毒素治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

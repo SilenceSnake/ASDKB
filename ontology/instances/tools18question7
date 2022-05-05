@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools18question7> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "8.您的孩子是否必须用特定的方式、顺序或仪式性程序做某些事情，并坚持让您也遵守以上模式(例如，把所有东西排成一排，坚持同一条线路去某个地方等)？"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18question7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor44> <https://w3id.org/asdkb/ontology/dataproperties/name> "鲍建瑾"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor44> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中国人民解放军第455医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor44> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor44> <https://w3id.org/asdkb/ontology/dataproperties/specialty> " 小儿脑瘫、孤独症、脑积水、脑萎缩、脑炎及脑外伤后遗症等病诊断和治疗有丰富的经验。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor44> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

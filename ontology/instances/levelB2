@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/levelB2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/instances/levelB2> <https://w3id.org/asdkb/ontology/instances/Dataproperties/Chinese_description> "水平2“需要多的支持”行为缺乏灵活性，应对改变困难，或其他局限的/重复行为对普通观察者来说看起来足够明显，且影响了不同情况下的功能。改变注意力或行动痛苦/困难"@zh .
+

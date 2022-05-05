@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor57> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor57> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中山市博爱医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor57> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿神经系统常见病及多发病的诊治，小儿智力低下的诊断及处理流程，可以开展各型癫痫，先天性遗传代谢病，肌肉病及神经免疫性疾病等诊断及治疗。开展儿童保健，心理行为指导，及脑瘫康复训练指导。熟悉小儿脑电图及头颅影像学的判读。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor57> <https://w3id.org/asdkb/ontology/dataproperties/name> "张胜"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor57> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿神经内科'"@zh .
+

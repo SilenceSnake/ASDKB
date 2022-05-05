@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor204> <https://w3id.org/asdkb/ontology/dataproperties/name> "胡继红"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor204> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor204> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'湖南省儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor204> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor204> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿神经系统疾病的康复评定与治疗，特别擅长昏迷病人促醒，脑外伤脑炎后功能障碍的康复训练，智力语言发育障碍的康复治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

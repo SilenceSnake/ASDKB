@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor254> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘慧燕"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor254> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广州市妇女儿童医疗中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor254> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor254> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor254> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长儿童生长发育、营养指导，对语言发育迟缓，构音障碍，孤独症，学习困难，多动症等发育行为问题早期诊断和干预有丰富临床经验。"@zh .
+

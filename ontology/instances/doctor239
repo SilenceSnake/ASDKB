@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor239> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor239> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童保健、心理行为、智力及发育障碍的疾病诊治"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor239> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘京媛"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor239> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'西安市儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor239> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor400> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健康复科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor400> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童保健、儿童营养、生长发育、儿科神经、儿童康复和遗传代谢病。如营养缺乏、矮小、多动、抽动、语言发育迟缓、运动障碍、癫痫、脑损伤、脑瘫、智力障碍、孤独症、遗传代谢病、神经疑难病和遗传咨询。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor400> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'济宁市第一人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor400> <https://w3id.org/asdkb/ontology/dataproperties/name> "盛志强"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor400> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+

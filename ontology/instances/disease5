@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease5> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/702732007> .
+<https://w3id.org/asdkb/ontology/instances/disease5> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "High-functioning autism (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease5> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "“高功能孤独症”不是一个正式的医学术语或诊断。这是一些人在谈论患有孤独症谱系障碍的人时使用的非正式用语，他们可以说、读、写，并处理基本的生活技能，比如吃饭和穿衣。他们可以独立生活。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease5> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease5> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "高功能孤独症"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease5> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease5> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "高功能孤独症(障碍)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease5> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "702732007"@zh .
+

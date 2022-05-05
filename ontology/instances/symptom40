@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/symptom40> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a loss of social engagement"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom40> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "社交活动的丧失"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/symptom40> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom40"@zh .
+

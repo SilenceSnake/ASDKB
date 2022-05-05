@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital188> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "大连大学附属中山医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital188> <https://w3id.org/asdkb/ontology/dataproperties/address> "辽宁省大连市中山区解放街6号(总院)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital188> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0411-62893116(服务台),0411-62896671(造船分部)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital188> <https://w3id.org/asdkb/ontology/dataproperties/city> "大连市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital188> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital188> <https://w3id.org/asdkb/ontology/dataproperties/address> "辽宁省大连市中山区解放街6号(总院)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital188> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0411-62893116(服务台),0411-62896671(造船分部)"@zh .
 

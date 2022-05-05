@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/symptom61> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom61"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom61> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "互惠的社会互动、交流"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom61> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom61> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "reciprocal social interactions, communication"@en .
+

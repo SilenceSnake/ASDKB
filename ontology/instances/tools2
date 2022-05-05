@@ -1,0 +1,11 @@
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "孤独症谱系筛查问卷(ASSQ)"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "asq由27个项目组成，以3分制进行评分。这些项目旨在筛查AS和其他自闭症谱系的高功能障碍. "@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/age> "7-16岁"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长, 护工"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/rule> "将所选题目选项分值相加，总分数超过27分说明有可能较大患病，可以考虑前往相关医院进行进一步诊断"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/author> "Ehlers, Gillberg & Wing, 1999"@en .
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/screening_boundary> "27"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism Spectrum Screening Questionnaire"@en .
+<https://w3id.org/asdkb/ontology/instances/tools2> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+

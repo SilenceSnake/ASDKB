@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools0question25> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "与周围的人表现出“冷淡”或疏远(也就是说，没有意识到其他人在场)"@zh .
+

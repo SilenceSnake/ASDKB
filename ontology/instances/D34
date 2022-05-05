@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D34> <https://w3id.org/asdkb/ontology/instances/Dataproperties/Chinese_description> "过度地坚持常规和受限的行为模式可能表现为抗拒改变（例如，对微小的改变感到痛苦，如最喜爱的食物包装；坚持遵守规则；思想僵化）"@zh .
+<https://w3id.org/asdkb/ontology/instances/D34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_repetitive_behavior> .
+

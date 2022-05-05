@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor164> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中国人民解放军总医院第一医学中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor164> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor164> <https://w3id.org/asdkb/ontology/dataproperties/name> "杨光"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor164> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor164> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿癫痫、抽动症、多动症、自闭症、头痛头晕、脑瘫、智力语言落后、神经肌肉病、遗传代谢病及儿童常见病等的诊治。"@zh .
+

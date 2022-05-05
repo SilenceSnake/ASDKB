@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease13> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "AUTS2综合症"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease13> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "771512003"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease13> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autism spectrum disorder due to AUTS2 activator of transcription and developmental regulator deficiency (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease13> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.1"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/771512003> .
+<https://w3id.org/asdkb/ontology/instances/disease13> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种罕见的遗传综合征性智力残疾，其特征是全球发育迟缓，接近严重智力残疾，自闭症谱系障碍伴强迫行为，多动症，但通常性格友好和蔼可亲，进食困难，身材矮小，肌肉张力降低，小头畸形，特征性畸形特征（过度伸长、高拱形眉毛、上睑下垂、深和/或宽鼻梁、宽/突出鼻尖、短和/或中上翘、窄嘴和小颌畸形）和骨骼异常（后凸和/或脊柱侧凸、关节斜视、细长惯习和四肢）。其他临床特征可能包括疝气、先天性心脏缺陷、隐睾和癫痫。由染色体7q11上KIAA0442基因（AUTS2）的杂合基因内拷贝数变异引起。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease13> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease13> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "AUTS2转录激活因子和发育调节因子缺失引起的孤独症谱系障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease13> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+

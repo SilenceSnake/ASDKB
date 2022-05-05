@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor27> <https://w3id.org/asdkb/ontology/dataproperties/name> "代英"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor27> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor27> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'重庆医科大学附属儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor27> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor27> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "孤独症谱系障碍、语言障碍及其相关共患病等的诊治及不良行为管理。"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor369> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'宜春市第三人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor369> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor369> <https://w3id.org/asdkb/ontology/dataproperties/name> "万纯"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor369> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor369> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "精神分裂症、情感障碍、神经症、失眠障碍、司法精神病鉴定、精神疾病评残等"@zh .
+

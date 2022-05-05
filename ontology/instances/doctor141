@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor141> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中国人民解放军总医院第一医学中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor141> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor141> <https://w3id.org/asdkb/ontology/dataproperties/name> "邹丽萍"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor141> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童常见疾病，特别是疑难杂症的诊治等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor141> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿内科'"@zh .
+

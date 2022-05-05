@@ -1,0 +1,9 @@
+<https://w3id.org/asdkb/ontology/instances/tools18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
+<https://w3id.org/asdkb/ontology/instances/tools18> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "社会交往问卷(SCQ)"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18> <https://w3id.org/asdkb/ontology/dataproperties/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18> <https://w3id.org/asdkb/ontology/dataproperties/age> "4岁以上"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Social Communication Questionnaire"@en .
+<https://w3id.org/asdkb/ontology/instances/tools18> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "SCQ以“是”或“否”的形式，由40个项目组成，有两种形式:以发展历史和行为为重点的“一生形式”和以最近3个月的行为为重点的“当前形式”。"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18> <https://w3id.org/asdkb/ontology/dataproperties/author> "Rutter, Bailey, Lord & Berument, 2003"@en .
+

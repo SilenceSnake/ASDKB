@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom9> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom9"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/symptom9> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "假装和社交模仿游戏中的障碍 "@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom9> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom9> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "impairment in make-believe and social imitative play"@en .
+

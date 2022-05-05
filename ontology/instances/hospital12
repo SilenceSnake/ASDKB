@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/ontology/instances/hospital12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital12> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "深圳远东妇儿科医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital12> <https://w3id.org/asdkb/ontology/dataproperties/address> "深圳市罗湖区深南东路2097号 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital12> <https://w3id.org/asdkb/ontology/dataproperties/city> "深圳市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital12> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0755-88808888  港澳/或内直播电话：400-69966669 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital12> <https://w3id.org/asdkb/ontology/dataproperties/address> "深圳市罗湖区深南东路2097号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital12> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "深圳远东妇儿科医院"@zh .
 

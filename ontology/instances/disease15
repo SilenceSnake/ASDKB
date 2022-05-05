@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease15> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/71961003> .
+<https://w3id.org/asdkb/ontology/instances/disease15> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.3"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease15> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "71961003"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease15> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Childhood disintegrative disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease15> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease15> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "儿童崩解性障碍;儿童崩解性障碍;婴幼儿痴呆;崩解性精神病;海勒综合征"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease15> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "儿童崩解障碍是指儿童在3岁或4岁之前发育正常的一种疾病。然后，几个月后，他们失去了语言、运动、社交和其他他们已经学会的技能。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease15> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "儿童解体性障碍(障碍)"@en .
+

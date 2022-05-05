@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools3question25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools3question25> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "26. 我经常发现我不知如何使对话持续下去。"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor392> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '综合科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor392> <https://w3id.org/asdkb/ontology/dataproperties/name> "万毅"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor392> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "记忆认知衰退(痴呆)、重症肌无力、进行性肌营养不良、眩晕头晕、情志病、内科杂病"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor392> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor392> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中国中医科学院西苑医院'"@zh .
+

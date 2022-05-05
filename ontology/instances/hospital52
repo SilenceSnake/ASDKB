@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/ontology/instances/hospital52> <https://w3id.org/asdkb/ontology/dataproperties/city> "佛山市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital52> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "佛山市妇幼保健院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital52> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital52> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "咨询电话：0757-82969789；急救电话：0757-82969993；投诉电话：82969399 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital52> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省佛山市禅城区人民西路11号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital52> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "咨询电话：0757-82969789；急救电话：0757-82969993；投诉电话：82969399 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital52> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital52> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "佛山市妇幼保健院"@zh .
 

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/city> "成都市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/address> "四川省成都市武侯区国学巷37号(本部)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "四川大学华西医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "028-85422114(查号台),028-85422290(门诊办公室)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/address> "四川省成都市武侯区国学巷37号(本部)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "四川大学华西医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital136> <https://w3id.org/asdkb/ontology/dataproperties/city> "成都市"@zh .
 

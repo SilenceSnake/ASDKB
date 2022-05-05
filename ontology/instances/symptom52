@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/symptom52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/symptom52> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "语言能力的严重退化或丧失"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom52> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom52"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom52> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "regression in, or loss of, language"@en .
+

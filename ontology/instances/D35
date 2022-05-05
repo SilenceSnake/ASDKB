@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/D35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/instances/D35> <https://w3id.org/asdkb/ontology/instances/Dataproperties/Chinese_description> "仪式化的言语或非言语的行为模式（例如，重复提问、绕圈踱步）"@zh .
+

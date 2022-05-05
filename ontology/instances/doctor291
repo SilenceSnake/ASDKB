@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor291> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor291> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "高危儿的早期干预，儿童脑性瘫痪、精神发育迟缓、运动障碍、语言发育障碍、颅内感染等儿童神经系统疾病的诊断、康复治疗及康复评估。熟练掌握B超引导下肉毒毒素注射技术，具备欧洲GMs全身运动评估资质。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor291> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor291> <https://w3id.org/asdkb/ontology/dataproperties/name> "黄艳"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor291> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'济南市儿童医院'"@zh .
+

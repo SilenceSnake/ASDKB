@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor166> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理卫生中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor166> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor166> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'华西医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor166> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "各种睡眠障碍、焦虑、抑郁的诊断与治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor166> <https://w3id.org/asdkb/ontology/dataproperties/name> "孙学礼"@zh .
+

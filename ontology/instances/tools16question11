@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools16question11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools16question11> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "当您的孩子要您做一件事时，他经常会把您的手放在相应的物体上吗？（如需要您开门时，把您的手拉着放到门把上或想要您帮他玩玩具时，把您的手放在玩具上）"@zh .
+

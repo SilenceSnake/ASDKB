@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor256> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor256> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童孤独症、自闭症、多动症、抽动症等及儿童期各类精神疾病诊断及治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor256> <https://w3id.org/asdkb/ontology/dataproperties/name> "张纪水"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor256> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神心理科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor256> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+

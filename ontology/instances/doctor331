@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor331> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童心理、精神医学（如：儿童青少年精神分裂症等）"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor331> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '讲师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor331> <https://w3id.org/asdkb/ontology/dataproperties/name> "张久平"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor331> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'南京脑科医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor331> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童心理研究中心'"@zh .
+

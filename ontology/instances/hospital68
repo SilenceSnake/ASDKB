@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital68> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital68> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital68> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市宛平南路725号 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital68> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海龙华医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital68> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-64385700(总机) "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital68> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital68> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
 

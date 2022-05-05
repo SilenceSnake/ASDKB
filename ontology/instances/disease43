@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease43> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发展障碍(障碍)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease43> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease43> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/35919005> .
+<https://w3id.org/asdkb/ontology/instances/disease43> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.9"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease43> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "孤独症谱系障碍;广泛性发展障碍;广泛性发展障碍;"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease43> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "35919005"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease43> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "这组障碍的特点是互惠社会互动和交流模式的质量异常，以及兴趣和活动的局限性、刻板印象和重复性。这些质量异常是个人在所有情况下功能的普遍特征，尽管程度可能不同。在大多数情况下，从婴儿期开始发育异常，只有少数例外情况下，这种情况在生命的前5年变得明显。通常，但并非一成不变的是，存在一定程度的一般认知障碍，但这些障碍是根据与心理年龄相关的异常行为来定义的（无论个体是否智障）。对这一普遍性发育障碍的总体分类存在一些分歧。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease43> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pervasive developmental disorder (disorder)"@zh .
+

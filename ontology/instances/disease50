@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease50> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Isodicentric chromosome 15 syndrome (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease50> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "Q99.8"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease50> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "723332005"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease50> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "等着心15染色体综合征;重复/倒位15q11;倒位重复15染色体"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease50> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种具有独特临床表现的染色体疾病，特征为早期中枢性张力减退、发育迟缓和智力缺陷、癫痫和自闭症行为。面部畸形不存在或很轻微，严重的畸形很少见。这种综合征通常是偶发的，不是遗传的，是由每个细胞中含有镜像基因片段的异常额外染色体引起的。等着心点染色体是由15号染色体上一段遗传物质的两个额外拷贝组成的，这是端对端连接的。通常，这种被复制的遗传物质包括染色体上一个叫做15q11-q13的区域。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease50> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease50> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "等着心15号染色体综合征(紊乱)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/723332005> .
+<https://w3id.org/asdkb/ontology/instances/disease50> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+

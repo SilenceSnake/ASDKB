@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor466> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童青少年心理卫生医疗中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor466> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长对儿童青少年注意力缺陷障碍、多动冲动行为、学习困难、抽动障碍、发育障碍、儿童青少年抑郁、焦虑等情绪问题及精神障碍等相关疾病的诊治，擅长儿童青少年的心理治疗及家庭治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor466> <https://w3id.org/asdkb/ontology/dataproperties/name> "孙雅"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor466> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'内蒙古自治区精神卫生中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor466> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+

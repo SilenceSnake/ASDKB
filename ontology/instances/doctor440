@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor440> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor440> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'海南省妇女儿童医学中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor440> <https://w3id.org/asdkb/ontology/dataproperties/name> "吕洋"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor440> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "脑瘫诊断治疗，高危儿管理，神经阻滞，"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor440> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '副教授'"@zh .
+

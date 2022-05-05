@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor373> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科（小儿神经内科）'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor373> <https://w3id.org/asdkb/ontology/dataproperties/name> "吴满红"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor373> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任技师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor373> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "婴幼儿运动、认知、智力、多动症、自闭症、抽动症、感觉统合能力、步态等神经系统发育的评估；斜颈、脑瘫、足内/外翻的康复治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor373> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广东省妇幼保健院'"@zh .
+

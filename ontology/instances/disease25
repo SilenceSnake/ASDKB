@@ -1,0 +1,9 @@
+<https://w3id.org/asdkb/ontology/instances/disease25> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease25> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease25> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "缺乏功能性语言的普遍性发育障碍； 广泛性发育障碍伴功能性语言缺失；自闭症谱系障碍伴功能性语言缺失"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease25> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease25> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870307006> .
+<https://w3id.org/asdkb/ontology/instances/disease25> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870307006"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease25> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴功能性语言缺失(障碍)"@en .
+

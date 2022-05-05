@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital244> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "二级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital244> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0596-2922933"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital244> <https://w3id.org/asdkb/ontology/dataproperties/address> "福建省漳州市芗城区漳福路30号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital244> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "漳州市芗城区妇幼保健院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital244> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "二级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital244> <https://w3id.org/asdkb/ontology/dataproperties/city> "漳州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital244> <https://w3id.org/asdkb/ontology/dataproperties/address> "福建省漳州市芗城区漳福路30号"@zh .
 

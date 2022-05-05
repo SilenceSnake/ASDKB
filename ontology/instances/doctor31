@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor31> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广州市荔湾中心医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor31> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor31> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童抽动障碍儿童口吃儿童期情绪障碍儿童遗尿症儿童腹痛小儿多动症儿童睡眠障碍儿童孤独症儿童学习能力障碍儿童遗粪症"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor31> <https://w3id.org/asdkb/ontology/dataproperties/name> "岑远松"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor31> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+

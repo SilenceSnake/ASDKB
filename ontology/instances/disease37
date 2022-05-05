@@ -1,0 +1,9 @@
+<https://w3id.org/asdkb/ontology/instances/disease37> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Disorder of psychological development (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease37> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease37> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "870303000"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease37> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease37> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303000> .
+<https://w3id.org/asdkb/ontology/instances/disease37> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发育障碍伴智力发育障碍但未丧失原有的技能(障碍)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease37> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "广泛性发育障碍伴智力发育障碍但未丧失先前获得的技能（障碍）；广泛性发育障碍伴智力发育障碍但未丧失先前获得的技能；自闭症谱系障碍伴智力发育障碍且功能性语言轻度或无损伤 不损失以前获得的技能"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor276> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神卫生科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor276> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "抑郁症、焦虑症、睡眠障碍、精神分裂症、双相情感障碍、脑和躯体疾病所致精神障碍等疾病。尤其擅长情绪、认知障碍和睡眠问题的评估、诊断和治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor276> <https://w3id.org/asdkb/ontology/dataproperties/name> "徐勇"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor276> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'山西医科大学第一医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor276> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+

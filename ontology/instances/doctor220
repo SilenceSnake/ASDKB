@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor220> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor220> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor220> <https://w3id.org/asdkb/ontology/dataproperties/name> "袁向东"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor220> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿神经系统疾病，特别是癫痫、脑瘫、自闭症等，小儿呼吸（哮喘），小儿消化（胃炎，腹泻）等"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor220> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'商丘市第一人民医院'"@zh .
+

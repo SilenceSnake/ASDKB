@@ -1,0 +1,9 @@
+<https://w3id.org/asdkb/ontology/instances/disease16> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "活动性分裂性精神病(障碍)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/191692007> .
+<https://w3id.org/asdkb/ontology/instances/disease16> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "积极使分裂的精神病"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease16> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease16> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease16> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Active disintegrative psychoses (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease16> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "191692007"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease16> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.3"@zh .
+

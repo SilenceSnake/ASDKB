@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor393> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor393> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心身医学科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor393> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "心身疾病、性心理、儿童行为等各种心理障碍以及神经衰弱，睡眠障碍;缺陷多动综合征;神经性厌食和焦虑症、强迫症、恐怖症、抑郁症、精神分列症、癔症等病"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor393> <https://w3id.org/asdkb/ontology/dataproperties/name> "袁也丰"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor393> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'南昌大学第一附属医院'"@zh .
+

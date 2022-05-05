@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor279> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'杭州市第七人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor279> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor279> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "多动症、自闭症、儿童青少年情绪障碍、焦虑症、抽动症、精神障碍等"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor279> <https://w3id.org/asdkb/ontology/dataproperties/name> "简凤清"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor279> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童心理科'"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor36> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'康正医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor36> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor36> <https://w3id.org/asdkb/ontology/dataproperties/name> "蔡文缔"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor36> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '门诊部'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor36> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童精神分裂症儿童期精神障碍及精神发育迟缓儿童腹痛小儿多动症儿童睡眠障碍儿童孤独症儿童学习能力障碍儿童口吃儿童抽动障碍儿童遗粪症"@zh .
+

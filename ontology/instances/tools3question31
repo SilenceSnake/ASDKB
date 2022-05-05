@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools3question31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools3question31> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "32. 同时做两样以上的事情对我来说是容易的。"@zh .
+

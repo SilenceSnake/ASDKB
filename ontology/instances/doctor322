@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor322> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "长期从事小儿脑瘫的病因学及早期诊断的研究，擅长小儿脑损伤、脑瘫、语言障碍、孤独症、各种发育迟缓（运动、认知、语言、社交等）、异常姿势：斜颈、膝内翻（o型腿）、膝外翻（x型腿）、足内翻、足外翻、足尖旋内（内八字）、足尖旋外（外八字）及其它神经伤残疾病的诊断及康复治疗工作。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor322> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor322> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'河南省儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor322> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor322> <https://w3id.org/asdkb/ontology/dataproperties/name> "尚清"@zh .
+

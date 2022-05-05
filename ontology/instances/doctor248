@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor248> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'深圳市儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor248> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor248> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor248> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "多动症、自闭症、学习困难、语言障碍等神经发育障碍的诊断和治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor248> <https://w3id.org/asdkb/ontology/dataproperties/name> "杨斌让"@zh .
+

@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question47> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "演示大肌肉运动技能方面的困难(例如，投球、接球、奔跑、跳跃等困难)"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools0question47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

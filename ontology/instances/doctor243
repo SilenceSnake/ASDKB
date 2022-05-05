@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor243> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor243> <https://w3id.org/asdkb/ontology/dataproperties/name> "王晓慧"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor243> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor243> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor243> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿癫痫病、热性惊厥、儿童发育障碍、小儿多动症、抽动症、小儿神经系统常见病"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

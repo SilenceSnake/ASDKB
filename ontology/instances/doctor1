@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor1> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "脑血管疾病、痴呆和孤独症。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor1> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'武汉大学中南医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor1> <https://w3id.org/asdkb/ontology/dataproperties/name> "张洪"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor1> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor1> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

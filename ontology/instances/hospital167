@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital167> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-83177190(门诊预约),020-83062114(总机),020-83337750(咨询),020-83062002(挂号),020-34294311(海印分院)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital167> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州医科大学附属第一医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital167> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital167> <https://w3id.org/asdkb/ontology/dataproperties/address> "广州市越秀区沿江西路151号(沿江院区)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital167> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital167> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-83177190(门诊预约),020-83062114(总机),020-83337750(咨询),020-83062002(挂号),020-34294311(海印分院)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital167> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital167> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州医科大学附属第一医院"@zh .
 

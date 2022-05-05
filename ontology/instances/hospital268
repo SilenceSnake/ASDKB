@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital268> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital268> <https://w3id.org/asdkb/ontology/dataproperties/city> "南京市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital268> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "南京医科大学附属逸夫医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital268> <https://w3id.org/asdkb/ontology/dataproperties/address> "江苏省南京市江宁区龙眠大道109号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital268> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "南京医科大学附属逸夫医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital268> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "025-87115777(总机),025-87115710(门诊服务台),025-87115509(院办)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital268> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
 

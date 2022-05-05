@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom11> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "poor flexibility in language expression"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/symptom11> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom11> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "语言表达的灵活性差"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom11> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom11"@zh .
+

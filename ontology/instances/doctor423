@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor423> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'大连大学附属中山医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor423> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "自闭症（孤独症）、注意力缺陷多动障碍、学习障碍、抽动症、矮小症等儿童发育行为和心理问题的评估，诊断和治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor423> <https://w3id.org/asdkb/ontology/dataproperties/name> "于晓辉"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor423> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor423> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+

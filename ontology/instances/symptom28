@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom28> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom28> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "自我损伤"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom28> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "Self-injury "@en .
+<https://w3id.org/asdkb/ontology/instances/symptom28> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom28"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor428> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor428> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京市大兴区心康医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor428> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "精神分裂症，双相情感障碍，抑郁症，物质成瘾，儿童心理行为问题，孤独症，多动症"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor428> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor428> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘永翼"@zh .
+

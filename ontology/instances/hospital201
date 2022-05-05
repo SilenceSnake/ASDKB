@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital201> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0594-8982060(咨询预约),0594-2298734(咨询预约)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital201> <https://w3id.org/asdkb/ontology/dataproperties/city> "莆田市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital201> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "莆田市第一医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital201> <https://w3id.org/asdkb/ontology/dataproperties/address> "福建省莆田市城厢区龙德井389号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital201> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital201> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0594-8982060(咨询预约),0594-2298734(咨询预约)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital201> <https://w3id.org/asdkb/ontology/dataproperties/city> "莆田市"@zh .
 

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor179> <https://w3id.org/asdkb/ontology/dataproperties/name> "徐健"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor179> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中国福利会国际和平妇幼保健院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor179> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor179> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿保门诊'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor179> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长儿童保健及发育行为儿科门诊中常见疾病，如营养问题（微量营养素缺乏、贫血、营养不良、佝偻病等）、重金属暴露（儿童铅、汞暴露）、智能发育迟缓（包括语言发育迟缓）、儿童多动症、情绪行为问题（抽动、咬指甲等）、睡眠问题、儿童喂养和进食问题、儿童生长发育相关问题的诊治和预防等方面诊治经验丰富 。"@zh .
+

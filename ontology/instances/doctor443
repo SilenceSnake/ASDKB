@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor443> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor443> <https://w3id.org/asdkb/ontology/dataproperties/name> "王亚军"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor443> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'莆田市第一医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor443> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor443> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "脑卒中后遗症、偏瘫、截瘫，生长发育迟缓、小儿脑性瘫痪、孤独症、多动症、抽动症及语言发育迟缓、构音障碍的诊断和治疗。"@zh .
+

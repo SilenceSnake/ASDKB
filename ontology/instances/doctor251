@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor251> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈军"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor251> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长脑性瘫痪、癫痫、精神发育迟滞及其他神经系统疾病的规范化诊疗，尤其儿童神经发育诊断、脑瘫共患病及其早期康复管理、脑瘫患儿临床下癫痫样放电的监测与管理、癫痫的诊断与规范化治疗等方面。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor251> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor251> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor251> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'青岛市妇女儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

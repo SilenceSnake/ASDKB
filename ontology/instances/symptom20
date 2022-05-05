@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom20> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom20"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom20> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "be stereotyped preoccupations with interests such as dates, routes or timetables"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom20> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对日期、路线或时间表等兴趣有刻板印象 "@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom20> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+

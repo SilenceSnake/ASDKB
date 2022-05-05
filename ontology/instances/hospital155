@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "哈尔滨医科大学附属第一医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/address> "哈尔滨市南岗区大直街199号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/city> "哈尔滨市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0451-85556000(总机)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/address> "哈尔滨市南岗区大直街199号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/city> "哈尔滨市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0451-85556000(总机)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital155> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "哈尔滨医科大学附属第一医院"@zh .
 

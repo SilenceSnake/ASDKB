@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor193> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿脑瘫的早期诊断、早期干预，小儿癫痫、各种惊厥及发作性疾病、颅内感染、小儿的各种头痛、多发性抽动症等神经科疾病，以及其它内科疾病的诊治"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor193> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor193> <https://w3id.org/asdkb/ontology/dataproperties/name> "肖农"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor193> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'重庆医科大学附属儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor193> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+

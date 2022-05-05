@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital47> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市静安区乌鲁木齐中路12号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital47> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "复旦大学附属华山医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital47> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital47> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital47> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital47> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "复旦大学附属华山医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital47> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-52889999 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital47> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市静安区乌鲁木齐中路12号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 

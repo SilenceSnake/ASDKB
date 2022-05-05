@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital214> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "赣州市妇幼保健院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital214> <https://w3id.org/asdkb/ontology/dataproperties/address> "赣州市章贡区大公路106号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital214> <https://w3id.org/asdkb/ontology/dataproperties/city> "赣州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital214> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital214> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0797-8282022(医务科),0797-8222258(保健热线),0797-8282129(导诊台)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital214> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital214> <https://w3id.org/asdkb/ontology/dataproperties/address> "赣州市章贡区大公路106号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital214> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "赣州市妇幼保健院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/treatment13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
+<https://w3id.org/asdkb/ontology/instances/treatment13> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Music-Mediated Intervention"@en .
+<https://w3id.org/asdkb/ontology/instances/treatment13> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "音乐中介疗法(MMI)"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment13> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "结合歌曲、旋律或节奏的干预，帮助学习者习得目标行为，包括音乐治疗，和其他结合音乐的帮助达到目标行为的方法。"@zh .
+

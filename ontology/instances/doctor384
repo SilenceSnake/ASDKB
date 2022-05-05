@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor384> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor384> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor384> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'辽宁省中医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor384> <https://w3id.org/asdkb/ontology/dataproperties/name> "汪淑艳"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor384> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿科常见病和疑难病：癫痫、多动症、抽动秽语综合征、孤独症、急慢性肾炎、肾病、紫癜、哮喘、肺炎、厌食症"@zh .
+

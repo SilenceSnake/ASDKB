@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor425> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor425> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理咨询科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor425> <https://w3id.org/asdkb/ontology/dataproperties/name> "张素娟"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor425> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "亲子关系 ，夫妻关系，抑郁症 强迫症 焦虑症，恐怖症，厌学症，学习困难等"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor425> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'益都中心医院'"@zh .
+

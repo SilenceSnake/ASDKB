@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/ontology/instances/hospital7> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "徐州市东方人民医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital7> <https://w3id.org/asdkb/ontology/dataproperties/address> "江苏省徐州市云龙区东甸子"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital7> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0516-83447100，0516-83462422 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital7> <https://w3id.org/asdkb/ontology/dataproperties/address> "江苏省徐州市云龙区东甸子"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital7> <https://w3id.org/asdkb/ontology/dataproperties/city> "徐州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital7> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "徐州市东方人民医院"@zh .
 

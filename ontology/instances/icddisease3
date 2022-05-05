@@ -1,0 +1,8 @@
+<https://w3id.org/asdkb/ontology/instances/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种原因不明的疾病，目前仅在女孩中报道，根据特征性的发病、病程和症状模式进行了区分。通常情况下，在明显正常或接近正常的早期发育之后，会部分或完全丧失获得的手部技能和语言能力，并伴有头部生长减速，通常在7到24个月之间发病。"@zh .
+<https://w3id.org/asdkb/ontology/instances/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "女孩"@zh .
+<https://w3id.org/asdkb/ontology/instances/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Rett's syndrome"@zh .
+<https://w3id.org/asdkb/ontology/instances/icddisease3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.2> .
+<https://w3id.org/asdkb/ontology/instances/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.2"@zh .
+<https://w3id.org/asdkb/ontology/instances/icddisease3> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "Rett综合征"@en .
+

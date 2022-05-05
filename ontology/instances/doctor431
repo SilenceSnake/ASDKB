@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor431> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "神经系统遗传病、癫痫诊断及药物治疗、癫痫术前评估、小脑萎缩、多系统萎缩、脑炎、运动神经元病、脑血管病、帕金森病、焦虑症、抑郁症、失眠、抽动症、痴呆等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor431> <https://w3id.org/asdkb/ontology/dataproperties/name> "王梦阳"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor431> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'首医大三博脑科医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor431> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor431> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor159> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童喂养困难、营养不良、睡眠问题、生长迟缓、身材矮小、学习困难、注意缺陷多动障碍、孤独症谱系障碍、语言发育迟缓、抽动症等"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor159> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor159> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor159> <https://w3id.org/asdkb/ontology/dataproperties/name> "金志娟"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor159> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海儿童医学中心'"@zh .
+

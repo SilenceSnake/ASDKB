@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor126> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor126> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "对儿科各种疑难病症有独道见解。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor126> <https://w3id.org/asdkb/ontology/dataproperties/name> "张春瑞"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor126> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'秦皇岛市妇幼保健院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor126> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
+

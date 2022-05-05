@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital216> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京回龙观医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital216> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市昌平区回龙观镇南店北路"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital216> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital216> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京回龙观医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital216> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital216> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-83024000(总机),010-62716287(院办)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital216> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市昌平区回龙观镇南店北路"@zh .
 

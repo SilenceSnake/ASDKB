@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital235> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital235> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0771-3322794(院办)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital235> <https://w3id.org/asdkb/ontology/dataproperties/city> "南宁市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital235> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital235> <https://w3id.org/asdkb/ontology/dataproperties/address> "广西壮族自治区南宁市兴宁区邕武路7号"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital235> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "南宁市第五人民医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital235> <https://w3id.org/asdkb/ontology/dataproperties/address> "广西壮族自治区南宁市兴宁区邕武路7号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital235> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0771-3322794(院办)"@zh .
 

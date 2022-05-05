@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor154> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor154> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor154> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "婴幼儿生长发育及精神发育评估及其早期干预与治疗；儿童孤独症的诊断及行为指导；矮小的诊治；婴幼儿喂养与营养；特殊儿童免疫规划；常见营养性疾病的诊断及治疗等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor154> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘莉"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor154> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京儿童医院'"@zh .
+

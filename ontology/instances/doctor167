@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor167> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor167> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor167> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "抑郁症、精神分裂症、焦虑症，早期精神心理和行为异常、双相情感障碍（躁郁症）、失眠症、社交恐惧症；青少年情绪、行为问题的诊疗；各种心理障碍的鉴别诊断和认知行为心理治疗。临床特色：精神疾病全病程综合精神心理康复培训、心理咨询。尤其擅长抑郁症、焦虑症和精神分裂症及其他精神病性障碍的诊疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor167> <https://w3id.org/asdkb/ontology/dataproperties/name> "郑英君"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor167> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广州医科大学附属脑科医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

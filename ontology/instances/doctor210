@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor210> <https://w3id.org/asdkb/ontology/dataproperties/name> "程文红"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor210> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor210> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童青少年精神科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor210> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海市精神卫生中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor210> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童青少年发育、注意缺陷与多动、人际、焦虑抑郁等行为与情绪问题、亲子关系、以及精神病性障碍的诊断与综合治疗；成年人焦虑、抑郁、强迫等情绪问题与障碍，以及睡眠障碍诊治。"@zh .
+

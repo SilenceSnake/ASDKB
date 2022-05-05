@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools0question34> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "使用不寻常的语言模式，过于精确和迂腐(比如，说话像“小教授”)，或者说话方式单调乏味"@zh .
+

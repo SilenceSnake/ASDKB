@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor352> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '中医科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor352> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor352> <https://w3id.org/asdkb/ontology/dataproperties/name> "余平波"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor352> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长以中医特色（针灸、中药、推拿）治疗小儿抽动症，多动症，脑瘫、发育迟缓，遗尿，鼻炎，小儿假性近视等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor352> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海儿童医学中心'"@zh .
+

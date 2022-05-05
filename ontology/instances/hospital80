@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital80> <https://w3id.org/asdkb/ontology/dataproperties/city> "西安市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital80> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital80> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "第四军医大学西京医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital80> <https://w3id.org/asdkb/ontology/dataproperties/address> "陕西省西安市长乐西路15号 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital80> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "029-84775507 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital80> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "第四军医大学西京医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital80> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital80> <https://w3id.org/asdkb/ontology/dataproperties/city> "西安市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 

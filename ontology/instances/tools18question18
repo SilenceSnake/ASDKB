@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools18question18> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "19.您的孩子是否有一个或几个要好的朋友？"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18question18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

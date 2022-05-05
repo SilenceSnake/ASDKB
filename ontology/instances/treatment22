@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/treatment22> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "通过集体或个人指导使学习者习得恰当的和成功的与他人互动的技能。"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment22> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "社交技能训练(SST)"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment22> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Social Skills Training"@en .
+<https://w3id.org/asdkb/ontology/instances/treatment22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
+

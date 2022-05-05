@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools3question35> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "36. 我可以看别人的表情就轻易地猜出他们的想法或感觉。"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools3question35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

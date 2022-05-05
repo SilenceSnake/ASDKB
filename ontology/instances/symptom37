@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/symptom37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
+<https://w3id.org/asdkb/ontology/instances/symptom37> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "经常出现过度换气"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom37> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom37"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom37> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "often episodes of hyperventilation"@en .
+

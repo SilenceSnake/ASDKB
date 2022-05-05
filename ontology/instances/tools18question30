@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools18question30> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "32.在您的孩子4-5岁时(或过去一年中)，如果他/她需要某些东西或需要帮助时，他/她是否会看着您并使用手势及声音或言语来引起您的注意？"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18question30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0632-8076238,0632-8076112"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "枣庄市立第二医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/address> "山东省枣庄市市中区汇泉路6号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/city> "枣庄市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0632-8076238,0632-8076112"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/city> "枣庄市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/address> "山东省枣庄市市中区汇泉路6号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital220> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "枣庄市立第二医院"@zh .
 

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor102> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广西壮族自治区人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor102> <https://w3id.org/asdkb/ontology/dataproperties/name> "傅燕虹"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor102> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童青少年心理门诊'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor102> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor102> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "注意缺陷多动障碍/ADHD(多动症)、智力发育障碍、孤独症谱系障碍、特殊学习障碍、抽动障碍、痴呆、失眠障碍、嗜睡障碍、发作性睡病、睡眠呼吸障碍、异态睡眠(梦游症等)、遗尿症、抑郁障碍、焦虑障碍等认知、睡眠障碍的诊治。"@zh .
+

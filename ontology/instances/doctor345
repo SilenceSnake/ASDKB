@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor345> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童脑性瘫痪、智力低下、儿童孤独症等儿童神经系统疾病的诊断治疗评估"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor345> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor345> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿康复科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor345> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor345> <https://w3id.org/asdkb/ontology/dataproperties/name> "颜华"@zh .
+

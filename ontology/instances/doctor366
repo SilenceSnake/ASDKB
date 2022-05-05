@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor366> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海儿童医学中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor366> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor366> <https://w3id.org/asdkb/ontology/dataproperties/title> "'心理咨询师', '副研究员'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor366> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童心理行为问题：亲子冲突、人际问题、学校适应不良、学习问题、问题行为、情绪问题（抑郁、焦虑和恐惧等）、强迫、创伤和应激、喂食或进食问题、肥胖、个性问题、发育问题（自闭症、多动症和抽动症等）、成瘾问题，以及性心理问题等；儿童行为睡眠问题：睡眠抗拒、入睡困难、夜醒、夜惊、梦游、睡眠不卫生、失眠，以及婴幼儿睡眠训练等；成人心理和睡眠问题： 孕期压力、产后抑郁、失眠、情绪情感问题、强迫、人际交往和沟通、创伤和应激、学校和职业适应，以及个人成长等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor366> <https://w3id.org/asdkb/ontology/dataproperties/name> "王广海"@zh .
+

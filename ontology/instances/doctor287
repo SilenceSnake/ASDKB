@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor287> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "语言发育迟缓，孤独谱系障碍，智力低下，运动发育落后等"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor287> <https://w3id.org/asdkb/ontology/dataproperties/name> "赵晓科"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor287> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'南京医科大学附属儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor287> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor287> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '副教授'"@zh .
+

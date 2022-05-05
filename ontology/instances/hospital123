@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/ontology/instances/hospital123> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital123> <https://w3id.org/asdkb/ontology/dataproperties/city> "六安市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital123> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "皖西卫生职业学院附属医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital123> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0564-3309569(办公室)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital123> <https://w3id.org/asdkb/ontology/dataproperties/address> "六安市磨子潭路73号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital123> <https://w3id.org/asdkb/ontology/dataproperties/city> "六安市"@zh .
 

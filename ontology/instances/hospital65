@@ -1,6 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/hospital65> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "杭州博爱医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital65> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0571-56079678 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital65> <https://w3id.org/asdkb/ontology/dataproperties/address> "杭州市湖墅南路138号  "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital65> <https://w3id.org/asdkb/ontology/dataproperties/city> "杭州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital65> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "杭州博爱医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital65> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0571-56079678 "@zh .
 

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/symptom54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
+<https://w3id.org/asdkb/ontology/instances/symptom54> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a loss of bowel or bladder control"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom54> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom54"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom54> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "肠道或膀胱控制能力的丧失"@zh .
+

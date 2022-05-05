@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital209> <https://w3id.org/asdkb/ontology/dataproperties/address> "河南省新乡市牧野区前进路207号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital209> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0373-3373990(咨询),0373-3373894(咨询),0373-3373995(急诊科)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital209> <https://w3id.org/asdkb/ontology/dataproperties/city> "新乡市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital209> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "新乡医学院第二附属医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital209> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital209> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0373-3373990(咨询),0373-3373894(咨询),0373-3373995(急诊科)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital209> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "新乡医学院第二附属医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital209> <https://w3id.org/asdkb/ontology/dataproperties/address> "河南省新乡市牧野区前进路207号"@zh .
 

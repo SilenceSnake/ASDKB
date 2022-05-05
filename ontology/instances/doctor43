@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor43> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中山大学附属第三医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor43> <https://w3id.org/asdkb/ontology/dataproperties/name> "李咏梅"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor43> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor43> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor43> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童保健（婴幼儿喂养指导、生长发育评估等），儿童发育于行为咨询以及相关疾病（多动症、孤独症、阿斯伯格综合症等）的诊治"@zh .
+

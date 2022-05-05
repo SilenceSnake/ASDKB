@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools18question3> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "4.您的孩子是否会提出与社交场合不符的问题或评论？例如，他/她是否经常询问别人的私事或在不恰当的时候发表自己的评论？"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18question3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

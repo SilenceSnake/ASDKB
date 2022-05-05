@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor486> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长小儿脑瘫物理治疗及早期教育"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor486> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'青岛市妇女儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor486> <https://w3id.org/asdkb/ontology/dataproperties/title> "'', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor486> <https://w3id.org/asdkb/ontology/dataproperties/name> "王淑婷"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor486> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复科'"@zh .
+

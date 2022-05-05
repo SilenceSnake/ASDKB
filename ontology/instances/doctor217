@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor217> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor217> <https://w3id.org/asdkb/ontology/dataproperties/name> "徐莉"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor217> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "心理治疗、沙盘游戏治疗，失眠、抑郁症、焦虑症、精神分裂症等精神疾病的药物治疗。研究方向为儿童青少年精神心理障碍以及睡眠障碍、情绪障碍的心理治疗及药物治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor217> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'昆明医科大学第二附属医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor217> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', '讲师'"@zh .
+

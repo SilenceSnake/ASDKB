@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital218> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0591-83616161(免费预约咨询电话),0591-83322708"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital218> <https://w3id.org/asdkb/ontology/dataproperties/city> "福州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital218> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital218> <https://w3id.org/asdkb/ontology/dataproperties/address> "福建省福州市鼓楼区八一七中路145号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital218> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0591-83616161(免费预约咨询电话),0591-83322708"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital218> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital218> <https://w3id.org/asdkb/ontology/dataproperties/city> "福州市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital218> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "福建省福州儿童医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 

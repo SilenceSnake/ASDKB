@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools16question22> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "您的孩子会反复旋弄物品吗？（如，细绳） "@zh .
+<https://w3id.org/asdkb/ontology/instances/tools16question22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

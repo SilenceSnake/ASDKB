@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools16question14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools16question14> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "如果您或家里的其他人明显地不开心时，您的孩子会表现出想要安慰他们吗？（如摸摸他们的头发，拥抱他们）"@zh .
+

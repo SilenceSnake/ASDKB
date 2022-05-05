@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor492> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "性早熟、矮小症、抽动症、肥胖等疾病的诊断与治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor492> <https://w3id.org/asdkb/ontology/dataproperties/name> "吴炳辉"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor492> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor492> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿内分泌与遗传代谢科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor492> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'漳州市芗城区妇幼保健院'"@zh .
+

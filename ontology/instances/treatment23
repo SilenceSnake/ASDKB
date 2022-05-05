@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/treatment23> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "将一个复杂的任务分解成很多小的任务，让学习者一步步进行学习。"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment23> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "任务分析(TA)"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
+<https://w3id.org/asdkb/ontology/instances/treatment23> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Task Analysis"@en .
+

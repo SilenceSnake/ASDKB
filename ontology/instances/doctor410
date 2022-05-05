@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor410> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿心理卫生科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor410> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'青岛市妇女儿童医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor410> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童多动症、抽动症、学习困难、儿童孤独症、情绪问题、适应不良等心理行为问题的咨询与治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor410> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor410> <https://w3id.org/asdkb/ontology/dataproperties/name> "冀永娟"@zh .
+

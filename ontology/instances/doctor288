@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor288> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor288> <https://w3id.org/asdkb/ontology/dataproperties/name> "杨小凡"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor288> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor288> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小脑疾病、神经系统发育疾病、癫痫、孤独症"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor288> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'山东大学齐鲁医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

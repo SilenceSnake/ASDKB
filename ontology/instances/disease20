@@ -1,0 +1,9 @@
+<https://w3id.org/asdkb/ontology/instances/disease20> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "708037001"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease20> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "残余阿斯伯格综合症"@en .
+<https://w3id.org/asdkb/ontology/instances/disease20> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease20> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Residual Asperger's disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease20> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "残余阿斯伯格症;残余阿斯伯格症;轻度阿斯伯格症见于成人;"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease20> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.5"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/708037001> .
+<https://w3id.org/asdkb/ontology/instances/disease20> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+

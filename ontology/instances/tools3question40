@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools3question40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools3question40> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "41. 我喜欢收集事物类别的相关资讯(例如：有关车类、鸟类、火车类或植物类的资讯) 。"@zh .
+

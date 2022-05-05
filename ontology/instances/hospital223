@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/address> "河北省衡水市新华路485号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/city> "衡水市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "衡水市第四人民医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "衡水市第四人民医院"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/address> "河北省衡水市新华路485号"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/city> "衡水市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital223> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0318-2173754(办公室),0318-2180120(急诊)"@zh .
 

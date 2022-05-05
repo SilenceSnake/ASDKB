@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市虹口区武进路85号(北部)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海市第一人民医院（北部）"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-63240090(总机),021-63240090-5218(咨询台)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海市第一人民医院（北部）"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市虹口区武进路85号(北部)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital255> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 

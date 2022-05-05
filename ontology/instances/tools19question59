@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools19question59> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "60. 在情感上是疏离的，不展现他的感受"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools19question59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

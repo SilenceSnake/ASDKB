@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor305> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "成人心理咨询与治疗；青少年心理、情绪、行为问题疏导及发展指导；儿童孤独症、抽动症、多动症等各种精神障碍的诊断与治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor305> <https://w3id.org/asdkb/ontology/dataproperties/name> "李知"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor305> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor305> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor305> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'长春市第六医院'"@zh .
+

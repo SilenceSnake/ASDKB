@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor328> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor328> <https://w3id.org/asdkb/ontology/dataproperties/name> "文海斌"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor328> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿危重症急救、小儿心脏病，儿科综合，儿童保健，行为发育问题。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor328> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中石油中心医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor328> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科综合'"@zh .
+

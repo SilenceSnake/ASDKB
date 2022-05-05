@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/ontology/instances/hospital66> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital66> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省广州市黄埔区港湾路621号 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital66> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-82152464，020-82152462，020-82153120 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital66> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州医科大学附属第三医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital66> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital66> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省广州市黄埔区港湾路621号 "@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital66> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州医科大学附属第三医院"@zh .
 

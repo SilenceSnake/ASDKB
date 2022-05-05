@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor269> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中日医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor269> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor269> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor269> <https://w3id.org/asdkb/ontology/dataproperties/name> "叶芳"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor269> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长儿童生长发育，睡眠咨询，母乳喂养及辅食添加咨询，儿童常见病的诊治，免疫接种咨询。"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor255> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神卫生科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor255> <https://w3id.org/asdkb/ontology/dataproperties/name> "贾军朴"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor255> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童发育障碍、情绪障碍、多动症、抽动障碍、精神分裂症、情感障碍等常见精神疾病的诊疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor255> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'清华大学玉泉医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor255> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+

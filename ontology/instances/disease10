@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/770790004> .
+<https://w3id.org/asdkb/ontology/instances/disease10> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "770790004"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease10> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease10> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease10> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "发育迟缓伴孤独症谱系障碍和步态不稳(障碍)"@en .
+<https://w3id.org/asdkb/ontology/instances/disease10> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "发育迟缓伴孤独症谱系障碍和步态不稳;"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease10> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Developmental delay with autism spectrum disorder and gait instability (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease10> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0;R26.8;F89"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease10> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种罕见的遗传性神经系统疾病，其特征为婴儿张力过低和喂养困难、全身发育迟缓、轻度至中度智力残疾、独立行走迟缓、手臂伸直并在肘部弯曲、走路或跑步轻快以及语言能力有限。行为模式是高度可变的，范围从社交和亲昵到孤独症。由染色体15q13上HERC2基因的纯合突变引起。"@zh .
+

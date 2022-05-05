@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor153> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "焦虑症、强迫症等神经症、抑郁症、精神病诊疗康复。心理创伤等心理咨询"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor153> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor153> <https://w3id.org/asdkb/ontology/dataproperties/name> "何鸣"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor153> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor153> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
+

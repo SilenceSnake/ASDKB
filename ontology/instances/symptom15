@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom15> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a similar lack of accompanying gesture to provide emphasis or aid meaning in spoken communication"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom15> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "在口语交际中，缺乏强调或辅助意义的手势"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom15> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom15"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/ontology/instances/symptom15> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom5> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "社交、情感和交际行为的统一性差"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom5> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom5"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom5> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom5> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a weak integration of social, emotional, and communicative behaviours"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+

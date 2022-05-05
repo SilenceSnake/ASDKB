@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor458> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', '讲师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor458> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "脑瘫 ，脑萎缩  ，脑发育不良，运动障碍，发育迟缓 ，高危儿早期干预 ，精神发育迟滞，孤独症，语言障碍，构音障碍，"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor458> <https://w3id.org/asdkb/ontology/dataproperties/name> "李二伟"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor458> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北部战区总医院和平院区'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor458> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+

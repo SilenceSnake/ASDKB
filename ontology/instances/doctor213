@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor213> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神卫生中心'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor213> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'武汉大学人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor213> <https://w3id.org/asdkb/ontology/dataproperties/name> "白雪光"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor213> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童精神障碍、儿童情绪与行为障碍、儿童与青少年心理障碍的诊治、抽动症"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor213> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
+

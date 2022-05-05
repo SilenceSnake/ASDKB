@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor342> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor342> <https://w3id.org/asdkb/ontology/dataproperties/name> "郑朝光"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor342> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor342> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'浙江大学医学院附属第二医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor342> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "省级三甲医院资深儿科医生。20多年儿科临床经历。积极推崇儿科的规范化诊疗。擅长新生儿，呼吸，消化，神经系统等疾病。尤其新生儿，抽动症，孤独症有深入研究。"@zh .
+

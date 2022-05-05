@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital170> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京中医药大学东直门医院"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital170> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市东城区海运仓"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital170> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-84013276(对外咨询),010-84012662(国际部门诊咨询),010-80816655(东区总机)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital170> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital170> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital170> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-84013276(对外咨询),010-84012662(国际部门诊咨询),010-80816655(东区总机)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital170> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京中医药大学东直门医院"@zh .
 

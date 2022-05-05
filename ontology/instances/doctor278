@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor278> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'皖西卫生职业学院附属医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor278> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "孤独症，多动症，语言发育迟缓，智力发育障碍，发育迟缓，小儿脑瘫、小儿斜颈，感统失调儿童的评估和诊疗等。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor278> <https://w3id.org/asdkb/ontology/dataproperties/name> "郑世柱"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor278> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor278> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复科'"@zh .
+

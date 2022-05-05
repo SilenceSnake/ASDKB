@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools18question15> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "16.您的孩子是否曾做过复杂的全身动作，例如不停地旋转或反复跳上跳下等动作？"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools18question15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/ontology/instances/treatment21> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Social Narratives"@en .
+<https://w3id.org/asdkb/ontology/instances/treatment21> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "描述一个社交情景，在其中突出目标行为的特征，或者提供正确反应的例子。"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment21> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "社交故事(SN)"@zh .
+<https://w3id.org/asdkb/ontology/instances/treatment21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/ontology/instances/symptom2> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对他人情绪缺乏反应"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom2> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom2> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a lack of responses to other people's emotions"@en .
+<https://w3id.org/asdkb/ontology/instances/symptom2> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom2"@zh .
+<https://w3id.org/asdkb/ontology/instances/symptom2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
+

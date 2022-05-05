@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor182> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'山东大学齐鲁医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor182> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor182> <https://w3id.org/asdkb/ontology/dataproperties/name> "曹爱华"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor182> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "多动症、抽动症、运动语言发育落后，睡眠障碍、遗传性疾病及高危儿（早产儿）的保健及早期干预"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor182> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '副教授'"@zh .
+

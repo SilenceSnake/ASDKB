@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor326> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童多动症、抽动症、孤独症、语言发育迟缓、睡眠障碍及其它儿童发育行为问题的诊断和矫治干预"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor326> <https://w3id.org/asdkb/ontology/dataproperties/name> "李建英"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor326> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中山三院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor326> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor326> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童行为发育中心'"@zh .
+

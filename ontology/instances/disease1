@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/ontology/instances/disease1> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "智力障碍（障碍）；智力障碍；智力发育障碍；智力低下"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease1> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F79.9"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease1> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Developmental mental disorder (disorder)"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease1> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "患脑疾病的婴儿"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease1> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "精神发育迟滞（Mental retardation）又称精神发育不全，是一种可由多种原因引起的脑发育障碍所致的综合征，以智力低下和社会适应困难为主要特征，可伴有某种精神或躯体疾病。于发育期起病，随年龄增长，智力也稍有进步，但中、重度患者仍给家庭社会带来沉重负担。轻度患者的身体发育无明显异常，在征兵体验中常被忽视而入选，造成部队训练和管理困难，应予以注视。"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease1> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "精神发育迟滞"@en .
+<https://w3id.org/asdkb/ontology/instances/disease1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/110359009> .
+<https://w3id.org/asdkb/ontology/instances/disease1> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "环境和先天"@zh .
+<https://w3id.org/asdkb/ontology/instances/disease1> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "110359009"@zh .
+

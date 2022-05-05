@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor412> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor412> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'四川大学华西第二医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor412> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor412> <https://w3id.org/asdkb/ontology/dataproperties/name> "马丹"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor412> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童言语语言障碍及吞咽障碍评估和治疗（不说话，说话晚，说话不清楚，吞咽困难，流涎）早产儿及高危儿脑损伤风险评估和康复干预；早产儿经口喂养困难的口部运功干预（吸吮无力，呛奶，吞咽反射减弱，吸吮-吞咽-呼吸不协调等）；儿童神经发育疾病的评估与治疗（如脑瘫、自闭症、精神运动发育迟滞等）；运动障碍康复治疗（肌营养不良、脑炎、格林巴利、癫痫后运动障碍）。"@zh .
+

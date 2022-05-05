@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor13> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '脑康科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor13> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor13> <https://w3id.org/asdkb/ontology/dataproperties/name> "黄礼华"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor13> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'柳州市中医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor13> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "脑损伤脑瘫等脑病，多动症、孤独症、抽动症等神经心理行为疾病的诊治。"@zh .
+

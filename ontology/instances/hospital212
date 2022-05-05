@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/hospital212> <https://w3id.org/asdkb/ontology/dataproperties/city> "福州市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital212> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital212> <https://w3id.org/asdkb/ontology/dataproperties/address> "福建省福州市道山路18号(主院区)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 <https://w3id.org/asdkb/ontology/instances/hospital212> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0591-87557800(院办),0591-87557800(导诊台)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital212> <https://w3id.org/asdkb/ontology/dataproperties/city> "福州市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital212> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "福建省妇幼保健院"@zh .
 

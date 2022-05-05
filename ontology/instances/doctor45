@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor45> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'暨南大学附属第一医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor45> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor45> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor45> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童孤独症，多动症，儿童发育障碍，儿童语言障碍，中风后语言障碍，肉毒毒素注射，康复美容，微创治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor45> <https://w3id.org/asdkb/ontology/dataproperties/name> "牟志伟"@zh .
+

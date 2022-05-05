@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor76> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor76> <https://w3id.org/asdkb/ontology/dataproperties/name> "朱红麟"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor76> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'四川省人民医院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor76> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "主要从事儿童及青少年体格、神经心理、生长发育方面的临床科研工作，擅长于精神发育迟钝、孤独症、注意缺陷伴多动障碍、儿童抽动症、学习困难以及儿童青少年情绪行为障碍的诊断治疗。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor76> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
+

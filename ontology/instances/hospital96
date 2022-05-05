@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/ontology/instances/hospital96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital96> <https://w3id.org/asdkb/ontology/dataproperties/city> "济南市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital96> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital96> <https://w3id.org/asdkb/ontology/dataproperties/address> "山东省济南市历下区文化西路107号(本部)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital96> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0531-82166666(预约挂号)"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital96> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "山东大学齐鲁医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital96> <https://w3id.org/asdkb/ontology/dataproperties/address> "山东省济南市历下区文化西路107号(本部)"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital96> <https://w3id.org/asdkb/ontology/dataproperties/city> "济南市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
 

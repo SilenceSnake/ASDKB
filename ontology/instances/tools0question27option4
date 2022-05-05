@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question27option4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/option> .
+<https://w3id.org/asdkb/ontology/instances/tools0question27option4> <https://w3id.org/asdkb/ontology/选项内容> "5.一周多于一次"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools0question27option4> <https://w3id.org/asdkb/ontology/得分> "4"@zh .
+

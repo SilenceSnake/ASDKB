@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools18question12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools18question12> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "13.您的孩子是否曾对一些事物有着过于强烈的兴趣，即使这种兴趣在其他方面是符合年龄的(例如，汽车、恐龙等)？"@zh .
+

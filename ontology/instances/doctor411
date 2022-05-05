@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor411> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广医一院'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor411> <https://w3id.org/asdkb/ontology/dataproperties/name> "余金龙"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor411> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "抑郁症、强迫症、社交恐惧症、双相障碍、焦虑症、精神分裂症、网瘾，儿童青少年期各类精神疾病和心理障碍的药物治疗、催眠治疗和心理治疗"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor411> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '临床心理科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor411> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
+

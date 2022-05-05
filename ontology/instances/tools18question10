@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools18question10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools18question10> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "11.您的孩子是否曾对某些东西十分着迷，且这些行为在别人看来非常古怪(例如，交通信号灯、水龙头或日历等)?"@zh .
+

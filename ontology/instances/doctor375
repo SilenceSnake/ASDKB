@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor375> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童语言障碍的评估与治疗(脑瘫 听障 口吃 构音障碍  语言发育迟缓 唇腭裂 自闭症 吞咽障碍 智力低下等)"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor375> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科（小儿神经内科）'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor375> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主管技师', ''"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor375> <https://w3id.org/asdkb/ontology/dataproperties/name> "李贤英"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+<https://w3id.org/asdkb/ontology/instances/doctor375> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广东省妇幼保健院'"@zh .
+

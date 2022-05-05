@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools0question50> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "以提供视觉刺激的方式移动身体或物体(例如，拍手、旋转玩具/材料等)"@zh .
+

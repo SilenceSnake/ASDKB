@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools0question54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+<https://w3id.org/asdkb/ontology/instances/tools0question54> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "关注细节而不是整个物体"@zh .
+

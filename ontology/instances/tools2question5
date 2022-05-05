@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/ontology/instances/tools2question5> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "6. 用正式的、挑剔的、过时的或“机器人式”的语言进行沟通是否有异常的风格"@zh .
+<https://w3id.org/asdkb/ontology/instances/tools2question5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
+

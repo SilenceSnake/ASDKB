@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/ontology/instances/hospital60> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0451-86605222(总机)，0451-86605612(门诊) "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital60> <https://w3id.org/asdkb/ontology/dataproperties/address> "黑龙江省哈尔滨市南岗区学府路246号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital60> <https://w3id.org/asdkb/ontology/dataproperties/city> "哈尔滨市"@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital60> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "哈尔滨医科大学附属第二医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital60> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital60> <https://w3id.org/asdkb/ontology/dataproperties/address> "黑龙江省哈尔滨市南岗区学府路246号 "@zh .
 <https://w3id.org/asdkb/ontology/instances/hospital60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
+<https://w3id.org/asdkb/ontology/instances/hospital60> <https://w3id.org/asdkb/ontology/dataproperties/city> "哈尔滨市"@zh .
+<https://w3id.org/asdkb/ontology/instances/hospital60> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
 

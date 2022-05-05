@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/ontology/instances/doctor125> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'东莞市滨海湾中心医院 '"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor125> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor125> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "在焦虑症、抑郁症、失眠症、精神分裂症、强迫症等诊疗方面有独有见解。"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor125> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘福坤"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor125> <https://w3id.org/asdkb/ontology/dataproperties/title> "'医师'"@zh .
+<https://w3id.org/asdkb/ontology/instances/doctor125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
+
