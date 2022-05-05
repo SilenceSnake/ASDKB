@@ -11,12 +11,12 @@
         <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
     </owl:Ontology>
 
-    <!-- https://w3id.org/asdkb/ontology/properties/correspondTo -->
+    <!-- https://w3id.org/asdkb/ontology/properties/hit -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/correspondTo">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_question"/>
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
-        <rdfs:label xml:lang="en">correspondTo</rdfs:label>
-        <rdfs:label xml:lang="zh">对应</rdfs:label>
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/hit">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/option"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/diagnostic_standard"/>
+        <rdfs:label xml:lang="en">hit</rdfs:label>
+        <rdfs:label xml:lang="zh">命中</rdfs:label>
     </owl:ObjectProperty>
 </rdf:RDF>

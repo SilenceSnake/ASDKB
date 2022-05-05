@@ -11,12 +11,13 @@
         <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
     </owl:Ontology>
 
-    <!-- https://w3id.org/asdkb/ontology/properties/correspondTo -->
+    <!-- https://w3id.org/asdkb/ontology/properties/hasOption -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/correspondTo">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/hasOption">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_question"/>
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
-        <rdfs:label xml:lang="en">correspondTo</rdfs:label>
-        <rdfs:label xml:lang="zh">对应</rdfs:label>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/option"/>
+        <rdfs:label xml:lang="en">hasOption</rdfs:label>
+        <rdfs:label xml:lang="zh">具体选项</rdfs:label>
     </owl:ObjectProperty>
 </rdf:RDF>
