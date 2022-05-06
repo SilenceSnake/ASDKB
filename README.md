@@ -5,7 +5,6 @@
 ## Project Structure
 
 - Ontology: [ontology.owl](./ontology/ontology.owl)
-- Manual ontology mapping to Clinga: [mapping.owl](./mapping/mapping.owl)
 - Source for ontology and ontology generation script: [ontology/](./ontology/)
 - Source for demo frontend: [demo/](./demo/)
 - Source for demo backend: [api/](./api/)
@@ -18,8 +17,8 @@
 ## Namespaces
 
 ```sparql
-PREFIX Classs: <http://w3id.org/asdkb/ontology/classes/>
-PREFIX Data properties: <http://w3id.org/asdkb/ontology/dataproperties/>
-PREFIX Object Properties: <http://w3id.org/asdkb/ontology/properties/>
-PREFIX Instances: <http://w3id.org/asdkb/ontology/instances/>
+PREFIX asdc: <http://w3id.org/asdkb/ontology/classes/>
+PREFIX asdd: <http://w3id.org/asdkb/ontology/dataproperties/>
+PREFIX asdp: <http://w3id.org/asdkb/ontology/properties/>
+PREFIX asdi: <http://w3id.org/asdkb/ontology/instances/>
 ```
