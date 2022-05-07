@@ -13,7 +13,8 @@
 - 2.0 Version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6522173.svg)](https://doi.org/10.5281/zenodo.6522173)
 
 ## Namespace
--class: <http://w3id.org/asdkb/ontology/class/>
--dataproperty: <http://w3id.org/asdkb/ontology/dataproperty/>
--objectproperty: <http://w3id.org/asdkb/ontology/objectproperty/>
--instance: <http://w3id.org/asdkb/instance/>
+
+- class: <http://w3id.org/asdkb/ontology/class/>
+- dataproperty: <http://w3id.org/asdkb/ontology/dataproperty/>
+- objectproperty: <http://w3id.org/asdkb/ontology/objectproperty/>
+- instance: <http://w3id.org/asdkb/instance/>
