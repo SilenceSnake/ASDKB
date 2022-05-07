@@ -17,7 +17,7 @@
 ## Namespaces
 
 ```sparql
-PREFIX class: <http://w3id.org/asdkb/ontology/classe/>
+PREFIX class: <http://w3id.org/asdkb/ontology/class/>
 PREFIX dataproperty: <http://w3id.org/asdkb/ontology/dataproperty/>
 PREFIX objectproperty: <http://w3id.org/asdkb/ontology/objectproperty/>
 PREFIX instance: <http://w3id.org/asdkb/instance/>
