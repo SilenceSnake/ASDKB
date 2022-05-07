@@ -14,11 +14,3 @@
 
 - 2.0 Version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6522173.svg)](https://doi.org/10.5281/zenodo.6522173)
 
-## Namespaces
-
-```sparql
-PREFIX class: <http://w3id.org/asdkb/ontology/class/>
-PREFIX dataproperty: <http://w3id.org/asdkb/ontology/dataproperty/>
-PREFIX objectproperty: <http://w3id.org/asdkb/ontology/objectproperty/>
-PREFIX instance: <http://w3id.org/asdkb/instance/>
-```
