@@ -6,8 +6,6 @@
 
 - Ontology: [ontology.owl](./ontology/ontology.owl)
 - Source for ontology and ontology generation script: [ontology/](./ontology/)
-- Source for demo frontend: [demo/](./demo/)
-- Source for demo backend: [api/](./api/)
 - Other sample docs and images: [docs/](./docs/)
 
 ## RDF Dumps
