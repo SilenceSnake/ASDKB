@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-  xmlns:owl="http://www.w3.org/2002/07/owl#"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C42">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0031831"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C40">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0019994"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C32">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0450973"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C31">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0162791"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C21">
-    <owl:sameAs rdf:resource="https://autismpdc.fpg.unc.edu/evidence-based-practices"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C20">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/semantic-network/T061"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C10">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C1457887"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C12">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0038273"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C11">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0150080"/>
-  </owl:Class>
-  <owl:Class rdf:about="http://w3id.org/asdkb/ontology/classes/C1">
-    <owl:sameAs rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0524528"/>
-  </owl:Class>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/physician">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0031831"/>
+    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C0031831"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/screening_tool">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C2041469"/>
+    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C2041469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/autism_spectrum_disorder">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C1510586"/>
+    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C1510586"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/hospital">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0019994"/>
+    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C0019994"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/screening_question">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C2984039"/>
+    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C2984039"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/symptom">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C1457887"/>
+    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C1457887"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/diagnostic_standard">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0679228"/>
+    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C0679228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/age">
+    <owl:equivalentClass rdf:resource="http://purl.org/autism-ontology/1.0/autism-rules.owl#subject_age"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/restricted_and_repetitive_behavior">
+    <owl:equivalentClass rdf:resource="http://purl.org/autism-ontology/1.0/autism-rules.owl#Restricted_and_Repetitive_Behavior"/>
+  </rdf:Description>
 </rdf:RDF>
