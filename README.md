@@ -6,19 +6,15 @@
 
 - Ontology: [ontology.owl](./ontology/ontology.owl)
 - Source for ontology and ontology generation script: [ontology/](./ontology/)
-- Source for demo frontend: [demo/](./demo/)
-- Source for demo backend: [api/](./api/)
 - Other sample docs and images: [docs/](./docs/)
 
 ## RDF Dumps
 
 - 2.0 Version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6522173.svg)](https://doi.org/10.5281/zenodo.6522173)
 
-## Namespaces
+## Namespace
 
-```sparql
-PREFIX classes: <http://w3id.org/asdkb/ontology/classes/>
-PREFIX dataproperties: <http://w3id.org/asdkb/ontology/dataproperties/>
-PREFIX objectproperties: <http://w3id.org/asdkb/ontology/objectproperties/>
-PREFIX instances: <http://w3id.org/asdkb/ontology/instances/>
-```
+- class: <http://w3id.org/asdkb/ontology/class/>
+- dataproperty: <http://w3id.org/asdkb/ontology/dataproperty/>
+- objectproperty: <http://w3id.org/asdkb/ontology/objectproperty/>
+- instance: <http://w3id.org/asdkb/instance/>
