@@ -23,4 +23,4 @@
 
 We developed a prototype system at [http://w3id.org/asdkb/demo](http://111.67.195.163:7112/).
 
-![demo](./docs/demo.png)
+![demo](./docs/demo.PNG)
