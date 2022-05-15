@@ -22,3 +22,5 @@
 ### Demo
 
 We developed a prototype system at [http://w3id.org/asdkb/demo](http://111.67.195.163:7112/).
+
+![demo1](./docs/demo.png)
