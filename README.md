@@ -21,4 +21,4 @@
 
 ### Demo
 
-We developed a prototype educational information system at [http://w3id.org/asdkb/demo](http://111.67.195.163:7112/).
+We developed a prototype system at [http://w3id.org/asdkb/demo](http://111.67.195.163:7112/).
