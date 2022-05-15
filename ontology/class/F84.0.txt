@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/class/F84.0 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/F84.0">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
+        <rdfs:comment xml:lang="zh">一种普遍的发育障碍，定义为3岁之前出现明显的发育异常和/或受损，以及社交、沟通和限制性重复行为这三个领域功能异常的特征类型。这种疾病发生在男孩身上的频率是女孩的三到四倍。</rdfs:comment>
+        <rdfs:label xml:lang="en">Childhood autism</rdfs:label>
+        <rdfs:label xml:lang="zh">儿童孤独症</rdfs:label>
+    </owl:Class>
+
+
+
+</rdf:RDF>

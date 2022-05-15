@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+
+    <!-- https://w3id.org/asdkb/ontology/class/408857007 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/408857007">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/408856003"/>
+        <rdfs:comment xml:lang="zh">婴儿孤独症是一种发育障碍，其特征是在30个月之前出现社会和语言发育障碍。它必须与几种疾病区分开来，包括智力迟钝和精神分裂症。大多数证据支持该综合征的器官基础。</rdfs:comment>
+        <rdfs:label xml:lang="en">Infantile autism (disorder)</rdfs:label>
+        <rdfs:label xml:lang="zh">婴儿孤独症(障碍)</rdfs:label>
+    </owl:Class>
+
+
+
+</rdf:RDF>

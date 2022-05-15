@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/tools0question1option1> <https://w3id.org/asdkb/ontology/dataproperty/option_content> "2.少于一个月一次"@zh .
+<https://w3id.org/asdkb/instance/tools0question1option1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/option> .
+<https://w3id.org/asdkb/instance/tools0question1option1> <https://w3id.org/asdkb/ontology/dataproperty/score> "1.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+

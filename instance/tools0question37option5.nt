@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/tools0question37option5> <https://w3id.org/asdkb/ontology/dataproperty/score> "5.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/asdkb/instance/tools0question37option5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/option> .
+<https://w3id.org/asdkb/instance/tools0question37option5> <https://w3id.org/asdkb/ontology/dataproperty/option_content> "6.每天不同时间"@zh .
+

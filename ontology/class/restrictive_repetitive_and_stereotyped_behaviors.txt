@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/class/restrictive_repetitive_and_stereotyped_behaviors -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/restrictive_repetitive_and_stereotyped_behaviors">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/symptom"/>
+        <rdfs:label xml:lang="en">Restrictive, repetitive and stereotyped behaviors</rdfs:label>
+        <rdfs:label xml:lang="zh">刻板行为活动</rdfs:label>
+    </owl:Class>
+
+
+
+</rdf:RDF>

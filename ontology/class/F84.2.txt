@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/class/F84.2 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/F84.2">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
+        <rdfs:comment xml:lang="zh">雷特氏症（瑞特氏症候群、Rett Syndrome、RTT），是一种X染色体性联显性遗传疾病，突变点位于MeCP2基因上，属于罕见神经疾病，发病率约为1/12,000～1/15,000，而且临床表征缺乏特殊性，因此诊断上十分困难。蕾特氏症是由Dr.Andreas Rett所发现，并发表于1966年，后人将此病以Rett命名。此病尚未有治疗方法，现阶段主要是针对出现的疾病进行复健治疗。多发于女性婴孩或幼童 ，病童会有神经急速退化、发展迟缓的现象，而男性患者几乎无法存活。患者于出生至6～18个月内，生长发育与常人一样。刚开始发病时，初始症状有翻白眼、婴儿失去吸吮反射、不规则转头、运动发展障碍等现象发生，有些初始症状与普瑞德威利症候群出现重叠，加上文献资料极为稀少，故难以判明症状。之后，开始出现神经失调：运动能力渐渐消失、失去语言能力、正确的反射能力、便秘，也可以经脑部扫描发现脑皮质萎缩的情形，在生活中也经常发生痉挛、癫痫等神经阈值低下的症状。</rdfs:comment>
+        <rdfs:label xml:lang="en">Rett&apos;s syndrome</rdfs:label>
+        <rdfs:label xml:lang="zh">雷特征候群</rdfs:label>
+    </owl:Class>
+
+
+
+</rdf:RDF>

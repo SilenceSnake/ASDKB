@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/class/F84.5 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/F84.5">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
+        <rdfs:comment xml:lang="zh">阿斯伯格综合症是孤独症谱系障碍的一种，是一种发育障碍。患有阿斯伯格综合症的年轻人很难与他人进行社交，他们的行为和思维模式可能是僵化和重复的。</rdfs:comment>
+        <rdfs:label xml:lang="en">Asperger&apos;s syndrome</rdfs:label>
+        <rdfs:label xml:lang="zh">阿斯伯格综合症</rdfs:label>
+    </owl:Class>
+
+
+
+</rdf:RDF>

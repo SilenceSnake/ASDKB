@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/class/F84.3 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/F84.3">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
+        <rdfs:comment xml:lang="zh">一种普遍的发育障碍（Rett综合征除外），其定义为发病前的一段正常发育期，以及在几个月的过程中，至少在几个发展领域中，先前获得的技能的明确丧失，以及社交、交流和行为功能的特征性异常的发病。通常会有一段模糊疾病的前驱期；孩子变得烦躁、易怒、焦虑和过度活跃。接下来是贫困，然后是语言和语言的丧失，伴随着行为的解体。</rdfs:comment>
+        <rdfs:label xml:lang="en">Other childhood disintegrative disorder</rdfs:label>
+        <rdfs:label xml:lang="zh">其他儿童瓦解性障碍</rdfs:label>
+    </owl:Class>
+
+
+
+</rdf:RDF>

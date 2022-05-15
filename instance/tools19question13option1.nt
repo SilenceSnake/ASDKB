@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools19question13option1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/option> .
+<https://w3id.org/asdkb/instance/tools19question13option1> <https://w3id.org/asdkb/ontology/dataproperty/option_content> "有些符合"@zh .
+

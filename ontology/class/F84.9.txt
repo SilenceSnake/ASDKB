@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/class/F84.9 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/F84.9">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
+        <rdfs:comment xml:lang="zh">这是一个剩余诊断类别，应用于符合普遍性发育障碍一般描述的疾病，但缺乏足够的信息或相互矛盾的发现意味着无法满足任何其他F84代码的标准。</rdfs:comment>
+        <rdfs:label xml:lang="en">Pervasive developmental disorder, unspecified</rdfs:label>
+        <rdfs:label xml:lang="zh">未明确的广泛性发育障碍症</rdfs:label>
+    </owl:Class>
+    
+
+
+
+</rdf:RDF>

@@ -5,21 +5,17 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:asdc="http://w3id.org/asdkb/ontology/classes/"
-     xmlns:asdd="http://w3id.org/asdkb/ontology/dataproperties/"
-     xmlns:asdi="http://w3id.org/asdkb/ontology/instances/"
-     xmlns:asdo="http://w3id.org/asdkb/ontology/objectproperties/"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
     <owl:Ontology rdf:about="https://w3id.org/asdkb">
         <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
     </owl:Ontology>
 
-    <!-- https://w3id.org/asdkb/ontology/properties/correspondTo -->
+    <!-- https://w3id.org/asdkb/ontology/property/correspondTo -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/properties/correspondTo">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/classes/screening_question"/>
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/classes/symptom"/>
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/correspondTo">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_question"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/symptom"/>
         <rdfs:label xml:lang="en">correspondTo</rdfs:label>
         <rdfs:label xml:lang="zh">对应</rdfs:label>
     </owl:ObjectProperty>

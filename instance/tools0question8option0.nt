@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/tools0question8option0> <https://w3id.org/asdkb/ontology/dataproperty/score> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/asdkb/instance/tools0question8option0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/option> .
+<https://w3id.org/asdkb/instance/tools0question8option0> <https://w3id.org/asdkb/ontology/dataproperty/option_content> "1.没有"@zh .
+

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/class/F84.4 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/F84.4">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
+        <rdfs:comment xml:lang="zh">这是一种定义不清的疾病，其病理组织学有效性不确定。之所以列入这一类别，是因为有证据表明，在多动和注意力不集中方面表现出严重问题的中度至重度智力迟钝（智商低于50）儿童经常表现出刻板的行为；这类儿童往往不会从兴奋剂中获益（与智商正常的儿童不同），在服用兴奋剂时可能会表现出严重的烦躁反应（有时伴有精神运动迟缓）；在青春期，过度活动往往被活动不足所取代（这种模式在智力正常的多动症儿童中并不常见）。该综合征还常与各种发育迟缓相关，无论是特定的还是普遍性的。</rdfs:comment>
+        <rdfs:label xml:lang="en">Over active disorder associated with mental retardation and stereotyped movements</rdfs:label>
+        <rdfs:label xml:lang="zh">伴有精神阻滞和刻板运动的过度活跃障碍</rdfs:label>
+    </owl:Class>
+
+
+
+</rdf:RDF>

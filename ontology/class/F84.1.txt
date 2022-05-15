@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/class/F84.1 -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/F84.1">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
+        <rdfs:comment xml:lang="zh">一种广泛性发育障碍，与儿童自闭症的发病年龄或未能满足所有三组诊断标准不同。当仅在 3 岁后才出现发育异常和受损，并且在诊断自闭症所需的三个精神病理学领域中的一个或两个领域（即互惠的社会互动, 沟通, 和受限的, 刻板的, 重复的行为), 尽管在其他领域有特征性的异常。</rdfs:comment>
+        <rdfs:label xml:lang="en">Atypical autism</rdfs:label>
+        <rdfs:label xml:lang="zh">非典型孤独症</rdfs:label>
+    </owl:Class>
+
+
+
+</rdf:RDF>
