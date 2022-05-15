@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor448> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor448> <https://w3id.org/asdkb/ontology/dataproperties/name> "徐萍"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor448> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "围产高危儿保健、脑瘫早期的诊断及康复、儿童早期教育训练、儿童生长发育迟缓、儿童营养缺乏症、新生儿疾病及儿科常见病的诊治"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor448> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor448> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿营养保健科'"@zh .
-

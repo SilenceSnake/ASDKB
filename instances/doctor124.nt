@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor124> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "特别对神经症、抑郁症、长期顽固性失眠、月经周期性及更年期精神障碍有独特的治疗方法，运用中、西医结合治疗精神、心理疾病有着独到之处。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor124> <https://w3id.org/asdkb/ontology/dataproperties/name> "白亚军"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor124> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'桂林181医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor124> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor124> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理科'"@zh .
-

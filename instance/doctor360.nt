@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor360> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童多动症、抽动症、自闭症等神经发育障碍，抑郁症、焦虑症、强迫症、双相情感障碍、等情绪问题，厌学、网络成瘾等行为问题，以及亲子关系、家庭教育、性心理发育等问题"@zh .
+<https://w3id.org/asdkb/instance/doctor360> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor360> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'浙江大学医学院附属儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor360> <http://www.w3.org/2000/01/rdf-schema#label> "廖文静"@zh .
+<https://w3id.org/asdkb/instance/doctor360> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童心理科'"@zh .
+

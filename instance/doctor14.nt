@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor14> <http://www.w3.org/2000/01/rdf-schema#label> "余明"@zh .
+<https://w3id.org/asdkb/instance/doctor14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor14> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神卫生研究所'"@zh .
+<https://w3id.org/asdkb/instance/doctor14> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'河北医科大学第一医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor14> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor14> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童精神分裂症、儿童情绪障碍、抽动、儿童孤独症等"@zh .
+

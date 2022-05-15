@@ -1,0 +1,10 @@
+<https://w3id.org/asdkb/instance/disease19> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/instance/disease19> <http://www.w3.org/2000/01/rdf-schema#label> "阿斯伯格症(障碍)"@zh .
+<https://w3id.org/asdkb/instance/disease19> <http://www.w3.org/2000/01/rdf-schema#label> "Asperger's disorder (disorder)"@en .
+<https://w3id.org/asdkb/instance/disease19> <https://w3id.org/asdkb/ontology/dataproperty/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/instance/disease19> <https://w3id.org/asdkb/ontology/dataproperty/definition> "阿斯伯格综合症是孤独症谱系障碍的一种，是一种发育障碍。患有阿斯伯格综合症的年轻人很难与他人进行社交，他们的行为和思维模式可能是僵化和重复的。"@zh .
+<https://w3id.org/asdkb/instance/disease19> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "阿斯伯格症;阿斯伯格症;阿斯伯格症;阿斯伯格综合症;阿斯伯格症;儿童精神分裂症;"@zh .
+<https://w3id.org/asdkb/instance/disease19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/23560001> .
+<https://w3id.org/asdkb/instance/disease19> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.5"@zh .
+<https://w3id.org/asdkb/instance/disease19> <https://w3id.org/asdkb/ontology/dataproperty/SCTID> "23560001"@zh .
+

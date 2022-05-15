@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor225> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor225> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "从事儿童医疗事业近39年，在儿童康复、保健、小儿神经内科、遗传、内分泌等专业方面具有丰富的临床经验，尤其在小儿脑性瘫痪、孤独症谱系障碍、语言发育迟缓、智力发育落后及运动发育落后疾病的诊断和康复治疗上颇有专长"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor225> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'南京医科大学附属儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor225> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor225> <https://w3id.org/asdkb/ontology/dataproperties/name> "张跃"@zh .
-

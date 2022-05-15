@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor15> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/instance/doctor15> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor15> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'南京医科大学第二附属医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor15> <http://www.w3.org/2000/01/rdf-schema#label> "谭钊安"@zh .
+<https://w3id.org/asdkb/instance/doctor15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor15> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长神经衰弱、抑郁症以及儿童孤独症的诊断与治疗"@zh .
+

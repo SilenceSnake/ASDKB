@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools5question4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools5question4> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "你的孩子是否曾经假装，例如，用一个玩具杯子和茶壶泡茶，或假装其他事情?"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor460> <http://www.w3.org/2000/01/rdf-schema#label> "温树勤"@zh .
+<https://w3id.org/asdkb/instance/doctor460> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科综合'"@zh .
+<https://w3id.org/asdkb/instance/doctor460> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'锦州医科大学附属第三医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor460> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿科急症的诊断与抢救治疗，新生儿疾病、儿科常见病、多发病、疑难重症的诊断与治疗，多动症、孤独症、抽动秽语综合症等"@zh .
+<https://w3id.org/asdkb/instance/doctor460> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+

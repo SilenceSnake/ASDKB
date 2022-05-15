@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor439> <https://w3id.org/asdkb/ontology/dataproperties/name> "赵方乔"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor439> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor439> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'常州市儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor439> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童健康研究中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor439> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "主要从事儿童精神心理疾病等药物与心理治疗。擅长孤独症，多动症，抽动症，厌学，青春期冲突，家庭变故相关的儿童心理问题。轻中度抑郁症，双相障碍。尤为擅长青春期心理行为问题"@zh .
-

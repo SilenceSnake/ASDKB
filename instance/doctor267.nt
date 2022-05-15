@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor267> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童保健，营养不良、喂养困难、儿童注意缺陷多动障碍（多动症）、抽动障碍、语言发育障碍及孤独症等"@zh .
+<https://w3id.org/asdkb/instance/doctor267> <http://www.w3.org/2000/01/rdf-schema#label> "方拴锋"@zh .
+<https://w3id.org/asdkb/instance/doctor267> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor267> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'河南省儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor267> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

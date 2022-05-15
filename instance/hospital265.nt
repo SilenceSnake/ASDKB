@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital265> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0760-86681222"@zh .
+<https://w3id.org/asdkb/instance/hospital265> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "二级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital265> <https://w3id.org/asdkb/ontology/dataproperty/city> "中山市"@zh .
+<https://w3id.org/asdkb/instance/hospital265> <http://www.w3.org/2000/01/rdf-schema#label> "中山市三乡医院"@zh .
+<https://w3id.org/asdkb/instance/hospital265> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省中山市三乡镇康乐路10号"@zh .
+

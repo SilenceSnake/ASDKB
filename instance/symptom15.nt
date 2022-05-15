@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/symptom15> <http://www.w3.org/2000/01/rdf-schema#comment> "在口语交际中，缺乏强调或辅助意义的手势"@zh .
+<https://w3id.org/asdkb/instance/symptom15> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom15"@zh .
+<https://w3id.org/asdkb/instance/symptom15> <http://www.w3.org/2000/01/rdf-schema#comment> "a similar lack of accompanying gesture to provide emphasis or aid meaning in spoken communication"@en .
+<https://w3id.org/asdkb/instance/symptom15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/instance/symptom15> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom7"@zh .
+

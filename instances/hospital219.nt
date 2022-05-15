@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital219> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0519-69808325,0519-69808328(咨询)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital219> <https://w3id.org/asdkb/ontology/dataproperties/address> "常州市延陵中路468号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital219> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "常州市儿童医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital219> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital219> <https://w3id.org/asdkb/ontology/dataproperties/city> "常州市"@zh .
-

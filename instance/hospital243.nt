@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital243> <http://www.w3.org/2000/01/rdf-schema#label> "宜春市第三人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital243> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0795-3203283"@zh .
+<https://w3id.org/asdkb/instance/hospital243> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital243> <https://w3id.org/asdkb/ontology/dataproperty/address> "江西省宜春市袁州区中山西路195号"@zh .
+<https://w3id.org/asdkb/instance/hospital243> <https://w3id.org/asdkb/ontology/dataproperty/city> "宜春市"@zh .
+<https://w3id.org/asdkb/instance/hospital243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

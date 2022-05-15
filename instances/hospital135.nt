@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital135> <https://w3id.org/asdkb/ontology/dataproperties/city> "黄石市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital135> <https://w3id.org/asdkb/ontology/dataproperties/address> "湖北省黄石市团成山开发区肖铺路2号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital135> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital135> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "黄石市精神病医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital135> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "暂无电话"@zh .
-

@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools1question9> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "10.似乎听不见（尽管听力检查正常）。"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools1question9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

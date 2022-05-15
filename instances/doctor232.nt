@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor232> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿神经内科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor232> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "诊治癫痫、颅内感染如脑膜炎及脑炎、播散性脑脊髓炎、各种瘫痪性疾病、神经遗传代谢病、脑血管疾病、脊髓炎、周围神经病、重症肌无力、肌肉疾病、抽动症、多动症、智力低下等疾病。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor232> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'山东省立医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor232> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor232> <https://w3id.org/asdkb/ontology/dataproperties/name> "孙文秀"@zh .
-

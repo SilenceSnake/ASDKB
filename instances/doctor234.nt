@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor234> <https://w3id.org/asdkb/ontology/dataproperties/name> "梁爱民"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor234> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor234> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "常见儿童保健问题及常见儿科疾病的诊治；儿童语言发育问题、智能发育及行为问题的评估、诊断与干预"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor234> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor234> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健中心'"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor157> <https://w3id.org/asdkb/ontology/dataproperties/name> "彭炳蔚"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor157> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor157> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "癫痫，抽动症，重症肌无力，神经系统感染，神经系统炎症等"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor157> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广州市妇女儿童医疗中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor157> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

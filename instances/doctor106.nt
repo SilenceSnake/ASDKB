@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor106> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'唐山市妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor106> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "专业特长为儿童保健和儿童心理。对诊治儿童营养性疾病、厌食、铅中毒有丰富的经验。以治疗儿童心理疾病为特长。对诊治儿童多动症、儿童学习困难、儿童感觉统合失调、儿童智力低下、儿童抽动症、儿童孤独症、语言问题、儿童情绪障碍、小儿遗尿有较丰富的经验。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor106> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor106> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor106> <https://w3id.org/asdkb/ontology/dataproperties/name> "王平"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital95> <http://www.w3.org/2000/01/rdf-schema#label> "西京医院"@zh .
+<https://w3id.org/asdkb/instance/hospital95> <https://w3id.org/asdkb/ontology/dataproperty/city> "西安市"@zh .
+<https://w3id.org/asdkb/instance/hospital95> <https://w3id.org/asdkb/ontology/dataproperty/address> "陕西省西安市新城区长乐西路127号"@zh .
+<https://w3id.org/asdkb/instance/hospital95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital95> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital95> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "029-88886666(总机),029-84775507,029-84774114,029-84775539(急诊电话)"@zh .
+

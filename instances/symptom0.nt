@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom0> <https://w3id.org/asdkb/ontology/dataproperties/English_description> " qualitative impairments in reciprocal social interaction"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom0> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "社会活动交往中的质性障碍"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom0> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom0"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-

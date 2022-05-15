@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor79> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor79> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'四川省妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor79> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长儿童多动症、孤独症的诊治、高危儿干预、儿童生长发育监测指导等，在儿童食物过敏、婴幼儿喂养困难、儿童心理行为测试评估、儿童营养性疾病诊治等领域具有丰富的临床经验。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor79> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor79> <https://w3id.org/asdkb/ontology/dataproperties/name> "冉域辰"@zh .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment26> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "视频示范(VM)"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment26> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "录制的对目标行为的示范视频，展示给学习者以帮助他们更好地理解目标行为。"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment26> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Video Modeling"@en .
-<https://w3id.org/asdkb/ontology/instances/treatment26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-

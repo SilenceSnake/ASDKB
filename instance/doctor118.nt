@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor118> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童情绪障碍、注意缺陷多动障碍、抽动障碍临床诊治与心理治疗，孤独谱系障碍家庭辅导，疑难病例鉴别诊断，尤其是各类儿童精神障碍的家庭治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor118> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'南京脑科医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor118> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor118> <http://www.w3.org/2000/01/rdf-schema#label> "陈一心"@zh .
+<https://w3id.org/asdkb/instance/doctor118> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童心理卫生研究中心'"@zh .
+

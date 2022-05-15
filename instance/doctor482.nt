@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor482> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor482> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor482> <http://www.w3.org/2000/01/rdf-schema#label> "庄志成"@zh .
+<https://w3id.org/asdkb/instance/doctor482> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'珠海市妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor482> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童及青少年常见心理行为问题，尤其是自闭症、多动症、抽动症等，以及孕产期心理疏导。"@zh .
+

@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools3question13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools3question13> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "14. 瞎编故事对我而言很容易。"@zh .
+

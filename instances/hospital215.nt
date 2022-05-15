@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital215> <https://w3id.org/asdkb/ontology/dataproperties/address> "黑龙江省佳木斯市向阳区德祥街419号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital215> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "佳木斯大学附属第三医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital215> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital215> <https://w3id.org/asdkb/ontology/dataproperties/city> "佳木斯市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital215> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0454-8673024(办公室)"@zh .
-

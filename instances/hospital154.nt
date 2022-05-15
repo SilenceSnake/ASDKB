@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital154> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital154> <https://w3id.org/asdkb/ontology/dataproperties/address> "湖南省长沙市梓园路86号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital154> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "湖南省儿童医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital154> <https://w3id.org/asdkb/ontology/dataproperties/city> "长沙市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital154> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0731-85600908(咨询热线),0731-85600915(门诊咨询),0731-85356114(预约挂号),0731-85356878(院办公室)"@zh .
-

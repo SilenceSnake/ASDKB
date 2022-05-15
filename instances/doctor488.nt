@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor488> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童少年精神科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor488> <https://w3id.org/asdkb/ontology/dataproperties/title> "'医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor488> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童青少年各种心理问题咨询及精神障碍诊治，如儿童青少年精神分裂症，儿童青少年抑郁症，儿童青少年双相情感障碍，儿童多动症，儿童孤独症的诊断及治疗，童年情绪障碍等的诊断。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor488> <https://w3id.org/asdkb/ontology/dataproperties/name> "梁颖慧"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor488> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'新乡医学院第二附属医院'"@zh .
-

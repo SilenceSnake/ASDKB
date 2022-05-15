@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor21> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor21> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童多动症及注意力缺陷、儿童感觉统合失调、儿童学习障碍，儿童孤独症。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor21> <https://w3id.org/asdkb/ontology/dataproperties/name> "屈小艳"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor21> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor21> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'常州市第六人民医院'"@zh .
-

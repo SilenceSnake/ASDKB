@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment9> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "在挑战性行为发生后不再提供强化物，使挑战性行为消失。"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-<https://w3id.org/asdkb/ontology/instances/treatment9> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "消退法(EXT)"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment9> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Extinction"@en .
-

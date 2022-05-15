@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor121> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 对各类疾病的康复治疗具有丰富的经验。擅长生长发育迟缓儿童康复，儿童脑损伤早期诊断与康复，脑瘫、孤独障碍、多动障碍康复治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor121> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童康复科'"@zh .
+<https://w3id.org/asdkb/instance/doctor121> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor121> <http://www.w3.org/2000/01/rdf-schema#label> "董小丽"@zh .
+<https://w3id.org/asdkb/instance/doctor121> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'成都市第一人民医院'"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor284> <http://www.w3.org/2000/01/rdf-schema#label> "韩玫"@zh .
+<https://w3id.org/asdkb/instance/doctor284> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor284> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'宣武医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor284> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿神经内科，癫痫、脑瘫、发作性睡病、头疼、头晕、注意力缺陷多动障碍、学习困难、抽动障碍，一些代谢性疾病、基因的检查。"@zh .
+<https://w3id.org/asdkb/instance/doctor284> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+

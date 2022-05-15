@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question35> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "有语言，但大部分时间都坚持在一个感兴趣的话题上"@zh .
+<https://w3id.org/asdkb/instance/tools0question35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

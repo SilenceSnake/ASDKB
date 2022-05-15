@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital229> <https://w3id.org/asdkb/ontology/dataproperties/city> "成都市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital229> <https://w3id.org/asdkb/ontology/dataproperties/address> "四川省成都市温江区永宁镇八一路81号（成都国际医学城内)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital229> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital229> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "028-4009960081,028-82668181(总机)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital229> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "四川省八一康复中心"@zh .
-

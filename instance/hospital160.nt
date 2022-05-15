@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital160> <https://w3id.org/asdkb/ontology/dataproperty/address> "江苏省徐州市苏堤北路18号"@zh .
+<https://w3id.org/asdkb/instance/hospital160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital160> <https://w3id.org/asdkb/ontology/dataproperty/city> "徐州市"@zh .
+<https://w3id.org/asdkb/instance/hospital160> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital160> <http://www.w3.org/2000/01/rdf-schema#label> "徐州市儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital160> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "962099(咨询),0516-85583081(医务科)"@zh .
+

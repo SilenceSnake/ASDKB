@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor347> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "自闭症、多动症、抽动、智力障碍、发育障碍、学习障碍"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor347> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈凯云"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor347> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童行为发育中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor347> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor347> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中山三院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor401> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor401> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童多动症，言语语言障碍，自闭症，智力低下等"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor401> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿保科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor401> <https://w3id.org/asdkb/ontology/dataproperties/name> "王雨晴"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor401> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'徐州市儿童医院'"@zh .
-

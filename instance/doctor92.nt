@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor92> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "专业方向在神经系统疾病的CT、MRI影像诊断和功能成像，尤其是中枢神经系统肿瘤、脑血管疾病、多发性硬化等脱髓鞘疾病、孤独症等儿童行为发育疾病。"@zh .
+<https://w3id.org/asdkb/instance/doctor92> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'中山大学附属第三医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor92> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '放射介入科'"@zh .
+<https://w3id.org/asdkb/instance/doctor92> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor92> <http://www.w3.org/2000/01/rdf-schema#label> "胡冰"@zh .
+

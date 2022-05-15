@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital247> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京市大兴区心康医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital247> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市大兴区黄村镇黄良路口北侧"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital247> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "二级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital247> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital247> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-61216048(咨询)"@zh .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor175> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'湘雅二医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor175> <http://www.w3.org/2000/01/rdf-schema#label> "陈晋东"@zh .
+<https://w3id.org/asdkb/instance/doctor175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor175> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/instance/doctor175> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor175> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "双相情感障碍诊断及治疗，睡眠障碍，抑郁焦虑，精神科疑难杂症，老年精神问题。"@zh .
+

@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor16> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿注意力缺陷多动障碍、孤独症、抽动症、学习障碍，品行障碍、情绪障碍等心理问题的心理诊断和治疗。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor16> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘俊华"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor16> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'十堰市太和医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor16> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科门诊科'"@zh .
-

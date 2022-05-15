@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital151> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "022-27987000(总机),022-27986060(咨询电话)"@zh .
+<https://w3id.org/asdkb/instance/hospital151> <https://w3id.org/asdkb/ontology/dataproperty/city> "天津市"@zh .
+<https://w3id.org/asdkb/instance/hospital151> <https://w3id.org/asdkb/ontology/dataproperty/address> "天津市南开区鞍山西道314号"@zh .
+<https://w3id.org/asdkb/instance/hospital151> <http://www.w3.org/2000/01/rdf-schema#label> "天津中医药大学第一附属医院"@zh .
+<https://w3id.org/asdkb/instance/hospital151> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor66> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor66> <https://w3id.org/asdkb/ontology/dataproperties/name> "郝新民"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor66> <https://w3id.org/asdkb/ontology/dataproperties/specialty> " 儿童孤独症、自闭症、人格障碍、儿童行为障碍；难治性精神分裂症、抑郁症、双相障碍。癫痫所致精神障碍、脑器质性精神障碍。各种药物成瘾的治疗。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor66> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广东三九脑科医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor66> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理行为医学科'"@zh .
-

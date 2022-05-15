@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/levelA3> <http://www.w3.org/2000/01/rdf-schema#comment> "水平3“需要非常多的支持”在语言和非语言社交交流技能方面的严重缺陷导致功能上的严重损害，极少启动社交互动，对来自他人的社交示意的反应极少。例如，个体只能讲几个能够被听懂的字，很少启动社交互动，当他或她与人互动时，会做出不寻常的举动去满足社交需要，且仅对非常直接的社交举动做出反应	行为缺乏灵活性，应对改变极其困难，或其他局限的/重复行为显著影响了各方面的功能。改变注意力或行动很困难/痛苦"@zh .
+<https://w3id.org/asdkb/instance/levelA3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/standard_of_social_interaction> .
+

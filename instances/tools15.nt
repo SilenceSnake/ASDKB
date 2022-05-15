@@ -1,9 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools15> <https://w3id.org/asdkb/ontology/dataproperties/author> "Siegel, 2004"@en .
-<https://w3id.org/asdkb/ontology/instances/tools15> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "PDDST-II PCS是一份22个项目的问卷，有三个版本(阶段)用于不同的环境:阶段1:初级保健;第二阶段:发育临床;第三阶段:自闭症临床严重程度。"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools15> <https://w3id.org/asdkb/ontology/dataproperties/time> "10-20分钟"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools15> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发展障碍筛查测试-第二版(PDDST-II)"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
-<https://w3id.org/asdkb/ontology/instances/tools15> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pervasive Developmental Disorders Screening Test-Second Edition"@en .
-<https://w3id.org/asdkb/ontology/instances/tools15> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools15> <https://w3id.org/asdkb/ontology/dataproperties/age> "12-48个月"@zh .
-

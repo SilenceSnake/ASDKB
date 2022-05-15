@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor275> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor275> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "主要从事孤独症谱系障碍、注意力缺陷多动障碍、抽动障碍、学习障碍等儿童神经发育障碍疾病，以及各类儿童青少年情绪障碍和精神障碍的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor275> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'四川大学华西第二医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor275> <http://www.w3.org/2000/01/rdf-schema#label> "胡霄"@zh .
+<https://w3id.org/asdkb/instance/doctor275> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '康复医学科'"@zh .
+

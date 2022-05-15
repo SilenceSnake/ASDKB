@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital253> <https://w3id.org/asdkb/ontology/dataproperty/city> "北京市"@zh .
+<https://w3id.org/asdkb/instance/hospital253> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市朝阳区西坝河南里29号"@zh .
+<https://w3id.org/asdkb/instance/hospital253> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital253> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "010-84512685(预约挂号),010-87935261(咨询电话)"@zh .
+<https://w3id.org/asdkb/instance/hospital253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital253> <http://www.w3.org/2000/01/rdf-schema#label> "应急管理部应急总医院"@zh .
+

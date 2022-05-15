@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor277> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor277> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童生长发育评估、诊断和治疗注意缺陷多动障碍、学习困难、自闭症、语言发育迟缓、运动发育迟缓、智力障碍、生长落后、偏矮身材儿童的管理、高危儿的监测、营养性疾病及反复呼吸道感染。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor277> <https://w3id.org/asdkb/ontology/dataproperties/name> "郝燕"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor277> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'武汉同济医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor277> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '副教授'"@zh .
-

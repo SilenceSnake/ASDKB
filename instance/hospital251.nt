@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital251> <https://w3id.org/asdkb/ontology/dataproperty/address> "渭南市高新区新区南街6号"@zh .
+<https://w3id.org/asdkb/instance/hospital251> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0913-32105326(咨询)"@zh .
+<https://w3id.org/asdkb/instance/hospital251> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "二级"@zh .
+<https://w3id.org/asdkb/instance/hospital251> <https://w3id.org/asdkb/ontology/dataproperty/city> "渭南市"@zh .
+<https://w3id.org/asdkb/instance/hospital251> <http://www.w3.org/2000/01/rdf-schema#label> "渭南市精神卫生中心"@zh .
+<https://w3id.org/asdkb/instance/hospital251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

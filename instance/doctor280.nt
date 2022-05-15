@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor280> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor280> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor280> <http://www.w3.org/2000/01/rdf-schema#label> "杨李"@zh .
+<https://w3id.org/asdkb/instance/doctor280> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'安徽医科大学第一附属医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor280> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "熟练掌握儿科常见病和多发疾病的诊断和治疗，特别是对小儿神经发育性疾病以及神经、遗传代谢病，如发育落后、脑性瘫痪、智力低下、孤独症、癫痫、抽动症、多动症、各种脑炎和脑膜炎的后遗症、脊髓性肌萎缩、脑白质营养不良等具有较为丰富的临床经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

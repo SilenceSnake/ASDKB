@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor263> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor263> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童精神分裂症、情感障碍、多动症、孤独症等儿童少年精神障碍的诊断和治疗，儿童孤独症的临床评估康复训练，儿童行为治疗，心理治疗，社交技能训练等"@zh .
+<https://w3id.org/asdkb/instance/doctor263> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北医六院'"@zh .
+<https://w3id.org/asdkb/instance/doctor263> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor263> <http://www.w3.org/2000/01/rdf-schema#label> "李雪"@zh .
+<https://w3id.org/asdkb/instance/doctor263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools1question19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-<https://w3id.org/asdkb/ontology/instances/tools1question19> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "20.不能执行含有简单介词的指令（如“把球放在盒子里”）。"@zh .
-

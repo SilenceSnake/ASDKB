@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor302> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中国人民解放军总医院第四医学中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor302> <https://w3id.org/asdkb/ontology/dataproperties/name> "李学秀"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor302> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor302> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "难治性癫痫的术前评估,智力障碍患者的认知功能康复及精神心理疾病诊治"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor302> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '副教授'"@zh .
-

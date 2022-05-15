@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor123> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor123> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "治疗青少年网络成瘾及网络成瘾背后(共病)的问题，如学习困难、注意力障碍、抑郁、神经症、物质成瘾(烟、美食成瘾)成长环境所致的心理问题、师生关系紧张所致的问题、父爱缺失所致的问题、单一价值评价体系(以分数论英雄)所致的问题，同伴交往困难所致的问题，亲子关系紧张，内向、孤僻、孤独、网瘾伴发症状，如焦虑、社交恐惧、强迫等，肥胖，贪食和厌食，癔症等，特别是学校和家庭教育无效的如上问题孩子。如学习困难、情感(情绪)障碍、注意力缺陷(ADHD)神经症、物质成瘾等；及难治的青少年心理疾病，如肥胖、进食障碍、癔症、情"@zh .
+<https://w3id.org/asdkb/instance/doctor123> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor123> <http://www.w3.org/2000/01/rdf-schema#label> "陶然"@zh .
+<https://w3id.org/asdkb/instance/doctor123> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北京军区总医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

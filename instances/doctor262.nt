@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor262> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童喂养、生长发育、多动症、孤独症、抽动症、语言问题、发育迟缓、智力障碍。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor262> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor262> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海儿童医学中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor262> <https://w3id.org/asdkb/ontology/dataproperties/name> "杨友"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor262> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

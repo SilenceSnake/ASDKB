@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor356> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'四川省妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor356> <http://www.w3.org/2000/01/rdf-schema#label> "刘星宇"@zh .
+<https://w3id.org/asdkb/instance/doctor356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor356> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '小儿神经内科'"@zh .
+<https://w3id.org/asdkb/instance/doctor356> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor356> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "癫痫、重症肌无力、脑瘫等"@zh .
+

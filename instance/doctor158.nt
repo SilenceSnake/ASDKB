@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor158> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "发育迟缓，高危儿的早期评估和干预，抽动障碍，孤独症谱系障碍，脑瘫，癫痫等小儿神经发育相关疾病的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor158> <http://www.w3.org/2000/01/rdf-schema#label> "张桂香"@zh .
+<https://w3id.org/asdkb/instance/doctor158> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经康复'"@zh .
+<https://w3id.org/asdkb/instance/doctor158> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor158> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'大连市妇女儿童医疗中心(集团)希望广场儿童院区'"@zh .
+<https://w3id.org/asdkb/instance/doctor158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

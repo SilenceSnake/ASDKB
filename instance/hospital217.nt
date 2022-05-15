@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital217> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital217> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0731-84332201(24小时咨询热线)"@zh .
+<https://w3id.org/asdkb/instance/hospital217> <https://w3id.org/asdkb/ontology/dataproperty/city> "长沙市"@zh .
+<https://w3id.org/asdkb/instance/hospital217> <https://w3id.org/asdkb/ontology/dataproperty/address> "湖南省长沙市开福区湘春路53号 (兴汉门、湖南日报隔壁)"@zh .
+<https://w3id.org/asdkb/instance/hospital217> <http://www.w3.org/2000/01/rdf-schema#label> "湖南省妇幼保健院"@zh .
+

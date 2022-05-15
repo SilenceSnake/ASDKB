@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor162> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长运动无痛针灸，联合中药、推拿、传统功法等治疗抽动症、多动症、小儿脑瘫及高危儿、发育落后、自闭症、慢性咳嗽、鼻炎、鼾症、哮喘、睡眠障碍等。"@zh .
+<https://w3id.org/asdkb/instance/doctor162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor162> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海儿童医学中心'"@zh .
+<https://w3id.org/asdkb/instance/doctor162> <http://www.w3.org/2000/01/rdf-schema#label> "孙克兴"@zh .
+<https://w3id.org/asdkb/instance/doctor162> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '中医科'"@zh .
+<https://w3id.org/asdkb/instance/doctor162> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+

@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/icddisease7> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "其他广泛性发育障碍"@en .
-<https://w3id.org/asdkb/ontology/instances/icddisease7> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.8"@zh .
-<https://w3id.org/asdkb/ontology/instances/icddisease7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.8> .
-<https://w3id.org/asdkb/ontology/instances/icddisease7> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Other pervasive developmental disorders"@zh .
-<https://w3id.org/asdkb/ontology/instances/icddisease7> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
-

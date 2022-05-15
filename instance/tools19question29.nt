@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools19question29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question29> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "30. 在同时有很多事情发生的情境下变得心烦"@zh .
+

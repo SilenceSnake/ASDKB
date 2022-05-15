@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor108> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor108> <http://www.w3.org/2000/01/rdf-schema#label> "李冰肖"@zh .
+<https://w3id.org/asdkb/instance/doctor108> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '新生儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor108> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "危重症新生儿特别是早产儿的救治。开展了高危儿保健特色门诊：主要针对早产、脑损伤高危儿出院后的随访和早期干预。擅长小儿癫痫、抽动症、孤独症、智力低下、语言及运动发育落后等小儿神经系统疾病的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor108> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'暨南大学附属第一医院'"@zh .
+

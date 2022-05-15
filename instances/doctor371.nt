@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor371> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor371> <https://w3id.org/asdkb/ontology/dataproperties/name> "王家勤"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor371> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'新乡医学院三附院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor371> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿癫痫、小儿脑性瘫痪、抽动障碍，多动症，智力低下，小儿化脓性脑膜炎、小儿病毒性脑炎、小儿结核性脑膜炎、小儿格林巴利综合征、遗尿症、学习困难、中枢及周围神经系统损伤和脑缺氧后遗症等疾病,以及神经系统先天性遗传代谢病等疾病的诊治"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor371> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-

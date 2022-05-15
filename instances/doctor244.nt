@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor244> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor244> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor244> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor244> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘春阳"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor244> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童保健、儿童语言障碍的矫治、婴幼儿抚触等"@zh .
-

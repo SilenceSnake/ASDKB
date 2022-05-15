@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/ontology/instances/symptom8> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a lack of social usage of whatever language skills are present"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom8> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "缺乏社交语言技能"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom8> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom8"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom8> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
-

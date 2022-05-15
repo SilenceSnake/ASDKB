@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools14question16> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "你的孩子会看你正在看的东西吗？"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools14question16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

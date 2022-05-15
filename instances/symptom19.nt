@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom19> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
-<https://w3id.org/asdkb/ontology/instances/symptom19> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom19"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom19> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "坚持在非功能性的仪式中执行特定的例行程序"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom19> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "insist on the performance of particular routines in rituals of a nonfunctional character"@en .
-

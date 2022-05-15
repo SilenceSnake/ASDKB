@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools18question17> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "18.您的孩子是否一定要带上某些物品(除了柔软的玩具或舒服的毯子以外)？"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools18question17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

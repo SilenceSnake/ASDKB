@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor129> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿癫痫、抽动症、神经发育罕见病、发育迟缓/智力障碍、吞咽障碍、言语语言障碍、脑瘫、各种脑发育问题的诊治以及早产儿神经发育监测与家庭干预指导、肉毒毒素治疗痉挛等方面有独到之处。"@zh .
+<https://w3id.org/asdkb/instance/doctor129> <http://www.w3.org/2000/01/rdf-schema#label> "候梅"@zh .
+<https://w3id.org/asdkb/instance/doctor129> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'青岛市妇女儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor129> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '康复科'"@zh .
+<https://w3id.org/asdkb/instance/doctor129> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+

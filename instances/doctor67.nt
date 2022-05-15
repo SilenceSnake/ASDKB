@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor67> <https://w3id.org/asdkb/ontology/dataproperties/name> "伍红星"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor67> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童精神运动发育迟缓、脑瘫、语言障碍、儿童抽动症、孤独症谱系障碍、儿童多动症的诊治，高危儿生长发育监测、儿童保健等。对儿童呼吸道感染、消化道等疾病也有丰富的治疗经验。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor67> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor67> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中山市人民医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor67> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-

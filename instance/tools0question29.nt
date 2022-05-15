@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "困惑时不问问题，而是忽略他人或转移话题(例如，不会说:“我不知道。””等。)"@zh .
+

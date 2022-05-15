@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor314> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/instance/doctor314> <http://www.w3.org/2000/01/rdf-schema#label> "杨思渊"@zh .
+<https://w3id.org/asdkb/instance/doctor314> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州市妇女儿童医疗中心'"@zh .
+<https://w3id.org/asdkb/instance/doctor314> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "注意缺陷多动障碍、抽动症、孤独症谱系障碍、焦虑症、拒绝上学症、强迫症、各类儿童家庭管理指导、各类儿童精神心理问题"@zh .
+<https://w3id.org/asdkb/instance/doctor314> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '讲师'"@zh .
+<https://w3id.org/asdkb/instance/doctor314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/hospital263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital263> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0576-88201299(总机)"@zh .
+<https://w3id.org/asdkb/instance/hospital263> <http://www.w3.org/2000/01/rdf-schema#label> "台州市妇女儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital263> <https://w3id.org/asdkb/ontology/dataproperty/city> "台州市"@zh .
+<https://w3id.org/asdkb/instance/hospital263> <https://w3id.org/asdkb/ontology/dataproperty/address> "台州市椒江区葭沚街道前进村188号"@zh .
+

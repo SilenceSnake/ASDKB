@@ -1,0 +1,11 @@
+<https://w3id.org/asdkb/instance/tools10> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/instance/tools10> <https://w3id.org/asdkb/ontology/dataproperty/rule> "如果家长回答3个或更多问题为“否”，那么孩子需要继续接受筛查。"@zh .
+<https://w3id.org/asdkb/instance/tools10> <https://w3id.org/asdkb/ontology/dataproperty/time> "10-15分钟"@zh .
+<https://w3id.org/asdkb/instance/tools10> <https://w3id.org/asdkb/ontology/dataproperty/definition> "ESAT有14个项目。答案为“是”或“否”的项目，涉及ASD的三个症状域和对感官刺激的反应。"@zh .
+<https://w3id.org/asdkb/instance/tools10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools10> <http://www.w3.org/2000/01/rdf-schema#label> "自闭症特征的早期筛查(ESAT)"@zh .
+<https://w3id.org/asdkb/instance/tools10> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "3"@zh .
+<https://w3id.org/asdkb/instance/tools10> <http://www.w3.org/2000/01/rdf-schema#label> "Early Screening for Autistic Traits"@en .
+<https://w3id.org/asdkb/instance/tools10> <https://w3id.org/asdkb/ontology/dataproperty/age> "14-15个月"@zh .
+<https://w3id.org/asdkb/instance/tools10> <https://w3id.org/asdkb/ontology/dataproperty/author> "Dietz, Swinkels, van Daalen, can Engeland, & Buitellar, 2006; Swinkels et al., 2006"@en .
+

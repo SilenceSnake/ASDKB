@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor250> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "生长发育、身材矮小、性早熟、发育迟缓；营养、喂养、厌食、营养不良、营养失调、腹泻、消化不良、佝偻病；孤独症（自闭症）、语言障碍（不会说话、说话少、说话不清楚)、多动、学习困难等。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor250> <https://w3id.org/asdkb/ontology/dataproperties/name> "徐宝珍"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor250> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor250> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'安徽省儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor250> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

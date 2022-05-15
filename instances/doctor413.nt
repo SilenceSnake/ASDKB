@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor413> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童多动症、孤独症谱系障碍、语言发育迟缓，发育迟缓等发育行为儿科常见疾病及儿童保健等"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor413> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor413> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'柳州市妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor413> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈玲"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor413> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

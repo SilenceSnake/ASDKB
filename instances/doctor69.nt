@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor69> <https://w3id.org/asdkb/ontology/dataproperties/name> "葛素安"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor69> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor69> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '内儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor69> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿高热小儿结核性脑膜炎儿童学习能力障碍儿童孤独症儿童腹痛儿童睡眠障碍小儿多动症婴儿肠痉挛足月小样儿小儿营养不良"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor69> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'深圳市盐港医院'"@zh .
-

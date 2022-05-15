@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question24> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "无法解读他人的非语言面部暗示(即他人的情绪状态)"@zh .
+<https://w3id.org/asdkb/instance/tools0question24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

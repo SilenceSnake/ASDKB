@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital108> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital108> <http://www.w3.org/2000/01/rdf-schema#label> "广东省妇幼保健院"@zh .
+<https://w3id.org/asdkb/instance/hospital108> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省广州市广园西路13号"@zh .
+<https://w3id.org/asdkb/instance/hospital108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital108> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "020-61118777(越秀院区总机),020-39151777(番禺院区总机),020-39151611(番禺院区预约挂号)"@zh .
+<https://w3id.org/asdkb/instance/hospital108> <https://w3id.org/asdkb/ontology/dataproperty/city> "广州市"@zh .
+

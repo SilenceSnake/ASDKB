@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital150> <https://w3id.org/asdkb/ontology/dataproperty/address> "山西省太原市迎泽区解放南路85号"@zh .
+<https://w3id.org/asdkb/instance/hospital150> <https://w3id.org/asdkb/ontology/dataproperty/city> "太原市"@zh .
+<https://w3id.org/asdkb/instance/hospital150> <http://www.w3.org/2000/01/rdf-schema#label> "山西医科大学第一医院"@zh .
+<https://w3id.org/asdkb/instance/hospital150> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0351-4639114(总机),0351-4639120(急诊电话)"@zh .
+<https://w3id.org/asdkb/instance/hospital150> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+

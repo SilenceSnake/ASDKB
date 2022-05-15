@@ -1,0 +1,9 @@
+<https://w3id.org/asdkb/instance/disease26> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/instance/disease26> <https://w3id.org/asdkb/ontology/dataproperty/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/instance/disease26> <http://www.w3.org/2000/01/rdf-schema#label> "广泛性发育障碍伴认知发育迟缓和功能性语言完全受损"@zh .
+<https://w3id.org/asdkb/instance/disease26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870308001> .
+<https://w3id.org/asdkb/instance/disease26> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "广泛性发育障碍伴认知发育迟缓和功能性语言完全障碍；广泛性发育障碍伴认知发育迟缓和功能性语言完全障碍；自闭症谱系障碍伴智力发育障碍和功能性语言完全障碍"@zh .
+<https://w3id.org/asdkb/instance/disease26> <http://www.w3.org/2000/01/rdf-schema#label> "Disorder of psychological development (disorder)"@en .
+<https://w3id.org/asdkb/instance/disease26> <https://w3id.org/asdkb/ontology/dataproperty/SCTID> "870308001"@zh .
+<https://w3id.org/asdkb/instance/disease26> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.8"@zh .
+

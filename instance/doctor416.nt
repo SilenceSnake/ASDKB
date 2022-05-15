@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor416> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症（自闭症）、不典型孤独症、亚斯伯格综合症、发育迟缓等疾病的诊断和治疗；注意缺陷多动障碍的诊断和治疗；儿童抽动症的诊断和治疗；学习困难的诊断和治疗；情绪问题儿童的治疗；行为问题儿童的治疗；感觉统合失调的诊断和治疗以及其他儿童心理问题的治疗"@zh .
+<https://w3id.org/asdkb/instance/doctor416> <http://www.w3.org/2000/01/rdf-schema#label> "郭海燕"@zh .
+<https://w3id.org/asdkb/instance/doctor416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor416> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'沈阳市儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor416> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor416> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理科'"@zh .
+

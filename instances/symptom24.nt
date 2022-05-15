@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom24> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "其他非特异性问题"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
-<https://w3id.org/asdkb/ontology/instances/symptom24> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "other nonspecific problems"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom24> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom24"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor295> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', '讲师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor295> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "各种心理问题诊治与咨询（包括多动症（注意缺陷多动障碍），焦虑症，抑郁症，自闭症（孤独症），强迫症等）"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor295> <https://w3id.org/asdkb/ontology/dataproperties/name> "夏卫萍"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor295> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '临床心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor295> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海新华医院'"@zh .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital236> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital236> <http://www.w3.org/2000/01/rdf-schema#label> "重庆市精神卫生中心"@zh .
+<https://w3id.org/asdkb/instance/hospital236> <https://w3id.org/asdkb/ontology/dataproperty/address> "重庆市江北区金紫山红金路102号"@zh .
+<https://w3id.org/asdkb/instance/hospital236> <https://w3id.org/asdkb/ontology/dataproperty/city> "重庆市"@zh .
+<https://w3id.org/asdkb/instance/hospital236> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "023-67500488(本部),023-65501567(分院)"@zh .
+

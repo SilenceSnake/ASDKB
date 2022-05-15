@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor268> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor268> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "高危新生儿、早产儿GMs评估、早期干预。儿童脑瘫及精神发育迟缓、智力障碍、运动障碍、语言障碍、构音障碍、脑发育不良、脑损伤等病的评估诊治，及家庭康复指导。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor268> <https://w3id.org/asdkb/ontology/dataproperties/name> "朱默"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor268> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor268> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'复旦大学附属儿科医院'"@zh .
-

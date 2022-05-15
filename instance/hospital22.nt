@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital22> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "二级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital22> <http://www.w3.org/2000/01/rdf-schema#label> "常州市第六人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital22> <https://w3id.org/asdkb/ontology/dataproperty/city> "常州市"@zh .
+<https://w3id.org/asdkb/instance/hospital22> <https://w3id.org/asdkb/ontology/dataproperty/address> "常州市延陵东路332号 "@zh .
+<https://w3id.org/asdkb/instance/hospital22> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0519-8815997 "@zh .
+<https://w3id.org/asdkb/instance/hospital22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

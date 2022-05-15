@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital159> <https://w3id.org/asdkb/ontology/dataproperty/city> "天津市"@zh .
+<https://w3id.org/asdkb/instance/hospital159> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital159> <https://w3id.org/asdkb/ontology/dataproperty/address> "天津市北辰区龙岩道238号"@zh .
+<https://w3id.org/asdkb/instance/hospital159> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "022-87787101(总机),022-87787101(北辰龙岩院区咨询),022-59556146(河西马场院区咨询)"@zh .
+<https://w3id.org/asdkb/instance/hospital159> <http://www.w3.org/2000/01/rdf-schema#label> "天津市儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

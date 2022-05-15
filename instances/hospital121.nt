@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital121> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "厦门市仙岳医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital121> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital121> <https://w3id.org/asdkb/ontology/dataproperties/city> "厦门市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital121> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0592-8585555(总机)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital121> <https://w3id.org/asdkb/ontology/dataproperties/address> "福建省厦门市思明区仙岳路387-399号"@zh .
-

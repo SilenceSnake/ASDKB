@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/symptom45> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom48"@zh .
+<https://w3id.org/asdkb/instance/symptom45> <http://www.w3.org/2000/01/rdf-schema#comment> " rigid spasticity may become manifest, and is usually more pronounced in the lower than in the upper limbs."@en .
+<https://w3id.org/asdkb/instance/symptom45> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom45"@zh .
+<https://w3id.org/asdkb/instance/symptom45> <http://www.w3.org/2000/01/rdf-schema#comment> "僵硬的痉挛可能变得明显，通常在下肢比上肢更明显。"@zh .
+<https://w3id.org/asdkb/instance/symptom45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
+

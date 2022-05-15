@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment25> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Time Delay"@en .
-<https://w3id.org/asdkb/ontology/instances/treatment25> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "时间延迟(TD)"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment25> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "延长指令与辅助之间的时长，已达到辅助撤退的目的。"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-

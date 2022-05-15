@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools18question0> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "1.您的孩子现在是否能用短语或句子说话？"@zh .
+<https://w3id.org/asdkb/instance/tools18question0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital206> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital206> <https://w3id.org/asdkb/ontology/dataproperty/address> "辽宁省锦州市凌河区和平路五段2号"@zh .
+<https://w3id.org/asdkb/instance/hospital206> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0416-3999111,0416-3999100"@zh .
+<https://w3id.org/asdkb/instance/hospital206> <http://www.w3.org/2000/01/rdf-schema#label> "锦州医科大学附属第三医院"@zh .
+<https://w3id.org/asdkb/instance/hospital206> <https://w3id.org/asdkb/ontology/dataproperty/city> "锦州市"@zh .
+<https://w3id.org/asdkb/instance/hospital206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

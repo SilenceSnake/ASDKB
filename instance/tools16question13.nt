@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools16question13> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "当生活常规改变或物品摆放到非常规的位置时，您的孩子能很容易地适应吗？"@zh .
+<https://w3id.org/asdkb/instance/tools16question13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor219> <https://w3id.org/asdkb/ontology/dataproperties/name> "孙凌"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor219> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童青少年心理问题、精神障碍的咨询及治疗"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor219> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童青少年心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor219> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'天津市安定医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor219> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

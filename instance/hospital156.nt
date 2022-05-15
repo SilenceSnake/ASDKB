@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital156> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "027-82433350(导医台),027-82433363(门诊部),027-84867467(汉阳门诊部),027-84867577(汉阳门诊部)"@zh .
+<https://w3id.org/asdkb/instance/hospital156> <http://www.w3.org/2000/01/rdf-schema#label> "武汉儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital156> <https://w3id.org/asdkb/ontology/dataproperty/city> "武汉市"@zh .
+<https://w3id.org/asdkb/instance/hospital156> <https://w3id.org/asdkb/ontology/dataproperty/address> "湖北省武汉市江岸区香港路100号"@zh .
+<https://w3id.org/asdkb/instance/hospital156> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+

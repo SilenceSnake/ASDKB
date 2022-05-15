@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor145> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海新华医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor145> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童保健及发育行为儿科门诊中常见疾病，如营养问题（营养不良、佝偻病、贫血、微量元素缺乏等）、儿童喂养和进食为题，儿童多动症、情绪行为问题（抽动、咬指甲等）、食物过敏、睡眠问题、遗尿、智能发育迟缓、语言发育迟缓、儿童生长发育相关问题的诊治和预防等方面诊治经验丰富 。"@zh .
+<https://w3id.org/asdkb/instance/doctor145> <http://www.w3.org/2000/01/rdf-schema#label> "李锋"@zh .
+<https://w3id.org/asdkb/instance/doctor145> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '讲师'"@zh .
+<https://w3id.org/asdkb/instance/doctor145> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '发育行为儿童保健科'"@zh .
+

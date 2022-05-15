@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor307> <http://www.w3.org/2000/01/rdf-schema#label> "杨志伟"@zh .
+<https://w3id.org/asdkb/instance/doctor307> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿少心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor307> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor307> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年学习障碍，孤独症谱系障碍，语言障碍，智力障碍，多动症，抽动症，强迫症，抑郁症，考试焦虑，社交焦虑，厌食症，遗尿症，网瘾，睡眠障碍，各类情绪行为问题等心理障碍与精神病性障碍的诊断与治疗；家庭亲子关系问题，心理咨询与治疗，有关医学鉴定问题"@zh .
+<https://w3id.org/asdkb/instance/doctor307> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'深圳市康宁医院'"@zh .
+

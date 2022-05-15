@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools6question8> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "她/他喜欢一遍又一遍地做事情，总是用同样的方式?"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools6question8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

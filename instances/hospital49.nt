@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital49> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital49> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "二级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital49> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "北京市大兴区妇幼保健院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital49> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市大兴区黄村镇兴丰大街(三段)203号；大兴宾馆对面 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital49> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-69247278"@zh .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor52> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '睡眠障碍与儿少心理障碍科'"@zh .
+<https://w3id.org/asdkb/instance/doctor52> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'湖南省第二人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor52> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor52> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长各类精神障碍、睡眠障碍的诊治及各类儿童青少年心理、行为障碍如孤独症、精神发育迟滞、多动症、抽动症、强迫症、焦虑症、抑郁症、双相情感障碍、精神分裂症的诊断及治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor52> <http://www.w3.org/2000/01/rdf-schema#label> "马静"@zh .
+

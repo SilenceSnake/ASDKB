@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital77> <http://www.w3.org/2000/01/rdf-schema#label> "成都市妇女儿童中心医院"@zh .
+<https://w3id.org/asdkb/instance/hospital77> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "028-61866186 87467888 "@zh .
+<https://w3id.org/asdkb/instance/hospital77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital77> <https://w3id.org/asdkb/ontology/dataproperty/address> "四川省成都市西三环外日月大道1617号 "@zh .
+<https://w3id.org/asdkb/instance/hospital77> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital77> <https://w3id.org/asdkb/ontology/dataproperty/city> "成都市"@zh .
+

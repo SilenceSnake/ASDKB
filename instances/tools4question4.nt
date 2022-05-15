@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools4question4> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "我发现当别人和我说话时，很容易“读懂字里行间的意思”"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools4question4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

@@ -1,0 +1,9 @@
+<https://w3id.org/asdkb/instance/tools13> <http://www.w3.org/2000/01/rdf-schema#label> "克鲁格亚斯伯格症指数(KADI)"@zh .
+<https://w3id.org/asdkb/instance/tools13> <https://w3id.org/asdkb/ontology/dataproperty/definition> "KADI由32个项目组成，分别提供初级和次级形式. "@zh .
+<https://w3id.org/asdkb/instance/tools13> <https://w3id.org/asdkb/ontology/dataproperty/age> "6-22岁"@zh .
+<https://w3id.org/asdkb/instance/tools13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools13> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工或专家"@zh .
+<https://w3id.org/asdkb/instance/tools13> <http://www.w3.org/2000/01/rdf-schema#label> "Krug Asperger's Disorder Index"@en .
+<https://w3id.org/asdkb/instance/tools13> <https://w3id.org/asdkb/ontology/dataproperty/author> "Krug & Arick, 2003"@en .
+<https://w3id.org/asdkb/instance/tools13> <https://w3id.org/asdkb/ontology/dataproperty/time> "15-20分钟"@zh .
+

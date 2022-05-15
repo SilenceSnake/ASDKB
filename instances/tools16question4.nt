@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools16question4> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "您的孩子会用食指指着东西，表示他要那个东西吗？（如一个他/她拿不到的玩具）"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools16question4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

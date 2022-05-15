@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/hospital126> <http://www.w3.org/2000/01/rdf-schema#label> "杭州市儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital126> <https://w3id.org/asdkb/ontology/dataproperty/address> "杭州市下城区文晖路195号"@zh .
+<https://w3id.org/asdkb/instance/hospital126> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0571-85464000(咨询预约),0571-85463909(医务科),0571-85464001(院办)"@zh .
+<https://w3id.org/asdkb/instance/hospital126> <https://w3id.org/asdkb/ontology/dataproperty/city> "杭州市"@zh .
+<https://w3id.org/asdkb/instance/hospital126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

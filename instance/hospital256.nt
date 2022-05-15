@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital256> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital256> <http://www.w3.org/2000/01/rdf-schema#label> "济南市妇幼保健院"@zh .
+<https://w3id.org/asdkb/instance/hospital256> <https://w3id.org/asdkb/ontology/dataproperty/city> "济南市"@zh .
+<https://w3id.org/asdkb/instance/hospital256> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省济南市市中区建国小经三路2号"@zh .
+<https://w3id.org/asdkb/instance/hospital256> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0531-89029000(总机),0531-89029188(客服电话),0531-58675128(预约挂号)"@zh .
+

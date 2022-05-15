@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor273> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor273> <https://w3id.org/asdkb/ontology/dataproperties/name> "韩晶晶"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor273> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor273> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿精神科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor273> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童青少年行为和发育问题"@zh .
-

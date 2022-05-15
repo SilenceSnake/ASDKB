@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital182> <https://w3id.org/asdkb/ontology/dataproperty/address> "哈尔滨市南岗区颐园街37号(总院)"@zh .
+<https://w3id.org/asdkb/instance/hospital182> <https://w3id.org/asdkb/ontology/dataproperty/city> "哈尔滨市"@zh .
+<https://w3id.org/asdkb/instance/hospital182> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0451-82576888(咨询),0451-82576999(门诊导诊),0451-82576608(门诊导诊),0451-82576606(门诊部)"@zh .
+<https://w3id.org/asdkb/instance/hospital182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital182> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital182> <http://www.w3.org/2000/01/rdf-schema#label> "哈尔滨医科大学附属第四医院"@zh .
+

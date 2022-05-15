@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor74> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor74> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor74> <https://w3id.org/asdkb/ontology/dataproperties/name> "俞红"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor74> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'佛山市妇幼保健院'"@zh .
-

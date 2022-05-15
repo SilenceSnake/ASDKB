@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor207> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长高危儿（早产、多胎、低体重或其他新生儿疾病史等）喂养指导、发育迟缓（婴幼儿动作、语言及社交能力等发育落后）、儿童注意缺陷多动障碍（多动、注意力不集中、学习困难）、营养失衡（消瘦、矮小、肥胖）、孤独谱系障碍（自闭症）、感觉统合失调、智商评估等。"@zh .
+<https://w3id.org/asdkb/instance/doctor207> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海市儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor207> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor207> <http://www.w3.org/2000/01/rdf-schema#label> "陈津津"@zh .
+<https://w3id.org/asdkb/instance/doctor207> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+

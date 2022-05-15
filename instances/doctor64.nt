@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor64> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "(1)儿童孤独症、言语发育障碍、学习困难、儿童多动症、抽动症等发育行为障碍的诊治。 (2)儿童期不良习惯及行为偏异的心理咨询与矫治 (3)儿童生长发育监测及常见病防治"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor64> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor64> <https://w3id.org/asdkb/ontology/dataproperties/name> "黄赛君"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor64> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor64> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'佛山市妇幼保健院'"@zh .
-

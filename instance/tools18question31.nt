@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools18question31> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "33.在您的孩子4-5岁时(或过去一年中)，他/她的面部表情是否和同龄孩子一样丰富？"@zh .
+<https://w3id.org/asdkb/instance/tools18question31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

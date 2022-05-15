@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital35> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0660-3863000 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital35> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "中山大学孙逸仙纪念医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital35> <https://w3id.org/asdkb/ontology/dataproperties/address> "汕尾市城区火车站片区汕可路西侧、站前横路以南 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital35> <https://w3id.org/asdkb/ontology/dataproperties/city> "汕尾市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital35> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-

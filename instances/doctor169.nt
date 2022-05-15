@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor169> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'湘雅二医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor169> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor169> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "临床精神病学，儿童青少年心理卫生保健"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor169> <https://w3id.org/asdkb/ontology/dataproperties/name> "罗学荣"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor169> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-

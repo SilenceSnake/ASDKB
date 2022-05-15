@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital140> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital140> <https://w3id.org/asdkb/ontology/dataproperty/address> "济南市经五纬七路324号"@zh .
+<https://w3id.org/asdkb/instance/hospital140> <https://w3id.org/asdkb/ontology/dataproperty/city> "济南市"@zh .
+<https://w3id.org/asdkb/instance/hospital140> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0531-68777114(总机),0531-87938911(总机),0531-68776200(咨询电话),0531-58675120(预约)"@zh .
+<https://w3id.org/asdkb/instance/hospital140> <http://www.w3.org/2000/01/rdf-schema#label> "山东省立医院"@zh .
+<https://w3id.org/asdkb/instance/hospital140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

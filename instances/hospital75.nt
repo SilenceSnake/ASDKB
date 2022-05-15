@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital75> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市金山区朱泾镇健康路147号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital75> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-57317312 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital75> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital75> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海市第六人民医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital75> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "二级甲等"@zh .
-

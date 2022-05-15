@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital85> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "桂林181医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital85> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital85> <https://w3id.org/asdkb/ontology/dataproperties/city> "桂林市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital85> <https://w3id.org/asdkb/ontology/dataproperties/address> "广西壮族自治区桂林市新桥园路1号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital85> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0773-3843453  "@zh .
-

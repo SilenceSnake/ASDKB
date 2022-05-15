@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/symptom19> <http://www.w3.org/2000/01/rdf-schema#comment> "坚持在非功能性的仪式中执行特定的例行程序"@zh .
+<https://w3id.org/asdkb/instance/symptom19> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom16"@zh .
+<https://w3id.org/asdkb/instance/symptom19> <http://www.w3.org/2000/01/rdf-schema#comment> "insist on the performance of particular routines in rituals of a nonfunctional character"@en .
+<https://w3id.org/asdkb/instance/symptom19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/restrictive_repetitive_and_stereotyped_behaviorsr> .
+<https://w3id.org/asdkb/instance/symptom19> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom19"@zh .
+

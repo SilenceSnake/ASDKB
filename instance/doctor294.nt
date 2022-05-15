@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor294> <http://www.w3.org/2000/01/rdf-schema#label> "郑朝盾"@zh .
+<https://w3id.org/asdkb/instance/doctor294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor294> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor294> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/instance/doctor294> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州医科大学附属脑科医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor294> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "心境障碍、分裂症、脑器质性精神障碍、睡眠障碍、癫痫"@zh .
+

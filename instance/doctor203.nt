@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor203> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'苏州大学附属儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor203> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童生长发育、小儿营养、儿童心理发展、儿童多动症、发育性协调障碍"@zh .
+<https://w3id.org/asdkb/instance/doctor203> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor203> <http://www.w3.org/2000/01/rdf-schema#label> "古桂雄"@zh .
+<https://w3id.org/asdkb/instance/doctor203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor203> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor436> <http://www.w3.org/2000/01/rdf-schema#label> "安钢辉"@zh .
+<https://w3id.org/asdkb/instance/doctor436> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor436> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "治疗成人和青少年心理问题如考试焦虑、中考和高考考前咨询、厌学，情绪不稳及睡眠障碍。心身疾病，抑郁症，焦虑症，睡眠障碍的治疗。心身医学，医患沟通学培训及心理健康教育"@zh .
+<https://w3id.org/asdkb/instance/doctor436> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor436> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'哈医大一院'"@zh .
+

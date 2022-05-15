@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor432> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长小儿神经发育障碍性疾病和运动障碍性疾病（发育迟缓、脑瘫、运动障碍）、癫痫、语言障碍、精神发育迟滞等的诊断、评定、治疗、康复；高危儿包括早产儿，缺氧缺血脑病，颅内出血，胆红素脑病等预后评估及治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor432> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor432> <http://www.w3.org/2000/01/rdf-schema#label> "文香淑"@zh .
+<https://w3id.org/asdkb/instance/doctor432> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童康复科'"@zh .
+<https://w3id.org/asdkb/instance/doctor432> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'珠海市妇幼保健院'"@zh .
+

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital29> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省广州市荔湾路35号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital29> <https://w3id.org/asdkb/ontology/dataproperties/city> "广州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital29> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "020-81346935，81346937 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital29> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital29> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广州市荔湾中心医院"@zh .
-

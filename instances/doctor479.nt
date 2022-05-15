@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor479> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "孤独症谱系障碍，注意缺陷多动障碍，抽动症，智能发育障碍，特殊学习障碍，交流障碍"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor479> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor479> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'天津市儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor479> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor479> <https://w3id.org/asdkb/ontology/dataproperties/name> "于情"@zh .
-

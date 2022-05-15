@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor285> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor285> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "从事小儿脑瘫、弱智、学习困难、多动症、癫痫，小儿持续植物状态，小儿精神发育迟滞，小儿自闭症，小儿语言发育迟缓·小儿抽动症等小神经康复工作32年。"@zh .
+<https://w3id.org/asdkb/instance/doctor285> <http://www.w3.org/2000/01/rdf-schema#label> "刘振寰"@zh .
+<https://w3id.org/asdkb/instance/doctor285> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'南海妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor285> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

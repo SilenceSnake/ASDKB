@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital110> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-62474880(总机),02162474880-72116(泸定路院区预约),021-62474880-82116(北京西路院区)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital110> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市普陀区泸定路355号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital110> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital110> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海市儿童医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital110> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor97> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'浙江省儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor97> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor97> <http://www.w3.org/2000/01/rdf-schema#label> "竺智伟"@zh .
+<https://w3id.org/asdkb/instance/doctor97> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、儿童发育迟缓、儿童学习障碍、遗传性精神发育迟滞、儿童喂养困难、饮食行为问题、儿童铅中毒等疾病的诊断、评估、治疗、干预及医教结合指导。"@zh .
+<https://w3id.org/asdkb/instance/doctor97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor97> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+

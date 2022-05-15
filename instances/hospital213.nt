@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital213> <https://w3id.org/asdkb/ontology/dataproperties/city> "嘉兴市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital213> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "浙江中医药大学附属嘉兴市中医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital213> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital213> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0573-82076999(总机),0573-82079137(服务中心),0573-82063120(预约外请专家和特需),0573-82093120(急诊)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital213> <https://w3id.org/asdkb/ontology/dataproperties/address> "嘉兴市中山东路1501号(本部)"@zh .
-

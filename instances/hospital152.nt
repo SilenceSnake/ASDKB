@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital152> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "浙江大学医学院附属第二医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital152> <https://w3id.org/asdkb/ontology/dataproperties/address> "浙江省杭州市解放路88号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital152> <https://w3id.org/asdkb/ontology/dataproperties/city> "杭州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital152> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0571-87783777(总机)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital152> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-

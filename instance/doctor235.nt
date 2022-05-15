@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor235> <http://www.w3.org/2000/01/rdf-schema#label> "肖侠明"@zh .
+<https://w3id.org/asdkb/instance/doctor235> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor235> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'好大夫工作室'"@zh .
+<https://w3id.org/asdkb/instance/doctor235> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor235> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿科学、神经系统疾病"@zh .
+

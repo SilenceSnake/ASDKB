@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor495> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中医科学院针灸医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor495> <https://w3id.org/asdkb/ontology/dataproperties/name> "胡静"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor495> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '妇儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor495> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor495> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "痛经、月经不调、子宫肌瘤、卵巢囊肿、卵巢早衰、更年期综合征、多囊卵巢综合征等妇科疾病；儿童孤独症、小儿多动症、小儿反复呼吸道感染、小儿腹泻等儿科疾病；偏头痛、失眠、耳鸣、耳聋、顽固性面瘫、带状疱疹及后遗神经痛等神经精神类疾病；乳腺增生、乳腺结节、甲状腺结节、产后诸证等疾病。"@zh .
-

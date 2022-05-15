@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor206> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿抽动症，脑瘫的诊断及康复，小儿癫痫的诊治，发育迟缓，运动发育落后，惊厥等小儿神经系统疾病。另外，部分家长不知道怎么网上购药。只需文字留言药物名称及数量就可以。我开药后，网上缴费，填写邮寄地址姓名电话就可以"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor206> <https://w3id.org/asdkb/ontology/dataproperties/name> "温兆春"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor206> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿神经内科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor206> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor206> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'山东省立医院'"@zh .
-

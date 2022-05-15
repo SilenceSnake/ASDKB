@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor332> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童多动症、抽动症、品行障碍等行为障碍以及各种儿童情绪障碍的诊治，精神分裂症、情感障碍的早期干预；同时对儿童癫痫亦有较丰富的诊疗经验"@zh .
+<https://w3id.org/asdkb/instance/doctor332> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor332> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州医科大学附属脑科医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor332> <http://www.w3.org/2000/01/rdf-schema#label> "程道猛"@zh .
+<https://w3id.org/asdkb/instance/doctor332> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿少精神科'"@zh .
+

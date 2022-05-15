@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital2> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "027-85836685（六角亭院区）、82281733（二七院区）  "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital2> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "武汉精神卫生中心"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital2> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital2> <https://w3id.org/asdkb/ontology/dataproperties/address> "武汉市硚口游艺路93号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital2> <https://w3id.org/asdkb/ontology/dataproperties/city> "武汉市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-

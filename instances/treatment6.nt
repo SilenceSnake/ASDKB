@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-<https://w3id.org/asdkb/ontology/instances/treatment6> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Direct Instruction"@en .
-<https://w3id.org/asdkb/ontology/instances/treatment6> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "直接教学(DI)"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment6> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种系统的教学方法，教学者按照脚本教案进行教学指导。"@zh .
-

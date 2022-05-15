@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor51> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor51> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿脑瘫、癫痫、智力低下等各种脑病的诊治及康复。擅长小儿脑瘫早期诊断评估治疗康复，语言障碍、孤独症评估治疗康复。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor51> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'郑州市中心医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor51> <https://w3id.org/asdkb/ontology/dataproperties/name> "吴丽"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor51> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师'"@zh .
-

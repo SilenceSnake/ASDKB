@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital119> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "010-58303000(咨询热线),010-58303063(咨询热线)"@zh .
+<https://w3id.org/asdkb/instance/hospital119> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital119> <http://www.w3.org/2000/01/rdf-schema#label> "首都医科大学附属北京安定医院"@zh .
+<https://w3id.org/asdkb/instance/hospital119> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市西城区德胜门外安康胡同5号(德胜门城楼北侧路西)"@zh .
+<https://w3id.org/asdkb/instance/hospital119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital119> <https://w3id.org/asdkb/ontology/dataproperty/city> "北京市"@zh .
+

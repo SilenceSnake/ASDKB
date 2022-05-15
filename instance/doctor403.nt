@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor403> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor403> <http://www.w3.org/2000/01/rdf-schema#label> "蒋成刚"@zh .
+<https://w3id.org/asdkb/instance/doctor403> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'重庆市妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor403> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "在青少年学习障碍、焦虑症、抑郁症、强迫症、恐惧症、失眠症、性心理障碍方面积累多年临床经验."@zh .
+<https://w3id.org/asdkb/instance/doctor403> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '睡眠心理科'"@zh .
+

@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom64> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom64"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom64> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom16"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
-<https://w3id.org/asdkb/ontology/instances/symptom64> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "受限制的、重复的、刻板的行为、兴趣和活动模式 "@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom64> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "restricted, repetitive, stereotyped patterns of behaviour, interests, and activities"@en .
-

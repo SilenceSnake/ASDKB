@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools6question7> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "当她/他3岁的时候，她/他有没有花很多时间假装(例如，扮演一个超级英雄，或举办泰迪的茶会)?"@zh .
+<https://w3id.org/asdkb/instance/tools6question7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

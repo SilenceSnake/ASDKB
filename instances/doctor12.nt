@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor12> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈丽莉"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor12> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'汕头市中心医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor12> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor12> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor12> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长儿童营养、发育行为，尤其是多动症、孤独症、抽动症、佝偻病、贫血等疾病的诊治"@zh .
-

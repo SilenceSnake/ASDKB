@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor128> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健所'"@zh .
+<https://w3id.org/asdkb/instance/doctor128> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor128> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童多动症、孤独症、抽动症、学习障碍、语言发育障碍、智力低下、焦虑症、抑郁症、强迫症、情绪障碍等心理行为问题及儿童保健服务。"@zh .
+<https://w3id.org/asdkb/instance/doctor128> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'济南市儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor128> <http://www.w3.org/2000/01/rdf-schema#label> "杨良政"@zh .
+

@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom10> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom10"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/ontology/instances/symptom10> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom10> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "会话交流中的缺乏统一性，同步性差"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom10> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "poor synchrony and lack of reciprocity in conversational interchange"@en .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom16> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "restricted, repetitive, and stereotyped patterns of behaviour, interests, and activities"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom16> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom16"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
-<https://w3id.org/asdkb/ontology/instances/symptom16> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "限制、重复和刻板的行为、兴趣和活动模式"@zh .
-

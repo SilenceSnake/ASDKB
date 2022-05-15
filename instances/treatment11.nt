@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment11> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Functional Communication Training"@en .
-<https://w3id.org/asdkb/ontology/instances/treatment11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-<https://w3id.org/asdkb/ontology/instances/treatment11> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "功能沟通训练(FCT)"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment11> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "使用更恰当或更有效的沟通方式来替代有沟通功能的挑战性行为。"@zh .
-

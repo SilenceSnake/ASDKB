@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor58> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神病科'"@zh .
+<https://w3id.org/asdkb/instance/doctor58> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'十堰市中医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor58> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长精神分裂症、躁狂忧郁症、偏执性精神病、应激相关障碍、癫痫性精神障碍、各类躯体疾病伴发的精神障碍的诊治，以及老年和儿童精神分裂症、孤独症、情绪与行为障碍的诊治。对酒精、药物依赖及其它物质成瘾的诊治有丰富的经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor58> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor58> <http://www.w3.org/2000/01/rdf-schema#label> "刘继强"@zh .
+

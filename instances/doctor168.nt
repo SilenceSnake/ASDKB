@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor168> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'复旦大学附属儿科医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor168> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor168> <https://w3id.org/asdkb/ontology/dataproperties/name> "徐秀"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor168> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor168> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童营养及喂养问题、儿童语言问题、自闭症、注意力缺陷多动障碍、学习困难等儿童发育与行为问题的诊断和治疗"@zh .
-

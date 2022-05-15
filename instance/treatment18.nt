@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/treatment18> <http://www.w3.org/2000/01/rdf-schema#label> "强化(R)"@zh .
+<https://w3id.org/asdkb/instance/treatment18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
+<https://w3id.org/asdkb/instance/treatment18> <https://w3id.org/asdkb/ontology/dataproperty/definition> "在学习者表现出目标行为后给予的结果，使学习者该行为在未来的发生频率提高。"@zh .
+<https://w3id.org/asdkb/instance/treatment18> <http://www.w3.org/2000/01/rdf-schema#label> "Reinforcement"@en .
+

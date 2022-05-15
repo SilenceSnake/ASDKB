@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital145> <https://w3id.org/asdkb/ontology/dataproperties/city> "杭州市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital145> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0571-87061007(总机)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital145> <https://w3id.org/asdkb/ontology/dataproperties/address> "杭州市下城区竹竿巷57号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital145> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital145> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "浙江大学医学院附属儿童医院"@zh .
-

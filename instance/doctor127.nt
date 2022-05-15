@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor127> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor127> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '发育行为儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor127> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童认知、行为和喂养问题的诊治：包括多动症、自闭症、智能迟缓、语言问题、睡眠问题、情绪问题、儿童喂养困难、肥胖、食物过敏、早期智能促进等。"@zh .
+<https://w3id.org/asdkb/instance/doctor127> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海新华医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor127> <http://www.w3.org/2000/01/rdf-schema#label> "李斐"@zh .
+

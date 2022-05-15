@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor238> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor238> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor238> <https://w3id.org/asdkb/ontology/dataproperties/name> "唐文忠"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor238> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "心理障碍，焦虑，恐惧，失眠，强迫，躁狂，忧郁，精神分裂症的诊断治疗；中西医结合治疗和精神康复治疗"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor238> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-

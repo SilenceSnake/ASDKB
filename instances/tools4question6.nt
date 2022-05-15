@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools4question6> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "读故事时，我发现很难弄清人物的意图"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools4question6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor473> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor473> <https://w3id.org/asdkb/ontology/dataproperties/name> "郑艳"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor473> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童语言发育迟缓及构音障碍测评与治疗"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor473> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor473> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'温州医科大学附属第二医院'"@zh .
-

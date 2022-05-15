@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor171> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "各类精神疾病的诊断与药物治疗，尤其是精神分裂症、脑器质性精神障碍、双相情感障碍、抑郁症、焦虑症、躯体形式障碍、躯体疾病伴发的抑郁焦虑、头痛失眠等疾病的药物治疗。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor171> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor171> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor171> <https://w3id.org/asdkb/ontology/dataproperties/name> "郭文斌"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor171> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'湘雅二医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor313> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、抽动症、注意缺陷多动综合征、言语障碍、口吃、遗尿、行为问题、焦虑抑郁强迫等情绪障碍"@zh .
+<https://w3id.org/asdkb/instance/doctor313> <http://www.w3.org/2000/01/rdf-schema#label> "吴宝铮"@zh .
+<https://w3id.org/asdkb/instance/doctor313> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor313> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '发育与行为儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor313> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'山西省儿童医院'"@zh .
+

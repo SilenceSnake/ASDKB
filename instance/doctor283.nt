@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor283> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/instance/doctor283> <http://www.w3.org/2000/01/rdf-schema#label> "于洋"@zh .
+<https://w3id.org/asdkb/instance/doctor283> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "善于各种精神心理疾病的诊断与治疗，尤其是联合应用心理治疗跟药物治疗有丰富的临床经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor283> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'锦州市康宁医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor283> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+

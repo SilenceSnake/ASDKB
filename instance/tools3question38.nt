@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools3question38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools3question38> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "39. 别人常告诉我我总是重复地说同样的事。"@zh .
+

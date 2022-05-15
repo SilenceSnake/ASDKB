@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
-<https://w3id.org/asdkb/ontology/instances/symptom31> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom24"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom31> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom31"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom31> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "在大约四分之三的病例中存在明显的精神发育迟滞"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom31> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "there is significant mental retardation in some three-quarters of cases"@en .
-

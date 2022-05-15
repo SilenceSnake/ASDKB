@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor457> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "抑郁症，焦虑症，强迫症及精神分裂症等精神科常见病多发病的诊断治疗。对儿童青少年学习、情绪问题，网瘾，婚恋及家庭问题的心理咨询也有较深研究。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor457> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神卫生科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor457> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'新乡市中心医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor457> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈帅"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor457> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', '讲师'"@zh .
-

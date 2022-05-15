@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/hospital245> <http://www.w3.org/2000/01/rdf-schema#label> "上海市中医文献馆中医门诊部"@zh .
+<https://w3id.org/asdkb/instance/hospital245> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-64371481(总机)"@zh .
+<https://w3id.org/asdkb/instance/hospital245> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市卢湾区瑞金二路156号"@zh .
+<https://w3id.org/asdkb/instance/hospital245> <https://w3id.org/asdkb/ontology/dataproperty/city> "上海市"@zh .
+<https://w3id.org/asdkb/instance/hospital245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

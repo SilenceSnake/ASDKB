@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools0question0> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "避免直视他人的眼睛或在适当的时间内不能保持眼神交流"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools0question0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

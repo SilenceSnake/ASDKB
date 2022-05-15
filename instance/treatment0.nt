@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/treatment0> <http://www.w3.org/2000/01/rdf-schema#label> "基于前事的干预(ABI)"@zh .
+<https://w3id.org/asdkb/instance/treatment0> <http://www.w3.org/2000/01/rdf-schema#label> "Antecedent-Based Interventions"@en .
+<https://w3id.org/asdkb/instance/treatment0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
+<https://w3id.org/asdkb/instance/treatment0> <https://w3id.org/asdkb/ontology/dataproperty/definition> "在活动或要求开始之前，对环境进行布置，使目标行为发生的可能性增加或降低。"@zh .
+

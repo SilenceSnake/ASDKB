@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools14question13> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "你的孩子听到别人叫他／她的名字时，他／她会回应吗？"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools14question13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

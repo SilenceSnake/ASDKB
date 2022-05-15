@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/D21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/standard_of_social_interaction> .
+<https://w3id.org/asdkb/instance/D21> <http://www.w3.org/2000/01/rdf-schema#comment> "在语言流利的成年人中，可能是交流中使人感到“身体语言”非常的古怪、呆板或夸张"@zh .
+

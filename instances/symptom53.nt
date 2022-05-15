@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom53> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a regression in the level of play, social skills, and adaptive behaviour"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/ontology/instances/symptom53> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "游戏水平、社交技能和适应行为的退化"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom53> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom53"@zh .
-

@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools19question5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question5> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "6.宁愿独处而不跟别人在一起"@zh .
+

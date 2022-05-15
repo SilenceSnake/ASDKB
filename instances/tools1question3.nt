@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools1question3> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "4.不能执行只说一遍的简单指令（如坐下、过来、起来）。"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools1question3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital168> <http://www.w3.org/2000/01/rdf-schema#label> "中国人民解放军总医院第四医学中心"@zh .
+<https://w3id.org/asdkb/instance/hospital168> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "010-66867304(总机),010-66848454(总机),010-66867450(挂号室)"@zh .
+<https://w3id.org/asdkb/instance/hospital168> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital168> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市海淀区阜成路51号"@zh .
+<https://w3id.org/asdkb/instance/hospital168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital168> <https://w3id.org/asdkb/ontology/dataproperty/city> "北京市"@zh .
+

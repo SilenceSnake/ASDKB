@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question53> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "演示自我刺激行为，以获得感觉输入(例如，身体的自摇，手拍动，自旋等)。"@zh .
+<https://w3id.org/asdkb/instance/tools0question53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

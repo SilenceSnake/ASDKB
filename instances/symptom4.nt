@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom4> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "poor use of social signals"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/ontology/instances/symptom4> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom4"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom4> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom4> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "社交信号使用不当"@zh .
-

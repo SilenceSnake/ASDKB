@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools9question24> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "避免目光接触。不会直视你的眼睛"@zh .
+<https://w3id.org/asdkb/instance/tools9question24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

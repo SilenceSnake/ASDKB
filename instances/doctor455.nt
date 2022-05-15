@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor455> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'临沂市人民医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor455> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿康复科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor455> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "脑瘫，孤独症，智力落后，发育障碍等专科疾病，以及儿科常见发烧，感冒，腹泻等。儿童发育评估，神经康复、骨科康复、儿童康复"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor455> <https://w3id.org/asdkb/ontology/dataproperties/name> "张勤良"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor455> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-

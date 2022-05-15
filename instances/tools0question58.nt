@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools0question58> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "被视觉刺激占据(例如，灯、镜子、闪亮的物体、旋转的物体、字母、数字、开/关的门等)"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools0question58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

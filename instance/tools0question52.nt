@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question52> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "对轻微的触摸反应过度(例如，与他人轻微的碰撞反应过度，正常的衣服质地或触摸感觉疼痛，变得不舒服和脱衣服，等等)"@zh .
+

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor24> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor24> <https://w3id.org/asdkb/ontology/dataproperties/name> "王风波"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor24> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'成都医学院第一附属医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor24> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "偏瘫、截瘫、脑瘫、孤独症的诊疗技术。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor24> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
-

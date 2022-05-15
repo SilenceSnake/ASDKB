@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor82> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor82> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "主要研究方向为儿童生长发育、儿童营养、儿童智力等。擅长诊治佝偻病、营养性贫血、营养不良、微量元素缺乏或中毒、多动症、孤独症、语言发育障碍和学习困难等疾病，具有丰富的儿童保健临床经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor82> <http://www.w3.org/2000/01/rdf-schema#label> "陈佩丽"@zh .
+<https://w3id.org/asdkb/instance/doctor82> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'深圳市儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor82> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

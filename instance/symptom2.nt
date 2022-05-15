@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/symptom2> <http://www.w3.org/2000/01/rdf-schema#comment> "对他人情绪缺乏反应"@zh .
+<https://w3id.org/asdkb/instance/symptom2> <http://www.w3.org/2000/01/rdf-schema#comment> "a lack of responses to other people's emotions"@en .
+<https://w3id.org/asdkb/instance/symptom2> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom2"@zh .
+<https://w3id.org/asdkb/instance/symptom2> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom0"@zh .
+<https://w3id.org/asdkb/instance/symptom2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+

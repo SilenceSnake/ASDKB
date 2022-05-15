@@ -1,0 +1,9 @@
+<https://w3id.org/asdkb/instance/disease36> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/instance/disease36> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "广泛性发育障碍伴智力发育障碍并丧失先前获得的技能（障碍）；广泛性发育障碍伴智力发育障碍伴先前获得技能丧失；自闭症谱系障碍伴智力发育障碍且功能性语言轻度或无损伤 失去以前获得的技能"@zh .
+<https://w3id.org/asdkb/instance/disease36> <https://w3id.org/asdkb/ontology/dataproperty/SCTID> "870303003"@zh .
+<https://w3id.org/asdkb/instance/disease36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303003> .
+<https://w3id.org/asdkb/instance/disease36> <https://w3id.org/asdkb/ontology/dataproperty/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/instance/disease36> <http://www.w3.org/2000/01/rdf-schema#label> "Disorder of psychological development (disorder)"@en .
+<https://w3id.org/asdkb/instance/disease36> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/instance/disease36> <http://www.w3.org/2000/01/rdf-schema#label> "广泛性发育障碍伴智力发育障碍伴原有的技能丧失(障碍)"@zh .
+

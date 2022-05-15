@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital47> <http://www.w3.org/2000/01/rdf-schema#label> "复旦大学附属华山医院"@zh .
+<https://w3id.org/asdkb/instance/hospital47> <https://w3id.org/asdkb/ontology/dataproperty/city> "上海市"@zh .
+<https://w3id.org/asdkb/instance/hospital47> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-52889999 "@zh .
+<https://w3id.org/asdkb/instance/hospital47> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital47> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市静安区乌鲁木齐中路12号 "@zh .
+<https://w3id.org/asdkb/instance/hospital47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

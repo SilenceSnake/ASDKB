@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital210> <https://w3id.org/asdkb/ontology/dataproperty/city> "宁波市"@zh .
+<https://w3id.org/asdkb/instance/hospital210> <http://www.w3.org/2000/01/rdf-schema#label> "宁波市康宁医院"@zh .
+<https://w3id.org/asdkb/instance/hospital210> <https://w3id.org/asdkb/ontology/dataproperty/address> "浙江省宁波市镇海庄市街道庄俞南路1号"@zh .
+<https://w3id.org/asdkb/instance/hospital210> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital210> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0574-26302511"@zh .
+

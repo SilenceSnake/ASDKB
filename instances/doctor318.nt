@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor318> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'江西省儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor318> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor318> <https://w3id.org/asdkb/ontology/dataproperties/name> "谢基华"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor318> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "癫痫，神经免疫性疾病（急性播散性脑脊髓炎.格林-巴利综合征.抗NMDAR脑炎.副肿瘤综合征.狼疮性脑病.免疫性小脑炎等），脑炎，神经皮肤综合征（结节性硬化、神经纤维瘤病等），肌炎，面瘫，遗传代谢病，抽动症，发育落后，热性惊厥等疾病的诊治。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor318> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

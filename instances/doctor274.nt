@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor274> <https://w3id.org/asdkb/ontology/dataproperties/name> "张宏"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor274> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童各类心理问题，情绪障碍，多动，行为问题，拒绝上学，学习困难，发育障碍如智商落后及孤独症，亲子冲突，人际障碍，品行问题及环境改变后的适应问题。儿童各类精神疾病如精神分裂症的诊断及治疗。儿童抑郁症的诊断，药物治疗及心理治疗。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor274> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '少儿精神科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor274> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor274> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海思睿明精神心理诊所'"@zh .
-

@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools6question27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools6question27> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "她/他是否有任何不寻常和重复的动作?"@zh .
+

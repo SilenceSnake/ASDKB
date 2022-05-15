@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor61> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor61> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor61> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿发育与行为疾病（儿童多动症、抽动症、孤独症等）、呼吸道疾病（外感发热、咳嗽、哮喘、反复呼吸道感染、肺炎等）及消化道疾病（厌食、消化不良、再发性腹痛等）的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor61> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州中医药大学第一附属医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor61> <http://www.w3.org/2000/01/rdf-schema#label> "陈晓刚"@zh .
+<https://w3id.org/asdkb/instance/doctor61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

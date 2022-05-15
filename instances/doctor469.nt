@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor469> <https://w3id.org/asdkb/ontology/dataproperties/name> "杜继萍"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor469> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "主要是儿童神经系统的康复等，擅长儿童脑性瘫痪及脑瘫高危儿的评估、诊断、治疗，以及肉毒毒素的注射。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor469> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor469> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'郴州市儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor469> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复科'"@zh .
-

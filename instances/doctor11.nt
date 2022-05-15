@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor11> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor11> <https://w3id.org/asdkb/ontology/dataproperties/name> "姚春杨"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor11> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长儿童心理保健，智力诊断及，行为能力测定，多动症，孤独症等的诊断。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor11> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'深圳远东妇儿科医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor11> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
-

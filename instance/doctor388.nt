@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor388> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor388> <http://www.w3.org/2000/01/rdf-schema#label> "卢建平"@zh .
+<https://w3id.org/asdkb/instance/doctor388> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿少心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor388> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'深圳市康宁医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor388> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年情绪和行为障碍及儿童青少年成长过程的心理卫生问题的心理咨询及治疗"@zh .
+<https://w3id.org/asdkb/instance/doctor388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

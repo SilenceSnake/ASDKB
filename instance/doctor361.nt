@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor361> <http://www.w3.org/2000/01/rdf-schema#label> "花静"@zh .
+<https://w3id.org/asdkb/instance/doctor361> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor361> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '发育行为儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor361> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长孤独症早期评估干预，语言、运动发育迟缓，婴幼儿营养不良和喂养困难及睡眠行为障碍，儿童发育性协调障碍等诊疗工作。"@zh .
+<https://w3id.org/asdkb/instance/doctor361> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海市第一妇婴保健院'"@zh .
+

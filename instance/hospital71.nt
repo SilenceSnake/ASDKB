@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital71> <http://www.w3.org/2000/01/rdf-schema#label> "河南中医学院第一附属医院"@zh .
+<https://w3id.org/asdkb/instance/hospital71> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital71> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "挂号预约：0371—96129 "@zh .
+<https://w3id.org/asdkb/instance/hospital71> <https://w3id.org/asdkb/ontology/dataproperty/city> "郑州市"@zh .
+<https://w3id.org/asdkb/instance/hospital71> <https://w3id.org/asdkb/ontology/dataproperty/address> "河南省郑州市人民路19号 "@zh .
+<https://w3id.org/asdkb/instance/hospital71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

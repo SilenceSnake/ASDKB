@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor75> <https://w3id.org/asdkb/ontology/dataproperties/name> "王洪"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor75> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor75> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor75> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长各类心理疾病的诊治，如焦虑障碍、强迫障碍、抑郁症、婚恋家庭、厌学、儿童多动症、抽动症、孤独症、青少年心理问题及各种精神、心理疑难疾病的诊治;心理咨询与心理治疗等。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor75> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'衡水男科医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor80> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor80> <http://www.w3.org/2000/01/rdf-schema#label> "韦萍"@zh .
+<https://w3id.org/asdkb/instance/doctor80> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童生长发育障碍诊治、儿童营养性疾病防治、儿童多动症、儿童孤独症、儿童不良行为干预，婴幼儿营养与喂养咨询等。"@zh .
+<https://w3id.org/asdkb/instance/doctor80> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广西妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor80> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+

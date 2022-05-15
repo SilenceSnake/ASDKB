@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor336> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor336> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'温州医科大学附属第二医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor336> <https://w3id.org/asdkb/ontology/dataproperties/name> "施灵敏"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor336> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿精神心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor336> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童多动症、抽动症，行为及心理异常及儿童内科疾病"@zh .
-

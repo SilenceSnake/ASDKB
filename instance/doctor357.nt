@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿抑郁、焦虑症、强迫症"@zh .
+<https://w3id.org/asdkb/instance/doctor357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州医科大学附属脑科医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿少精神科'"@zh .
+<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor357> <http://www.w3.org/2000/01/rdf-schema#label> "麦思茗"@zh .
+

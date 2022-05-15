@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor301> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor301> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿科常见病、多发病，矮小症、小儿呼吸系统疾病、儿童血液病、肾病等的诊断和治疗，儿童危重、疑难疾病的诊断及治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor301> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor301> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'阜阳市人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor301> <http://www.w3.org/2000/01/rdf-schema#label> "毛国顺"@zh .
+

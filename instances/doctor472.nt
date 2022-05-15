@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor472> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'南昌大学第一附属医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor472> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心身医学科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor472> <https://w3id.org/asdkb/ontology/dataproperties/name> "黄国明"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor472> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "焦虑障碍、强迫性障碍、躯体形式障碍、创伤后应激障碍、抑郁障碍、双相情感障碍、精神分裂症等疾病的诊治。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor472> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

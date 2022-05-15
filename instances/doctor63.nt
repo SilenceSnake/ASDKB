@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor63> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'深圳市儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor63> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '特诊中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor63> <https://w3id.org/asdkb/ontology/dataproperties/name> "张芳蓉"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor63> <https://w3id.org/asdkb/ontology/dataproperties/specialty> " 儿科呼吸道、消化道及各种常见病、多发病的诊治。尤擅长生长发育性疾病、营养性疾病、情绪障碍、智力障碍、语言障碍、儿童多动症、儿童抽动症、儿童孤独症及早期儿童发展、儿童心理发育评估和指导。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor63> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师'"@zh .
-

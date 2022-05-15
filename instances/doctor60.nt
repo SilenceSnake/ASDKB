@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor60> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘琦"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor60> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京市大兴区妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor60> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor60> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "过期妊娠儿童遗尿症儿童胰腺功能不全并中性粒细胞减少症综合征输卵管妊娠儿童孤独症儿童期精神障碍及精神发育迟缓小儿多动症儿童睡眠障碍宫外孕"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor47> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿神经康复中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor47> <https://w3id.org/asdkb/ontology/dataproperties/name> "赵勇"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor47> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor47> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'佛山市南海区妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor47> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童孤独症、智力障碍、脑性瘫痪、发育迟缓等儿童神经发育障碍的诊断及中西医结合康复。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

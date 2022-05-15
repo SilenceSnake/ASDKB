@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question45> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "对他人的极端情绪(如尖叫、哭泣、叫喊或发脾气等)做出不恰当的反应(如大笑、拍手、明显兴奋)"@zh .
+<https://w3id.org/asdkb/instance/tools0question45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

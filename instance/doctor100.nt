@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor100> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童青少年心理门诊'"@zh .
+<https://w3id.org/asdkb/instance/doctor100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor100> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor100> <http://www.w3.org/2000/01/rdf-schema#label> "刘海润"@zh .
+<https://w3id.org/asdkb/instance/doctor100> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广西壮族自治区人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor100> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "注意缺陷多动障碍(多动症)、智力发育迟滞、孤独症谱系障碍、抽动障碍、学习障碍、睡眠障碍、梦游症、夜惊症、梦语症、REM睡眠行为障碍、遗尿症、发作性睡病、不宁腿综合征、抑郁症、焦虑症等认知、睡眠障碍的诊治。"@zh .
+

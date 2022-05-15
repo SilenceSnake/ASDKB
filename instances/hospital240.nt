@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital240> <https://w3id.org/asdkb/ontology/dataproperties/address> "北京市东城区东直门内南小街16号旁门(中国中医科学院北大门西侧)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital240> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "中国中医科学院针灸医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital240> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "010-64014411(总机),010-64031166(导诊台)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital240> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "一级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital240> <https://w3id.org/asdkb/ontology/dataproperties/city> "北京市"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor122> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor122> <https://w3id.org/asdkb/ontology/dataproperties/specialty> " 脑损伤高危儿的早期神经发育评估：GMs评估及Alberta婴儿运动评估和早期家庭康复训练指导脑损伤高危儿包括：早产儿的早期运动训练，新生儿窒息导致的脑缺氧的早期脑功能恢复性训练，新生儿脑膜炎出院后的脑功能监测，儿童颅内出血导致的运动障碍的局部功能训练，重症脑炎后功能障碍的恢复性训练，认知发育障碍儿童的早期认知模式结构化训练，语言发育落后的系统性符号化训练，孤独症和多动症高危儿的早期行为干预训练，感觉统合失调的感觉统合训练等等，每个半天只看3个，原则上优先满足在GMs门诊建档长期随访的患者的需要。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor122> <https://w3id.org/asdkb/ontology/dataproperties/name> "丁志勇"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor122> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor122> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'温州医科大学附属第二医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

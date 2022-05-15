@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom14> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "impaired use of variations in cadence or emphasis to reflect communicative modulation"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom14> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom14"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom14> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "使用节奏或强调的变化来反映社交方式的能力受损 "@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/ontology/instances/symptom14> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
-

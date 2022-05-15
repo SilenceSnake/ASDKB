@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor132> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "各种儿童少年精神障碍的诊断和治疗"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor132> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor132> <https://w3id.org/asdkb/ontology/dataproperties/name> "王力芳"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor132> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北医六院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor132> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', '副研究员'"@zh .
-

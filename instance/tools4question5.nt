@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools4question5> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "我知道怎么分辨听我说话的人是否厌倦了"@zh .
+<https://w3id.org/asdkb/instance/tools4question5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

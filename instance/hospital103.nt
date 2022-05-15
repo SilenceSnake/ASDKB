@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital103> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0371-85515555(咨询电话),0371--63830777(24小时值班电话),0371-63917120(急救电话),0371-85515811(东区预约挂号)"@zh .
+<https://w3id.org/asdkb/instance/hospital103> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital103> <https://w3id.org/asdkb/ontology/dataproperty/address> "河南省郑州市岗杜街255号(东三街医院、康复医院)"@zh .
+<https://w3id.org/asdkb/instance/hospital103> <http://www.w3.org/2000/01/rdf-schema#label> "河南省儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital103> <https://w3id.org/asdkb/ontology/dataproperty/city> "郑州市"@zh .
+

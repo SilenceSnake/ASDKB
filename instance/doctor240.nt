@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor240> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor240> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'西安市儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor240> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "孤独症、多动症及脑性瘫痪等发育障碍性疾病"@zh .
+<https://w3id.org/asdkb/instance/doctor240> <http://www.w3.org/2000/01/rdf-schema#label> "陈艳妮"@zh .
+<https://w3id.org/asdkb/instance/doctor240> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

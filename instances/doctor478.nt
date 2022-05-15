@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor478> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘凯"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor478> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "以小儿推拿为主中医综合治疗小儿厌食、便秘、功能性腹痛、消化不良，反复感冒、反复肺炎等反复呼吸道感染，免疫力低下，青少年颈椎病，儿童面神经炎（面瘫），发热，咳嗽等。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor478> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'天津中医药大学第一附属医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor478> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor478> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-

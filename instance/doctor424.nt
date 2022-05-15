@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor424> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor424> <http://www.w3.org/2000/01/rdf-schema#label> "张希云"@zh .
+<https://w3id.org/asdkb/instance/doctor424> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'镇江市第一人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor424> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor424> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童生长发育、儿童保健康复、儿童心理行为和智能的诊治干预，具有卫生部认可的心理、智力测试资格"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital19> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital19> <https://w3id.org/asdkb/ontology/dataproperty/city> "十堰市"@zh .
+<https://w3id.org/asdkb/instance/hospital19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital19> <https://w3id.org/asdkb/ontology/dataproperty/address> "湖北省十堰市人民南路32号 "@zh .
+<https://w3id.org/asdkb/instance/hospital19> <http://www.w3.org/2000/01/rdf-schema#label> "十堰市太和医院"@zh .
+<https://w3id.org/asdkb/instance/hospital19> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "咨询：0719-8801880   预约：0719-8801668   急救：0719-8881999 "@zh .
+

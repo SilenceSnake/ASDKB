@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor120> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '发育行为科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor120> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈一心"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor120> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor120> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "在抽动症、多动症、遗尿症、身材矮小、智力低下、癫痫、脑瘫、儿童情绪障碍等儿科行为发育疾病方面积累了丰富的临床经验，并始终专注于抽动障碍临床诊治与心理治疗，孤独谱系障碍家庭辅导，疑难病例鉴别诊断，尤其擅长各类儿童发育行为疾病的家庭治疗等领域，在治疗的同时给予患儿心理疏导与治疗，从心理上帮助患儿恢复健康。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor120> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'杭州博爱医院'"@zh .
-

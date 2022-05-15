@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor487> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor487> <https://w3id.org/asdkb/ontology/dataproperties/name> "李明"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor487> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'青岛市妇女儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor487> <https://w3id.org/asdkb/ontology/dataproperties/title> "'', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor487> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "发育迟缓、脑瘫、构音障碍等各种原因引起语言方面问题的指导与训练。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

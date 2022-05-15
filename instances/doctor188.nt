@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor188> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'天津医科大学总医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor188> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor188> <https://w3id.org/asdkb/ontology/dataproperties/name> "郑荣秀"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor188> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长各种小儿内分泌疾病的诊治，如小儿矮身材、肥胖症、甲状腺疾病、糖尿病、肾上腺疾病、性发育异常等。儿科常见病及多发病的诊治，如肺炎、小儿哮喘、腹泻等。小儿风湿免疫疾病，如系统性红斑狼疮等。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor188> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-

@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom3> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a lack of modulation of behaviour according to social context"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom3> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "缺乏根据社交环境调整行为的能力 "@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/ontology/instances/symptom3> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom3"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom3> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom0"@zh .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital23> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital23> <https://w3id.org/asdkb/ontology/dataproperty/address> "河北省廊坊市广阳道168号 "@zh .
+<https://w3id.org/asdkb/instance/hospital23> <https://w3id.org/asdkb/ontology/dataproperty/city> "廊坊市"@zh .
+<https://w3id.org/asdkb/instance/hospital23> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0316-2336001 "@zh .
+<https://w3id.org/asdkb/instance/hospital23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital23> <http://www.w3.org/2000/01/rdf-schema#label> "廊坊市妇幼保健中心"@zh .
+

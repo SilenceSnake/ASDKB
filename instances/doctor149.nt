@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor149> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广东省妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor149> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor149> <https://w3id.org/asdkb/ontology/dataproperties/name> "罗鑫刚"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor149> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科（小儿神经内科）'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor149> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童癫痫、热性惊厥、抽动症、多动症、脑瘫、面神经麻痹、发育迟缓、高危儿早期干预和管理等疾病的诊治"@zh .
-

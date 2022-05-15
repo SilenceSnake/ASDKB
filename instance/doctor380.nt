@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor380> <http://www.w3.org/2000/01/rdf-schema#label> "黄嘉慧"@zh .
+<https://w3id.org/asdkb/instance/doctor380> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广东省妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor380> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主管技师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor380> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿感觉统合失调，儿童孤独自闭症，多动症，由于各种原因引起的肢体协调性不良、灵活性欠缺、平衡性不良、注意力缺陷、多动行为等。"@zh .
+<https://w3id.org/asdkb/instance/doctor380> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '康复医学科（小儿神经内科）'"@zh .
+

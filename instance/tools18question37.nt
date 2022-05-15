@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools18question37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools18question37> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "39.在您的孩子4-5岁时(或过去一年中)，您的孩子是否能和其他孩子一起玩假装游戏，并且您可以看出他们都能够理解对方在扮演什么？"@zh .
+

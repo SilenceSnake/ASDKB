@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/ontology/instances/symptom7> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "qualitative impairments in communications"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom7> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom7"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom7> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "沟通中的定性障碍"@zh .
-

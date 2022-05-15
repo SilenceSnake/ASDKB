@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor55> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor55> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童认知、语言和行为的评估及个体化的治疗建议，儿童发育迟缓、心理行为问题、学习困难、语言障碍、发音异常、孤独症、多动症和抽动症的诊治"@zh .
+<https://w3id.org/asdkb/instance/doctor55> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor55> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海儿童医学中心'"@zh .
+<https://w3id.org/asdkb/instance/doctor55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor55> <http://www.w3.org/2000/01/rdf-schema#label> "章依雯"@zh .
+

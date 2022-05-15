@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital42> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "023-61929106 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital42> <https://w3id.org/asdkb/ontology/dataproperties/address> "重庆市南岸区南城大道301号（南坪五小区） "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital42> <https://w3id.org/asdkb/ontology/dataproperties/city> "重庆市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital42> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "重庆市第六人民医院"@zh .
-

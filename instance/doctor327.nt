@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor327> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'湖北省妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor327> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor327> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor327> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童生长发育丶保健丶营养丶心理行为发育丶智力开发、高危儿早期识别丶儿童早期教育、性保健、多动症注意障碍丶学习困难和常见病预防等咨询及早期干预治疗"@zh .
+<https://w3id.org/asdkb/instance/doctor327> <http://www.w3.org/2000/01/rdf-schema#label> "杨勤"@zh .
+

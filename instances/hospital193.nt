@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital193> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0373-2022300(总机),0373-2048999(急诊),0373-3530300(健康服务中心)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital193> <https://w3id.org/asdkb/ontology/dataproperties/city> "新乡市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital193> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital193> <https://w3id.org/asdkb/ontology/dataproperties/address> "河南省新乡市中原东路与东明大道西南角(东区)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital193> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "新乡市中心医院"@zh .
-

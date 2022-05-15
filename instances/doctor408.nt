@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor408> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor408> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor408> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor408> <https://w3id.org/asdkb/ontology/dataproperties/name> "王赞利"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor408> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "抑郁症、神经症、躯体性不适、儿童品行障碍、精神分裂症、精神心理疑难杂症等心理治疗。心理咨询和家庭心理治疗。"@zh .
-

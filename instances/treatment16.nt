@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment16> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Peer-Based Instruction and Intervention"@en .
-<https://w3id.org/asdkb/ontology/instances/treatment16> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "由同伴主导的干预，使学习者能参与到同伴活动中，必要时教师可提供辅助，帮助学习者和同伴进行社会互动。"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-<https://w3id.org/asdkb/ontology/instances/treatment16> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "同伴介入的教学和干预(PBII)"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor94> <https://w3id.org/asdkb/ontology/dataproperties/name> "傅大林"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor94> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor94> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'南京市儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor94> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor94> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿常见病、多发病的诊治，尤其对新生儿颅脑损伤、语言发育落后、脑性瘫痪及各类脑病、周围神经及肌肉疾病、智力低下、遗传代谢性疾病、孤独症等发育障碍、新生儿疾病等疾病的临床诊治。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

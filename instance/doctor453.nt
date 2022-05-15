@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor453> <http://www.w3.org/2000/01/rdf-schema#label> "余靖"@zh .
+<https://w3id.org/asdkb/instance/doctor453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor453> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor453> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'湖北省妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor453> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor453> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童生长发育障碍与营养性疾病、儿童心理行为疾病与心理咨询、儿童多动症、抽动症、语言发育迟缓、儿童进食障碍、睡眠障碍、排便障碍、儿童不良行为等的干预、咨询与治疗"@zh .
+

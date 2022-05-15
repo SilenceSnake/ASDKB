@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital32> <https://w3id.org/asdkb/ontology/dataproperties/address> "慈溪市浒山街道青少年宫南路100号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital32> <https://w3id.org/asdkb/ontology/dataproperties/city> "慈溪市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital32> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0574-63812910 0574—63909603 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital32> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "慈溪市第六人民医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital32> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "一级甲等"@zh .
-

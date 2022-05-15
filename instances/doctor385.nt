@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor385> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "发育障碍性疾病的诊断、评估和治疗，包括孤独症、发育迟缓、脑性瘫痪、注意缺陷多动障碍、抽动障碍、学习困难、语言发育障碍、构音障碍、品行障碍等"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor385> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor385> <https://w3id.org/asdkb/ontology/dataproperties/name> "郭岚敏"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor385> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'佳木斯大学附属第三医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor385> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '副教授'"@zh .
-

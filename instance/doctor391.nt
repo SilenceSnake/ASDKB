@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor391> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'福州儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor391> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '讲师'"@zh .
+<https://w3id.org/asdkb/instance/doctor391> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理卫生科'"@zh .
+<https://w3id.org/asdkb/instance/doctor391> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "1、儿童发育行为疾病如多动症、抽动症、孤独症、语言发育迟缓、全面性发育落后的诊断、治疗及家庭指导。2、儿童青少年心身疾病的诊断、心理咨询与治疗。对于亲子沟通、青少年厌学、学习障碍、焦虑、强迫、抑郁、情绪障碍、冲动控制障碍等有丰富的诊疗经验。系统学习认知行为治疗，家庭治疗，团体心理治疗，擅长整合式短程治疗。3近年承担市卫计委课题孤独症谱系障碍儿童家长心理干预项目。"@zh .
+<https://w3id.org/asdkb/instance/doctor391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor391> <http://www.w3.org/2000/01/rdf-schema#label> "陈敏榕"@zh .
+

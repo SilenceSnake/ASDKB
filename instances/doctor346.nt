@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor346> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'佳木斯大学附属第三医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor346> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿脑瘫作业治疗,儿童孤独症，发育迟缓、多动症，学习困难，智力发育障碍等疾病的诊治与康复"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor346> <https://w3id.org/asdkb/ontology/dataproperties/name> "姜志梅"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor346> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor346> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复科'"@zh .
-

@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools10question12> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "你的孩子喜欢和别人一起玩游戏，比如藏猫猫，骑在别人的膝盖上，或者是荡秋千？"@zh .
+<https://w3id.org/asdkb/instance/tools10question12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor130> <https://w3id.org/asdkb/ontology/dataproperties/title> "'', '研究员'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor130> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor130> <https://w3id.org/asdkb/ontology/dataproperties/name> "孙黎"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor130> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北医六院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor130> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "多动症、学习困难、抽动症、成人注意缺陷多动障碍、孤独谱系障碍、儿童少年行为障碍、儿童焦虑、抑郁、强迫障碍及精神障碍的诊断和治疗"@zh .
-

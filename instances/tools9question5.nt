@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools9question5> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "哼哼声、呜呜声、咕噜声、尖叫声或其他非言语噪音"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools9question5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

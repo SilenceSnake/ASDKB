@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital257> <http://www.w3.org/2000/01/rdf-schema#label> "北京儿童医院保定医院"@zh .
+<https://w3id.org/asdkb/instance/hospital257> <https://w3id.org/asdkb/ontology/dataproperty/city> "保定市"@zh .
+<https://w3id.org/asdkb/instance/hospital257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital257> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0312-3377712(咨询电话),0312-3377811(专家预约电话)"@zh .
+<https://w3id.org/asdkb/instance/hospital257> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "二级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital257> <https://w3id.org/asdkb/ontology/dataproperty/address> "河北省保定市莲池区3399号"@zh .
+

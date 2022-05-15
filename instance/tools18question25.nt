@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools18question25> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "27.在您的孩子4-5岁时(或过去一年中)，如果有人向他/她微笑，他/她是否会以笑容回应？"@zh .
+<https://w3id.org/asdkb/instance/tools18question25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

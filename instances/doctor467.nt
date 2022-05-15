@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor467> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "精中通西，擅长治疗小儿常见病，多发病，如反复发热、慢性咳嗽、哮喘、肺炎、便秘、厌食、功能性腹痛、反复呼吸道感染、免疫力低下等，尤其在神经系统及精神心理行为异常疾病治疗中有丰富的中医临床经验，如：多动症、抽动症、癫痫、脑瘫、智力低下、学习困难、遗尿症、语言障碍、睡眠障碍、发作性睡病等；常运用中医辨证施治调理儿童的身心疾病及疑难杂症。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor467> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor467> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'浙江中医药大学附属嘉兴市中医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor467> <https://w3id.org/asdkb/ontology/dataproperties/name> "李宗起"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor467> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor270> <https://w3id.org/asdkb/ontology/dataproperties/name> "贾飞勇"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor270> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor270> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "癫痫、脑瘫、自闭症、智力低下、儿童注意力缺陷多动障碍、抽动障碍、偏头痛、儿童心理、学习问题。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor270> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '发育行为儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor270> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'吉林大学第一医院'"@zh .
-

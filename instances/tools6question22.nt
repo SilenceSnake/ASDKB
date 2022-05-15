@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools6question22> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "她/他善于在谈话中轮流发言吗?"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools6question22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

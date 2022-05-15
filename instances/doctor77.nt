@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor77> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor77> <https://w3id.org/asdkb/ontology/dataproperties/name> "周建华"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor77> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "神经系统疾病如中枢感染、脑瘫、语言障碍、多动症、癫痫、智力低下、孤独症、学习障碍等疾病，儿童脑瘫等广泛性发育障碍性疾病。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor77> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor77> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'常州市第六人民医院'"@zh .
-

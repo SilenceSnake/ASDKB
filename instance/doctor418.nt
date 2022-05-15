@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor418> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理咨询科'"@zh .
+<https://w3id.org/asdkb/instance/doctor418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor418> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "失眠、焦虑、抑郁等"@zh .
+<https://w3id.org/asdkb/instance/doctor418> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor418> <http://www.w3.org/2000/01/rdf-schema#label> "叶敏捷"@zh .
+<https://w3id.org/asdkb/instance/doctor418> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'好大夫工作室'"@zh .
+

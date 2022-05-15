@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor309> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor309> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'杭州市第七人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor309> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "专长于抑郁焦虑障碍、睡眠障碍、临床精神病学、临床精神药理学、认知功能研究、心理测量和咨询、老年期心理和精神障碍等；对精神疾病共病等疑等难杂症具有较强的解决能力，精通精神科药物副反应的诊断、治疗和预防。"@zh .
+<https://w3id.org/asdkb/instance/doctor309> <http://www.w3.org/2000/01/rdf-schema#label> "夏泳"@zh .
+<https://w3id.org/asdkb/instance/doctor309> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科'"@zh .
+

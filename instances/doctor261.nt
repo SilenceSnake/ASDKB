@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor261> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor261> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'华西医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor261> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "精神分裂症、强迫症、抑郁症、焦虑症、睡眠障碍、进食障碍、各种青壮年适应障碍的诊治，各类青壮年适应障碍与婚恋，人际关系、职场减压、亲子关系、各类神经症及心身疾病的心理治疗"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor261> <https://w3id.org/asdkb/ontology/dataproperties/name> "岳莉莉"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor261> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理卫生中心'"@zh .
-

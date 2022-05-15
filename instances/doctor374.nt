@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor374> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主管技师', '讲师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor374> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广东省妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor374> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科（小儿神经内科）'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor374> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "脑性瘫痪、脑炎后遗症等疾病的康复治疗、专注下肢康复.脑瘫患儿膝关节屈曲 膝关节过伸.O型腿.X型腿.马蹄内翻.扁平足 外翻的手法和非手术矫正治疗.偏瘫下肢疗效更佳。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor374> <https://w3id.org/asdkb/ontology/dataproperties/name> "张金桥"@zh .
-

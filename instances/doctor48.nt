@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor48> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'深圳市罗湖区妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor48> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor48> <https://w3id.org/asdkb/ontology/dataproperties/name> "龚建华"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor48> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "对儿童多动症、孤独症、语言障碍、学习困难、维生素缺乏症、微量元素缺乏和中毒（如锌缺乏、铅中毒）等方面诊治有独特经验。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor48> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

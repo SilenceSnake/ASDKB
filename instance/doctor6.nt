@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor6> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'中山市博爱医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor6> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童语言障碍、多动症、学习困难、孤独症、抽动症、情绪障碍等。"@zh .
+<https://w3id.org/asdkb/instance/doctor6> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor6> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿保科'"@zh .
+<https://w3id.org/asdkb/instance/doctor6> <http://www.w3.org/2000/01/rdf-schema#label> "邓成"@zh .
+

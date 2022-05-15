@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor20> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor20> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿内科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor20> <https://w3id.org/asdkb/ontology/dataproperties/name> "邓鸿云"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor20> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'湖北省妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor20> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "	儿科、新生儿科疾病的诊治和优生学专业的研究,儿童孤独症的认识及早期诊断"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor140> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "抽动障碍、癫痫、发育迟缓、多动症、脊髓炎、脑炎、代谢病、脑瘫等"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor140> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor140> <https://w3id.org/asdkb/ontology/dataproperties/name> "杨圣海"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor140> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '神经内科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor140> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'首都儿科研究所附属儿童医院'"@zh .
-

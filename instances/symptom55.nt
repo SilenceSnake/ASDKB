@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
-<https://w3id.org/asdkb/ontology/instances/symptom55> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a deteriorating motor control"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom55> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom55"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom55> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "运动控制能力的恶化"@zh .
-

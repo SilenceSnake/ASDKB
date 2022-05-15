@@ -1,0 +1,12 @@
+<https://w3id.org/asdkb/instance/tools5> <http://www.w3.org/2000/01/rdf-schema#label> "Checklist for Autism in Toddlers"@en .
+<https://w3id.org/asdkb/instance/tools5> <https://w3id.org/asdkb/ontology/dataproperty/rule> "根据实际情况回答问题，当遇到的第一个选择否的问题结束。一般病情严重的终止于第三题，较轻病情的终止于第八题。"@zh .
+<https://w3id.org/asdkb/instance/tools5> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "1"@zh .
+<https://w3id.org/asdkb/instance/tools5> <https://w3id.org/asdkb/ontology/dataproperty/author> "Baron-Cohen, Allen, & Gillberg, 1992"@en .
+<https://w3id.org/asdkb/instance/tools5> <https://w3id.org/asdkb/ontology/dataproperty/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/instance/tools5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools5> <https://w3id.org/asdkb/ontology/dataproperty/age> "5-10分钟"@zh .
+<https://w3id.org/asdkb/instance/tools5> <https://w3id.org/asdkb/ontology/classes/physician> "3"@zh .
+<https://w3id.org/asdkb/instance/tools5> <http://www.w3.org/2000/01/rdf-schema#label> "幼儿孤独症检查表(CHAT)"@zh .
+<https://w3id.org/asdkb/instance/tools5> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/instance/tools5> <https://w3id.org/asdkb/ontology/dataproperty/definition> "在孩子18个月的体检期间，由医生和父母一起完成聊天。"@zh .
+

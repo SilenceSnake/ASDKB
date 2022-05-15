@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital241> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "二级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital241> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0537-2651612(门诊)"@zh .
+<https://w3id.org/asdkb/instance/hospital241> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省济宁市任城区建设路3号"@zh .
+<https://w3id.org/asdkb/instance/hospital241> <http://www.w3.org/2000/01/rdf-schema#label> "济宁市任城区妇幼保健院"@zh .
+<https://w3id.org/asdkb/instance/hospital241> <https://w3id.org/asdkb/ontology/dataproperty/city> "济宁市"@zh .
+<https://w3id.org/asdkb/instance/hospital241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

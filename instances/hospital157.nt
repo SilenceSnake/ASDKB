@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital157> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "027-88041911(总机),027-88041911转85314(门诊导医),027-88041911转85539(门诊导医),"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital157> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "武汉大学人民医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital157> <https://w3id.org/asdkb/ontology/dataproperties/address> "湖北省武汉市武昌区张之洞路99号解放路238号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital157> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital157> <https://w3id.org/asdkb/ontology/dataproperties/city> "武汉市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-

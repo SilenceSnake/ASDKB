@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital137> <https://w3id.org/asdkb/ontology/dataproperties/city> "武汉市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital137> <https://w3id.org/asdkb/ontology/dataproperties/address> "湖北省武汉市解放大道1095号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital137> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "华中科技大学同济医学院附属同济医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital137> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "027-83663131(总机),027-83662688(主院区),027-63639393(光谷院区),027-69378083(中法新城),027-83663298(咨询台)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital137> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital116> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital116> <https://w3id.org/asdkb/ontology/dataproperty/address> "大连市西岗区中山路154号"@zh .
+<https://w3id.org/asdkb/instance/hospital116> <http://www.w3.org/2000/01/rdf-schema#label> "大连市妇女儿童医疗中心(集团)希望广场儿童院区"@zh .
+<https://w3id.org/asdkb/instance/hospital116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital116> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0411-62926888"@zh .
+<https://w3id.org/asdkb/instance/hospital116> <https://w3id.org/asdkb/ontology/dataproperty/city> "大连市"@zh .
+

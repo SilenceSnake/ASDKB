@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor359> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'杭州市第七人民医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor359> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童情绪心理问题 注意缺陷多动障碍，抽动障碍，童年孤独症，厌学，亲子关系问题等"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor359> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor359> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘艳"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor359> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '讲师'"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor334> <https://w3id.org/asdkb/ontology/dataproperties/name> "王丽莉"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor334> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor334> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "精神科常见疾病的临床诊断、药物治疗、心理治疗和预防复发指导"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor334> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '普通精神病科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor334> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'天津市安定医院'"@zh .
-

@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools9question19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools9question19> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "不耐烦"@zh .
+

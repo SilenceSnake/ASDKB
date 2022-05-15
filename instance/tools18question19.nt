@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools18question19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools18question19> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "20.对于以下的行为，请重点关注孩子4-5周岁这段时间的表现。根据重要时间点的关键事件可能帮助您更容易地记起当时的情形，例如开始上学、搬家、春节或者其它让您印象深刻的事件。如果您的孩子不满4周岁，请重点关注孩子过去一年的表现。20.在您的孩子4-5岁时(或过去一年中)，他/她是否会仅仅为了表示友善和您讲话(而不是为了获得某样东西)？"@zh .
+

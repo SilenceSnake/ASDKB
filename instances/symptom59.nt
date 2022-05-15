@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom59> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "motor stereotypies"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom59> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "运动刻板印象"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom59> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom59"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
-

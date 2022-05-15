@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor377> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'重庆医科大学附属儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor377> <https://w3id.org/asdkb/ontology/dataproperties/title> "'医师', '助教'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor377> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿生长发育相关营养喂养（母乳喂养，特殊奶粉添加，辅食添加，矮小，食物过敏）、行为（语言障碍，孤独症的诊断）。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor377> <https://w3id.org/asdkb/ontology/dataproperties/name> "钟元峰"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor377> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-

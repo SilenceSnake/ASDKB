@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom13> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom13"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom13> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对他人的口头和非口头提议缺乏情绪反应"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom13> <https://w3id.org/asdkb/ontology/dataproperties/parent_symptom_id> "symptom7"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/ontology/instances/symptom13> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "lack of emotional response to other people's verbal and nonverbal overtures"@en .
-

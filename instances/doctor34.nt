@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor34> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'慈溪市第六人民医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor34> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor34> <https://w3id.org/asdkb/ontology/dataproperties/name> "方群"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor34> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "主要开展儿童多动症、抽动症、孤独症、遗尿症、语言障碍、发育障碍、睡眠障碍等疾病的专业评估、早期的指导和干预 。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor34> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-

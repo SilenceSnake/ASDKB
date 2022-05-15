@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor470> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor470> <https://w3id.org/asdkb/ontology/dataproperties/name> "覃蔚"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor470> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor470> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童自闭症、多动症、学习困难等疾病的诊治"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor470> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广西壮族自治区人民医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

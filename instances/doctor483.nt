@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor483> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任技师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor483> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor483> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'西安交大二附院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor483> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童心理行为疾病，如多动症，孤独症，智力低下，抽动症等，心理咨询"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor483> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘灵"@zh .
-

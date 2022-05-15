@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor316> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor316> <https://w3id.org/asdkb/ontology/dataproperties/name> "康晓东"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor316> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长小儿神经系统疾病（重症脑损伤、脑瘫、癫痫性脑病、遗传代谢性疾病）的早期诊断和治疗，熟悉这类疾病的康复评定及康复原则以及康复技术的应用，特别是对小儿孤独症以及发育障碍性疾病、多动症及抽动症的诊治和康复训练有丰富的经验。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor316> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童康复科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor316> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'四川省八一康复中心'"@zh .
-

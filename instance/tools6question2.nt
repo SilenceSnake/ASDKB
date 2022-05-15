@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools6question2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools6question2> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "她/他2岁就开始说话了吗?"@zh .
+

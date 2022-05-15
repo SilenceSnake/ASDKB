@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools18question32> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "34.在您的孩子4-5岁时(或过去一年中)，他/她是否会自发地参与社交游戏并且尝试模仿社交游戏中的动作(例如，“找朋友”、“丢手绢”等要与别的小朋友交流和互动的游戏)？"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools18question32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

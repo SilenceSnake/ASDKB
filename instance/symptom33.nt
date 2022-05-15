@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/symptom33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/instance/symptom33> <http://www.w3.org/2000/01/rdf-schema#comment> "语言的丧失、部分丧失或缺乏发展 "@zh .
+<https://w3id.org/asdkb/instance/symptom33> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom33"@zh .
+<https://w3id.org/asdkb/instance/symptom33> <http://www.w3.org/2000/01/rdf-schema#comment> "loss,partial loss or lack of development of language"@en .
+

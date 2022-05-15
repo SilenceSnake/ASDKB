@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools0question60> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "当特定的视觉刺激出现时，无法专注于特定的活动(例如，当家里的宠物在房间里时变得烦躁不安，专注于灯光或不同的感兴趣的物体，而不是其他人的语言，等等)。"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools0question60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

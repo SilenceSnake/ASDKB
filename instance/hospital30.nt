@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital30> <http://www.w3.org/2000/01/rdf-schema#label> "东莞市妇幼保健院"@zh .
+<https://w3id.org/asdkb/instance/hospital30> <https://w3id.org/asdkb/ontology/dataproperty/city> "东莞市"@zh .
+<https://w3id.org/asdkb/instance/hospital30> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0769-22238375 "@zh .
+<https://w3id.org/asdkb/instance/hospital30> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital30> <https://w3id.org/asdkb/ontology/dataproperty/address> "东莞市东城区主山社区振兴路99号 "@zh .
+<https://w3id.org/asdkb/instance/hospital30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question23> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "似乎不听别人的社交活动(也就是说，不回应别人的评论或行为)"@zh .
+

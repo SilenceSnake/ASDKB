@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question39> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "兴趣模式在强度或专注程度上是不寻常的(例如，从事活动的时间远远超过他/她的年龄，等)。"@zh .
+

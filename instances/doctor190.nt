@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor190> <https://w3id.org/asdkb/ontology/dataproperties/name> "魏文青"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor190> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '临床心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor190> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童发育行为问题（如孤独症、多动症等）、儿内科常见病（如发热，支气管炎，肺炎，胃肠炎，腹泻，疱疹性咽峡炎，手足口病，流感等）"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor190> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广州市妇女儿童医疗中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor190> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-

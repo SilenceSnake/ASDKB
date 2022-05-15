@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital153> <http://www.w3.org/2000/01/rdf-schema#label> "西安交通大学第二附属医院"@zh .
+<https://w3id.org/asdkb/instance/hospital153> <https://w3id.org/asdkb/ontology/dataproperty/address> "陕西省西安市西五路157号"@zh .
+<https://w3id.org/asdkb/instance/hospital153> <https://w3id.org/asdkb/ontology/dataproperty/city> "西安市"@zh .
+<https://w3id.org/asdkb/instance/hospital153> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "029-87679000(总机),029-87679313(门诊),029-87678421(医院办公室),029-87679325(导医台),029-86320264(大明宫院区)"@zh .
+<https://w3id.org/asdkb/instance/hospital153> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+

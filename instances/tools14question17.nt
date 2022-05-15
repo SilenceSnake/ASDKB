@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools14question17> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "你的孩子会在他／她的脸附近做出一些不寻常的手指动作吗？"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools14question17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

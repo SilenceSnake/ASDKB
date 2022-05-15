@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom44> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "Epileptic fits, usually involving some type of minor attack, and with an onset generally before the age of 8 years, occur in the majority of cases. "@en .
-<https://w3id.org/asdkb/ontology/instances/symptom44> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "8岁之前癫痫发作"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom44> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom44"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_symptoms> .
-

@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools4question8> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "我发现，只要看看别人的脸，就很容易知道他们在想什么或感受什么"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools4question8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

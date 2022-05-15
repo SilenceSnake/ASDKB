@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital105> <https://w3id.org/asdkb/ontology/dataproperty/city> "厦门市"@zh .
+<https://w3id.org/asdkb/instance/hospital105> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital105> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0592-5696161(咨询),0592-5056161(预约)"@zh .
+<https://w3id.org/asdkb/instance/hospital105> <https://w3id.org/asdkb/ontology/dataproperty/address> "福建省厦门市湖里区宜宾路92-98号"@zh .
+<https://w3id.org/asdkb/instance/hospital105> <http://www.w3.org/2000/01/rdf-schema#label> "厦门市儿童医院"@zh .
+

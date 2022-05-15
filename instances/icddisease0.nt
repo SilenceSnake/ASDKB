@@ -1,6 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/icddisease0> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Pervasive developmental disorders"@zh .
-<https://w3id.org/asdkb/ontology/instances/icddisease0> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广泛性发展障碍"@en .
-<https://w3id.org/asdkb/ontology/instances/icddisease0> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84"@zh .
-<https://w3id.org/asdkb/ontology/instances/icddisease0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/autism_spectrum_disorder> .
-<https://w3id.org/asdkb/ontology/instances/icddisease0> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "这组障碍的特点是互惠社会互动和交流模式的质量异常，以及兴趣和活动的局限性、刻板印象和重复性。这些质量异常是个人在所有情况下功能的普遍特征，尽管程度可能不同。在大多数情况下，从婴儿期开始发育异常，只有少数例外情况下，这种情况在生命的前5年变得明显。"@zh .
-

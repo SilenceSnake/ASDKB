@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital93> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "上海交通大学医学院附属上海儿童医学中心"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital93> <https://w3id.org/asdkb/ontology/dataproperties/city> "上海市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital93> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "021-38626161(咨询)"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital93> <https://w3id.org/asdkb/ontology/dataproperties/address> "上海市浦东新区东方路1678号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital93> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-

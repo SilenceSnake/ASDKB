@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/levelA1> <https://w3id.org/asdkb/ontology/instances/Dataproperties/Chinese_description> "水平1“需要支持”在没有支持的情况下，社交交流方面的缺陷造成可观察到的损害。启动社交互动存在困难，是对他人的社交示意的非典型的或不成功反应的明显例子。可表现为对社交互动方面的兴趣减少。例如，个体能够讲出完整的句子和参与社交交流，但其与他人的往来对话是失败的，他们试图交友的努力是奇怪的，且通常是不成功的	缺乏灵活性的行为显著地影响了一个或多个情境下的功能。难以转换不同的活动。组织和计划的困难妨碍了其独立性"@zh .
-<https://w3id.org/asdkb/ontology/instances/levelA1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/standard_of_social_interaction> .
-

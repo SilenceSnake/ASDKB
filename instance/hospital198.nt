@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital198> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital198> <https://w3id.org/asdkb/ontology/dataproperty/city> "海口市"@zh .
+<https://w3id.org/asdkb/instance/hospital198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital198> <http://www.w3.org/2000/01/rdf-schema#label> "海南省妇女儿童医学中心"@zh .
+<https://w3id.org/asdkb/instance/hospital198> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0898-36373861(咨询),089836689119(行政办公室),0898-36698896(西海岸咨询电话)"@zh .
+<https://w3id.org/asdkb/instance/hospital198> <https://w3id.org/asdkb/ontology/dataproperty/address> "海口市秀英区长滨路"@zh .
+

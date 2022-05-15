@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital43> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "郑州市中心医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital43> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital43> <https://w3id.org/asdkb/ontology/dataproperties/address> "郑州市中原区桐柏路195号  "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital43> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0371-67620956 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital43> <https://w3id.org/asdkb/ontology/dataproperties/city> "郑州市"@zh .
-

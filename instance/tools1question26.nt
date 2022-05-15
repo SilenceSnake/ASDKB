@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools1question26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools1question26> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "27.身体僵硬，很难抱住（或幼儿时曾经有此表现）。"@zh .
+

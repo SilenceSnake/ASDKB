@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor115> <https://w3id.org/asdkb/ontology/dataproperties/name> "章岚"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor115> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "长期从事儿童保健工作，擅长儿童营养门诊，对发育迟缓、体重不足、高危儿及早产儿、过敏儿童的营养支持治疗以及进食困难、挑食偏食儿童的饮食行为指导有丰富的临床诊治经验;对语言障碍、注意缺陷多动障碍、孤独症、睡眠障碍等儿童发育行为问题的诊断及治疗亦有较深造诣。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor115> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'成都市妇女儿童中心医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor115> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor115> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-

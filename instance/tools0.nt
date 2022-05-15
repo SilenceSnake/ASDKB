@@ -1,0 +1,11 @@
+<https://w3id.org/asdkb/instance/tools0> <http://www.w3.org/2000/01/rdf-schema#label> "Asperger Syndrome Diagnostic Scale"@en .
+<https://w3id.org/asdkb/instance/tools0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools0> <https://w3id.org/asdkb/ontology/dataproperty/time> "10-15分钟"@zh .
+<https://w3id.org/asdkb/instance/tools0> <https://w3id.org/asdkb/ontology/dataproperty/definition> "ASDS包括50个项目，这些项目被用来评估是否存在与阿斯伯格综合症相关的行为."@zh .
+<https://w3id.org/asdkb/instance/tools0> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "76"@zh .
+<https://w3id.org/asdkb/instance/tools0> <http://www.w3.org/2000/01/rdf-schema#label> "阿斯伯格综合症诊断量表(ASDS)"@zh .
+<https://w3id.org/asdkb/instance/tools0> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长, 护工或教师"@zh .
+<https://w3id.org/asdkb/instance/tools0> <https://w3id.org/asdkb/ontology/dataproperty/rule> "每个题目的七个选项从1到7（或是描述状况的严重性从小到大）依次计分为0、1、2、3、4、5、6分，76分为筛查界限，自闭症患者的临床平均分为102分，正常儿童平均为15分"@zh .
+<https://w3id.org/asdkb/instance/tools0> <https://w3id.org/asdkb/ontology/dataproperty/author> "Myles, Bock, & SimpsonMyles, Bock, & Simpson, 2001"@en .
+<https://w3id.org/asdkb/instance/tools0> <https://w3id.org/asdkb/ontology/dataproperty/age> "5-18 岁"@zh .
+

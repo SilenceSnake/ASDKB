@@ -1,9 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/disease4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/43614003> .
-<https://w3id.org/asdkb/ontology/instances/disease4> <https://w3id.org/asdkb/ontology/dataproperties/pathogeny> "遗传和环境因素"@zh .
-<https://w3id.org/asdkb/ontology/instances/disease4> <https://w3id.org/asdkb/ontology/dataproperties/patient_groups> "儿童"@zh .
-<https://w3id.org/asdkb/ontology/instances/disease4> <https://w3id.org/asdkb/ontology/dataproperties/SCTID> "43614003"@zh .
-<https://w3id.org/asdkb/ontology/instances/disease4> <https://w3id.org/asdkb/ontology/dataproperties/icd-10_code> "F84.0"@zh .
-<https://w3id.org/asdkb/ontology/instances/disease4> <https://w3id.org/asdkb/ontology/dataproperties/synonym> "儿童发病的孤独症;儿童发病的孤独症;儿童孤独症"@zh .
-<https://w3id.org/asdkb/ontology/instances/disease4> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "儿童期发病的孤独症(障碍)"@en .
-<https://w3id.org/asdkb/ontology/instances/disease4> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Autistic disorder of childhood onset (disorder)"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital58> <https://w3id.org/asdkb/ontology/dataproperties/address> "南宁市新阳路225号 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital58> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "广西妇幼保健院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital58> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0771-5802238，5802023 "@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital58> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital58> <https://w3id.org/asdkb/ontology/dataproperties/city> "南宁市"@zh .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment12> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "教学者示范目标行为，学习者通过模仿进行学习。"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment12> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Modeling"@en .
-<https://w3id.org/asdkb/ontology/instances/treatment12> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "示范(MD)"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-

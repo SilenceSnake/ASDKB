@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools18question35> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "37.在您的孩子4-5岁时(或过去一年中)，如果其他孩子接近他/她，他/她是否会积极地回应(例如，微笑、打招呼、主动碰别人等)？"@zh .
+<https://w3id.org/asdkb/instance/tools18question35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

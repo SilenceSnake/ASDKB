@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/hospital125> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "中山市第三人民医院"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/hospital> .
-<https://w3id.org/asdkb/ontology/instances/hospital125> <https://w3id.org/asdkb/ontology/dataproperties/city> "中山市"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital125> <https://w3id.org/asdkb/ontology/dataproperties/address> "广东省中山市南朗镇田边正街80号"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital125> <https://w3id.org/asdkb/ontology/dataproperties/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/ontology/instances/hospital125> <https://w3id.org/asdkb/ontology/dataproperties/contact_details> "0760-85521777,0760-85218770"@zh .
-

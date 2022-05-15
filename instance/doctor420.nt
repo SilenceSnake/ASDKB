@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor420> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor420> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor420> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "语言障碍，自闭症，多动症，儿童营养与喂养"@zh .
+<https://w3id.org/asdkb/instance/doctor420> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'武汉儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor420> <http://www.w3.org/2000/01/rdf-schema#label> "常雪凝"@zh .
+

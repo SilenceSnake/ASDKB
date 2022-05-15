@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools14question22> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "你的孩子碰到不熟悉的事物时会看着你的脸，看看你的反应吗？"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools14question22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

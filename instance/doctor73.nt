@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor73> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "于儿科、新生儿科各系统疾病的诊疗技术，对儿科呼吸系统、消化系统、泌尿系统、危重病等疾病诊治有丰富的临床经验。尤其在支气管哮喘、肺炎、肾病综合症及小儿多动症、孤独症等方面有较深造诣。"@zh .
+<https://w3id.org/asdkb/instance/doctor73> <http://www.w3.org/2000/01/rdf-schema#label> "李玉霞"@zh .
+<https://w3id.org/asdkb/instance/doctor73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor73> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor73> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿一科'"@zh .
+<https://w3id.org/asdkb/instance/doctor73> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'潮州市中心医院'"@zh .
+

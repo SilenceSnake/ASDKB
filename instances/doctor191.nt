@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor191> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor191> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor191> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'复旦大学附属儿科医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor191> <https://w3id.org/asdkb/ontology/dataproperties/name> "高鸿云"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor191> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童注意力不集中，多动症，孤独症，厌学，逆反，抽动症，情绪障碍，不明原因的疼痛，呕吐和不适"@zh .
-

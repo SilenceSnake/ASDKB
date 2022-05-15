@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor286> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "小儿脑瘫的早期诊断及综合康复，小儿脑瘫、癫痫、儿童抽动症、多动症等疾病等神经康复科疾病"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor286> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'吉林大学第一医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor286> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿内科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor286> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor286> <https://w3id.org/asdkb/ontology/dataproperties/name> "方亮"@zh .
-

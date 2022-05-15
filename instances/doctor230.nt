@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor230> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'北京回龙观医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor230> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童青少年强迫症与抑郁症的评估和治疗,儿童注意缺陷与多动障碍与孤独症的诊断与康复指导儿童青少年心理咨询和治疗（厌学、网络成瘾等）。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor230> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童心理科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor230> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor230> <https://w3id.org/asdkb/ontology/dataproperties/name> "刘华清"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

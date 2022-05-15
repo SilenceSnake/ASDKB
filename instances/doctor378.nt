@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor378> <https://w3id.org/asdkb/ontology/dataproperties/name> "梁姗姗"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor378> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主管技师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor378> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'广东省妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor378> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童言语-语言障碍的评估及其治疗，包括儿童语言发育迟缓、构音障碍、口吃、吞咽障碍、自闭症等。脑性瘫痪、运动障碍、精神发运迟缓、肌张力异常等康复治疗。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor378> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '康复医学科（小儿神经内科）'"@zh .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor349> <https://w3id.org/asdkb/ontology/dataproperties/name> "张小小"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor349> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', '讲师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor349> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '功能神经外科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor349> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "1,精神疾病的微创手术治疗，如精神分裂症、强迫症、抑郁症、神经性厌食症、抽动秽语症、焦虑症、双相情感障碍、精神发育迟滞、睡眠障碍、物质依赖、酒精成瘾。2，运动性障碍疾病的微创手术治疗，如帕金森病、肌张力障碍、特发性震颤、痉挛型斜颈、梅杰综合症、脑瘫。3，颅神经疾病:如三叉神经痛、舌咽神经痛、面肌痉挛。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor349> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'上海瑞金医院'"@zh .
-

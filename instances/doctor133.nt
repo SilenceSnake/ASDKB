@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor133> <https://w3id.org/asdkb/ontology/dataproperties/name> "许鹏飞"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor133> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor133> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor133> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长儿童呼吸系统疾病和过敏性疾病的诊治。对食物迟发过敏、自闭症、多发性抽动有独到的研究和理解。对于婴幼儿牛奶蛋白过敏、反复湿疹、腹泻、厌奶和辅食添加困难都有自己独特的观点。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor133> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'中日医院'"@zh .
-

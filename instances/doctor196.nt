@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor196> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor196> <https://w3id.org/asdkb/ontology/dataproperties/name> "王怀海"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor196> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "失眠，焦虑症，强迫症、抑郁症、躯体化障碍，怕风，躯体疼痛，怕冷，双相情感障碍，精神分裂症等疾病的诊治"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor196> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '心身科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor196> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'西安工会医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

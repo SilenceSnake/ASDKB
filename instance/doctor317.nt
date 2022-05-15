@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor317> <http://www.w3.org/2000/01/rdf-schema#label> "李红"@zh .
+<https://w3id.org/asdkb/instance/doctor317> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '康复医学科'"@zh .
+<https://w3id.org/asdkb/instance/doctor317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor317> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "从事儿童康复15年，在诊治以下疾病积累了丰富的临床经验：新生儿缺氧缺血性脑病的早期干预；小儿脑瘫的超早期诊断；言语发育迟缓、构音障碍、口吃、失语症的家庭康复指导；小儿孤独症、部分遗传代谢性疾病、染色体疾病、小儿癫痫的诊断和治疗，肉毒毒素在脑性瘫痪中的应用。"@zh .
+<https://w3id.org/asdkb/instance/doctor317> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'安徽省儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor317> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor405> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神卫生中心'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor405> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'甘肃省第二人民医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor405> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor405> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈琼琼"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor405> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "抑郁症、焦虑症、强迫症等神经症的诊治，青少年心理问题辅导，特别是在家庭治疗、艺术治疗、人本治疗方面拥有丰富经验"@zh .
-

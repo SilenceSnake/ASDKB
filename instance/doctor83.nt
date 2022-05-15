@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor83> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'河北省儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor83> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor83> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "高危儿保健，儿童发育监测，佝偻病的防治，营养素缺乏的纠正及铅污染防治，多动症、抽动症、孤独症、学习障碍、语言发育落后、智力低下的诊治"@zh .
+<https://w3id.org/asdkb/instance/doctor83> <http://www.w3.org/2000/01/rdf-schema#label> "刘智慧"@zh .
+<https://w3id.org/asdkb/instance/doctor83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor83> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+

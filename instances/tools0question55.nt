@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools0question55> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "表现出对物体部分的持续关注(例如，汽车的轮子，吸尘器的软管，玩具的绳子，等等)"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools0question55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor496> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "擅长精神科常见病（如精神分裂症、情感性精神 障碍、神经症等）的诊治及精神心理相关问题的咨询。掌握儿童青少年常见疾病（如多动症、孤独症及青少年情绪障碍等）的诊治。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor496> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '精神科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor496> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor496> <https://w3id.org/asdkb/ontology/dataproperties/name> "陆奕彬"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor496> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'东莞市第七人民医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-

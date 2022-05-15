@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools19question22> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "23. 不参加团体活动，除非被要求这样做"@zh .
+<https://w3id.org/asdkb/instance/tools19question22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

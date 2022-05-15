@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor290> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
+<https://w3id.org/asdkb/instance/doctor290> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "脑瘫，周围神经损伤，孤独症，发育迟缓，高危儿早期诊断与治疗，注意力缺陷多动障碍、抽动障碍、语言障碍、心理行为问题的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor290> <http://www.w3.org/2000/01/rdf-schema#label> "张婕"@zh .
+<https://w3id.org/asdkb/instance/doctor290> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'西安市儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor290> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

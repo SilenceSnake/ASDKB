@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor90> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor90> <https://w3id.org/asdkb/ontology/dataproperties/name> "张玲娜"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor90> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'重庆医科大学附属儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor90> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor90> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童生长发育、营养与喂养的咨询指导、婴儿大脑潜能开发、营养缺乏、身材矮小、走路迟、说话晚、智能迟缓、学习障碍、注意缺陷多动障碍、儿童孤独症等的诊疗。"@zh .
-

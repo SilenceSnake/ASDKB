@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-<https://w3id.org/asdkb/ontology/instances/treatment17> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "在学习者进行目标行为过程中给予的言语、姿势或肢体帮助。"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment17> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Prompting"@en .
-<https://w3id.org/asdkb/ontology/instances/treatment17> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "辅助(PP)"@zh .
-

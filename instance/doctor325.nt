@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor325> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '小儿神经内科'"@zh .
+<https://w3id.org/asdkb/instance/doctor325> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长小儿热性惊厥、癫痫、中枢神经系统感染等神经系统疾病及肺炎、反复呼吸道感染、慢性咳嗽等呼吸系统疾病的诊治"@zh .
+<https://w3id.org/asdkb/instance/doctor325> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor325> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'杭州市儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor325> <http://www.w3.org/2000/01/rdf-schema#label> "王海萍"@zh .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital164> <http://www.w3.org/2000/01/rdf-schema#label> "陆军军医大学新桥医院"@zh .
+<https://w3id.org/asdkb/instance/hospital164> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "023-68755000(总机),023-68755651(门诊咨询),023-68755652(门诊咨询),023-68755745(预约挂号咨询),023-68774228(挂号、收费咨询)"@zh .
+<https://w3id.org/asdkb/instance/hospital164> <https://w3id.org/asdkb/ontology/dataproperty/city> "重庆市"@zh .
+<https://w3id.org/asdkb/instance/hospital164> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital164> <https://w3id.org/asdkb/ontology/dataproperty/address> "重庆市沙坪坝区新桥正街83号"@zh .
+

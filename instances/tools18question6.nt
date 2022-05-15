@@ -1,3 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools18question6> <https://w3id.org/asdkb/ontology/dataproperties/question_content> "7.您的孩子是否会用固定的模式反复说同样的话，或者坚持让您反复说同样的话？"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools18question6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/question_content> .
-

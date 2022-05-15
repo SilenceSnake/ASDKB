@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor300> <http://www.w3.org/2000/01/rdf-schema#label> "马筠"@zh .
+<https://w3id.org/asdkb/instance/doctor300> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿少病区'"@zh .
+<https://w3id.org/asdkb/instance/doctor300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor300> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年精神疾病诊断和治疗，对抑郁症、婚姻家庭问题咨询也有深厚的临床经验"@zh .
+<https://w3id.org/asdkb/instance/doctor300> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'武汉市精神卫生中心'"@zh .
+<https://w3id.org/asdkb/instance/doctor300> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+

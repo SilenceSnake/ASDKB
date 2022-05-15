@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor223> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '康复医学科'"@zh .
+<https://w3id.org/asdkb/instance/doctor223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor223> <https://w3id.org/asdkb/ontology/dataproperty/title> "'康复师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor223> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'湘雅三医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor223> <http://www.w3.org/2000/01/rdf-schema#label> "邹密"@zh .
+<https://w3id.org/asdkb/instance/doctor223> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿科物理治疗、儿童神经发育障碍性疾病、儿童姿势体态步态异常的康复治疗和家庭指导"@zh .
+

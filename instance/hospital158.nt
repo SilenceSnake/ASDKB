@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital158> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0791-86802382,0791-86804127(咨询电话)"@zh .
+<https://w3id.org/asdkb/instance/hospital158> <https://w3id.org/asdkb/ontology/dataproperty/city> "南昌市"@zh .
+<https://w3id.org/asdkb/instance/hospital158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital158> <http://www.w3.org/2000/01/rdf-schema#label> "江西省儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital158> <https://w3id.org/asdkb/ontology/dataproperty/address> "江西省南昌市阳明路122号（阳明路院区）"@zh .
+<https://w3id.org/asdkb/instance/hospital158> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+

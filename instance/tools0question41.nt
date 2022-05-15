@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question41> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "当物品被移动或干扰时，或当常规改变时，变得过度焦虑或激动"@zh .
+<https://w3id.org/asdkb/instance/tools0question41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+

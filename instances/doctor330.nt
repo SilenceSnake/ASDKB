@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor330> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "身材矮小症、性早熟以及小儿多动症、孤独症、抽动症等各种小儿心理行为异常性疾病"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor330> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'湖南省儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor330> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健所'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor330> <https://w3id.org/asdkb/ontology/dataproperties/name> "蒋小梅"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor330> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-

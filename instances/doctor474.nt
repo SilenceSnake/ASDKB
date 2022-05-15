@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor474> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童孤独症、多动症、抽动症、学习障碍、儿童青少年情绪行为问题。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor474> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'青岛市妇女儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor474> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor474> <https://w3id.org/asdkb/ontology/dataproperties/name> "陈娟"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor474> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿心理卫生科'"@zh .
-

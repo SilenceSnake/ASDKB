@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor85> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童生长发育监测及智能发育监测、儿童心理及行为发育问题矫治、儿童多动症、孤独症、儿童学习困难、睡眠障碍、遗尿症等疾病的诊治。"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor85> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor85> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'东莞市妇幼保健院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor85> <https://w3id.org/asdkb/ontology/dataproperties/name> "吴东明"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor85> <https://w3id.org/asdkb/ontology/dataproperties/title> "'主治医师'"@zh .
-

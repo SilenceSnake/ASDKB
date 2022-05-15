@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor212> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广东省妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor212> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿神经康复，尤其是脑性瘫痪的诊断和治疗，脑性瘫痪，癫痫，语言障碍，脑炎，自闭症，抽动症，多动症状及各类神经康复"@zh .
+<https://w3id.org/asdkb/instance/doctor212> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor212> <http://www.w3.org/2000/01/rdf-schema#label> "常燕群"@zh .
+<https://w3id.org/asdkb/instance/doctor212> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '康复医学科（小儿神经内科）'"@zh .
+

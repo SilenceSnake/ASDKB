@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor151> <http://www.w3.org/2000/01/rdf-schema#label> "巫江丽"@zh .
+<https://w3id.org/asdkb/instance/doctor151> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor151> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童多动症，孤独症，青少年情绪问题，学业压力咨询，抑郁症，焦虑症，睡眠障碍，家庭心理咨询等"@zh .
+<https://w3id.org/asdkb/instance/doctor151> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'杭州市第七人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor151> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+

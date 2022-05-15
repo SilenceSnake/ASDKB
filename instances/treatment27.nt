@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/treatment27> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "一种辅助学习者在没有其他辅助的情况下，完成目标行为的策略。"@zh .
-<https://w3id.org/asdkb/ontology/instances/treatment27> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Visual Supports"@en .
-<https://w3id.org/asdkb/ontology/instances/treatment27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/EBP> .
-<https://w3id.org/asdkb/ontology/instances/treatment27> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "视觉提示(VS)"@zh .
-

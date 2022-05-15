@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor394> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '小儿神经康复中心'"@zh .
+<https://w3id.org/asdkb/instance/doctor394> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿科危重疑难杂症的诊治，尤其小儿神经系统疾病和遗传代谢病如脑性瘫痪、癫痫、癫痫持续状态、智力低下等"@zh .
+<https://w3id.org/asdkb/instance/doctor394> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor394> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'安徽医科大学第一附属医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor394> <http://www.w3.org/2000/01/rdf-schema#label> "唐久来"@zh .
+<https://w3id.org/asdkb/instance/doctor394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+

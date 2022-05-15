@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor340> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童保健，儿童心理卫生，儿童发育行为问题"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor340> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '儿童保健所'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor340> <https://w3id.org/asdkb/ontology/dataproperties/name> "张艳卿"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor340> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'济南市儿童医院'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor340> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-

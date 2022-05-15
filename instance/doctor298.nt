@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor298> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'中日医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor298> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿呼吸系统疾病 消化系统疾病 新生儿疾病 小儿喂养 生长发育障碍 小儿癫痫、多发性抽动症等疾病的诊治"@zh .
+<https://w3id.org/asdkb/instance/doctor298> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor298> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor298> <http://www.w3.org/2000/01/rdf-schema#label> "赖宏"@zh .
+

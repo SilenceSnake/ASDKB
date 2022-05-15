@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital179> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0951-6997021(导医台),0951-6192235(院办),0951-6192261(咨询)"@zh .
+<https://w3id.org/asdkb/instance/hospital179> <https://w3id.org/asdkb/ontology/dataproperty/city> "银川市"@zh .
+<https://w3id.org/asdkb/instance/hospital179> <https://w3id.org/asdkb/ontology/dataproperty/address> "宁夏回族自治区银川市兴庆区利群西街2号"@zh .
+<https://w3id.org/asdkb/instance/hospital179> <http://www.w3.org/2000/01/rdf-schema#label> "银川市第一人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital179> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+

@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor9> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童期精神障碍，如多动症、抽动症、孤独症、儿童行为障碍、儿童分裂症、躁狂症"@zh .
+<https://w3id.org/asdkb/instance/doctor9> <http://www.w3.org/2000/01/rdf-schema#label> "邝如意"@zh .
+<https://w3id.org/asdkb/instance/doctor9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor9> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor9> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州医科大学附属脑科医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor9> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿少科'"@zh .
+

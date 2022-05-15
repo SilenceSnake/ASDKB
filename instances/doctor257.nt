@@ -1,7 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/doctor257> <https://w3id.org/asdkb/ontology/dataproperties/name> "张凤玲"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor257> <https://w3id.org/asdkb/ontology/dataproperties/specialty> "儿童学习困难、神经精神发育落后、儿童心理行为"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/classes/doctor> .
-<https://w3id.org/asdkb/ontology/instances/doctor257> <https://w3id.org/asdkb/ontology/dataproperties/hospital> "'好大夫工作室'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor257> <https://w3id.org/asdkb/ontology/dataproperties/hospital_department> " '小儿营养保健科'"@zh .
-<https://w3id.org/asdkb/ontology/instances/doctor257> <https://w3id.org/asdkb/ontology/dataproperties/title> "'副主任医师', ''"@zh .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/symptom56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/repetitive_behavior> .
-<https://w3id.org/asdkb/ontology/instances/symptom56> <https://w3id.org/asdkb/ontology/dataproperties/symptom_id> "symptom56"@zh .
-<https://w3id.org/asdkb/ontology/instances/symptom56> <https://w3id.org/asdkb/ontology/dataproperties/English_description> "a general loss of interest in the environment, by stereotyped, repetitive motor mannerisms"@en .
-<https://w3id.org/asdkb/ontology/instances/symptom56> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_description> "对环境的普遍兴趣丧失、刻板印象、重复的运动习惯"@zh .
-

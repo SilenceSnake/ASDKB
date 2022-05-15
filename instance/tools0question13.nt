@@ -1,0 +1,3 @@
+<https://w3id.org/asdkb/instance/tools0question13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question13> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "在游戏中很难假设角色转换(例如，总是“追逐者”而不是被追逐，总是扮演“怪物”等)"@zh .
+

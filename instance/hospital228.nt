@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital228> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital228> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0591-22867120(咨询),0591-23532021(健康管理中心),0591-23532965(国医堂门诊)"@zh .
+<https://w3id.org/asdkb/instance/hospital228> <http://www.w3.org/2000/01/rdf-schema#label> "福建中医药大学附属第三人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital228> <https://w3id.org/asdkb/ontology/dataproperty/address> "福建省福州市闽侯上街国宾大道363号"@zh .
+<https://w3id.org/asdkb/instance/hospital228> <https://w3id.org/asdkb/ontology/dataproperty/city> "福州市"@zh .
+

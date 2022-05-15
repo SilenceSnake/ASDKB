@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor433> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "脑血管病、头晕、焦虑、抑郁、失眠、头痛、肌肉病、周围神经系统疾病、癫痫等疾病的诊治和神经内科常见病的诊治"@zh .
+<https://w3id.org/asdkb/instance/doctor433> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'京煤集团总医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor433> <http://www.w3.org/2000/01/rdf-schema#label> "焦鸿云"@zh .
+<https://w3id.org/asdkb/instance/doctor433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor433> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/instance/doctor433> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+

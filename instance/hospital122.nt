@@ -1,0 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital122> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital122> <https://w3id.org/asdkb/ontology/dataproperty/address> "黑龙江省哈尔滨市香坊区中山路82号"@zh .
+<https://w3id.org/asdkb/instance/hospital122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital122> <http://www.w3.org/2000/01/rdf-schema#label> "黑龙江省医院"@zh .
+<https://w3id.org/asdkb/instance/hospital122> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0451-88025555(总机),0451-88025114(总机)"@zh .
+<https://w3id.org/asdkb/instance/hospital122> <https://w3id.org/asdkb/ontology/dataproperty/city> "哈尔滨市"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/hospital7> <http://www.w3.org/2000/01/rdf-schema#label> "徐州市东方人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital7> <https://w3id.org/asdkb/ontology/dataproperty/city> "徐州市"@zh .
+<https://w3id.org/asdkb/instance/hospital7> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0516-83447100，0516-83462422 "@zh .
+<https://w3id.org/asdkb/instance/hospital7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital7> <https://w3id.org/asdkb/ontology/dataproperty/address> "江苏省徐州市云龙区东甸子"@zh .
+

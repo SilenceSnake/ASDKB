@@ -1,9 +1,0 @@
-<https://w3id.org/asdkb/ontology/instances/tools11> <https://w3id.org/asdkb/ontology/dataproperties/age> "3-22岁"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools11> <https://w3id.org/asdkb/ontology/dataproperties/introduction> "GADS是一份32项的问卷，包含以下分量表:社交互动、受限模式、认知模式和实用技能。"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools11> <https://w3id.org/asdkb/ontology/dataproperties/time> "10-15分钟"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools11> <https://w3id.org/asdkb/ontology/dataproperties/Chinese_name> "Gilliam阿斯伯格症(GADS)"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/screening_tool> .
-<https://w3id.org/asdkb/ontology/instances/tools11> <https://w3id.org/asdkb/ontology/dataproperties/user> "家长,护工或专家"@zh .
-<https://w3id.org/asdkb/ontology/instances/tools11> <https://w3id.org/asdkb/ontology/dataproperties/author> "Gilliam, 2003"@en .
-<https://w3id.org/asdkb/ontology/instances/tools11> <https://w3id.org/asdkb/ontology/dataproperties/English_name> "Gilliam Asperger's Disorder Scale"@en .
-
