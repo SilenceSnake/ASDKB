@@ -8,10 +8,6 @@
 - Source for ontology and ontology generation script: [ontology/](./ontology/)
 - Other sample docs and images: [docs/](./docs/)
 
-## RDF Dumps
-
-- 2.0 Version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6522173.svg)](https://doi.org/10.5281/zenodo.6522173)
-
 ## Namespace
 
 - class: <http://w3id.org/asdkb/ontology/class/>
