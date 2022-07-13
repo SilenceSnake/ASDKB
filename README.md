@@ -1,4 +1,4 @@
-# AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder
+# AsdKB: A Chinese Knowledge Base for Early Screening and Diagnosis of Autism Spectrum Disorder
 
 ![AsdKB](./docs/asdkb.png)
 
