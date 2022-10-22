@@ -1,4 +1,4 @@
-# AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder
+# AsdKB: A Chinese Knowledge Base for Early Screening and Diagnosis of Autism Spectrum Disorder
 
 ![AsdKB](./docs/asdkb.png)
 
@@ -6,6 +6,8 @@
 
 - Ontology: [ontology.owl](./ontology/ontology.owl)
 - Source for ontology and ontology generation script: [ontology/](./ontology/)
+- Source for instances: [instance/](./instance/)
+- Manual ontology mapping to UMLS and ADAR: [mapping/](./mapping/)
 - Other sample docs and images: [docs/](./docs/)
 
 ## Namespace
