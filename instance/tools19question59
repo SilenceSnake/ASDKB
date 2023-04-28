@@ -1,3 +1,9 @@
 <https://w3id.org/asdkb/instance/tools19question59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question59> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
 <https://w3id.org/asdkb/instance/tools19question59> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "60. 在情感上是疏离的，不展现他的感受"@zh .
+<https://w3id.org/asdkb/instance/tools19question59> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question59option2> .
+<https://w3id.org/asdkb/instance/tools19question59> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question59option0> .
+<https://w3id.org/asdkb/instance/tools19question59> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools19question59> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question59option1> .
+<https://w3id.org/asdkb/instance/tools19question59> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools19> .
 

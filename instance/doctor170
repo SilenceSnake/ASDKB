@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor170> <http://www.w3.org/2000/01/rdf-schema#label> "宋毅军"@zh .
+<https://w3id.org/asdkb/instance/doctor170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor170> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长脑梗塞，癫痫，痴呆，脑出血，帕金森氏病和睡眠障碍等神经内科常见病的诊断和治疗。特别在脑梗死、癫痫，痴呆伴有精神症状方面和睡眠障碍方面有很深的造诣。"@zh .
+<https://w3id.org/asdkb/instance/doctor170> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department241> .
+<https://w3id.org/asdkb/instance/doctor170> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital139> .
 <https://w3id.org/asdkb/instance/doctor170> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor170> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'天津医科大学总医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor170> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
 

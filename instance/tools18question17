@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools18question17> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question17option0> .
 <https://w3id.org/asdkb/instance/tools18question17> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "18.您的孩子是否一定要带上某些物品(除了柔软的玩具或舒服的毯子以外)？"@zh .
 <https://w3id.org/asdkb/instance/tools18question17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools18question17> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question17option1> .
+<https://w3id.org/asdkb/instance/tools18question17> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools18question17> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools18question17> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools18> .
 

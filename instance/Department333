@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department333> <http://www.w3.org/2000/01/rdf-schema#label> "重庆医科大学附属儿童医院康复中心"@zh .
+<https://w3id.org/asdkb/instance/Department333> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital94> .
+<https://w3id.org/asdkb/instance/Department333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department333> <http://www.w3.org/2000/01/rdf-schema#comment> "重庆医科大学附属儿童医院康复中心成立于1990年，27年来已发展为集儿童康复教学、医疗、科研为一体的国内一流综合性儿童康复诊疗中心。目前主要开展：运动治疗、作业治疗、感觉统合训练、语音训练、悬吊治疗、减重步行训练、高压氧、早期教育、电疗、水疗、蜡疗、小儿推拿、针灸、中药熏蒸、沙盘游戏、体感音乐治疗、肉毒素注射、小针刀等治疗项目，同时开展：三维步态分析技术、GMS评估技术、AIMS 评估技术、粗大运动评估、精细运动评估、韦氏智力测试、心理行为评估、表面肌电测试等多种辅助检查及评估技术，是西南地区最大的儿童残疾预防和治疗综合康复机构。中心系中华医学会儿科分会康复医学组组长单位，中国康复学会常务理事单位，中国康复医学会儿童康复专业委员会医教结合学组秘书长单位，中国康复医学会儿童康复专业委员会医教结合学组西部地区负责人单位，中国康复医学会儿童康复专业委员会副主任委员单位，重庆市康复医学会理事长单位，重庆市康复医学会儿童康复专业委员会主任委员单位、中华物理与康复学会重庆分会副主任委员单位等。同时中心也分别于2014年及2016年获批成为“重庆市儿童康复中心”、“重庆市中西医结合康复重点专科”。目前中心年专科门诊量约2万人次，年康复门诊治疗量已达10万余人次，并呈逐年上升趋势。同时，拥有独立建制的病房，开放床位82张，年出院病人700余人次，外埠病人＞60％，主要辐射四川、贵州、云南、西藏、青海、广西、甘肃、湖南等全国20多个省市及自治区。"@zh .
+

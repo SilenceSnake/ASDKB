@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1446> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City283> .
+<https://w3id.org/asdkb/instance/Geo1446> <http://www.w3.org/2000/01/rdf-schema#label> "班戈县"@zh .
+<https://w3id.org/asdkb/instance/Geo1446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1446> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "542428"@zh .
+<https://w3id.org/asdkb/instance/Geo1446> <https://w3id.org/asdkb/ontology/dataproperty/population> "39309人（截至2020年11月1日常住人口）"@zh .
+

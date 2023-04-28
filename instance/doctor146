@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor146> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor146> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
-<https://w3id.org/asdkb/instance/doctor146> <http://www.w3.org/2000/01/rdf-schema#label> "王红星"@zh .
 <https://w3id.org/asdkb/instance/doctor146> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "自闭症、儿童多动症、情感障碍、睡眠障碍、抽动症、抑郁症、焦虑症、强迫症状，躯体形式障碍，慢性疲劳综合症、头痛，头晕，耳鸣，眩晕，恶心、呕吐、麻木；各种难治性躯体症状障碍、各种难治性疼痛；多发性硬化，视神经脊髓炎、神经免疫脱髓鞘疾病及其谱系疾病。"@zh .
-<https://w3id.org/asdkb/instance/doctor146> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'宣武医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor146> <http://www.w3.org/2000/01/rdf-schema#label> "王红星"@zh .
+<https://w3id.org/asdkb/instance/doctor146> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor146> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department282> .
+<https://w3id.org/asdkb/instance/doctor146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

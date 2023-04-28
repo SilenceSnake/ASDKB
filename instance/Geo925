@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo925> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "421126"@zh .
+<https://w3id.org/asdkb/instance/Geo925> <http://www.w3.org/2000/01/rdf-schema#label> "蕲春县"@zh .
+<https://w3id.org/asdkb/instance/Geo925> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City176> .
+<https://w3id.org/asdkb/instance/Geo925> <https://w3id.org/asdkb/ontology/dataproperty/population> "792101人(截至2020年11月1日零时)"@zh .
+<https://w3id.org/asdkb/instance/Geo925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

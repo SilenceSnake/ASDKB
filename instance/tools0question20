@@ -1,3 +1,13 @@
-<https://w3id.org/asdkb/instance/tools0question20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question20option5> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question20option6> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question20option4> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question20option0> .
 <https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "不以分享积极情感(例如，共同关注)为目的进行沟通"@zh .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question20option1> .
+<https://w3id.org/asdkb/instance/tools0question20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question20option2> .
+<https://w3id.org/asdkb/instance/tools0question20> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question20option3> .
 

@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools18question29> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools18question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question29option0> .
+<https://w3id.org/asdkb/instance/tools18question29> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools18question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question29option1> .
 <https://w3id.org/asdkb/instance/tools18question29> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "31.在您的孩子4-5岁时(或过去一年中)，如果您伤心或受伤了，他/她是否会尝试着安慰您？"@zh .
+<https://w3id.org/asdkb/instance/tools18question29> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools18> .
 <https://w3id.org/asdkb/instance/tools18question29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

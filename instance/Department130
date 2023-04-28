@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department130> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital227> .
+<https://w3id.org/asdkb/instance/Department130> <http://www.w3.org/2000/01/rdf-schema#comment> "江门市妇幼保健院儿童保健科是江门市“五个一”科教兴医工程的重点专科，是江门市儿童保健业务指导中心。负责市区儿童系列保健服务和四市三区儿童保健业务指导和培训，并担负儿童保健的科研项目等。本科技术力量雄厚，设备先进，拥有资深医务人员17名，下设多个专科门诊，热情为广大群众提供各项优质专业服务。"@zh .
+<https://w3id.org/asdkb/instance/Department130> <http://www.w3.org/2000/01/rdf-schema#label> "江门市妇幼保健院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

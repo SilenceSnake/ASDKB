@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department43> <http://www.w3.org/2000/01/rdf-schema#label> "福建省妇幼保健院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department43> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童保健科为三级甲等妇幼保健院一级科室。是福建省妇幼保健系统的省级业务指导机构。承担着全省儿童保健业务指导、教学、科研、疾病防治等任务。为福建省和国家有关儿童发展纲要提供科学依据。 儿童保健的主要任务是促进儿童体能、智能、社会适应能力、情感等素质全面发展，不断提升家长的育儿理念、提高儿童健康水平。"@zh .
+<https://w3id.org/asdkb/instance/Department43> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital212> .
+<https://w3id.org/asdkb/instance/Department43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City71> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "232700"@zh .
+<https://w3id.org/asdkb/instance/City71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City71> <http://www.w3.org/2000/01/rdf-schema#label> "大兴安岭地区"@zh .
+<https://w3id.org/asdkb/instance/City71> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province7> .
+<https://w3id.org/asdkb/instance/City71> <https://w3id.org/asdkb/ontology/dataproperty/population> "33.13 万(截至2020年11月1日)"@zh .
+

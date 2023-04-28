@@ -1,3 +1,9 @@
-<https://w3id.org/asdkb/instance/tools19question40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question40> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question40option2> .
 <https://w3id.org/asdkb/instance/tools19question40> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "41. 无目标地从一个活动游走到另外一个"@zh .
+<https://w3id.org/asdkb/instance/tools19question40> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question40option0> .
+<https://w3id.org/asdkb/instance/tools19question40> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question40option1> .
+<https://w3id.org/asdkb/instance/tools19question40> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools19question40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question40> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools19> .
+<https://w3id.org/asdkb/instance/tools19question40> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
 

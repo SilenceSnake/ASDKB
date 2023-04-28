@@ -1,3 +1,9 @@
 <https://w3id.org/asdkb/instance/tools2question1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools2question1> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question1option0> .
+<https://w3id.org/asdkb/instance/tools2question1> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools2question1> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question1option1> .
+<https://w3id.org/asdkb/instance/tools2question1> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools2question1> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question1option2> .
 <https://w3id.org/asdkb/instance/tools2question1> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "2. 被其他孩子认为是一个“古怪的教授”"@zh .
+<https://w3id.org/asdkb/instance/tools2question1> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools2> .
 

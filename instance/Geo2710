@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2710> <https://w3id.org/asdkb/ontology/dataproperty/population> "80.52 万(怀集县第七次全国人口普查常住人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo2710> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City204> .
+<https://w3id.org/asdkb/instance/Geo2710> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "441224"@zh .
+<https://w3id.org/asdkb/instance/Geo2710> <http://www.w3.org/2000/01/rdf-schema#label> "怀集县"@zh .
+<https://w3id.org/asdkb/instance/Geo2710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

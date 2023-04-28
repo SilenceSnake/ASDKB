@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo458> <http://www.w3.org/2000/01/rdf-schema#label> "宁津县"@zh .
+<https://w3id.org/asdkb/instance/Geo458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo458> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "371422"@zh .
+<https://w3id.org/asdkb/instance/Geo458> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City147> .
+<https://w3id.org/asdkb/instance/Geo458> <https://w3id.org/asdkb/ontology/dataproperty/population> "48.7408 万(2021年户籍人口)"@zh .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department306> <http://www.w3.org/2000/01/rdf-schema#label> "中国福利会国际和平妇幼保健院儿保门诊"@zh .
+<https://w3id.org/asdkb/instance/Department306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department306> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital204> .
+<https://w3id.org/asdkb/instance/Department306> <http://www.w3.org/2000/01/rdf-schema#comment> "国际和平妇幼保健院儿童保健康复科致力于控制和减少婴幼儿期的疾病，保障和促进婴幼儿的生长发育，帮助障碍儿童的生长智力发育调理。从婴幼儿营养、生长发育监测指导、婴幼儿早期教育、高危儿早期干预等方面为提供高质、温馨、全面的咨询、指导、训练。"@zh .
+

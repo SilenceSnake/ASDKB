@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department301> <http://www.w3.org/2000/01/rdf-schema#comment> "nan"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/asdkb/instance/Department301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department301> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital34> .
+<https://w3id.org/asdkb/instance/Department301> <http://www.w3.org/2000/01/rdf-schema#label> "郑州大学第三附属医院保健科"@zh .
+

@@ -1,3 +1,8 @@
 <https://w3id.org/asdkb/instance/tools6question13> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "她/他是否有一个兴趣，占用了太多的时间，她/他很少做其他事情?"@zh .
 <https://w3id.org/asdkb/instance/tools6question13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools6question13> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools6> .
+<https://w3id.org/asdkb/instance/tools6question13> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools6question13option0> .
+<https://w3id.org/asdkb/instance/tools6question13> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools6question13> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools6question13option1> .
+<https://w3id.org/asdkb/instance/tools6question13> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
 

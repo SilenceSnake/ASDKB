@@ -1,3 +1,13 @@
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question55option5> .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question55option6> .
 <https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "表现出对物体部分的持续关注(例如，汽车的轮子，吸尘器的软管，玩具的绳子，等等)"@zh .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question55option3> .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question55option4> .
 <https://w3id.org/asdkb/instance/tools0question55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question55option1> .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question55option0> .
+<https://w3id.org/asdkb/instance/tools0question55> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question55option2> .
 

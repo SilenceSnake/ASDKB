@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor352> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '中医科'"@zh .
-<https://w3id.org/asdkb/instance/doctor352> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor352> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department194> .
+<https://w3id.org/asdkb/instance/doctor352> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital15> .
 <https://w3id.org/asdkb/instance/doctor352> <http://www.w3.org/2000/01/rdf-schema#label> "余平波"@zh .
-<https://w3id.org/asdkb/instance/doctor352> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海儿童医学中心'"@zh .
+<https://w3id.org/asdkb/instance/doctor352> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor352> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长以中医特色（针灸、中药、推拿）治疗小儿抽动症，多动症，脑瘫、发育迟缓，遗尿，鼻炎，小儿假性近视等。"@zh .
-<https://w3id.org/asdkb/instance/doctor352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 

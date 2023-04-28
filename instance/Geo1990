@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1990> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City335> .
+<https://w3id.org/asdkb/instance/Geo1990> <https://w3id.org/asdkb/ontology/dataproperty/population> "15.81 万(第七次全国人口普查数据)"@zh .
+<https://w3id.org/asdkb/instance/Geo1990> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "654201"@zh .
+<https://w3id.org/asdkb/instance/Geo1990> <http://www.w3.org/2000/01/rdf-schema#label> "塔城市"@zh .
+

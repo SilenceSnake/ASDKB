@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo863> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "150124"@zh .
+<https://w3id.org/asdkb/instance/Geo863> <http://www.w3.org/2000/01/rdf-schema#label> "清水河县"@zh .
+<https://w3id.org/asdkb/instance/Geo863> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City24> .
+<https://w3id.org/asdkb/instance/Geo863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo863> <https://w3id.org/asdkb/ontology/dataproperty/population> "13.74 万(截至2021年)"@zh .
+

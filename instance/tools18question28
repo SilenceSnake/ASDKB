@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools18question28> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools18> .
+<https://w3id.org/asdkb/instance/tools18question28> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question28option1> .
 <https://w3id.org/asdkb/instance/tools18question28> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "30.在您的孩子4-5岁时(或过去一年中)，他/她是否会与您分享他/她的快乐(例如，告诉您幼儿园里发生的开心的事情等)？"@zh .
+<https://w3id.org/asdkb/instance/tools18question28> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools18question28> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools18question28> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question28option0> .
 <https://w3id.org/asdkb/instance/tools18question28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

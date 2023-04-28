@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo462> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "371426"@zh .
+<https://w3id.org/asdkb/instance/Geo462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo462> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City147> .
+<https://w3id.org/asdkb/instance/Geo462> <http://www.w3.org/2000/01/rdf-schema#label> "平原县"@zh .
+<https://w3id.org/asdkb/instance/Geo462> <https://w3id.org/asdkb/ontology/dataproperty/population> "419088人(截至2020年11月1日零时)"@zh .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department152> <http://www.w3.org/2000/01/rdf-schema#comment> "南方医科大学深圳医院儿科包括儿科门急诊、儿童保健门诊、普通儿科病房、新生儿危重症救治中心（NICU）、儿童危重症救治中心（PICU）（PICU目前正在筹建中）、深圳宝安区“地贫之家”诊疗中心等。科室现有主任医师7人，副主任医师4人，主治医师4人，住院医师8人。儿科主任张玉明来自南方医科大学南方医院，新生儿科主任陈慧来自南方医科大学珠江医院。"@zh .
+<https://w3id.org/asdkb/instance/Department152> <http://www.w3.org/2000/01/rdf-schema#label> "南方医科大学深圳医院儿科"@zh .
+<https://w3id.org/asdkb/instance/Department152> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital62> .
+<https://w3id.org/asdkb/instance/Department152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

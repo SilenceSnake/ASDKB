@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department187> <http://www.w3.org/2000/01/rdf-schema#label> "山西白求恩医院精神卫生科"@zh .
+<https://w3id.org/asdkb/instance/Department187> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital177> .
+<https://w3id.org/asdkb/instance/Department187> <http://www.w3.org/2000/01/rdf-schema#comment> "山西大医院-精神卫生科建立于2012年12月，由山西各大医院的优秀人才组建而成，集全国优秀精神科医师、山西名特专家为一体，在理念、医疗、教学、科研各方面居我省先进行列。"@zh .
+<https://w3id.org/asdkb/instance/Department187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

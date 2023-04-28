@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department44> <http://www.w3.org/2000/01/rdf-schema#comment> "福建省立医院儿科由两部分组成，临床部和研究室（福建省儿科研究室）。临床部包括住院部、门诊部和急诊中心儿科。住院部拥有床位43张（包括危重抢救床5张）。全科医护人员32名。其中医生17人，护理人员14人，检验师1人。主任医师2人，副主任医师8人，主治5人，住院医师2人。省立医院儿科虽是综合性医院中的一个小科，但在福建省颇负盛名，在国内儿科界也有一定的地位。上世纪五十至八十年代儿科主任叶孝礼教授是当时国内知名的儿科专家，他坚持儿科中西结合临床研究四十年，积累了丰富的经验，尤擅长治疗小儿消化系统疾病，是我国儿科中西医结合和消化专业的学术带头人。经过老一辈专家的传、帮、带、目前我科有一名医师担任中华医学会福建省儿科分会副主任委员，两名医师担任委员。并有两名医师任中华医学会全国儿科专业组委员（肾脏病和免疫学组）。"@zh .
+<https://w3id.org/asdkb/instance/Department44> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital115> .
+<https://w3id.org/asdkb/instance/Department44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department44> <http://www.w3.org/2000/01/rdf-schema#label> "福建省立医院儿科"@zh .
+

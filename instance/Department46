@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department46> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童神经心理专科是省领先医疗特色专业、福建医科大学儿童神经心理研究中心，拥有儿童多导睡眠图仪、视频脑电图仪、婴儿高压氧舱、经颅微电流刺激仪等，具有全省最全面的儿童心理测验量表，包括各种小儿常用的智力、性格、情绪、气质、行为（如多动症、孤独症等异常行为）测验及新生儿神经行为测评。率先开展儿童心理咨询、心理行为治疗、家庭系统干预辅导、学习能力提高训练等工作，开展专科神经电生理、心理测试等检查。对儿童急性脑损伤、小儿癫痫、神经肌肉疾病、儿童多动症、抽动障碍、孤独症、学习困难、小儿厌食、遗尿症、神经性呕吐、再发性腹痛、智力、性格和各种行为异常等疾病的诊治达国内先进水平。该专业组人员在全国以及省级专业学会中曾担任和正在担任重要职务，如全国优生优育协会、心身医学学会、中国心理卫生协会理事长、副理事长；全国儿科学会委员；全国小儿脑瘫专业委员会常委、全国行为发育儿科协会理事、中华医学会儿科分会神经学组成员、中国心理卫生协会青少年心理卫生专业委员会委员、省儿科学会主任委员、副主任委员、福建省儿童神经及发育行为学组组长、围产保健协会副主任委员，省围产医学分会常务委员等。"@zh .
+<https://w3id.org/asdkb/instance/Department46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department46> <http://www.w3.org/2000/01/rdf-schema#label> "福建协和医院儿内科"@zh .
+<https://w3id.org/asdkb/instance/Department46> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital57> .
+

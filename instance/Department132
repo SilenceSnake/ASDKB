@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department132> <http://www.w3.org/2000/01/rdf-schema#comment> "该科健康体检设备齐全，能满足儿童体格发育及心理行为发育的监测评价。先后引进儿童青少年心理行为评定软件、儿童感觉统合发展能力评定软件、儿童气质评定软件、儿童视觉听觉持续注意力测试软件，个体儿童营养素分析软件、增强型注意力测试仪，各年龄段儿童心理测验（智力测试）诊断量表，儿童早期教育新技术，儿童语言筛查及功能性构音障碍矫治技术，儿童感觉统合失调训练，儿童孤独症训练新技术。"@zh .
+<https://w3id.org/asdkb/instance/Department132> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital158> .
+<https://w3id.org/asdkb/instance/Department132> <http://www.w3.org/2000/01/rdf-schema#label> "江西省儿童医院儿童保健科"@zh .
+

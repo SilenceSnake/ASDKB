@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo495> <https://w3id.org/asdkb/ontology/dataproperty/population> "50.79 万(2020年)"@zh .
+<https://w3id.org/asdkb/instance/Geo495> <http://www.w3.org/2000/01/rdf-schema#label> "建始县"@zh .
+<https://w3id.org/asdkb/instance/Geo495> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "422822"@zh .
+<https://w3id.org/asdkb/instance/Geo495> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City179> .
+

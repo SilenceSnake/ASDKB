@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department102> <http://www.w3.org/2000/01/rdf-schema#label> "河南省儿童医院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department102> <http://www.w3.org/2000/01/rdf-schema#comment> "郑州市儿童医院儿童保健部是集保健、科研、教学为一体的全省最大的儿童保健中心。科室长期致力于为广大儿童及家长提供有关儿童生长发育、心理和行为问题、健康教育等方面的专业指导、咨询及治。中国健康教育协会授予“注意力缺陷多动障碍”健康教育中心，“郑州市儿童健康教育基地”。特色门诊如：①生长发育监测门诊；②营养门诊；③高危儿随访门诊④儿童多动症抽动症门诊⑤心理门诊⑥少儿。拥有一支高素质的业务人员30余人（儿童保健医生、护士、康复训练师、幼教老师等），是一个团结进取的团队。开展儿童保健项目齐全，其中儿童学习困难、多动症、抽动症、孤独症的诊治疗居省内领先水平，深受同行的赞扬和家长的欢迎。"@zh .
+<https://w3id.org/asdkb/instance/Department102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department102> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital103> .
+

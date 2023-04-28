@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo607> <http://www.w3.org/2000/01/rdf-schema#label> "武胜县"@zh .
+<https://w3id.org/asdkb/instance/Geo607> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "511622"@zh .
+<https://w3id.org/asdkb/instance/Geo607> <https://w3id.org/asdkb/ontology/dataproperty/population> "80.23 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo607> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City247> .
+<https://w3id.org/asdkb/instance/Geo607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

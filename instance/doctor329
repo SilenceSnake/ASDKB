@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor329> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'安徽省儿童医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor329> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor329> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童营养性疾病、儿童矮小症、性早熟、儿童多动症、抽动症、智力障碍、学习障碍等病的诊断与治疗"@zh .
-<https://w3id.org/asdkb/instance/doctor329> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
 <https://w3id.org/asdkb/instance/doctor329> <http://www.w3.org/2000/01/rdf-schema#label> "张功"@zh .
+<https://w3id.org/asdkb/instance/doctor329> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital163> .
+<https://w3id.org/asdkb/instance/doctor329> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor329> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department0> .
+<https://w3id.org/asdkb/instance/doctor329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor329> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童营养性疾病、儿童矮小症、性早熟、儿童多动症、抽动症、智力障碍、学习障碍等病的诊断与治疗"@zh .
 

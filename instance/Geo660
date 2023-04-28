@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo660> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "520181"@zh .
+<https://w3id.org/asdkb/instance/Geo660> <https://w3id.org/asdkb/ontology/dataproperty/population> "55.57 万(2020年末户籍人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo660> <http://www.w3.org/2000/01/rdf-schema#label> "清镇市"@zh .
+<https://w3id.org/asdkb/instance/Geo660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo660> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City255> .
+

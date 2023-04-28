@@ -1,5 +1,7 @@
+<https://w3id.org/asdkb/instance/symptom32> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/symptom32> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom011> .
 <https://w3id.org/asdkb/instance/symptom32> <http://www.w3.org/2000/01/rdf-schema#comment> "失去有目的的手部动作和获得精细运动操作技能 "@zh .
 <https://w3id.org/asdkb/instance/symptom32> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom32"@zh .
-<https://w3id.org/asdkb/instance/symptom32> <http://www.w3.org/2000/01/rdf-schema#comment> "a loss of purposive hand movements and acquired fine motor manipulative skills"@en .
 <https://w3id.org/asdkb/instance/symptom32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
+<https://w3id.org/asdkb/instance/symptom32> <http://www.w3.org/2000/01/rdf-schema#comment> "a loss of purposive hand movements and acquired fine motor manipulative skills"@en .
 

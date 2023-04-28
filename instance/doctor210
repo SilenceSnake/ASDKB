@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor210> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童青少年精神科'"@zh .
 <https://w3id.org/asdkb/instance/doctor210> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor210> <http://www.w3.org/2000/01/rdf-schema#label> "程文红"@zh .
-<https://w3id.org/asdkb/instance/doctor210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor210> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海市精神卫生中心'"@zh .
 <https://w3id.org/asdkb/instance/doctor210> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年发育、注意缺陷与多动、人际、焦虑抑郁等行为与情绪问题、亲子关系、以及精神病性障碍的诊断与综合治疗；成年人焦虑、抑郁、强迫等情绪问题与障碍，以及睡眠障碍诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor210> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department202> .
+<https://w3id.org/asdkb/instance/doctor210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor210> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital106> .
+<https://w3id.org/asdkb/instance/doctor210> <http://www.w3.org/2000/01/rdf-schema#label> "程文红"@zh .
 

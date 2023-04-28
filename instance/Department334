@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department334> <http://www.w3.org/2000/01/rdf-schema#comment> "重庆医科大学附属儿童医院神经科成立于1981年，属我国最早成立的小儿神经专科之一，经过30年的发展，目前神经内科是由神经专科病房、知名专家及专科门诊、儿童癫痫诊治中心、小儿临床神经电生理室、神经病学研究室5部分组成的完整专业体系，是全国小儿神经学组副组长单位、重庆医科大学附属儿童医院重点学科、重庆市“优质护理示范先进病房”、重庆市“青年文明号”、重庆市“星级护理站”、“重庆医科大学小儿癫痫诊治中心”、“重庆医科大学附属儿童医院小儿视频脑电中心监测站”。 年专科门诊量50000余人次，年住院病人5000余例，病人来源包括深圳、海南、西藏、新疆、广西、贵州、云南、浙江、四川等全国20多个省市，系西部地区小儿神经疾病诊治中心。"@zh .
+<https://w3id.org/asdkb/instance/Department334> <http://www.w3.org/2000/01/rdf-schema#label> "重庆医科大学附属儿童医院神经内科"@zh .
+<https://w3id.org/asdkb/instance/Department334> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital94> .
+<https://w3id.org/asdkb/instance/Department334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

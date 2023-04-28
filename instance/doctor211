@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor211> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department225> .
+<https://w3id.org/asdkb/instance/doctor211> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor211> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital104> .
 <https://w3id.org/asdkb/instance/doctor211> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童癫痫、儿童遗传代谢病、儿童神经-精神疾病如儿童抽动症及多动症"@zh .
 <https://w3id.org/asdkb/instance/doctor211> <http://www.w3.org/2000/01/rdf-schema#label> "许克铭"@zh .
-<https://w3id.org/asdkb/instance/doctor211> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor211> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
-<https://w3id.org/asdkb/instance/doctor211> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'首都儿科研究所附属儿童医院'"@zh .
 

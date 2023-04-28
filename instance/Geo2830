@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2830> <http://www.w3.org/2000/01/rdf-schema#label> "红花岗区"@zh .
+<https://w3id.org/asdkb/instance/Geo2830> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "520302"@zh .
+<https://w3id.org/asdkb/instance/Geo2830> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City257> .
+<https://w3id.org/asdkb/instance/Geo2830> <https://w3id.org/asdkb/ontology/dataproperty/population> "86.68 万(2019年常住人口)"@zh .
+

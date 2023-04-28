@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department88> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital102> .
+<https://w3id.org/asdkb/instance/Department88> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童心理科正式成立于1996年，是浙江省最早开设儿童心理门诊和心理治疗的科室，是浙江省儿童心理卫生专业委员会、省自闭症家长联谊会工作基地，也是全省首家儿童青少年心理科病房。科室拥有医生团队成员5名，其中高级职称3人，病房护理团队成员9名，心理治疗师4名。儿少心理病房目前有32张床位，其中6个VIP房间。科室主要对儿童多动症、自闭症、抽动症、品行障碍、学习障碍、儿童期精神病、儿童青少年情绪障碍、青少年网络成瘾、感觉统合失调以及其它儿童青少年精神心理问题进行诊断和治疗，目前开设儿童青少年情绪障碍、学习障碍和自闭症等专病诊疗门诊。设有全省首个儿童感觉统合训练室、儿童青少年心理测评室，采用多种国内外通用的心理评估手段，对儿童的心理健康状况进行全面的评估。同时开展感觉统合治疗、听觉统合治疗、可视音乐治疗、注意力（脑电生物反馈）治疗、计算机认知矫正治疗、自闭症康复治疗（包括ABA训练、地板时光训练）等。"@zh .
+<https://w3id.org/asdkb/instance/Department88> <http://www.w3.org/2000/01/rdf-schema#label> "杭州市第七人民医院儿童心理科"@zh .
+

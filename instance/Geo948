@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo948> <https://w3id.org/asdkb/ontology/dataproperty/population> "121.2 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo948> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "441322"@zh .
+<https://w3id.org/asdkb/instance/Geo948> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City205> .
+<https://w3id.org/asdkb/instance/Geo948> <http://www.w3.org/2000/01/rdf-schema#label> "博罗县"@zh .
+

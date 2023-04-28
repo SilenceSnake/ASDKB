@@ -1,3 +1,8 @@
 <https://w3id.org/asdkb/instance/tools18question2> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "3.您的孩子是否用几乎相同的方式反复说奇怪的词语或同样的话(这些词语可能是他/她听别人说过或是他/她自己创造的)？"@zh .
+<https://w3id.org/asdkb/instance/tools18question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question2option1> .
+<https://w3id.org/asdkb/instance/tools18question2> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools18question2> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools18question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question2option0> .
+<https://w3id.org/asdkb/instance/tools18question2> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools18> .
 <https://w3id.org/asdkb/instance/tools18question2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

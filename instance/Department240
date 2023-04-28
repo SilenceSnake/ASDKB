@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department240> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital139> .
+<https://w3id.org/asdkb/instance/Department240> <http://www.w3.org/2000/01/rdf-schema#comment> "多年来，儿科对小儿内科各种疾病的诊治积累了丰富的经验，儿科高质量的医疗服务及良好的就医环境赢得了广大患者的信赖，前来就诊的病员覆盖该市及我国北方地区。门诊设有普通门诊、专家门诊、著名专家及特需门诊、新生儿专科门诊、内分泌专科门诊、哮喘专科门诊等，每日均有4-5名资深专家坐诊，以满足不同的患者需求。急诊24小时对外应诊，每班至少3名医师应诊，技术力量搭配合理，利于危重症病人能得到及时正确的诊治。门急诊尚开展过敏原检测、肺功能检测、智能检测、脱敏治疗，雾化治疗、激光治疗等多项诊治项目，并有宽敞舒适的临时观察输液室床位75张，以缓解住院床位的紧张。近3年来儿科日门急诊量逐年上升，现平均每日600人次左右。病房住院病人的诊治严格按照三级查房制度进行，对疑难及重症病例采取全科讨论以及院内、院外会诊的方式极力解决；并划分出感染性疾病、非感染性疾病以及危重症病区。近3年收治的病人数逐年增加，病种多样化，疑难症及危重症的诊治例数及成功率也逐渐增多。近3年每年治愈出院人数在3000左右。"@zh .
+<https://w3id.org/asdkb/instance/Department240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department240> <http://www.w3.org/2000/01/rdf-schema#label> "天津医科大学总医院儿科"@zh .
+

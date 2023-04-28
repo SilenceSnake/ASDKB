@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department70> <http://www.w3.org/2000/01/rdf-schema#label> "广州市妇女儿童医疗中心儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department70> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital27> .
+<https://w3id.org/asdkb/instance/Department70> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童保健门诊在广东省儿童保健领域中具有较大的影响，科室一贯秉承 “儿童健康以预防为主，早防早治”的宗旨，经过多年的发展，成为现今技术力量雄厚，人才队伍合理，为儿童提供高质量保健服务的科室。在1997年市科委课题“0-3岁百名婴幼儿早期潜能开发项目研究”、“婴幼儿社区保健模式研究”科研成果以及大量的操作实践的基础上，引进现代先进的育儿观念，重新进行整合开展儿童早期综合发展项目服务，采取评估——干预——再评估的干预模式，通过科学的训练方法，为婴幼儿提供丰富的环境刺激，使其在体格发育、大动作、精细动作、认知能力、社会能力人格等诸多方面获得最佳发展。儿童保健门诊除了提供健康儿童的保健服务外，还开设有特色专科，专门矫治儿童各种营养性疾病、生长发育问题和儿童铅中毒。现开展有下列项目：儿童铅中毒的防治、儿童营养、体弱儿矫治、儿童厌食治疗；睡眠问题（夜睡欠佳、入睡困难、易醒）矫治、生长发育迟缓（身材矮小、生长速度缓慢）诊治、疾病筛查、儿童发育测评与智力筛查、营养评估、入托、入学体检。此外，还开设有小儿女性专科。内容包括幼女及青春期少女疾病的诊治。"@zh .
+

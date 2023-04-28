@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Geo111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo111> <http://www.w3.org/2000/01/rdf-schema#label> "江源县"@zh .
+<https://w3id.org/asdkb/instance/Geo111> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City55> .
+<https://w3id.org/asdkb/instance/Geo111> <https://w3id.org/asdkb/ontology/dataproperty/population> "19.85 万(2019年户籍人口)"@zh .
+

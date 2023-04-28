@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo786> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City208> .
+<https://w3id.org/asdkb/instance/Geo786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo786> <http://www.w3.org/2000/01/rdf-schema#label> "和平县"@zh .
+<https://w3id.org/asdkb/instance/Geo786> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "441624"@zh .
+<https://w3id.org/asdkb/instance/Geo786> <https://w3id.org/asdkb/ontology/dataproperty/population> "35.39 万(2020年末常住人口)"@zh .
+

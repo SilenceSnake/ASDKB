@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1673> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City210> .
+<https://w3id.org/asdkb/instance/Geo1673> <http://www.w3.org/2000/01/rdf-schema#label> "清城区"@zh .
+<https://w3id.org/asdkb/instance/Geo1673> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "441802"@zh .
+<https://w3id.org/asdkb/instance/Geo1673> <https://w3id.org/asdkb/ontology/dataproperty/population> "1119901人（截至2020年11月1日零时常住人口）"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City296> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province27> .
+<https://w3id.org/asdkb/instance/City296> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "620100"@zh .
+<https://w3id.org/asdkb/instance/City296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City296> <http://www.w3.org/2000/01/rdf-schema#label> "兰州市"@zh .
+<https://w3id.org/asdkb/instance/City296> <https://w3id.org/asdkb/ontology/dataproperty/population> "441.53 万(2022年底常住人口)"@zh .
+

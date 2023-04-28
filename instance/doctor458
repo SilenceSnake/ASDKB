@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor458> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/instance/doctor458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor458> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', '讲师'"@zh .
+<https://w3id.org/asdkb/instance/doctor458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor458> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department4> .
 <https://w3id.org/asdkb/instance/doctor458> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "脑瘫 ，脑萎缩  ，脑发育不良，运动障碍，发育迟缓 ，高危儿早期干预 ，精神发育迟滞，孤独症，语言障碍，构音障碍，"@zh .
+<https://w3id.org/asdkb/instance/doctor458> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', '讲师'"@zh .
+<https://w3id.org/asdkb/instance/doctor458> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital207> .
 <https://w3id.org/asdkb/instance/doctor458> <http://www.w3.org/2000/01/rdf-schema#label> "李二伟"@zh .
-<https://w3id.org/asdkb/instance/doctor458> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北部战区总医院和平院区'"@zh .
 

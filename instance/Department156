@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department156> <http://www.w3.org/2000/01/rdf-schema#comment> "神经内科（本部）是集医疗、教学、科研为一体的脑血管疾病及神经系统各疾病诊疗中心；是江苏省临床重点专科、南京医科大学教学示范基地，中华医学会江苏省神经病学会、江苏省及南京市医疗事故鉴定委员会成员单位。2011年被国家批准为医院首批GCP单位。科室有主任医师、副主任医师、主治医师及住院医师等完善的医疗队伍，也是医院优质护理单元。病房设施齐全，每个房间均配备有卫生间。"@zh .
+<https://w3id.org/asdkb/instance/Department156> <http://www.w3.org/2000/01/rdf-schema#label> "南京医科大学第二附属医院神经内科"@zh .
+<https://w3id.org/asdkb/instance/Department156> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital17> .
+

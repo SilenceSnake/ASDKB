@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department231> <http://www.w3.org/2000/01/rdf-schema#comment> "儿科是集医疗、教学、科研为一体、功能齐全的临床科室，为四川省医学重点学科。科室拥有享受国务院特殊津贴专家1人，四川省学术和技术带头人1人，四川省有突出贡献的优秀专家1人，四川省卫生厅学术和技术带头人3人，硕士生导师6人。曾先后担任中华医学会临床流行病学分会和围产医学分会委员；中华预防医学会伤害预防控制分会儿童伤害防治学组常委；中国医师协会新生儿科医师分会委员，中国医师协会新生儿科医师分会早产儿专业委员会、母源性疾病专业委员会、呼吸专业委员会和内分泌遗传代谢专业委员会委员；四川省医学会围产医学专业委员会首届主任委员，儿科专业委员会、临床流行病学专业委员会、循证医学专业委员会副主任委员；四川省医师协会儿科专业委员会副主任委员；四川省康复医学会儿科专委会副主任委员；四川省中西医结合学会儿科专委会副主任委员。学术地位居省内领先水平，在国内享有一定知名度。"@zh .
+<https://w3id.org/asdkb/instance/Department231> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital56> .
+<https://w3id.org/asdkb/instance/Department231> <http://www.w3.org/2000/01/rdf-schema#label> "四川省人民医院儿科"@zh .
+

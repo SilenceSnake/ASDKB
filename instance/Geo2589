@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2589> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "430624"@zh .
+<https://w3id.org/asdkb/instance/Geo2589> <https://w3id.org/asdkb/ontology/dataproperty/population> "583984人(截至2020年11月1日零时)"@zh .
+<https://w3id.org/asdkb/instance/Geo2589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2589> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City186> .
+<https://w3id.org/asdkb/instance/Geo2589> <http://www.w3.org/2000/01/rdf-schema#label> "湘阴县"@zh .
+

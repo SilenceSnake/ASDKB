@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2818> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City136> .
+<https://w3id.org/asdkb/instance/Geo2818> <http://www.w3.org/2000/01/rdf-schema#label> "高青县"@zh .
+<https://w3id.org/asdkb/instance/Geo2818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2818> <https://w3id.org/asdkb/ontology/dataproperty/population> "36.74 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo2818> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "370322"@zh .
+

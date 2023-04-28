@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor35> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、多动症、焦虑症等心理问题的早期诊断和治疗、儿童体格发育偏离、新生儿疾病筛查的管理、遗传代谢性疾病的诊治。"@zh .
-<https://w3id.org/asdkb/instance/doctor35> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'浙江省儿童医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor35> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor35> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '遗传代谢病科'"@zh .
+<https://w3id.org/asdkb/instance/doctor35> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department298> .
 <https://w3id.org/asdkb/instance/doctor35> <http://www.w3.org/2000/01/rdf-schema#label> "杨茹莱"@zh .
+<https://w3id.org/asdkb/instance/doctor35> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、多动症、焦虑症等心理问题的早期诊断和治疗、儿童体格发育偏离、新生儿疾病筛查的管理、遗传代谢性疾病的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor35> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital18> .
+<https://w3id.org/asdkb/instance/doctor35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor35> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
 

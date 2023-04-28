@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City152> <https://w3id.org/asdkb/ontology/dataproperty/population> "4824016 人(截止于2020年)"@zh .
+<https://w3id.org/asdkb/instance/City152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City152> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province15> .
+<https://w3id.org/asdkb/instance/City152> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "410200"@zh .
+<https://w3id.org/asdkb/instance/City152> <http://www.w3.org/2000/01/rdf-schema#label> "开封市"@zh .
+

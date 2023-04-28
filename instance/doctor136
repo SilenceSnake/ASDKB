@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor136> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor136> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'昆明医科大学第一附属医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor136> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科'"@zh .
-<https://w3id.org/asdkb/instance/doctor136> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年心理障碍（儿童青少年心理问题，学习困难，厌学，亲子关系冲突，儿童多动症、抽动症，发育迟缓，孤独症等）、儿童青少年抑郁症、儿童青少年早发精神分裂症的诊断临床治疗及心理治疗"@zh .
+<https://w3id.org/asdkb/instance/doctor136> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department140> .
+<https://w3id.org/asdkb/instance/doctor136> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital100> .
 <https://w3id.org/asdkb/instance/doctor136> <http://www.w3.org/2000/01/rdf-schema#label> "卢瑾"@zh .
-<https://w3id.org/asdkb/instance/doctor136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor136> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor136> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年心理障碍（儿童青少年心理问题，学习困难，厌学，亲子关系冲突，儿童多动症、抽动症，发育迟缓，孤独症等）、儿童青少年抑郁症、儿童青少年早发精神分裂症的诊断临床治疗及心理治疗"@zh .
 

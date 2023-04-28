@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department204> <http://www.w3.org/2000/01/rdf-schema#label> "上海市松江区精神卫生中心心理咨询"@zh .
+<https://w3id.org/asdkb/instance/Department204> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital41> .
+<https://w3id.org/asdkb/instance/Department204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department204> <http://www.w3.org/2000/01/rdf-schema#comment> "nan"^^<http://www.w3.org/2001/XMLSchema#double> .
+

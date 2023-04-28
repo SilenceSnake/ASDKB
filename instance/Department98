@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department98> <http://www.w3.org/2000/01/rdf-schema#comment> "河北北方学院附属第一医院建于1939年，设立五官科，负责人赵振铭。当时设备简陋，只能处理一般门诊常见病。1952年，设立耳鼻咽喉科，负责人黄孕族，床位20张，日平均门诊量50人次。 1995年耳鼻咽喉科病房独立，扩建并更名为耳鼻咽喉－头颈外科。河北北方学院附属第一医院耳鼻喉科创建至今走过了50年的光辉历程，现有医务人员共26名。其中，35岁以下17名，全科平均年龄31岁。有主任医师、教授1名，副主任医师、副教授2名。主治医师5名，主管护师3名，医师1名。年门诊量3000 余人次，住院和门诊手术580余人次。年收治住院患者650人。并承担河北北方学院医学系、口腔系、法医系、影像系、护理系、成人教育的本科及专科的临床理论、临床实习、临床见习的教学任务。科室在国内较早地开展了各类鼓室成形术，已为数千余例患者恢复了听力。70年代开展了喉癌的手术治疗，现已为千余人次做了不同类型的喉癌手术，并在此基础上开展了各种类型的颈淋巴清扫术和全喉切除发音重建术。80年代在我省率先开展了梅尼埃病的手术治疗，200余例患者疗效显著。气管异物3000 余例，无一例手术死亡。口咽癌、下咽癌、甲状腺癌、颈段食管癌等头颈部肿瘤的开展，进一步丰富了耳鼻咽喉－头颈外科的内容。临床听力学及头颈肿瘤的研究为科室的主要研究方向。"@zh .
+<https://w3id.org/asdkb/instance/Department98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department98> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital61> .
+<https://w3id.org/asdkb/instance/Department98> <http://www.w3.org/2000/01/rdf-schema#label> "河北北方学院附属第一医院耳鼻喉-头颈外科"@zh .
+

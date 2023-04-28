@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo914> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City100> .
+<https://w3id.org/asdkb/instance/Geo914> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "340403"@zh .
+<https://w3id.org/asdkb/instance/Geo914> <https://w3id.org/asdkb/ontology/dataproperty/population> "59.7 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo914> <http://www.w3.org/2000/01/rdf-schema#label> "田家庵区"@zh .
+<https://w3id.org/asdkb/instance/Geo914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

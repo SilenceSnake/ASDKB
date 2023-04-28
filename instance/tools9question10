@@ -1,3 +1,9 @@
+<https://w3id.org/asdkb/instance/tools9question10> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools9question10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools9question10> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools9> .
+<https://w3id.org/asdkb/instance/tools9question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question10option1> .
+<https://w3id.org/asdkb/instance/tools9question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question10option2> .
+<https://w3id.org/asdkb/instance/tools9question10> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
 <https://w3id.org/asdkb/instance/tools9question10> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "喜欢拿着或玩不寻常的东西，如绳子、树枝；对一些东西过度着迷，如水"@zh .
+<https://w3id.org/asdkb/instance/tools9question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question10option0> .
 

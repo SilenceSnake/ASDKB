@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor291> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童康复科'"@zh .
-<https://w3id.org/asdkb/instance/doctor291> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor291> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department122> .
+<https://w3id.org/asdkb/instance/doctor291> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital38> .
 <https://w3id.org/asdkb/instance/doctor291> <http://www.w3.org/2000/01/rdf-schema#label> "黄艳"@zh .
+<https://w3id.org/asdkb/instance/doctor291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor291> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor291> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "高危儿的早期干预，儿童脑性瘫痪、精神发育迟缓、运动障碍、语言发育障碍、颅内感染等儿童神经系统疾病的诊断、康复治疗及康复评估。熟练掌握B超引导下肉毒毒素注射技术，具备欧洲GMs全身运动评估资质。"@zh .
-<https://w3id.org/asdkb/instance/doctor291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor291> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'济南市儿童医院'"@zh .
 

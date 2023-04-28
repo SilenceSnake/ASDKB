@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor266> <http://www.w3.org/2000/01/rdf-schema#label> "康传媛"@zh .
-<https://w3id.org/asdkb/instance/doctor266> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "~常见精神心理问题:抑郁障碍，焦虑障碍(广泛性焦虑障碍、惊恐发作、社交恐怖、强迫症等)，双相情感障碍，精神分裂症、睡眠障碍; ~心身问题(神经性厌食症和暴食症、慢性疼痛、功能性胃肠病、心脏神经官能症、紧张性头痛和头晕等); ~白领和职场心理减压、人际关系调试、心理治疗;"@zh .
 <https://w3id.org/asdkb/instance/doctor266> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor266> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海市东方医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor266> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '临床心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor266> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital144> .
+<https://w3id.org/asdkb/instance/doctor266> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "~常见精神心理问题:抑郁障碍，焦虑障碍(广泛性焦虑障碍、惊恐发作、社交恐怖、强迫症等)，双相情感障碍，精神分裂症、睡眠障碍; ~心身问题(神经性厌食症和暴食症、慢性疼痛、功能性胃肠病、心脏神经官能症、紧张性头痛和头晕等); ~白领和职场心理减压、人际关系调试、心理治疗;"@zh .
+<https://w3id.org/asdkb/instance/doctor266> <http://www.w3.org/2000/01/rdf-schema#label> "康传媛"@zh .
+<https://w3id.org/asdkb/instance/doctor266> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department198> .
 

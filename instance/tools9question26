@@ -1,3 +1,9 @@
+<https://w3id.org/asdkb/instance/tools9question26> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
 <https://w3id.org/asdkb/instance/tools9question26> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "一遍又一遍地重复相同的单词或短语"@zh .
+<https://w3id.org/asdkb/instance/tools9question26> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question26option0> .
+<https://w3id.org/asdkb/instance/tools9question26> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question26option2> .
+<https://w3id.org/asdkb/instance/tools9question26> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools9> .
+<https://w3id.org/asdkb/instance/tools9question26> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question26option1> .
+<https://w3id.org/asdkb/instance/tools9question26> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools9question26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

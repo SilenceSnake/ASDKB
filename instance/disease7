@@ -1,9 +1,10 @@
 <https://w3id.org/asdkb/instance/disease7> <https://w3id.org/asdkb/ontology/dataproperty/patient_groups> "儿童"@zh .
-<https://w3id.org/asdkb/instance/disease7> <http://www.w3.org/2000/01/rdf-schema#label> "Active infantile autism (disorder)"@en .
-<https://w3id.org/asdkb/instance/disease7> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.0"@zh .
-<https://w3id.org/asdkb/instance/disease7> <https://w3id.org/asdkb/ontology/dataproperty/SCTID> "191689008"@zh .
 <https://w3id.org/asdkb/instance/disease7> <http://www.w3.org/2000/01/rdf-schema#label> "活动性婴儿孤独症(障碍)"@zh .
-<https://w3id.org/asdkb/instance/disease7> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/instance/disease7> <http://www.w3.org/2000/01/rdf-schema#label> "Active infantile autism (disorder)"@en .
+<https://w3id.org/asdkb/instance/disease7> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/icddisease1> .
 <https://w3id.org/asdkb/instance/disease7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/191689008> .
+<https://w3id.org/asdkb/instance/disease7> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/instance/disease7> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.0"@zh .
 <https://w3id.org/asdkb/instance/disease7> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "活跃的孤独症"@zh .
+<https://w3id.org/asdkb/instance/disease7> <https://w3id.org/asdkb/ontology/dataproperty/SCTID> "191689008"@zh .
 

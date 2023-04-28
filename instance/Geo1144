@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Geo1144> <http://www.w3.org/2000/01/rdf-schema#label> "阿合奇县"@zh .
+<https://w3id.org/asdkb/instance/Geo1144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1144> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City331> .
+<https://w3id.org/asdkb/instance/Geo1144> <https://w3id.org/asdkb/ontology/dataproperty/population> "46002人(2019年末户籍人口)"@zh .
+

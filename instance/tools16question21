@@ -1,3 +1,11 @@
+<https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question21option5> .
 <https://w3id.org/asdkb/instance/tools16question21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question21option3> .
+<https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question21option2> .
+<https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question21option4> .
+<https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question21option1> .
+<https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools16> .
 <https://w3id.org/asdkb/instance/tools16question21> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "您的孩子仅玩一或两件物品的兴趣能保持多长时间？"@zh .
 

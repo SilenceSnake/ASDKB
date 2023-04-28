@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor387> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/instance/doctor387> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'青岛大学附属医院'"@zh .
 <https://w3id.org/asdkb/instance/doctor387> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童过敏性疾病的防治（食物过敏、湿疹、过敏性鼻炎、过敏性哮喘、过敏性咳嗽、过敏性皮炎、特应性皮炎、金属过敏、矿物质过敏、重金属过敏），儿童保健方向疾病、心理行为问题及儿童营养干预"@zh .
-<https://w3id.org/asdkb/instance/doctor387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor387> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department169> .
+<https://w3id.org/asdkb/instance/doctor387> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital146> .
 <https://w3id.org/asdkb/instance/doctor387> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor387> <http://www.w3.org/2000/01/rdf-schema#label> "王艳霞"@zh .
 

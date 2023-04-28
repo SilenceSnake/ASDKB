@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo893> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City80> .
+<https://w3id.org/asdkb/instance/Geo893> <https://w3id.org/asdkb/ontology/dataproperty/population> "82.97 万(第七次全国人口普查数据)"@zh .
+<https://w3id.org/asdkb/instance/Geo893> <http://www.w3.org/2000/01/rdf-schema#label> "涟水县"@zh .
+<https://w3id.org/asdkb/instance/Geo893> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "320826"@zh .
+<https://w3id.org/asdkb/instance/Geo893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

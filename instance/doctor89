@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor89> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'南方医科大学深圳医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor89> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
 <https://w3id.org/asdkb/instance/doctor89> <http://www.w3.org/2000/01/rdf-schema#label> "洪琦"@zh .
-<https://w3id.org/asdkb/instance/doctor89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor89> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor89> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital62> .
 <https://w3id.org/asdkb/instance/doctor89> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长早产儿康复训练、孤独症谱系障碍、智力发育障碍、脑损伤综合征、多动注意力障碍、学习困难、抽动症、语言发育障碍等各种儿童心理行为疾病的诊断、评估及治疗工作。"@zh .
+<https://w3id.org/asdkb/instance/doctor89> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department152> .
+<https://w3id.org/asdkb/instance/doctor89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

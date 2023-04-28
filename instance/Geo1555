@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1555> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City236> .
+<https://w3id.org/asdkb/instance/Geo1555> <http://www.w3.org/2000/01/rdf-schema#label> "米易县"@zh .
+<https://w3id.org/asdkb/instance/Geo1555> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "510421"@zh .
+<https://w3id.org/asdkb/instance/Geo1555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1555> <https://w3id.org/asdkb/ontology/dataproperty/population> "227011人(2020年11月1日零时常住人口)"@zh .
+

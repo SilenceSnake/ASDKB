@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City12> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "131100"@zh .
+<https://w3id.org/asdkb/instance/City12> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province2> .
+<https://w3id.org/asdkb/instance/City12> <https://w3id.org/asdkb/ontology/dataproperty/population> "416.65 万(截至2022年末)"@zh .
+<https://w3id.org/asdkb/instance/City12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City12> <http://www.w3.org/2000/01/rdf-schema#label> "衡水市"@zh .
+

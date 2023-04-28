@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2076> <http://www.w3.org/2000/01/rdf-schema#label> "通化县"@zh .
+<https://w3id.org/asdkb/instance/Geo2076> <https://w3id.org/asdkb/ontology/dataproperty/population> "24 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo2076> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City54> .
+<https://w3id.org/asdkb/instance/Geo2076> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "220521"@zh .
+<https://w3id.org/asdkb/instance/Geo2076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

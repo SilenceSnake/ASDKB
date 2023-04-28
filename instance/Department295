@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department295> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital145> .
+<https://w3id.org/asdkb/instance/Department295> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童心理科是浙江省最早成立专注儿童青少年心理行为问题专业科室，经过近年的努力，现已发展成为在省内外享有声誉的专业队伍。具有丰富的临床工作经验和与国际同步的先进的诊治理念，现有主任医师 2名，副主任医师1名，主管护师2名。"@zh .
+<https://w3id.org/asdkb/instance/Department295> <http://www.w3.org/2000/01/rdf-schema#label> "浙江大学医学院附属儿童医院儿童心理科"@zh .
+

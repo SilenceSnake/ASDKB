@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo929> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "632321"@zh .
+<https://w3id.org/asdkb/instance/Geo929> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City313> .
+<https://w3id.org/asdkb/instance/Geo929> <https://w3id.org/asdkb/ontology/dataproperty/population> "101519 人(截至2020年11月1日零时)"@zh .
+<https://w3id.org/asdkb/instance/Geo929> <http://www.w3.org/2000/01/rdf-schema#label> "同仁县"@zh .
+<https://w3id.org/asdkb/instance/Geo929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

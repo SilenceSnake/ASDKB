@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department188> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital190> .
+<https://w3id.org/asdkb/instance/Department188> <http://www.w3.org/2000/01/rdf-schema#comment> "发育与行为儿科是新兴的一门学科，是集儿童发育与行为、心理与教育学、医学与社会学于一体的边缘学科，属儿科学分支。山西省妇幼保健院、儿童医院发育与行为儿科正式成立于1995年，经10多年的艰苦努力，目前已经成为国内领先、山西省内唯一的对儿童心理、行为和发育性疾病进行综合防治的专业科室。自科室正式成立以来，发育与行为儿科共参与全国多种智力测验、个性测验和各种行为量表的全国常模的标准化工作，主持和参与中外合作科研项目、国家级和省级科研项目10余项，发表论文50余篇。科室现有国内、山西省内知名专家2名坐诊。在职人员6名，其中主任医师、副主任医师、主治医师和住院医师各1名，均为医学硕士。护士2名，有副主任护师、护师各1名，均为大学本科学历。"@zh .
+<https://w3id.org/asdkb/instance/Department188> <http://www.w3.org/2000/01/rdf-schema#label> "山西省儿童医院发育与行为儿科"@zh .
+

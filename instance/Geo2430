@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Geo2430> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City81> .
+<https://w3id.org/asdkb/instance/Geo2430> <http://www.w3.org/2000/01/rdf-schema#label> "建湖县"@zh .
+<https://w3id.org/asdkb/instance/Geo2430> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "320925"@zh .
+<https://w3id.org/asdkb/instance/Geo2430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

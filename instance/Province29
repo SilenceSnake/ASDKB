@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Province29> <http://www.w3.org/2000/01/rdf-schema#label> "宁夏回族自治区"@zh .
+<https://w3id.org/asdkb/instance/Province29> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "640000"@zh .
+<https://w3id.org/asdkb/instance/Province29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/province> .
+<https://w3id.org/asdkb/instance/Province29> <https://w3id.org/asdkb/ontology/dataproperty/population> "725.0 万(2021年常住人口)"@zh .
+

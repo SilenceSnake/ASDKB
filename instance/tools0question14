@@ -1,3 +1,13 @@
-<https://w3id.org/asdkb/instance/tools0question14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question14option5> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question14option4> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question14option6> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question14option0> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question14option1> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question14option2> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "难以识别别人的个人空间偏好(例如，爬到别人身上，站得太近，撞到别人，等等)"@zh .
+<https://w3id.org/asdkb/instance/tools0question14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question14option3> .
 

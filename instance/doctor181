@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor181> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北京协和医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor181> <http://www.w3.org/2000/01/rdf-schema#label> "尤欣"@zh .
-<https://w3id.org/asdkb/instance/doctor181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor181> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '风湿免疫科'"@zh .
-<https://w3id.org/asdkb/instance/doctor181> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor181> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "类风湿关节炎、脊柱关节病、系统性红斑狼疮、干燥综合征、系统性血管炎等各种风湿免疫。对IgG介导食物过敏，免疫紊乱和肠道微生态失衡引起的自闭症，抽动症等有一定治疗经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor181> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor181> <http://www.w3.org/2000/01/rdf-schema#label> "尤欣"@zh .
+<https://w3id.org/asdkb/instance/doctor181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor181> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department20> .
 

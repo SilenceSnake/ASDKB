@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department184> <http://www.w3.org/2000/01/rdf-schema#label> "山东省精神卫生中心儿童青少年心理科"@zh .
+<https://w3id.org/asdkb/instance/Department184> <http://www.w3.org/2000/01/rdf-schema#comment> "山东省精神卫生中心儿童青少年心理卫生工作开始于上世纪80年代，率先在全省建立了第一个儿童青少年专科心理门诊，1997年又成立了全省第一个儿童青少年专科病房。目前儿童青少年心理卫生研究室已发展成为集医疗、教学、科研为一体的儿童青少年心理卫生专业机构，在我省一直处于领先地位，在国内也享有较高声誉。有关专家同时兼任中国心理卫生协会儿童专业委员会委员、中华医学会儿童青少年精神科专业委员会委员、山东省心理学会常务理事、医学心理委员会主任等职，并先后赴美国CWRU和英国牛津等著名大学留学访问。目前研究室主要对儿童青少年期各种心理问题和精神疾病进行咨询和诊治。任何人可为自己或亲友的孩子咨询，听取医生建议，调适儿童的情绪和行为，以便做到科学育儿，有病则早诊断、早治疗。如亲子关系问题；行为问题；厌学；学习困难；迷恋电视、网络、游戏；儿童养育中的问题等。常见疾病有注意缺陷多动障碍；儿童抽动障碍；饮食与睡眠障碍；儿童情绪障碍；儿童精神分裂症；孤独症；精神发育迟滞等。"@zh .
+<https://w3id.org/asdkb/instance/Department184> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital98> .
+

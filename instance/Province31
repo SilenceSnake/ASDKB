@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Province31> <http://www.w3.org/2000/01/rdf-schema#label> "台湾省"@zh .
+<https://w3id.org/asdkb/instance/Province31> <https://w3id.org/asdkb/ontology/dataproperty/population> "2330.1968 万(截至2023年1月，台湾地区)"@zh .
+<https://w3id.org/asdkb/instance/Province31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/province> .
+<https://w3id.org/asdkb/instance/Province31> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "710000"@zh .
+

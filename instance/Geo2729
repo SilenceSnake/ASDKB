@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2729> <http://www.w3.org/2000/01/rdf-schema#label> "荥阳市"@zh .
+<https://w3id.org/asdkb/instance/Geo2729> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City151> .
+<https://w3id.org/asdkb/instance/Geo2729> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "410182000000"@zh .
+<https://w3id.org/asdkb/instance/Geo2729> <https://w3id.org/asdkb/ontology/dataproperty/population> "73.25 万(截至2021年末)"@zh .
+<https://w3id.org/asdkb/instance/Geo2729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

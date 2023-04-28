@@ -1,3 +1,9 @@
 <https://w3id.org/asdkb/instance/tools19question62> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "63. 以不寻常的方式碰触别人（例如：他可能只是为了联系而碰触某人，然后没说什么就走开）"@zh .
+<https://w3id.org/asdkb/instance/tools19question62> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools19question62> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question62option2> .
+<https://w3id.org/asdkb/instance/tools19question62> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question62option1> .
 <https://w3id.org/asdkb/instance/tools19question62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question62> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools19question62> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question62option0> .
+<https://w3id.org/asdkb/instance/tools19question62> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools19> .
 

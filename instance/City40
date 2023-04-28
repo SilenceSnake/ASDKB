@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City40> <http://www.w3.org/2000/01/rdf-schema#label> "±¾ÏªÊÐ"@zh .
+<https://w3id.org/asdkb/instance/City40> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province5> .
+<https://w3id.org/asdkb/instance/City40> <https://w3id.org/asdkb/ontology/dataproperty/population> "132.6 Íò"@zh .
+<https://w3id.org/asdkb/instance/City40> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "210500"@zh .
+<https://w3id.org/asdkb/instance/City40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+

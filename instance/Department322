@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department322> <http://www.w3.org/2000/01/rdf-schema#label> "中山市博爱医院心理科"@zh .
+<https://w3id.org/asdkb/instance/Department322> <http://www.w3.org/2000/01/rdf-schema#comment> "中山市博爱医院心理健康服务始于2003年，初期以妇幼（儿童、青少年及女性）为特色，2006年被评为“广东省儿童心理卫生保健服务示范单位”；2010年建成符合三甲标准的“妇幼心理专科”，同年被中国疾病预防控制中心妇幼保健中心授予“亨氏杯”妇幼保健专科建设贡献奖；2012年承担“中山市未成年人心理辅导站”职责；2013年获卫生部首批全国妇幼机构心理专科试点单位；2014年完善了中山市孤独症谱系障碍的二级筛查信息转诊网络平台，实现了全市推广应用，2020年加入“华南地区自闭症诊治专科联盟”。"@zh .
+<https://w3id.org/asdkb/instance/Department322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department322> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital6> .
+

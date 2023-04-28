@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department266> <http://www.w3.org/2000/01/rdf-schema#label> "西安市精神卫生中心临床心理科"@zh .
+<https://w3id.org/asdkb/instance/Department266> <http://www.w3.org/2000/01/rdf-schema#comment> "西安市精神卫生中心临床心理科于1993年开设，又于1994年成立了森田治疗研究室与认知心理治疗研究室，1998年成立了临床心理科病房。经过近10年的发展，其中认知研究室是国内最早从我国文化哲理,思维方式和认知特征来研究健康与疾病和社会适应关系的二大中心之一, 1999年出版专著《认知医学》。心理测定室引进国内最先进的心理测定与评估软件系统，该软件包括各种心理测定量表近60个，不但可为心理诊断、治疗、评定提供更加客观的依据，而且也为个体人格、需求、能力等多方面心理素质进行评定，为求职、求学等个人发展作出指导。"@zh .
+<https://w3id.org/asdkb/instance/Department266> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital221> .
+<https://w3id.org/asdkb/instance/Department266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

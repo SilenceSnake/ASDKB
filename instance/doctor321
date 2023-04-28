@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor321> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor321> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理卫生科'"@zh .
-<https://w3id.org/asdkb/instance/doctor321> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神创伤、心理疾病、心身疑难杂症、性心理障碍的诊断与治疗"@zh .
+<https://w3id.org/asdkb/instance/doctor321> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital161> .
+<https://w3id.org/asdkb/instance/doctor321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor321> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department47> .
 <https://w3id.org/asdkb/instance/doctor321> <http://www.w3.org/2000/01/rdf-schema#label> "郑建民"@zh .
-<https://w3id.org/asdkb/instance/doctor321> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'福建医科大学附属第一医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor321> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神创伤、心理疾病、心身疑难杂症、性心理障碍的诊断与治疗"@zh .
+<https://w3id.org/asdkb/instance/doctor321> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
 

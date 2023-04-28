@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor468> <http://www.w3.org/2000/01/rdf-schema#label> "张莉"@zh .
-<https://w3id.org/asdkb/instance/doctor468> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/instance/doctor468> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'山东省千佛山医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor468> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "专业1、擅长儿童内分泌及遗传代谢性疾病的个性化诊治，如矮小症、性早熟、特纳综合征、甲状腺功能减低症、性发育不良、软骨发育不良等，熟练掌握生长发育的精准化评估方法，如国际国内最新的生长曲线的使用及骨龄的精准判定；2、擅长孤独症、多动症、抽动症、儿童发育迟缓、心理行为问题、学习困难、语言障碍、构音障碍、脑瘫等疾病的诊治，熟练掌握国际最前沿的孤独症诊治方法，如早期丹佛模式和TEACCH 课程、孤独症诊断观察量表（ADOS）、幼儿自闭症快速互动式筛查（RITA-T）等；3、擅长营养不良、喂养困难、单纯性肥胖、食物过敏、佝偻病、缺铁性贫血等营养性疾病的诊治，熟练掌握营养膳食处方及运动处方的制定，获得美国波士顿大学儿科营养研究生课程证书；4、擅长早产儿随访及高危儿管理，熟练掌握预测早产儿高危儿神经发育情况方法，如全身运动质量评估（GMs）、婴儿神经运动检查等，使其获得宝贵的早期康复的时间窗，大大减轻障碍程度。"@zh .
+<https://w3id.org/asdkb/instance/doctor468> <http://www.w3.org/2000/01/rdf-schema#label> "张莉"@zh .
+<https://w3id.org/asdkb/instance/doctor468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor468> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor468> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department186> .
 

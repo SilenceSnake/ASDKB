@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1819> <https://w3id.org/asdkb/ontology/dataproperty/population> "67.29 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo1819> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City72> .
+<https://w3id.org/asdkb/instance/Geo1819> <http://www.w3.org/2000/01/rdf-schema#label> "崇明县"@zh .
+<https://w3id.org/asdkb/instance/Geo1819> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "310151"@zh .
+<https://w3id.org/asdkb/instance/Geo1819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

@@ -1,3 +1,9 @@
-<https://w3id.org/asdkb/instance/tools9question12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools9question12> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools9question12> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools9> .
+<https://w3id.org/asdkb/instance/tools9question12> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question12option1> .
+<https://w3id.org/asdkb/instance/tools9question12> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question12option0> .
+<https://w3id.org/asdkb/instance/tools9question12> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools9question12option2> .
+<https://w3id.org/asdkb/instance/tools9question12> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools9question12> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "手、身体、头部或面部的重复运动，如拍手或摇摆"@zh .
+<https://w3id.org/asdkb/instance/tools9question12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

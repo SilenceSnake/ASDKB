@@ -1,3 +1,11 @@
-<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "您的孩子能说多少单词？"@zh .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question7option2> .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question7option4> .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question7option5> .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question7option3> .
 <https://w3id.org/asdkb/instance/tools16question7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question7option1> .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools16> .
+<https://w3id.org/asdkb/instance/tools16question7> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "您的孩子能说多少单词？"@zh .
 

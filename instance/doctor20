@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor20> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'湖北省妇幼保健院'"@zh .
-<https://w3id.org/asdkb/instance/doctor20> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "	儿科、新生儿科疾病的诊治和优生学专业的研究,儿童孤独症的认识及早期诊断"@zh .
-<https://w3id.org/asdkb/instance/doctor20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor20> <http://www.w3.org/2000/01/rdf-schema#label> "邓鸿云"@zh .
+<https://w3id.org/asdkb/instance/doctor20> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital169> .
+<https://w3id.org/asdkb/instance/doctor20> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "	儿科、新生儿科疾病的诊治和优生学专业的研究,儿童孤独症的认识及早期诊断"@zh .
+<https://w3id.org/asdkb/instance/doctor20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor20> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department111> .
 <https://w3id.org/asdkb/instance/doctor20> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor20> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '小儿内科'"@zh .
 

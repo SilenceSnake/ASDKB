@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor297> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'黄石市精神病医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor297> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "抑郁症、精神分裂症、焦虑症，痴呆、老年期精神障碍伴随躯体疾病的诊治和精神药理学的研究。"@zh .
-<https://w3id.org/asdkb/instance/doctor297> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor297> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科'"@zh .
 <https://w3id.org/asdkb/instance/doctor297> <http://www.w3.org/2000/01/rdf-schema#label> "夏青春"@zh .
+<https://w3id.org/asdkb/instance/doctor297> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital135> .
+<https://w3id.org/asdkb/instance/doctor297> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department117> .
+<https://w3id.org/asdkb/instance/doctor297> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
 

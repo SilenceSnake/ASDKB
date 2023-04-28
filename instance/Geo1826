@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Geo1826> <http://www.w3.org/2000/01/rdf-schema#label> "弋阳县"@zh .
+<https://w3id.org/asdkb/instance/Geo1826> <https://w3id.org/asdkb/ontology/dataproperty/population> "33.88 万(第七次人口普查数据)"@zh .
+<https://w3id.org/asdkb/instance/Geo1826> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City133> .
+<https://w3id.org/asdkb/instance/Geo1826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

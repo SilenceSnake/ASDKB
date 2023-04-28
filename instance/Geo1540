@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Geo1540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1540> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City122> .
+<https://w3id.org/asdkb/instance/Geo1540> <http://www.w3.org/2000/01/rdf-schema#label> "霞浦县"@zh .
+<https://w3id.org/asdkb/instance/Geo1540> <https://w3id.org/asdkb/ontology/dataproperty/population> "475936人（2020年11月1日零时常住人口）"@zh .
+

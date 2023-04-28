@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1939> <http://www.w3.org/2000/01/rdf-schema#label> "澜沧拉祜族自治县"@zh .
+<https://w3id.org/asdkb/instance/Geo1939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1939> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "530828"@zh .
+<https://w3id.org/asdkb/instance/Geo1939> <https://w3id.org/asdkb/ontology/dataproperty/population> "44.15 万(2020年末第七次人口普查常住人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo1939> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City270> .
+

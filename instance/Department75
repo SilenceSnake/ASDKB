@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department75> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital29> .
+<https://w3id.org/asdkb/instance/Department75> <http://www.w3.org/2000/01/rdf-schema#label> "广州市荔湾中心医院急诊科"@zh .
+<https://w3id.org/asdkb/instance/Department75> <http://www.w3.org/2000/01/rdf-schema#comment> "广州医学院荔湾医院急诊科是我院各类学科中发展迅速的临床学科，是荔湾区内最大规模的急诊科之一。科内功能分区合理，设有接、候诊大厅、专科诊病区、重症抢救室、急诊手术室、监护室、各系统病情观察区、临时输液区、休息办公区等，共有各种床位13张。急诊科拥有一支精干的近40人的医护队伍，其中高级职称1人，中级职称9人，研究生3人。科内设备齐全，拥有新型号、功能完善的多功能中心监测仪5台，除颤监护仪2台，美国伟伦呼吸机及纽邦呼吸机2台，简易呼吸机2台，还配备洗胃机、降温毯、临时起搏器等先进设备。"@zh .
+

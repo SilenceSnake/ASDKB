@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor253> <http://www.w3.org/2000/01/rdf-schema#label> "孙伯民"@zh .
-<https://w3id.org/asdkb/instance/doctor253> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor253> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "手术治疗帕金森、肌张力障碍、神经性厌食症、抽动症、精神分裂症、顽固性癫痫等。手术治疗难治性强迫症、焦虑症等精神疾病。"@zh .
-<https://w3id.org/asdkb/instance/doctor253> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海瑞金医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor253> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '功能神经外科'"@zh .
-<https://w3id.org/asdkb/instance/doctor253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor253> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor253> <http://www.w3.org/2000/01/rdf-schema#label> "孙伯民"@zh .
+<https://w3id.org/asdkb/instance/doctor253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor253> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department195> .
 

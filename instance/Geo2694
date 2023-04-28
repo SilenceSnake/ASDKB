@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2694> <https://w3id.org/asdkb/ontology/dataproperty/population> "14.9481 万(2021年总人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo2694> <http://www.w3.org/2000/01/rdf-schema#label> "沁源县"@zh .
+<https://w3id.org/asdkb/instance/Geo2694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2694> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "140431"@zh .
+<https://w3id.org/asdkb/instance/Geo2694> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City16> .
+

@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools14question9> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools14question9> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "你的孩子会注意看着你的眼睛超过一、两秒钟吗？ "@zh .
+<https://w3id.org/asdkb/instance/tools14question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools14question9option0> .
+<https://w3id.org/asdkb/instance/tools14question9> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools14question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools14question9option1> .
 <https://w3id.org/asdkb/instance/tools14question9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools14question9> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools14> .
 

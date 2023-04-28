@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2185> <http://www.w3.org/2000/01/rdf-schema#label> "崇安区"@zh .
+<https://w3id.org/asdkb/instance/Geo2185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2185> <https://w3id.org/asdkb/ontology/dataproperty/population> "常住人口18.53万人"@zh .
+<https://w3id.org/asdkb/instance/Geo2185> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "320202"@zh .
+<https://w3id.org/asdkb/instance/Geo2185> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City74> .
+

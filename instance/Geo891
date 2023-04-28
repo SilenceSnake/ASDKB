@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo891> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City80> .
+<https://w3id.org/asdkb/instance/Geo891> <https://w3id.org/asdkb/ontology/dataproperty/population> "88.2137 万(2021年户籍人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo891> <http://www.w3.org/2000/01/rdf-schema#label> "淮阴区"@zh .
+<https://w3id.org/asdkb/instance/Geo891> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "320804"@zh .
+

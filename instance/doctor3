@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor3> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童心理与康复科'"@zh .
-<https://w3id.org/asdkb/instance/doctor3> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'深圳市妇幼保健院'"@zh .
-<https://w3id.org/asdkb/instance/doctor3> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
 <https://w3id.org/asdkb/instance/doctor3> <http://www.w3.org/2000/01/rdf-schema#label> "韦臻"@zh .
-<https://w3id.org/asdkb/instance/doctor3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor3> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长各类儿童精神（心理）障碍，如孤独症、语言发育迟缓、智力发育迟缓、多动症、情绪障碍、抽动障碍、学习困难等发育行为问题的诊疗，特别在孤独症早期诊断及孤独症同胞随访干预具有丰富临床经验。 "@zh .
+<https://w3id.org/asdkb/instance/doctor3> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor3> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department213> .
+<https://w3id.org/asdkb/instance/doctor3> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital3> .
 

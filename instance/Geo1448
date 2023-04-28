@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1448> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "540629"@zh .
+<https://w3id.org/asdkb/instance/Geo1448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1448> <https://w3id.org/asdkb/ontology/dataproperty/population> "33006人(第七次全国人口普查数据)"@zh .
+<https://w3id.org/asdkb/instance/Geo1448> <http://www.w3.org/2000/01/rdf-schema#label> "尼玛县"@zh .
+<https://w3id.org/asdkb/instance/Geo1448> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City283> .
+

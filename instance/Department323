@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department323> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital125> .
+<https://w3id.org/asdkb/instance/Department323> <http://www.w3.org/2000/01/rdf-schema#comment> "埠湖医院精神科提供精神障碍的全病程干预（具有早期诊断、早期治疗的先进技术和手段）及心理治疗，精神康复期咨询等。病房拥有雄厚的医疗护理实力，服务品质上乘。提出“理解，关爱，宽容”是治疗和康复的核心内容。病区内设有活动室（有多种娱乐设施）、心理治疗室和团体心理治疗室等。科室具有强大的医资力量，医疗组由多级医生组成，自下而上为实习医生、住院医生、主治医生和主任/副主任医师。病房实行主治医生医疗负责制，具有丰富的精神疾病的诊断和治疗经验。临床一线工作均为资深主治医师和高年资住院医师，每周均安排有多名专家教授查房，保证医疗质量。"@zh .
+<https://w3id.org/asdkb/instance/Department323> <http://www.w3.org/2000/01/rdf-schema#label> "中山市第三人民医院精神科"@zh .
+

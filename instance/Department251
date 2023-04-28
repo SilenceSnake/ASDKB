@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department251> <http://www.w3.org/2000/01/rdf-schema#comment> "精神门诊和心理咨询在新院老院同时开设，新院在3号楼3楼A区，有包含门诊、集体心理治疗室、个体心理治疗室、心理测试室、沙盘治疗室、催眠治疗室等专业诊疗室共21间。老院门诊设在门诊大楼7层，科室目前年门诊量约3万人人次，年心理咨询量1600人次，年出入院350人次。诊疗范围涵盖了情感障碍、精神障碍、神经症、失眠症等常见精神疾病以及婚姻、职业、学习等常见的心理问题，并专门设立睡眠医学，开展睡眠障碍治疗，针对儿童青少年常见情绪障碍、品行障碍及各种心理问题，开设儿童精神心理等专病门诊。"@zh .
+<https://w3id.org/asdkb/instance/Department251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department251> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital172> .
+<https://w3id.org/asdkb/instance/Department251> <http://www.w3.org/2000/01/rdf-schema#label> "温州医科大学附属第一医院精神卫生科"@zh .
+

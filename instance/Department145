@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department145> <http://www.w3.org/2000/01/rdf-schema#label> "聊城市人民医院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department145> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital112> .
+<https://w3id.org/asdkb/instance/Department145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department145> <http://www.w3.org/2000/01/rdf-schema#comment> "聊城市人民医院儿童保健科是为儿童的身心健康成长保驾护航的科室，担负着聊城市及周边地区的儿童保健任务，其中包括儿童营养、心理、五官保健、智力测试开发及儿童学习困难的诊治，为0-16岁少年儿童提供高质量、全方位的保健服务。现拥有一支年富力强的学术团队，医疗人员共8人，其中博士、硕士3名。儿童保健科负责人钱静博士是中国医师协会儿童健康委员会委员，山东省预防医学会儿童保健专业委员会委员，山东省营养学会理事。科室设有正常儿童早期发展指导、营养评估及指导；高危儿出院后的系统化管理；矮小、肥胖诊疗、性早熟诊疗；儿童心理行为疾病及学习困难等专业门诊。"@zh .
+

@@ -24,9 +24,20 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/city -->
+    <!-- https://w3id.org/asdkb/isPartOf -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/city">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/isPartOf">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_question"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
+        <rdfs:label xml:lang="en">isPartOf</rdfs:label>
+        <rdfs:label xml:lang="zh">量表问题</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/city -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/city">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/city"/>
         <rdfs:label xml:lang="en">city</rdfs:label>
@@ -35,9 +46,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/correspondingSymptom -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/correspondingSymptom -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/correspondingSymptom">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/correspondingSymptom">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_question"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/symptom"/>
         <rdfs:label xml:lang="en">correspondingSymptom</rdfs:label>
@@ -46,9 +57,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/department -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/department -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/department">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/department">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/physician"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/hospital_department"/>
         <rdfs:label xml:lang="en">depertment</rdfs:label>
@@ -57,9 +68,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/diagnosedBy -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/diagnosedBy -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/diagnosedBy">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/diagnosedBy">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/physician"/>
         <rdfs:label xml:lang="en">diagnosedBy</rdfs:label>
@@ -68,9 +79,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/diagnosticStandard -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/diagnosticStandard -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/diagnosticStandard">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/diagnosticStandard">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/option"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/diagnostic_standard"/>
         <rdfs:label xml:lang="en">diagnosticStandard</rdfs:label>
@@ -79,9 +90,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/district -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/district -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/district">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/district">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/district"/>
         <rdfs:label xml:lang="en">district</rdfs:label>
@@ -90,9 +101,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/hasOption -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/hasOption -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/hasOption">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/hasOption">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_question"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/option"/>
@@ -102,9 +113,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/hasQuestion -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/hasQuestion -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/hasQuestion">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/hasQuestion">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/screening_question"/>
         <rdfs:label xml:lang="en">hasQuestion</rdfs:label>
@@ -113,9 +124,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/hasSymptom -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/hasSymptom -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/hasSymptom">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/hasSymptom">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/symptom"/>
         <rdfs:label xml:lang="en">hasSymptom</rdfs:label>
@@ -124,9 +135,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/hospital -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/hospital -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/hospital">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/hospital">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital_department"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
         <rdfs:label xml:lang="en">hospital</rdfs:label>
@@ -135,9 +146,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/intervenedBy -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/intervenedBy -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/intervenedBy">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/intervenedBy">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/EBP"/>
         <rdfs:label xml:lang="en">intervenedBy</rdfs:label>
@@ -146,9 +157,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/locateAt -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/locateAt -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/locateAt">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/locateAt">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/city"/>
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/district"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/city"/>
@@ -161,9 +172,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/province -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/province -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/province">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/province">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/province"/>
         <rdfs:label xml:lang="en">province</rdfs:label>
@@ -172,9 +183,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/screeningTool -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/screeningTool -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/screeningTool">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/screeningTool">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
         <rdfs:label xml:lang="en">screeningTool</rdfs:label>
@@ -183,9 +194,9 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/property/workAt -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/workAt -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/workAt">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/workAt">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/physician"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
         <rdfs:label xml:lang="en">workAt</rdfs:label>

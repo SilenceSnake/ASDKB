@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor197> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿保科'"@zh .
+<https://w3id.org/asdkb/instance/doctor197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor197> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department219> .
 <https://w3id.org/asdkb/instance/doctor197> <http://www.w3.org/2000/01/rdf-schema#label> "麻宏伟"@zh .
-<https://w3id.org/asdkb/instance/doctor197> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'盛京医院'"@zh .
 <https://w3id.org/asdkb/instance/doctor197> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童保健科的常见病如佝偻病、贫血、厌食、锌缺乏、血铅高等以外，主要主治各种遗传性疾病：如先天愚型、苯丙酮尿症、肌营养不良、肌萎缩、软骨发育不全、粘多糖病、糖原累积病、肝豆状核变性、遗传性侏儒、生长发育迟缓、不明原因的智力低下、各种染色体病、氨基酸、有机酸等遗传代谢病，注意缺陷及多动障碍（多动症），学习困难的治疗"@zh .
-<https://w3id.org/asdkb/instance/doctor197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor197> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital46> .
 <https://w3id.org/asdkb/instance/doctor197> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 

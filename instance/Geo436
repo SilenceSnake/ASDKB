@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo436> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "140223"@zh .
+<https://w3id.org/asdkb/instance/Geo436> <http://www.w3.org/2000/01/rdf-schema#label> "广灵县"@zh .
+<https://w3id.org/asdkb/instance/Geo436> <https://w3id.org/asdkb/ontology/dataproperty/population> "18.09 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo436> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City14> .
+<https://w3id.org/asdkb/instance/Geo436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

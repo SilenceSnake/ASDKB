@@ -1,5 +1,7 @@
-<https://w3id.org/asdkb/instance/symptom46> <http://www.w3.org/2000/01/rdf-schema#comment> "the lack of purposive hand movements"@en .
-<https://w3id.org/asdkb/instance/symptom46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
 <https://w3id.org/asdkb/instance/symptom46> <http://www.w3.org/2000/01/rdf-schema#comment> "缺乏有目的的手部动作"@zh .
+<https://w3id.org/asdkb/instance/symptom46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
+<https://w3id.org/asdkb/instance/symptom46> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/symptom46> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom011> .
 <https://w3id.org/asdkb/instance/symptom46> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom46"@zh .
+<https://w3id.org/asdkb/instance/symptom46> <http://www.w3.org/2000/01/rdf-schema#comment> "the lack of purposive hand movements"@en .
 

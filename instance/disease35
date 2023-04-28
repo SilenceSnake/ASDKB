@@ -1,9 +1,10 @@
-<https://w3id.org/asdkb/instance/disease35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303004> .
-<https://w3id.org/asdkb/instance/disease35> <http://www.w3.org/2000/01/rdf-schema#label> "Disorder of psychological development (disorder)"@en .
-<https://w3id.org/asdkb/instance/disease35> <http://www.w3.org/2000/01/rdf-schema#label> "普遍性发育障碍伴智力发育障碍和功能性语言普遍性障碍但未丧失原有的技能(障碍)"@zh .
-<https://w3id.org/asdkb/instance/disease35> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.8"@zh .
 <https://w3id.org/asdkb/instance/disease35> <https://w3id.org/asdkb/ontology/dataproperty/SCTID> "870303004"@zh .
-<https://w3id.org/asdkb/instance/disease35> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "普遍性发育障碍伴智力发育障碍和普遍性功能性语言障碍，但不丧失先前获得的技能（障碍）；普遍性发育障碍伴智力发育障碍和普遍性功能性语言障碍，但不丧失先前获得的技能；自闭症谱系障碍伴障碍 智力发展和功能性语言的缺失，而不丧失先前获得的技能"@zh .
 <https://w3id.org/asdkb/instance/disease35> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/instance/disease35> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.8"@zh .
+<https://w3id.org/asdkb/instance/disease35> <http://www.w3.org/2000/01/rdf-schema#label> "普遍性发育障碍伴智力发育障碍和功能性语言普遍性障碍但未丧失原有的技能(障碍)"@zh .
+<https://w3id.org/asdkb/instance/disease35> <http://www.w3.org/2000/01/rdf-schema#label> "Disorder of psychological development (disorder)"@en .
 <https://w3id.org/asdkb/instance/disease35> <https://w3id.org/asdkb/ontology/dataproperty/patient_groups> "儿童"@zh .
+<https://w3id.org/asdkb/instance/disease35> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "普遍性发育障碍伴智力发育障碍和普遍性功能性语言障碍，但不丧失先前获得的技能（障碍）；普遍性发育障碍伴智力发育障碍和普遍性功能性语言障碍，但不丧失先前获得的技能；自闭症谱系障碍伴障碍 智力发展和功能性语言的缺失，而不丧失先前获得的技能"@zh .
+<https://w3id.org/asdkb/instance/disease35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/870303004> .
+<https://w3id.org/asdkb/instance/disease35> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/icddisease7> .
 

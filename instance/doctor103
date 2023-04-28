@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor103> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童矮小症及性早熟、甲状腺功能减低症、苯丙酮尿症等内分泌疾病的诊治，儿童孤独症、注意缺陷多动障碍，学习困难、语言发育迟缓等儿童心理、行为发育问题的诊治以及0-3岁婴幼儿早期潜能开发指导。"@zh .
-<https://w3id.org/asdkb/instance/doctor103> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'连云港市妇幼保健院'"@zh .
-<https://w3id.org/asdkb/instance/doctor103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor103> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/instance/doctor103> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor103> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department143> .
+<https://w3id.org/asdkb/instance/doctor103> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital176> .
 <https://w3id.org/asdkb/instance/doctor103> <http://www.w3.org/2000/01/rdf-schema#label> "卢云"@zh .
+<https://w3id.org/asdkb/instance/doctor103> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor103> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童矮小症及性早熟、甲状腺功能减低症、苯丙酮尿症等内分泌疾病的诊治，儿童孤独症、注意缺陷多动障碍，学习困难、语言发育迟缓等儿童心理、行为发育问题的诊治以及0-3岁婴幼儿早期潜能开发指导。"@zh .
 

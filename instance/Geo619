@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo619> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "440104"@zh .
+<https://w3id.org/asdkb/instance/Geo619> <http://www.w3.org/2000/01/rdf-schema#label> "越秀区"@zh .
+<https://w3id.org/asdkb/instance/Geo619> <https://w3id.org/asdkb/ontology/dataproperty/population> "117.45 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo619> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City195> .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department234> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital70> .
+<https://w3id.org/asdkb/instance/Department234> <http://www.w3.org/2000/01/rdf-schema#comment> "唐山市妇幼保健院儿童保健科（儿保科）是唐山市集保健、临床、科研、教学、培训为一体的儿童保健中心。是既承担社会保健任务又有儿童保健特色门诊的科室。 儿保科现有医护人员 14 人，是一支强有力的儿童保健队伍， 社会保健任务主要是承担农村、社区散居儿童保健和集体托幼机构卫生保健培训指导工作。所开设的门诊即接收唐山市各县区妇幼保健机构的转诊，也面向社会开诊，深受全市及周边地区家长及儿童爱戴，门诊量逐年提高，现 门诊量已达到每年 40000 余人次。 科室拥有一流的儿童保健设备，主要有各年龄儿童智力测验工具，行为测验工具，儿童气质测量工具、多动症诊断工具 IVA-CPT 及量表 , 脑电生物反馈治疗系统，营养计算工具，骨龄评定工具，脑电仿生电刺激仪，数码经络导平仪等。 儿童保健门诊是目前河北省门诊设置齐全门诊量最大的儿童保健门诊。主要设儿童心理卫生门诊，儿童营养门诊，儿童生长发育门诊，集体儿童保健门诊，儿童早期发展门诊及儿童早期干预门诊等。另设有儿童智力测验室，脑电生物反馈治疗室，儿童早期发展亲子 活动室 及出生医学证明办理室等。 儿童心理卫生门诊：主要诊治儿童多动症，儿童抽动症及抽动秽语 - 综合征，儿童智力低下、学习困难，儿童孤独症（自闭症），儿童情绪障碍：（焦虑症、恐怖症、强迫症、抑郁症等），儿童遗尿症。"@zh .
+<https://w3id.org/asdkb/instance/Department234> <http://www.w3.org/2000/01/rdf-schema#label> "唐山市妇幼保健院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

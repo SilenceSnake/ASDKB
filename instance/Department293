@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department293> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital152> .
+<https://w3id.org/asdkb/instance/Department293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department293> <http://www.w3.org/2000/01/rdf-schema#comment> "浙江大学医学院附属第二医院儿科成立于2013年，立足于浙医二院综合医疗平台，是一个以研究小儿神经系统疾病为重点，兼顾新生儿疾病、儿童内分泌疾病及儿内科常见病、疑难病、基础医学及儿童保健为一体的医疗机构。有小儿神经、新生儿、小儿内分泌、小儿呼吸和小儿消化等亚专科团队。学科基本涵盖儿科所有病种，病人辐射全国各省市地区。儿科病房颇具现代儿科医院的特点，突出“以人为本”的新理念，为小患者营造了温馨、舒适、便利的就诊环境和就医条件。儿科病房为满足不同层次患者的需求，建有新生儿监护病房、普通双人病房、VIP单人病房，可收治各种儿科疾病的病人。科学科人才梯队建设合理，拥有一批医德高尚、医术精湛的高年资的儿科专家应诊，在长期的临床实践中形成了独特的医疗服务特色，可以满足不同层次患儿就诊的需要。年轻的硕博士的加入给学科带来了无比的活力和蓬勃向上的激情。科室秉承“精湛演绎技术、关爱体现服务”的理念，践行“科技创新、服务大众、培育新人、引领未来”的使命，注重内涵建设，全面质量管理，全心全意为全国各地儿童提供优质服务。"@zh .
+<https://w3id.org/asdkb/instance/Department293> <http://www.w3.org/2000/01/rdf-schema#label> "浙江大学医学院附属第二医院儿科"@zh .
+

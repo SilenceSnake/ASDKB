@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department110> <http://www.w3.org/2000/01/rdf-schema#comment> "湖北省妇幼保健院儿童保健科是集保健、科研、教学、临床为一体的全国一流的儿童保健中心之一。是卫生部指定的“注意力缺陷多动障碍”诊疗中心；中华预防医学会儿保分会指定的“智力测查中心”。湖北省特殊儿童康复协会训练基地，美国展望机构在中国的特殊儿童治疗训练基地。儿童保健科所开展各项业务在国内外有较大影响，深受同行的赞扬和家长的欢迎，同时拥有一支由100余名高素质的业务人员组成的队伍，包括有医生、护士、心理咨询师、康复治疗师及特教、早教老师等。其中主任医师，副主任医师，博士，硕士多名为主要业务骨干。多项科研成果达到国际先进水平，多次荣获卫生部、省级科研成果奖。就诊量居武汉地区之首，日均门诊量500余人次，年门诊量18万人次，科室专科分为儿童生长发育专科，儿童营养专科，儿童心理行为专科，儿童早期发展专科；门诊分为首诊，普通门诊，专家门诊，喂养困难门诊，儿童保健套餐会员门诊，预防接种；儿童早期发展训练分为亲子园、自闭症儿童康复训练、高危儿早期干预。"@zh .
+<https://w3id.org/asdkb/instance/Department110> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital169> .
+<https://w3id.org/asdkb/instance/Department110> <http://www.w3.org/2000/01/rdf-schema#label> "湖北省妇幼保健院儿童保健科"@zh .
+

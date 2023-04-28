@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2149> <http://www.w3.org/2000/01/rdf-schema#label> "砚山县"@zh .
+<https://w3id.org/asdkb/instance/Geo2149> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "532622"@zh .
+<https://w3id.org/asdkb/instance/Geo2149> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City274> .
+<https://w3id.org/asdkb/instance/Geo2149> <https://w3id.org/asdkb/ontology/dataproperty/population> "476587人(2020年11月1日零时常住人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo2149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

@@ -1,3 +1,13 @@
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question10option1> .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "喜欢一个人玩"@zh .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question10option5> .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question10option0> .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question10option4> .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question10option2> .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question10option6> .
 <https://w3id.org/asdkb/instance/tools0question10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question10option3> .
 

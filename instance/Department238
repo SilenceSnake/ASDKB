@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department238> <http://www.w3.org/2000/01/rdf-schema#comment> "心境障碍是精神疾病中一类较为严重的疾病，终生患病率高达10%-20%，包括抑郁症、躁狂症、恶劣心境等一类疾病。近年来，心境障碍的患病率逐年升高，尤其是抑郁症对家庭和社会造成沉重的经济负担，据世界卫生组织（WHO）预测到2020年抑郁症将成为继冠心病后的世界第二大疾病负担源。目前心境障碍大部分患者不能得到有效的治疗，患者反复发作，精神残疾率高，经济负担沉重。鉴于此，该科室将立足于心境障碍的相关研究和治疗，有一批在临床与科研等方面具有丰富经验和能力的主任医师、副主任医师及高年资主治医生担纲日常医疗任务，在张勇科主任的带领下，该科室逐渐形成以治疗情感障碍为特色，兼顾物理治疗、心理治疗为一体的临床及教研科室，该科室推广药物-心理-物理综合治疗模式以及快速治疗模式，缩短住院周期，提高疗效，加快康复，受到患者好评。"@zh .
+<https://w3id.org/asdkb/instance/Department238> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital130> .
+<https://w3id.org/asdkb/instance/Department238> <http://www.w3.org/2000/01/rdf-schema#label> "天津市安定医院双相障碍科"@zh .
+<https://w3id.org/asdkb/instance/Department238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

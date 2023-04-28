@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1196> <http://www.w3.org/2000/01/rdf-schema#label> "五通桥区"@zh .
+<https://w3id.org/asdkb/instance/Geo1196> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "511112"@zh .
+<https://w3id.org/asdkb/instance/Geo1196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1196> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City243> .
+<https://w3id.org/asdkb/instance/Geo1196> <https://w3id.org/asdkb/ontology/dataproperty/population> "32 万(2019年)"@zh .
+

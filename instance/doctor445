@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor445> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor445> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "熟练掌握小儿急救、小儿各种传染病、小儿呼吸系统、消化系统、神经系统、循环系统及新生儿等专业，尤其在小儿神经康复方面专长，对于小儿脑瘫、运动发育迟缓、高危儿的生长发育监测、癫痫、语言障碍、儿童学习困难、儿童多动症、儿童抽动症、儿童孤独症、儿童智力低下等见长。"@zh .
-<https://w3id.org/asdkb/instance/doctor445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor445> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '中医科'"@zh .
-<https://w3id.org/asdkb/instance/doctor445> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'中山市人民医院'"@zh .
 <https://w3id.org/asdkb/instance/doctor445> <http://www.w3.org/2000/01/rdf-schema#label> "李振华"@zh .
+<https://w3id.org/asdkb/instance/doctor445> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "熟练掌握小儿急救、小儿各种传染病、小儿呼吸系统、消化系统、神经系统、循环系统及新生儿等专业，尤其在小儿神经康复方面专长，对于小儿脑瘫、运动发育迟缓、高危儿的生长发育监测、癫痫、语言障碍、儿童学习困难、儿童多动症、儿童抽动症、儿童孤独症、儿童智力低下等见长。"@zh .
+<https://w3id.org/asdkb/instance/doctor445> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital192> .
+<https://w3id.org/asdkb/instance/doctor445> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department325> .
+<https://w3id.org/asdkb/instance/doctor445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor445> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
 

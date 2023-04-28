@@ -1,3 +1,9 @@
-<https://w3id.org/asdkb/instance/tools2question24> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "25. 被其他孩子欺负"@zh .
 <https://w3id.org/asdkb/instance/tools2question24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools2question24> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools2> .
+<https://w3id.org/asdkb/instance/tools2question24> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "25. 被其他孩子欺负"@zh .
+<https://w3id.org/asdkb/instance/tools2question24> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question24option0> .
+<https://w3id.org/asdkb/instance/tools2question24> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question24option1> .
+<https://w3id.org/asdkb/instance/tools2question24> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question24option2> .
+<https://w3id.org/asdkb/instance/tools2question24> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools2question24> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 

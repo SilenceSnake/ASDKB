@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City47> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province5> .
+<https://w3id.org/asdkb/instance/City47> <http://www.w3.org/2000/01/rdf-schema#label> "ÌúÁëÊĞ"@zh .
+<https://w3id.org/asdkb/instance/City47> <https://w3id.org/asdkb/ontology/dataproperty/population> "238.83 Íò(2020Äê)"@zh .
+<https://w3id.org/asdkb/instance/City47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City47> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "211200"@zh .
+

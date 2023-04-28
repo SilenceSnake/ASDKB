@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor448> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor448> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'好大夫工作室'"@zh .
+<https://w3id.org/asdkb/instance/doctor448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor448> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "围产高危儿保健、脑瘫早期的诊断及康复、儿童早期教育训练、儿童生长发育迟缓、儿童营养缺乏症、新生儿疾病及儿科常见病的诊治"@zh .
-<https://w3id.org/asdkb/instance/doctor448> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '小儿营养保健科'"@zh .
 <https://w3id.org/asdkb/instance/doctor448> <http://www.w3.org/2000/01/rdf-schema#label> "徐萍"@zh .
+<https://w3id.org/asdkb/instance/doctor448> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor448> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department96> .
 

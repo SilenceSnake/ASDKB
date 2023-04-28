@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools6question17> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools6question17> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools6question17> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools6question17option0> .
+<https://w3id.org/asdkb/instance/tools6question17> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools6> .
+<https://w3id.org/asdkb/instance/tools6question17> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools6question17option1> .
 <https://w3id.org/asdkb/instance/tools6question17> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "她/他理解礼貌行为的规则有困难吗?"@zh .
 <https://w3id.org/asdkb/instance/tools6question17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

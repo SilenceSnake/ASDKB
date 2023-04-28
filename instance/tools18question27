@@ -1,3 +1,8 @@
-<https://w3id.org/asdkb/instance/tools18question27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools18question27> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question27option0> .
 <https://w3id.org/asdkb/instance/tools18question27> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "29.在您的孩子4-5岁时(或过去一年中)，他/她是否会主动和您分享除了食物以外的东西(例如玩具、图书等)？"@zh .
+<https://w3id.org/asdkb/instance/tools18question27> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools18question27> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools18> .
+<https://w3id.org/asdkb/instance/tools18question27> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question27option1> .
+<https://w3id.org/asdkb/instance/tools18question27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools18question27> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
 

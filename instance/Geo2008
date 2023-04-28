@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2008> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "370921"@zh .
+<https://w3id.org/asdkb/instance/Geo2008> <http://www.w3.org/2000/01/rdf-schema#label> "宁阳县"@zh .
+<https://w3id.org/asdkb/instance/Geo2008> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City142> .
+<https://w3id.org/asdkb/instance/Geo2008> <https://w3id.org/asdkb/ontology/dataproperty/population> "82.47 万(2021年户籍人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

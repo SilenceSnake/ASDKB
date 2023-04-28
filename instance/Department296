@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department296> <http://www.w3.org/2000/01/rdf-schema#comment> "浙江大学医学院附属儿童医院遗传代谢科前身为成立于2003年的筛查科，2010年更名为遗传代谢科，本科也是浙江省卫生厅指定的新生儿疾病筛查中心，目前科室由30位专业技术人员组成，其中主任医师5人、副主任医师2人、副主任护师3人、主管护师3人、主管技师2人。具有博士学位2人，硕士学位6人。浙江大学医学院附属儿童医院遗传代谢科承担全省新生儿遗传代谢病筛查的质量控制、实验室检测、可疑病例复诊、患儿治疗随访，信息反馈工作，及新生儿听力筛查的管理、筛查信息汇总、数据分析上报任务，筛查覆盖率、筛查率及筛查量长期居全国首位，创立的新生儿筛查“浙江模式”对全国的新生儿筛查起了模板和引领作用。本科有4位专家任卫生部新生儿筛查专家组成员，参与修订卫生部《新生儿疾病筛查技术规范》、《新生儿疾病筛查管理办法》、《全国新生儿疾病筛查工作规划》。"@zh .
+<https://w3id.org/asdkb/instance/Department296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department296> <http://www.w3.org/2000/01/rdf-schema#label> "浙江大学医学院附属儿童医院遗传代谢科"@zh .
+<https://w3id.org/asdkb/instance/Department296> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital145> .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department317> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital35> .
+<https://w3id.org/asdkb/instance/Department317> <http://www.w3.org/2000/01/rdf-schema#label> "中山大学孙逸仙纪念医院儿科"@zh .
+<https://w3id.org/asdkb/instance/Department317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department317> <http://www.w3.org/2000/01/rdf-schema#comment> "儿科神经专科是在广州地区开设最早、在华南地区具有一定影响的专科之一。专科现已开展神经电生理检查、神经影像学检查、智力测定、注意力测定、心理测定、运动评估，可为儿童神经、心理、精神患者提供药物治疗、心理咨询，为特殊儿童提供运动康复、心理康复、语言康复。专科在小儿癫痫、脑瘫、多动症、多发性抽动、多发性硬化的诊断和治疗方面积累了丰富的临床经验；自1996年在国内率先开展大剂量丙球治疗多发性硬化的临床研究，现已取得肯定的经验和良好的效果；利用先进的MR技术对脑病进行病理分型，并结合流式细胞仪技术对脑病进行免疫分型，进而采取不同治疗方案，大大提高了脑炎、脑瘫等治疗疗效。依托该科血液专科雄厚的技术力量开展了骨髓移植治疗进行性肌营养不良的临床研究，为治疗这一不治之症展现了希望。"@zh .
+

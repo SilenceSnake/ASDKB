@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department171> <http://www.w3.org/2000/01/rdf-schema#label> "青岛市妇女儿童医院小儿心理卫生科"@zh .
+<https://w3id.org/asdkb/instance/Department171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department171> <http://www.w3.org/2000/01/rdf-schema#comment> "青岛市妇女儿童医院心理卫生科是山东省开设最早、规模最大、设置最全面的儿童心理行为专业科室，1990年设心理门诊，1998年4月建心理卫生科。 目前有专业技术人员23人，其中医生8人（正高1人，副高4人，中级1人，初级2人），心理治疗师6人，主管护师1人，康复训练师5人，幼儿教师3人。开设了心理门诊部、心理测量部、心理治疗部与康复训练部。 心理门诊部诊疗范围包括儿童多动症、孤独症、学习困难、精神发育迟滞（智力障碍）、抽动症、语言障碍、情绪障碍、进食障碍、排泄障碍、睡眠障碍、社会交往不良、适应不良及其他各种行为问题。尤其对于儿童期常见的多动症、孤独症与抽动症的治疗形成了一套完整的治疗体系，取得良好的治疗效果。科室积极引进新技术，发展新业务，使科室专业水平始终处于省内同行业前沿，吸引了大量省内外患儿前来就诊。自开诊以来门诊量逐年增多，现年门诊量2万多人次。 "@zh .
+<https://w3id.org/asdkb/instance/Department171> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital89> .
+

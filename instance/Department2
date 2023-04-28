@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department2> <http://www.w3.org/2000/01/rdf-schema#comment> "儿科是首批安徽省临床医学重点学科，首批国务院硕士学位授予点，安徽省教育厅精品课程，安徽医科大学重点教研室。科室共有固定床位177张，设有四个病区，包括：儿科一病区（分设消化、肾脏、风湿免疫、心血管学亚专业）、儿科二病区（分设呼吸、血液、遗传内分泌学亚专业）、新生儿病区和安徽省小儿神经康复中心。此外，还开设儿科知名教授门诊、疑难病门诊、普通门急诊、儿科输液厅、小儿神经电生理检查室、小儿胃镜室、小儿纤维支气管镜室和儿科实验室。学科现有医护人员143名，医生43名，护士100名，检验技术人员1名。具有博士学位7人，硕士学位29人，其中博士生导师1人，硕士生导师9人，正高职称9名，副高职称16名，中级职称28名。科室分成9个专业组，每个专业组均有2-6名专业化强的具有高级职称的医师，形成了一个能全面胜任儿童医疗、教学、科研工作的团队。年门诊量17万人次左右，年出院病人0.8万人次左右，取得了较好的社会效益及经济效益。"@zh .
+<https://w3id.org/asdkb/instance/Department2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department2> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital143> .
+<https://w3id.org/asdkb/instance/Department2> <http://www.w3.org/2000/01/rdf-schema#label> "安徽医科大学第一附属医院儿科"@zh .
+

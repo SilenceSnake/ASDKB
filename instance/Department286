@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department286> <http://www.w3.org/2000/01/rdf-schema#comment> "科室在总院和康复医院两个院区分别设立独立的专科门诊、门诊治疗区、住院病区及康复训练区。专科门诊及门诊治疗区可进行高危儿筛查及干预、康复评定、生长发育监测及营养指导、智力测定、GMs评估等。住院病区内设病房、评价室、智测室等。训练区设立各种康复治疗室17个。开展的康复技术有：肢体功能训练（PT）、作业治疗(OT)、言语治疗（ST）、感觉统合训练、教育、认知功能训练、水疗、高压氧、脑循环、生物反馈、药浴、针灸、推拿、绳带疗法、肌内效贴扎技术等十余项。同时开展康复评定、智力测定等。悬吊技术、音乐及心理治疗正在筹备之中。现有先进的儿童发展评估系统、生物反馈系统、GMs全身运动评估系统、全套PT、OT、ST评估系统、高压氧舱、水疗机、脑循环仪、心电监护仪等。现采用十余种康复治疗技术，对患有脑损伤综合征、发育迟缓、脑性瘫痪、精神发育延迟、语言发育延迟、构音障碍、失语症、孤独症、癫痫，多动症，多发性抽动症、脑外伤恢复期、染色体病、遗传代谢等疾病患儿进行综合康复治疗。 每年专科门诊就诊患儿近万人次、接受门诊治疗的患儿4000余人，来自区内外的住院患儿近1000人。治疗技术水平与国内接轨，是目前全区小儿康复住院床位最多、开展康复技术全面的儿童康复诊疗中心和人才培养基地。"@zh .
+<https://w3id.org/asdkb/instance/Department286> <http://www.w3.org/2000/01/rdf-schema#label> "银川市第一人民医院儿童康复科"@zh .
+<https://w3id.org/asdkb/instance/Department286> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital179> .
+<https://w3id.org/asdkb/instance/Department286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor303> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/instance/doctor303> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'重庆市妇幼保健院'"@zh .
-<https://w3id.org/asdkb/instance/doctor303> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor303> <http://www.w3.org/2000/01/rdf-schema#label> "李正"@zh .
-<https://w3id.org/asdkb/instance/doctor303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor303> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital131> .
 <https://w3id.org/asdkb/instance/doctor303> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "孤独症（自闭症），发育迟缓，语言发育落后，多动症，智力障碍。"@zh .
+<https://w3id.org/asdkb/instance/doctor303> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor303> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department330> .
+<https://w3id.org/asdkb/instance/doctor303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

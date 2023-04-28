@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1966> <http://www.w3.org/2000/01/rdf-schema#label> "泗阳县"@zh .
+<https://w3id.org/asdkb/instance/Geo1966> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City85> .
+<https://w3id.org/asdkb/instance/Geo1966> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "321323"@zh .
+<https://w3id.org/asdkb/instance/Geo1966> <https://w3id.org/asdkb/ontology/dataproperty/population> "829562人（2020年11日1日零时常住人口）"@zh .
+

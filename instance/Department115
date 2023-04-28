@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department115> <http://www.w3.org/2000/01/rdf-schema#comment> "湖南省儿童医院儿童神经科建立于1987年，为该院一级重点科室，是最早设立的二级专科。在儿童中枢神经系统感染、癫痫、脑性瘫痪、智能低下、颅内出血、颅内肿瘤、周围神经病、儿童行为异常、神经系统先天性遗传代谢病等疾病诊治方面积累了丰富的临床经验。曾成功救治了多例昏迷时间长达5—7天或中枢性呼衰持续时间长达5—7天以上的重症病毒性脑炎患儿，其成功救治经验已编入科技文献出版社《危重、疑难、罕见病例成功救治》及人民出版社《小儿脑水肿与颅高压》儿科专著中。随着医院的不断发展，经过前辈们几代人的努力耕耘，儿童医院神经内科也在不断壮大，因业务需要于2010年拓展为神经一科、二科两个专科病房。"@zh .
+<https://w3id.org/asdkb/instance/Department115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department115> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital154> .
+<https://w3id.org/asdkb/instance/Department115> <http://www.w3.org/2000/01/rdf-schema#label> "湖南省儿童医院神经内科"@zh .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department148> <http://www.w3.org/2000/01/rdf-schema#label> "柳州市妇幼保健院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department148> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital199> .
+<https://w3id.org/asdkb/instance/Department148> <http://www.w3.org/2000/01/rdf-schema#comment> "柳州市妇幼保健院儿童保健科是我市儿童预防保健早期教育和高危儿早期医学干预的专业机构。科室拥有一支熟知儿童身心发育规律及保健的专业技术队伍，引进国内外先进检查设备和诊疗技术，致力于正常儿童的预防保健、早期智能开发、高危儿脑损伤（脑瘫）的早期诊断、早期医学干预及康复治疗、儿童学习困难、多动症的诊断治疗、矮小身材、性早熟的诊断治疗。"@zh .
+

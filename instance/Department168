@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department168> <http://www.w3.org/2000/01/rdf-schema#comment> "秦皇岛妇幼保健院儿童预防保健科为医院的重点科室，目前拥有副高级以上职称的人员4人。重点负责全市30余所甲、乙类幼儿园的营养膳食的业务指导和监督管理，开展了儿童心理、行为测试、智力筛查、0～6个月婴幼儿早期潜能开发、早期教育等项目，开设了感觉统合训练、铅中毒防治、儿童营养等特色门诊。在儿童口腔保健方面配合口腔科开展了氟防龋、窝沟封闭等预防性治疗，在儿童眼保健方面配合眼科开展了小儿低视力筛查、弱视诊断治疗以及其他疾病的诊治，先后有五项科研获省、市级科技成果奖。"@zh .
+<https://w3id.org/asdkb/instance/Department168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department168> <http://www.w3.org/2000/01/rdf-schema#label> "秦皇岛市妇幼保健院儿童预防保健科"@zh .
+<https://w3id.org/asdkb/instance/Department168> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital87> .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo361> <https://w3id.org/asdkb/ontology/dataproperty/population> "43.6 万(2020年)"@zh .
+<https://w3id.org/asdkb/instance/Geo361> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "451402"@zh .
+<https://w3id.org/asdkb/instance/Geo361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo361> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City229> .
+<https://w3id.org/asdkb/instance/Geo361> <http://www.w3.org/2000/01/rdf-schema#label> "江洲区"@zh .
+

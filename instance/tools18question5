@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools18question5> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question5option0> .
 <https://w3id.org/asdkb/instance/tools18question5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools18question5> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools18question5> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools18question5> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools18> .
 <https://w3id.org/asdkb/instance/tools18question5> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "6.您的孩子是否会运用自己发明或拼凑的词语，用奇怪的、间接的方式把单字组合在一起，或用比喻的方式说话(例如，将“蒸汽”说成“热的雨”等)？"@zh .
+<https://w3id.org/asdkb/instance/tools18question5> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question5option1> .
 

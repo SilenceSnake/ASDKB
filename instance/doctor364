@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor364> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor364> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/instance/doctor364> <http://www.w3.org/2000/01/rdf-schema#label> "张洪宇"@zh .
-<https://w3id.org/asdkb/instance/doctor364> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'大医汇'"@zh .
 <https://w3id.org/asdkb/instance/doctor364> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童多动症、抽动症、学习困难、儿童情绪障碍、行为障碍、自闭症谱系障碍、不明原因头晕头痛、遗尿症和发热上感、支气管炎、慢性腹痛、胃肠功能紊乱等儿科常见病的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor364> <http://www.w3.org/2000/01/rdf-schema#label> "张洪宇"@zh .
+<https://w3id.org/asdkb/instance/doctor364> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department34> .
+<https://w3id.org/asdkb/instance/doctor364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor364> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
 

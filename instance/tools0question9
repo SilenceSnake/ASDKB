@@ -1,3 +1,13 @@
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question9option1> .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "不能轮流(例如，不能等待轮到去做一项活动或任务，等等)"@zh .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question9option4> .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question9option3> .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question9option2> .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question9option5> .
 <https://w3id.org/asdkb/instance/tools0question9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question9option6> .
+<https://w3id.org/asdkb/instance/tools0question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question9option0> .
 

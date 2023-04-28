@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department47> <http://www.w3.org/2000/01/rdf-schema#comment> "心理卫生科在临床、科研、教学上独树一帜，于1989年开设心理专科门诊，是省内最早的心身疑难杂症特色门诊，人均门诊量及病人致谢的锦匾居全国同行前列。科室已积累了近万个电子病历，每个患者都能享受到私人保健医生式的心身健康全程服务。科室多年承担福建医大本科生的教学及各级医院进修医生的带教，现有硕士生导师2名，是省内唯一的临床精神医学硕士点。"@zh .
+<https://w3id.org/asdkb/instance/Department47> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital161> .
+<https://w3id.org/asdkb/instance/Department47> <http://www.w3.org/2000/01/rdf-schema#label> "福建医科大学附属第一医院心理卫生科"@zh .
+

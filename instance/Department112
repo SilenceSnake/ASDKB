@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department112> <http://www.w3.org/2000/01/rdf-schema#comment> "nan"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/asdkb/instance/Department112> <http://www.w3.org/2000/01/rdf-schema#label> "湖南省第二人民医院睡眠障碍与儿少心理障碍科"@zh .
+<https://w3id.org/asdkb/instance/Department112> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital45> .
+<https://w3id.org/asdkb/instance/Department112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

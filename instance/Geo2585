@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2585> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City186> .
+<https://w3id.org/asdkb/instance/Geo2585> <http://www.w3.org/2000/01/rdf-schema#label> "云溪区"@zh .
+<https://w3id.org/asdkb/instance/Geo2585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2585> <https://w3id.org/asdkb/ontology/dataproperty/population> "144007人(截止至2020年11月01日)"@zh .
+<https://w3id.org/asdkb/instance/Geo2585> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "430603"@zh .
+

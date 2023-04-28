@@ -1,3 +1,8 @@
-<https://w3id.org/asdkb/instance/tools14question14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 <https://w3id.org/asdkb/instance/tools14question14> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "如果你指着房间另一头的玩具，你的孩子会看那个玩具吗？"@zh .
+<https://w3id.org/asdkb/instance/tools14question14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools14question14> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools14question14> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools14> .
+<https://w3id.org/asdkb/instance/tools14question14> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools14question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools14question14option0> .
+<https://w3id.org/asdkb/instance/tools14question14> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools14question14option1> .
 

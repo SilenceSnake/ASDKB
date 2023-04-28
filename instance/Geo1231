@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1231> <http://www.w3.org/2000/01/rdf-schema#label> "会东县"@zh .
+<https://w3id.org/asdkb/instance/Geo1231> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "513426"@zh .
+<https://w3id.org/asdkb/instance/Geo1231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1231> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City254> .
+<https://w3id.org/asdkb/instance/Geo1231> <https://w3id.org/asdkb/ontology/dataproperty/population> "346082人（2020年11月1日零时常住人口）"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1215> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City96> .
+<https://w3id.org/asdkb/instance/Geo1215> <http://www.w3.org/2000/01/rdf-schema#label> "云和县"@zh .
+<https://w3id.org/asdkb/instance/Geo1215> <https://w3id.org/asdkb/ontology/dataproperty/population> "129216人（2020年11月1日零时常住人口）"@zh .
+<https://w3id.org/asdkb/instance/Geo1215> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "331125"@zh .
+<https://w3id.org/asdkb/instance/Geo1215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

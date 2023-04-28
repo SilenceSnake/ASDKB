@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo533> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City132> .
+<https://w3id.org/asdkb/instance/Geo533> <https://w3id.org/asdkb/ontology/dataproperty/population> "271888人(2020年11月1日常住人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo533> <http://www.w3.org/2000/01/rdf-schema#label> "南丰县"@zh .
+<https://w3id.org/asdkb/instance/Geo533> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "361023"@zh .
+<https://w3id.org/asdkb/instance/Geo533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

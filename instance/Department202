@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department202> <http://www.w3.org/2000/01/rdf-schema#label> "上海市精神卫生中心儿童青少年精神科"@zh .
+<https://w3id.org/asdkb/instance/Department202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department202> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital106> .
+<https://w3id.org/asdkb/instance/Department202> <http://www.w3.org/2000/01/rdf-schema#comment> "上海市精神卫生中心儿童精神医学科于2001年进入上海市精神卫生中心重点学科建设。上海市精神卫生中心儿少精神科病房于2006年5月11日成立。目前儿少精神病房暂时开设20张床位，接受并服务于来自上海和全国其他地区的儿少精神患儿。上海市精神卫生中心儿童精神医学科医疗特色：学科建设的主攻方向是儿童和青少年精神疾病、心理卫生问题的医疗、教学、科研和训练。目前儿少病房内针对患者的不同情况，组织开展了适应儿童青少年心理特点包括青春期话题、社交技能训练、家庭治疗、集体心理治疗、个别心理治疗等多种治疗方法相结合的综合医疗模式。对儿童和青少年心理发展进行评估，主要包括智力、言语发育、行为发育、情绪发育、躯体发育等的评估。"@zh .
+

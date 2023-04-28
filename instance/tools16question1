@@ -1,3 +1,11 @@
-<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "您容易和孩子建立眼对视吗？"@zh .
 <https://w3id.org/asdkb/instance/tools16question1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question1option2> .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question1option1> .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "您容易和孩子建立眼对视吗？"@zh .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question1option4> .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question1option5> .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools16> .
+<https://w3id.org/asdkb/instance/tools16question1> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question1option3> .
 

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department121> <http://www.w3.org/2000/01/rdf-schema#label> "济南市儿童医院儿童保健所"@zh .
+<https://w3id.org/asdkb/instance/Department121> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital38> .
+<https://w3id.org/asdkb/instance/Department121> <http://www.w3.org/2000/01/rdf-schema#comment> "济南市儿童保健所始建于1953年，现有工作人员31人，医生12人，其中主任医师4人，副主任医师5人，是山东省医药卫生重点专业，济南市儿童保健工作的业务指导中心，承担全市儿童保健的业务管理、技术指导、儿童保健人员培训、考核评估等任务。专业内设有山东省孤独症/智力低下儿童康复中心和全国儿童早期发展示范基地，专业技术处于国内先进水平。近几年本专业有10余项科研成果获省、市科技进步奖，部分研究项目在全省推广，先后被省、市授予“卫生系统文明单位”、“巾帼建功示范岗”、“妇幼工作先进集体”等荣誉称号。"@zh .
+

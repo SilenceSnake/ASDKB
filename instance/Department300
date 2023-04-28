@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department300> <http://www.w3.org/2000/01/rdf-schema#label> "镇江市第一人民医院儿科"@zh .
+<https://w3id.org/asdkb/instance/Department300> <http://www.w3.org/2000/01/rdf-schema#comment> "近年来医院进一步加强专科建设与专科人才培养，目前已建立了新生儿、小儿神经、小儿哮喘、小儿心血管、小儿消化、小儿血液、小儿肾脏、小儿内分泌、小儿感染免疫和小儿急救等具有较高水平的专科，形成了老、中、青结合的医疗专业队伍。常年开设专科专病门诊，开展的儿童肥胖症、性早熟和代谢性疾病、新生儿神经行为早期干预、小儿癫痫治疗、儿童哮喘国际规范化诊治及长期管理、先天性心脏病的心血管造影及介入治疗术、小儿内窥镜的检查和治疗、白血病MIC分型、换血疗法、肾穿刺活组织病理检查、骨髓移植等新技术新项目，填补了市内空白。　"@zh .
+<https://w3id.org/asdkb/instance/Department300> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital197> .
+

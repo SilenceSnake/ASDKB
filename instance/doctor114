@@ -1,6 +1,5 @@
+<https://w3id.org/asdkb/instance/doctor114> <https://w3id.org/asdkb/ontology/dataproperty/title> "none"@zh .
 <https://w3id.org/asdkb/instance/doctor114> <http://www.w3.org/2000/01/rdf-schema#label> "焦云"@zh .
-<https://w3id.org/asdkb/instance/doctor114> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'海南省人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor114> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "熟悉儿童生长发育规律，能及早发现儿童生长发育过程中出现的异常情况并提出指导性意见。熟悉儿童发育行为疾病，包括儿童孤独症谱系障碍、注意力缺陷多动障碍及智力低下等。熟悉小儿脑瘫的诊治，能指导小儿脑瘫康复治疗。"@zh .
-<https://w3id.org/asdkb/instance/doctor114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor114> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
 

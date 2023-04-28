@@ -1,3 +1,13 @@
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question29option6> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question29option5> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question29option3> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question29option0> .
 <https://w3id.org/asdkb/instance/tools0question29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question29option1> .
 <https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "困惑时不问问题，而是忽略他人或转移话题(例如，不会说:“我不知道。””等。)"@zh .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question29option4> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools0question29> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question29option2> .
 

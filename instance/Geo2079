@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2079> <https://w3id.org/asdkb/ontology/dataproperty/population> "50.93 万(2020年)"@zh .
+<https://w3id.org/asdkb/instance/Geo2079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2079> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City54> .
+<https://w3id.org/asdkb/instance/Geo2079> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "220581"@zh .
+<https://w3id.org/asdkb/instance/Geo2079> <http://www.w3.org/2000/01/rdf-schema#label> "梅河口市"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo307> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "431022"@zh .
+<https://w3id.org/asdkb/instance/Geo307> <http://www.w3.org/2000/01/rdf-schema#label> "宜章县"@zh .
+<https://w3id.org/asdkb/instance/Geo307> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City190> .
+<https://w3id.org/asdkb/instance/Geo307> <https://w3id.org/asdkb/ontology/dataproperty/population> "56.797 万(2020年常住人口)"@zh .
+

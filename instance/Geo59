@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo59> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "340881"@zh .
+<https://w3id.org/asdkb/instance/Geo59> <http://www.w3.org/2000/01/rdf-schema#label> "桐城市"@zh .
+<https://w3id.org/asdkb/instance/Geo59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo59> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City104> .
+<https://w3id.org/asdkb/instance/Geo59> <https://w3id.org/asdkb/ontology/dataproperty/population> "74.5 万(2021年总人口)"@zh .
+

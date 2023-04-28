@@ -1,3 +1,10 @@
-<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "33. 当我讲电话时，我不太确定什么时候该我接话。"@zh .
+<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools3question32option0> .
+<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools3question32option2> .
+<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools3> .
+<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools3question32option3> .
 <https://w3id.org/asdkb/instance/tools3question32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools3question32option1> .
+<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "33. 当我讲电话时，我不太确定什么时候该我接话。"@zh .
+<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools3question32> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
 

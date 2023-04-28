@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2266> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "610423"@zh .
+<https://w3id.org/asdkb/instance/Geo2266> <https://w3id.org/asdkb/ontology/dataproperty/population> "32.17 万(2021年常住人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo2266> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City289> .
+<https://w3id.org/asdkb/instance/Geo2266> <http://www.w3.org/2000/01/rdf-schema#label> "泾阳县"@zh .
+

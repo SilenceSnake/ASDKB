@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2384> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "511803"@zh .
+<https://w3id.org/asdkb/instance/Geo2384> <https://w3id.org/asdkb/ontology/dataproperty/population> "27.56 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo2384> <http://www.w3.org/2000/01/rdf-schema#label> "名山县"@zh .
+<https://w3id.org/asdkb/instance/Geo2384> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City249> .
+<https://w3id.org/asdkb/instance/Geo2384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City315> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "632600"@zh .
+<https://w3id.org/asdkb/instance/City315> <http://www.w3.org/2000/01/rdf-schema#label> "果洛藏族自治州"@zh .
+<https://w3id.org/asdkb/instance/City315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City315> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province28> .
+<https://w3id.org/asdkb/instance/City315> <https://w3id.org/asdkb/ontology/dataproperty/population> "215573人（2020年11月1日零时常住人口）"@zh .
+

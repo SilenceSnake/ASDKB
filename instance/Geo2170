@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2170> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "650102"@zh .
+<https://w3id.org/asdkb/instance/Geo2170> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City323> .
+<https://w3id.org/asdkb/instance/Geo2170> <https://w3id.org/asdkb/ontology/dataproperty/population> "69.53 万(截至2020年)"@zh .
+<https://w3id.org/asdkb/instance/Geo2170> <http://www.w3.org/2000/01/rdf-schema#label> "天山区"@zh .
+<https://w3id.org/asdkb/instance/Geo2170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2033> <http://www.w3.org/2000/01/rdf-schema#label> "丰润区"@zh .
+<https://w3id.org/asdkb/instance/Geo2033> <https://w3id.org/asdkb/ontology/dataproperty/population> "80.16 万(2020年)"@zh .
+<https://w3id.org/asdkb/instance/Geo2033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2033> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City3> .
+<https://w3id.org/asdkb/instance/Geo2033> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "130208"@zh .
+

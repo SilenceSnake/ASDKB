@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department218> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital175> .
+<https://w3id.org/asdkb/instance/Department218> <http://www.w3.org/2000/01/rdf-schema#comment> "沈阳市儿童医院心理科包括心理门诊、心理测验、心理行为训练三部分。心理科成立于1996年10月，专门从事儿童心理发育问题的诊断和治疗。几年来，在医院领导的大力支持下，在科主任的积极努力下，不断的探索开发新项目，到现在发展成集诊断、治疗于一体的，国内依靠与国际接轨的，设备先进，技术精湛的儿童心理诊治中心。现心理科共有医务人员十名，副主任医师一名，主治医师两名，医师两名，主管护师两名，护士三名。心理科采用药物治疗、心理行为治疗、感觉训练、早期教育及早期干预等综合疗法，治疗儿童多动症、注意力不集中、学习困难、感觉统合失调、儿童孤独症、精神发育迟滞、抽动障碍、情绪障碍等取得满意疗效。心理测验由经过中国心理卫生协会心理评估专业委员会培训并取得资格证书的人员主持，采用国内标准化的心理测验技术，开展智力测验、个性测验、注意测验、记忆测验、社会适应行为评定及临床量表评定。心理行为训练中心包括感觉统合训练、孤独症行为教育训练、听听觉统合训练、心理行为治疗等仪器、设备及教具。尤其在儿童多动症、儿童感觉统合失调、儿童孤独症的治疗和训练上有自己的特色和丰富的经验。并在2002年成立了沈阳市孤独症儿童康复俱乐部，以及孤独症知识专业网站（www.achh.com），是目前国内最大的孤独症网站。"@zh .
+<https://w3id.org/asdkb/instance/Department218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department218> <http://www.w3.org/2000/01/rdf-schema#label> "沈阳市儿童医院心理科"@zh .
+

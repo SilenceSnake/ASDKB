@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department79> <http://www.w3.org/2000/01/rdf-schema#label> "广州中医药大学第一附属医院儿科"@zh .
+<https://w3id.org/asdkb/instance/Department79> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital50> .
+<https://w3id.org/asdkb/instance/Department79> <http://www.w3.org/2000/01/rdf-schema#comment> "广州中医药大学第一附属医院儿科是集医疗、教学、科研为一体的综合性学科。建科40余年以来，经过几代人的共同努力，儿科突出中医特色，走科技发展之路，坚持医疗质量和服务质量两手抓，使医、教、研工作稳步发展。1981年成为我国第一批中医学硕士学位授予点，2000年获得中医儿科学博士学位授予权，是中医儿科学博士、硕士研究生培养的重要基地，承担着广州中医药大学及广东省大部分中医儿科学、中西医结合儿科学教学任务，培养来自全国各地进修生，为广东和全国部分医院培养了中医儿科的专门医疗骨干和人才。2002年《中医儿科学》课程成为校级重点课程；2008年成为校级精品课程。承担国家“十一五”科技支撑课题、国家自然科学基金课题、国家中医药管理局课题等国家级、部省、厅局级等各级科研课题多项，获广州中医药大学科技进步一等奖1项、二等奖1项、三等奖2项。教学研究与科研有力地促进了儿科临床工作的发展，儿科临床医疗坚持中医特色、中西医结合，取得良好的疗效。2000年儿科成为广州中医药大学校级重点学科；2007年成为广东省二级重点学科及国家二级重点学科建设单位。"@zh .
+<https://w3id.org/asdkb/instance/Department79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

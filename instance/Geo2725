@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2725> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City151> .
+<https://w3id.org/asdkb/instance/Geo2725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2725> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "410106000000"@zh .
+<https://w3id.org/asdkb/instance/Geo2725> <http://www.w3.org/2000/01/rdf-schema#label> "上街区"@zh .
+<https://w3id.org/asdkb/instance/Geo2725> <https://w3id.org/asdkb/ontology/dataproperty/population> "20.09万（截至2021年末全区常住人口）"@zh .
+

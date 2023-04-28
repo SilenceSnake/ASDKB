@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/Geo1396> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City101> .
+<https://w3id.org/asdkb/instance/Geo1396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1396> <http://www.w3.org/2000/01/rdf-schema#label> "金家庄区"@zh .
+

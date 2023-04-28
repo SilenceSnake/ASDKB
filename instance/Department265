@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department265> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital165> .
+<https://w3id.org/asdkb/instance/Department265> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童保健科面向社会承担儿童体格检查、儿童营养性疾病、儿童心理行为疾病、儿童神经发育疾病等儿童保健服务。儿保科现有专业技术人员10人，其中主任医师2人，副主任医师2人，主治医师4人，专业护理人员2人。"@zh .
+<https://w3id.org/asdkb/instance/Department265> <http://www.w3.org/2000/01/rdf-schema#label> "西安市儿童医院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

@@ -11,13 +11,13 @@
         <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
     </owl:Ontology>
 
-<!-- https://w3id.org/asdkb/ontology/property/hasOption -->
+     <!-- https://w3id.org/asdkb/ontology/objectproperty/hasOption -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/hasOption">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/hasOption">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_question"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/option"/>
         <rdfs:label xml:lang="en">hasOption</rdfs:label>
-        <rdfs:label xml:lang="zh">具体选项</rdfs:label>
+        <rdfs:label xml:lang="zh">选项</rdfs:label>
     </owl:ObjectProperty>
 </rdf:RDF>

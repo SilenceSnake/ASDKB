@@ -1,3 +1,11 @@
-<https://w3id.org/asdkb/instance/tools16question4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question4option4> .
 <https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "您的孩子会用食指指着东西，表示他要那个东西吗？（如一个他/她拿不到的玩具）"@zh .
+<https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question4option2> .
+<https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question4option5> .
+<https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question4option3> .
+<https://w3id.org/asdkb/instance/tools16question4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question4option1> .
+<https://w3id.org/asdkb/instance/tools16question4> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools16> .
 

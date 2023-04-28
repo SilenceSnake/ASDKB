@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1034> <http://www.w3.org/2000/01/rdf-schema#label> "博爱县"@zh .
+<https://w3id.org/asdkb/instance/Geo1034> <https://w3id.org/asdkb/ontology/dataproperty/population> "40万（2020年末常住人口） 人"@zh .
+<https://w3id.org/asdkb/instance/Geo1034> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City158> .
+<https://w3id.org/asdkb/instance/Geo1034> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "410822"@zh .
+

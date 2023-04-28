@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor157> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "癫痫，抽动症，重症肌无力，神经系统感染，神经系统炎症等"@zh .
-<https://w3id.org/asdkb/instance/doctor157> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor157> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
 <https://w3id.org/asdkb/instance/doctor157> <http://www.w3.org/2000/01/rdf-schema#label> "彭炳蔚"@zh .
-<https://w3id.org/asdkb/instance/doctor157> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州市妇女儿童医疗中心'"@zh .
-<https://w3id.org/asdkb/instance/doctor157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor157> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department73> .
+<https://w3id.org/asdkb/instance/doctor157> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor157> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "癫痫，抽动症，重症肌无力，神经系统感染，神经系统炎症等"@zh .
+<https://w3id.org/asdkb/instance/doctor157> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital27> .
+<https://w3id.org/asdkb/instance/doctor157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

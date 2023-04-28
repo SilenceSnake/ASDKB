@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City155> <http://www.w3.org/2000/01/rdf-schema#label> "安阳市"@zh .
+<https://w3id.org/asdkb/instance/City155> <https://w3id.org/asdkb/ontology/dataproperty/population> "5477614 人(截至2020年)"@zh .
+<https://w3id.org/asdkb/instance/City155> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province15> .
+<https://w3id.org/asdkb/instance/City155> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "410500"@zh .
+<https://w3id.org/asdkb/instance/City155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+

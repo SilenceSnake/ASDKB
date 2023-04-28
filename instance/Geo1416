@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1416> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "441424"@zh .
+<https://w3id.org/asdkb/instance/Geo1416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1416> <http://www.w3.org/2000/01/rdf-schema#label> "五华县"@zh .
+<https://w3id.org/asdkb/instance/Geo1416> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City206> .
+<https://w3id.org/asdkb/instance/Geo1416> <https://w3id.org/asdkb/ontology/dataproperty/population> "152.42 万(2020年户籍人口)"@zh .
+

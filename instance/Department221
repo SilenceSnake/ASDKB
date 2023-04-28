@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department221> <http://www.w3.org/2000/01/rdf-schema#label> "盛京医院心理咨询科"@zh .
+<https://w3id.org/asdkb/instance/Department221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department221> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital46> .
+<https://w3id.org/asdkb/instance/Department221> <http://www.w3.org/2000/01/rdf-schema#comment> "针对综合医院心理科就诊较多的抑郁焦虑等情绪障碍、创伤后应激障碍、重大生活事件引起的情绪反应；儿童青少年考试焦虑、厌学、网络成瘾等情绪行为问题；亲子关系障碍，婚姻家庭问题；女性经前期紧张综合症、产后抑郁、绝经期心理障碍，老年心理问题，精神病性障碍。运用药物治疗，灵活结合精神分析、认知行为、森田疗法、人本主义疗法广泛开展个别心理治疗、夫妻治疗、家庭心理治疗和团体心理治疗。科室正在积极筹建心理康复病房、申请辽宁省心理咨询与治疗中心。"@zh .
+

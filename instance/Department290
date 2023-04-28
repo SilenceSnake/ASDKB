@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department290> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital134> .
+<https://w3id.org/asdkb/instance/Department290> <http://www.w3.org/2000/01/rdf-schema#comment> "长春市第六医院精神科三疗区为封闭式男病房，现有医护人员22人，副主任医师1人，主治医师4人，其中研究生1人，本科生5人，经精神科双基班培训4人，经系统心理培训2人，专科发展方向为“物质依赖所致精神和行为障碍”。科室主要负责重性精神疾病的诊断和治疗，尤其在使用酒精引起的精神和行为障碍、精神分裂症、双相情感障碍、器质性精神障碍等方面有着丰富的临床经验，在药物治疗同时结合物理治疗及开展特色的心理治疗，如认知行为治疗、系统式家庭治疗、叙事治疗的个体及团体治疗。科室承担着医院的宣传教育、科研、教学等工作。也为康复期的患者免费提供了“匿名戒酒会”开会现场，以使嗜酒患者保持清醒。"@zh .
+<https://w3id.org/asdkb/instance/Department290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department290> <http://www.w3.org/2000/01/rdf-schema#label> "长春市第六医院精神科三疗区"@zh .
+

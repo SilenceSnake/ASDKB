@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department86> <http://www.w3.org/2000/01/rdf-schema#label> "海南省人民医院儿科"@zh .
+<https://w3id.org/asdkb/instance/Department86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department86> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital76> .
+<https://w3id.org/asdkb/instance/Department86> <http://www.w3.org/2000/01/rdf-schema#comment> "海南省人民医院儿科前身是广东省海南行政区人民医院儿科，建制于1956年，是原海南行政区综合医院中建制最早、规模最大的儿科，1988年建省后改名为海南省人民医院儿科，它在海南省儿科医疗、教学和科研中处于领先地位。先后涌现出方荫槐教授、黄建中教授、陈桂芳教授、向伟教授等国务院特贴专家3人和省优专家1人，他们在儿童传染病、肾脏病、地中海贫血、儿童肥胖症和危重病等领域内工作成效卓著，为海南儿科事业发展做出了重要贡献。"@zh .
+

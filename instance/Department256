@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department256> <http://www.w3.org/2000/01/rdf-schema#comment> "武汉市妇女儿童医疗保健中心儿童心理咨询科成立于1991年，经过十余年的临床实践，在儿童心理行为问题的诊断、治疗，儿童心理测验及婴幼儿潜能开发等方面积累了丰富的经验。对儿童期各种心理行为问题：如儿童多动症、孤独症、儿童抽动障碍、学习困难、精神发音迟滞，儿童情绪障碍、儿童语言障碍、各种进食障碍、排泄障碍等，提供科学的诊断治疗及相关训练指导。"@zh .
+<https://w3id.org/asdkb/instance/Department256> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital156> .
+<https://w3id.org/asdkb/instance/Department256> <http://www.w3.org/2000/01/rdf-schema#label> "武汉儿童医院儿童心理咨询科"@zh .
+<https://w3id.org/asdkb/instance/Department256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

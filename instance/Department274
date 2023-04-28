@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department274> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital193> .
+<https://w3id.org/asdkb/instance/Department274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department274> <http://www.w3.org/2000/01/rdf-schema#comment> "新乡市中心医院精神卫生科系医院新成立的科室,门诊全部由副主任医师和主任医师坐诊,病房正在筹建之中。目前科室的诊治范围是：各种精神因素引起的头疼、失眠,内外科疾伴发的焦虑症和抑郁症,强迫症、恐怖症、疑病症、急、慢性应急障碍、儿童多动症,儿童情绪障碍以及经过多种辅助检查未能发现体征的“疾病”；对常见心理问题如婚姻冲突,家庭矛盾,考试前紧张和焦虑,人际关系紧张,工作压力,网络成瘾以及儿童学习困难和学习成绩不良等提供心理咨询服务。"@zh .
+<https://w3id.org/asdkb/instance/Department274> <http://www.w3.org/2000/01/rdf-schema#label> "新乡市中心医院精神卫生科"@zh .
+

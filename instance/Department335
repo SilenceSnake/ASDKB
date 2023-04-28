@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department335> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital94> .
+<https://w3id.org/asdkb/instance/Department335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department335> <http://www.w3.org/2000/01/rdf-schema#comment> "心理科成立于1992年，是西南地区最早成立的儿童心理专科门诊，目前咨询门诊量1000人次/月左右，是重庆市乃至西南地区儿童心理行为问题诊断治疗的主要场所。诊疗技术及诊疗量都居国内相同专业的领先水平。"@zh .
+<https://w3id.org/asdkb/instance/Department335> <http://www.w3.org/2000/01/rdf-schema#label> "重庆医科大学附属儿童医院心理科"@zh .
+

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor101> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "专长小儿神经系统疾病，开展神经精神行为评估和婴幼儿智力开发，开展小儿癫痫、小儿多动症、孤独症等诊断与治疗，对缺氧缺血性脑病、颅内出血、外周性脑积水、脑性瘫痪和精神运动发育迟缓症等疾病进行早期康复治疗与综合干预措施，降低神经系统后遗症发生机会。"@zh .
-<https://w3id.org/asdkb/instance/doctor101> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/instance/doctor101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor101> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor101> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department69> .
 <https://w3id.org/asdkb/instance/doctor101> <http://www.w3.org/2000/01/rdf-schema#label> "邓颖"@zh .
-<https://w3id.org/asdkb/instance/doctor101> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州市第一人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor101> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital67> .
+<https://w3id.org/asdkb/instance/doctor101> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "专长小儿神经系统疾病，开展神经精神行为评估和婴幼儿智力开发，开展小儿癫痫、小儿多动症、孤独症等诊断与治疗，对缺氧缺血性脑病、颅内出血、外周性脑积水、脑性瘫痪和精神运动发育迟缓症等疾病进行早期康复治疗与综合干预措施，降低神经系统后遗症发生机会。"@zh .
 

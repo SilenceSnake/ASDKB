@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor200> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '小儿内科'"@zh .
-<https://w3id.org/asdkb/instance/doctor200> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'中国人民解放军总医院第一医学中心'"@zh .
-<https://w3id.org/asdkb/instance/doctor200> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor200> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department311> .
 <https://w3id.org/asdkb/instance/doctor200> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "过敏性鼻炎、鼻窦炎、扁桃体炎、腺样体肥大、支气管炎、肺炎、慢性咳嗽、反复呼吸道感染、传染性单核细胞增多症、川崎病、新生儿黄疸、牛乳蛋白过敏、乳糖不耐受、呕吐、腹痛、腹泻、便秘、荨麻疹、湿疹等儿童常见疾病诊治和新生儿喂养保健"@zh .
-<https://w3id.org/asdkb/instance/doctor200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor200> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor200> <http://www.w3.org/2000/01/rdf-schema#label> "张顺"@zh .
+<https://w3id.org/asdkb/instance/doctor200> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital97> .
 

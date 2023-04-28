@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1645> <http://www.w3.org/2000/01/rdf-schema#label> "晴隆县"@zh .
+<https://w3id.org/asdkb/instance/Geo1645> <https://w3id.org/asdkb/ontology/dataproperty/population> "23.21 万(2021年常住人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo1645> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City260> .
+<https://w3id.org/asdkb/instance/Geo1645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1645> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "522324"@zh .
+

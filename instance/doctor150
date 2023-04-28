@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor150> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "抑郁症、焦虑症、强迫症、疑病症、社交恐惧症、癔症、双相情感障碍；慢性疼痛、躯体化障碍、失眠、发作性睡病、紧张性头痛、神经病理性疼痛、中枢致敏、血管迷走性晕厥、肌张力协调障碍、功能性胃肠病、心脏神经症；精神分裂症；注意缺陷与多动障碍、抽动障碍；心理咨询；心理治疗"@zh .
-<https://w3id.org/asdkb/instance/doctor150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor150> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor150> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'盛京医院'"@zh .
 <https://w3id.org/asdkb/instance/doctor150> <http://www.w3.org/2000/01/rdf-schema#label> "彭淼"@zh .
-<https://w3id.org/asdkb/instance/doctor150> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理咨询科'"@zh .
+<https://w3id.org/asdkb/instance/doctor150> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "抑郁症、焦虑症、强迫症、疑病症、社交恐惧症、癔症、双相情感障碍；慢性疼痛、躯体化障碍、失眠、发作性睡病、紧张性头痛、神经病理性疼痛、中枢致敏、血管迷走性晕厥、肌张力协调障碍、功能性胃肠病、心脏神经症；精神分裂症；注意缺陷与多动障碍、抽动障碍；心理咨询；心理治疗"@zh .
+<https://w3id.org/asdkb/instance/doctor150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor150> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor150> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department221> .
+<https://w3id.org/asdkb/instance/doctor150> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital46> .
 

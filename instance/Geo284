@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo284> <https://w3id.org/asdkb/ontology/dataproperty/population> "7.92万（2010年）"@zh .
+<https://w3id.org/asdkb/instance/Geo284> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "320405"@zh .
+<https://w3id.org/asdkb/instance/Geo284> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City76> .
+<https://w3id.org/asdkb/instance/Geo284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo284> <http://www.w3.org/2000/01/rdf-schema#label> "戚墅堰区"@zh .
+

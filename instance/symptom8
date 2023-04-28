@@ -1,6 +1,9 @@
+<https://w3id.org/asdkb/instance/symptom8> <http://www.w3.org/2000/01/rdf-schema#comment> "a lack of social usage of whatever language skills are present"@en .
+<https://w3id.org/asdkb/instance/symptom8> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom8"@zh .
+<https://w3id.org/asdkb/instance/symptom8> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom010> .
 <https://w3id.org/asdkb/instance/symptom8> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom7"@zh .
 <https://w3id.org/asdkb/instance/symptom8> <http://www.w3.org/2000/01/rdf-schema#comment> "缺乏社交语言技能"@zh .
-<https://w3id.org/asdkb/instance/symptom8> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom8"@zh .
-<https://w3id.org/asdkb/instance/symptom8> <http://www.w3.org/2000/01/rdf-schema#comment> "a lack of social usage of whatever language skills are present"@en .
+<https://w3id.org/asdkb/instance/symptom8> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/symptom8> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/symptom7> .
 <https://w3id.org/asdkb/instance/symptom8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
 

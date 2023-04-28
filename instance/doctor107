@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor107> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "重视中医育儿、药护结合，擅长治疗过敏性鼻炎、咽炎，腺样体扁桃体肥大，抽动症，多动症，癫痫，孤独症谱系障碍，腹痛，便秘，慢性咳喘，性早熟，生长发育障碍等，综合调节反复呼吸道感染，过敏体质，免疫力低下等。"@zh .
-<https://w3id.org/asdkb/instance/doctor107> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/instance/doctor107> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor107> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北京广安门医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor107> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital72> .
+<https://w3id.org/asdkb/instance/doctor107> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department12> .
 <https://w3id.org/asdkb/instance/doctor107> <http://www.w3.org/2000/01/rdf-schema#label> "段娟"@zh .
-<https://w3id.org/asdkb/instance/doctor107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor107> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "重视中医育儿、药护结合，擅长治疗过敏性鼻炎、咽炎，腺样体扁桃体肥大，抽动症，多动症，癫痫，孤独症谱系障碍，腹痛，便秘，慢性咳喘，性早熟，生长发育障碍等，综合调节反复呼吸道感染，过敏体质，免疫力低下等。"@zh .
+<https://w3id.org/asdkb/instance/doctor107> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
 

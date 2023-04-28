@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools6question31> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools6> .
+<https://w3id.org/asdkb/instance/tools6question31> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools6question31> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools6question31option1> .
+<https://w3id.org/asdkb/instance/tools6question31> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
 <https://w3id.org/asdkb/instance/tools6question31> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "她/他有时会因为没有解释她/他在说什么而失去听众吗?"@zh .
+<https://w3id.org/asdkb/instance/tools6question31> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools6question31option0> .
 <https://w3id.org/asdkb/instance/tools6question31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department72> <http://www.w3.org/2000/01/rdf-schema#label> "广州市妇女儿童医疗中心临床心理科"@zh .
+<https://w3id.org/asdkb/instance/Department72> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital27> .
+<https://w3id.org/asdkb/instance/Department72> <http://www.w3.org/2000/01/rdf-schema#comment> "广州市妇女儿童医疗中心儿童青少年临床心理科为华南地区技术力量最强的儿童青少年心理专科，是广州医学院临床心理专业的研究生培养基地，本科生实习基地；科室拥有1名主任医师,3名副主任医师；1名博士生，3名研究生。下设门诊有：儿童院区、珠江新城院区。自科室成立以来，逐步开展了儿童青少年的韦氏智力测试，儿童青少年心理健康状况，情绪，性格，行为等评估，儿童青少年心理行为问题的认知治疗，行为矫治；绘画治疗及纽扣游戏治疗；并针对儿童青少年的焦虑，恐惧，失眠，疼痛等及抽动症，多动症等进行催眠治疗。开展常见病多动症，抽动症的家长学习班，对儿童青少年常见心理问题，行为问题的小组团体治疗。科室医生对多动症，抽动症，焦虑、抑郁，学校恐惧症，社交恐惧症，及退缩行为，偷窃行为，等有丰富的临床经验。"@zh .
+<https://w3id.org/asdkb/instance/Department72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor305> <http://www.w3.org/2000/01/rdf-schema#label> "李知"@zh .
-<https://w3id.org/asdkb/instance/doctor305> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "成人心理咨询与治疗；青少年心理、情绪、行为问题疏导及发展指导；儿童孤独症、抽动症、多动症等各种精神障碍的诊断与治疗。"@zh .
-<https://w3id.org/asdkb/instance/doctor305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor305> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor305> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'长春市第六医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor305> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor305> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital134> .
+<https://w3id.org/asdkb/instance/doctor305> <http://www.w3.org/2000/01/rdf-schema#label> "李知"@zh .
+<https://w3id.org/asdkb/instance/doctor305> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department291> .
+<https://w3id.org/asdkb/instance/doctor305> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "成人心理咨询与治疗；青少年心理、情绪、行为问题疏导及发展指导；儿童孤独症、抽动症、多动症等各种精神障碍的诊断与治疗。"@zh .
 

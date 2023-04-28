@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department247> <http://www.w3.org/2000/01/rdf-schema#comment> "温州医科大学附属育英儿童医院儿童保健科成立于1991年，主要工作是根据小儿生长发育的特点，开展儿童保健和医疗工作，以保证和促进儿童身心的健康发展。现科室拥有副主任医师3名、主治医师4名和住院医生3名，2名护士，开设的专科门诊有：儿童套餐体检、营养测算及咨询门诊、保健门诊、生长发育门诊、儿童心理行为门诊，使儿童保健科的工作从普通的健康体检扩展到了心理行为障碍如：儿童多动综合症、抽动症、学习困难、口吃、习惯性擦外阴、孤独症、情绪问题、精神发育迟滞等和儿童生长发育异常（包括营养不良、肥胖、矮小症、性早熟、性延迟和视听障碍）等的诊治。二十年来还增添了多部检测和治疗的仪器，并开展了多项新技术，包括：各种心理测试如智能测试和各项气质性格测试、行为分析、语言发育的评估和语言障碍的训练等以及与生长发育有关的骨龄分析、儿童身高的预测、生长激素激发试验和LHRH激发试验等，从而能为广大就诊者提供更好、更全面的服务。"@zh .
+<https://w3id.org/asdkb/instance/Department247> <http://www.w3.org/2000/01/rdf-schema#label> "温州医科大学附属第二医院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department247> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital44> .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo181> <http://www.w3.org/2000/01/rdf-schema#label> "凤县"@zh .
+<https://w3id.org/asdkb/instance/Geo181> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "610330"@zh .
+<https://w3id.org/asdkb/instance/Geo181> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City288> .
+<https://w3id.org/asdkb/instance/Geo181> <https://w3id.org/asdkb/ontology/dataproperty/population> "79165人（截至2020年11月1日零时常住人口）"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2636> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City8> .
+<https://w3id.org/asdkb/instance/Geo2636> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "130723"@zh .
+<https://w3id.org/asdkb/instance/Geo2636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2636> <https://w3id.org/asdkb/ontology/dataproperty/population> "26.96 万(2021年)"@zh .
+<https://w3id.org/asdkb/instance/Geo2636> <http://www.w3.org/2000/01/rdf-schema#label> "康保县"@zh .
+

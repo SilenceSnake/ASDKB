@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Geo2534> <http://www.w3.org/2000/01/rdf-schema#label> "站前区"@zh .
+<https://w3id.org/asdkb/instance/Geo2534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2534> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City43> .
+<https://w3id.org/asdkb/instance/Geo2534> <https://w3id.org/asdkb/ontology/dataproperty/population> "261439人(2020年11月1日零时常住人口)"@zh .
+

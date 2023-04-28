@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City326> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "650500"@zh .
+<https://w3id.org/asdkb/instance/City326> <http://www.w3.org/2000/01/rdf-schema#label> "哈密地区"@zh .
+<https://w3id.org/asdkb/instance/City326> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province30> .
+<https://w3id.org/asdkb/instance/City326> <https://w3id.org/asdkb/ontology/dataproperty/population> "673383人(截至2020年11月1日零时)"@zh .
+

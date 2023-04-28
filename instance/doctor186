@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor186> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/instance/doctor186> <http://www.w3.org/2000/01/rdf-schema#label> "罗向阳"@zh .
-<https://w3id.org/asdkb/instance/doctor186> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'中山大学孙逸仙纪念医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor186> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital35> .
 <https://w3id.org/asdkb/instance/doctor186> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor186> <http://www.w3.org/2000/01/rdf-schema#label> "罗向阳"@zh .
+<https://w3id.org/asdkb/instance/doctor186> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department317> .
 <https://w3id.org/asdkb/instance/doctor186> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿科呼吸道疾病，儿童营养性疾病，儿童心理及神经性疾病的诊断和治疗。对儿科疑难杂症有自己独到的见解"@zh .
 

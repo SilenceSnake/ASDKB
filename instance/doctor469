@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor469> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor469> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "主要是儿童神经系统的康复等，擅长儿童脑性瘫痪及脑瘫高危儿的评估、诊断、治疗，以及肉毒毒素的注射。"@zh .
-<https://w3id.org/asdkb/instance/doctor469> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'郴州市儿童医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor469> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童康复科'"@zh .
 <https://w3id.org/asdkb/instance/doctor469> <http://www.w3.org/2000/01/rdf-schema#label> "杜继萍"@zh .
-<https://w3id.org/asdkb/instance/doctor469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor469> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor469> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital232> .
+<https://w3id.org/asdkb/instance/doctor469> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department27> .
+<https://w3id.org/asdkb/instance/doctor469> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "主要是儿童神经系统的康复等，擅长儿童脑性瘫痪及脑瘫高危儿的评估、诊断、治疗，以及肉毒毒素的注射。"@zh .
+<https://w3id.org/asdkb/instance/doctor469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

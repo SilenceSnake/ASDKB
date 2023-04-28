@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department169> <http://www.w3.org/2000/01/rdf-schema#label> "青岛大学附属医院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department169> <http://www.w3.org/2000/01/rdf-schema#comment> "青医附院小儿内科于1985年6月成立儿童保健专业学组，经过不懈努力，特别是近十年的发展，在学科建设、医疗、教学和科研等方面都有了较大的进步，在此基础上，于1997年成立了儿童保健科。该科现有医师6人，其中主任医师2人，副主任医师1人，主治医师2人，其中2人具有硕士学位，是目前山东省同类学科中学术水平、职称及学历层次最高，集医疗、教学、科研和防为一体的省市重点学科，设有发育与行为儿科研究室。"@zh .
+<https://w3id.org/asdkb/instance/Department169> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital146> .
+

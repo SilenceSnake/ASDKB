@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department177> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital4> .
+<https://w3id.org/asdkb/instance/Department177> <http://www.w3.org/2000/01/rdf-schema#label> "厦门市妇幼保健院儿童发育行为科"@zh .
+<https://w3id.org/asdkb/instance/Department177> <http://www.w3.org/2000/01/rdf-schema#comment> "nan"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/asdkb/instance/Department177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

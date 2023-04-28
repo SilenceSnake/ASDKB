@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department141> <http://www.w3.org/2000/01/rdf-schema#label> "廊坊市妇幼保健中心儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department141> <http://www.w3.org/2000/01/rdf-schema#comment> "廊坊妇幼保健医院儿保科肩负着全市妇幼保健机构业务指导及开展相应的儿童保健服务项目。开展项目包括：儿童保健系统管理，微量元素、血铅、贫血检测，眼科检查及治疗，弱视治疗，听力测定，智能筛查，龋齿防治，保教人员查体和儿童保健咨询，出生医学证明发放等。"@zh .
+<https://w3id.org/asdkb/instance/Department141> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital23> .
+<https://w3id.org/asdkb/instance/Department141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

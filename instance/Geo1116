@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1116> <http://www.w3.org/2000/01/rdf-schema#label> "喀什市"@zh .
+<https://w3id.org/asdkb/instance/Geo1116> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "653101"@zh .
+<https://w3id.org/asdkb/instance/Geo1116> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City332> .
+<https://w3id.org/asdkb/instance/Geo1116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1116> <https://w3id.org/asdkb/ontology/dataproperty/population> "71.13 万(2019年)"@zh .
+

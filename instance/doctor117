@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor117> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '中医科'"@zh .
-<https://w3id.org/asdkb/instance/doctor117> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor117> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北京国医堂中医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor117> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "治疗：过敏性鼻炎、哮喘、荨麻疹、湿疹、牛皮癣、神经性皮炎、痤疮、黄褐斑;痛经、月经不调、不孕不育、盆腔炎、盆腔积液、子宫内膜异位症、卵巢囊肿、多囊卵巢综合征、更年期综合征，失眠、头痛、支气管炎、肺炎、肺气肿、肺心病，冠心病、心绞痛，心率失常，高血压、胃炎、胃溃疡、反流性食管炎、肠炎、小儿呼吸道感染、心肌炎、孤独症等有很好的疗效。"@zh .
+<https://w3id.org/asdkb/instance/doctor117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor117> <http://www.w3.org/2000/01/rdf-schema#label> "李丽娜"@zh .
-<https://w3id.org/asdkb/instance/doctor117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor117> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital81> .
+<https://w3id.org/asdkb/instance/doctor117> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor117> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department13> .
+<https://w3id.org/asdkb/instance/doctor117> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "治疗：过敏性鼻炎、哮喘、荨麻疹、湿疹、牛皮癣、神经性皮炎、痤疮、黄褐斑;痛经、月经不调、不孕不育、盆腔炎、盆腔积液、子宫内膜异位症、卵巢囊肿、多囊卵巢综合征、更年期综合征，失眠、头痛、支气管炎、肺炎、肺气肿、肺心病，冠心病、心绞痛，心率失常，高血压、胃炎、胃溃疡、反流性食管炎、肠炎、小儿呼吸道感染、心肌炎、孤独症等有很好的疗效。"@zh .
 

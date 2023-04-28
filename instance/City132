@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City132> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province13> .
+<https://w3id.org/asdkb/instance/City132> <https://w3id.org/asdkb/ontology/dataproperty/population> "357.94 万(截至2021年末常住人口)"@zh .
+<https://w3id.org/asdkb/instance/City132> <http://www.w3.org/2000/01/rdf-schema#label> "抚州市"@zh .
+<https://w3id.org/asdkb/instance/City132> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "361000"@zh .
+<https://w3id.org/asdkb/instance/City132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+

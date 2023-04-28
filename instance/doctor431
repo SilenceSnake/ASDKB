@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor431> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor431> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
-<https://w3id.org/asdkb/instance/doctor431> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "神经系统遗传病、癫痫诊断及药物治疗、癫痫术前评估、小脑萎缩、多系统萎缩、脑炎、运动神经元病、脑血管病、帕金森病、焦虑症、抑郁症、失眠、抽动症、痴呆等。"@zh .
-<https://w3id.org/asdkb/instance/doctor431> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'首医大三博脑科医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor431> <http://www.w3.org/2000/01/rdf-schema#label> "王梦阳"@zh .
+<https://w3id.org/asdkb/instance/doctor431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor431> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor431> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department226> .
+<https://w3id.org/asdkb/instance/doctor431> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "神经系统遗传病、癫痫诊断及药物治疗、癫痫术前评估、小脑萎缩、多系统萎缩、脑炎、运动神经元病、脑血管病、帕金森病、焦虑症、抑郁症、失眠、抽动症、痴呆等。"@zh .
 

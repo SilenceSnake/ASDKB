@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City260> <https://w3id.org/asdkb/ontology/dataproperty/population> "3015112 人"@zh .
+<https://w3id.org/asdkb/instance/City260> <http://www.w3.org/2000/01/rdf-schema#label> "黔西南布依族苗族自治州"@zh .
+<https://w3id.org/asdkb/instance/City260> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "522300"@zh .
+<https://w3id.org/asdkb/instance/City260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City260> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province23> .
+

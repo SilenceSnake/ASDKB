@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department140> <http://www.w3.org/2000/01/rdf-schema#label> "昆明医科大学第一附属医院精神科"@zh .
+<https://w3id.org/asdkb/instance/Department140> <http://www.w3.org/2000/01/rdf-schema#comment> "1954年成立神经精神病学教研室，开设了精神疾病病房。1985年，昆明医学院再次在第一附属医院成立了精神科暨精神病学教研室，首任主任为李荫教授。通过近30年的发展，昆明医科大学第一附属医院精神科已发展成为开放床位80张，门诊年诊疗患者50000余人次，住院患者1800人次，平均住院日14天左右的综合医院临床精神病学学科。在科室主任许秀峰主任的带领下，精神科在2011年、2012年、2013年、2014年连续四年在复旦大学医院管理研究所最佳专科排行榜中获得提名，2014年度西南区医院专科声誉排行榜排名第二。目前是云南省精神卫生研究所、云南省精神病学临床重点专科、国家食品药品监督管理局药物临床试验机构（精神药品专业）、昆明医科大学“十二五”校级重点学科、云南省院士（专家）工作站-钟毅专家工作站、三个国家精神心理疾病临床医学研究中心合作单位、昆明医科大学精神病学与精神卫生专业博士学位授予点、国家住院医师规范化培训基地精神病学专科培训基地、云南省精神病学继续医学教育基地。"@zh .
+<https://w3id.org/asdkb/instance/Department140> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital100> .
+<https://w3id.org/asdkb/instance/Department140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

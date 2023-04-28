@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor339> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor339> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广州医科大学附属脑科医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor339> <http://www.w3.org/2000/01/rdf-schema#label> "钟华清"@zh .
-<https://w3id.org/asdkb/instance/doctor339> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科'"@zh .
 <https://w3id.org/asdkb/instance/doctor339> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "睡眠障碍、焦虑症、情感障碍、分裂症等精神科常见病的诊断和治疗，可以接受各种心理障碍的咨询，尤其擅长儿童及青少年这一特殊群体的心理障碍的诊断及治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor339> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor339> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital8> .
+<https://w3id.org/asdkb/instance/doctor339> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department78> .
+<https://w3id.org/asdkb/instance/doctor339> <http://www.w3.org/2000/01/rdf-schema#label> "钟华清"@zh .
 

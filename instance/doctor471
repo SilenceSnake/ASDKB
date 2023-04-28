@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor471> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '医学心理科'"@zh .
-<https://w3id.org/asdkb/instance/doctor471> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'枣庄市立二院'"@zh .
-<https://w3id.org/asdkb/instance/doctor471> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor471> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童行为矫治及儿童期精神障碍的心理咨询、心理治"@zh .
+<https://w3id.org/asdkb/instance/doctor471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor471> <http://www.w3.org/2000/01/rdf-schema#label> "王莉"@zh .
-<https://w3id.org/asdkb/instance/doctor471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor471> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department288> .
+<https://w3id.org/asdkb/instance/doctor471> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
 

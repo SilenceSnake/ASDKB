@@ -1,3 +1,10 @@
-<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "27. 当有人跟我说话时，我能很轻易地察觉言外之意。"@zh .
 <https://w3id.org/asdkb/instance/tools3question26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools3question26option0> .
+<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools3question26option2> .
+<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools3> .
+<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools3question26option1> .
+<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "27. 当有人跟我说话时，我能很轻易地察觉言外之意。"@zh .
+<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools3question26> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools3question26option3> .
 

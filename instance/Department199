@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department199> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital110> .
+<https://w3id.org/asdkb/instance/Department199> <http://www.w3.org/2000/01/rdf-schema#label> "上海市儿童医院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department199> <http://www.w3.org/2000/01/rdf-schema#comment> "上海市儿童医院儿童保健科暨发育行为儿科，是上海市公共卫生重点学科建设成员之一，同时是上海交通大学附属儿童医院的优势学科，集医疗、保健、科研、教学为一体的专业科室，长期开展儿童体格及神经精神发育、营养评估与干预、心理健康评估与保健等技术服务，引进国内外先进的保健教育理念及各种专业技术手段，由资深儿童保健专家坐镇，为父母和儿童提供全面的、一流的、系列的健康促进服务，促进儿童全面发展。已开展的诊疗项目包括：高危新生儿早期综合评估及早期促进、儿童生长发育评估、喂养及膳食指导、营养状况（肥胖、消瘦、生长迟缓）评估及行为管理，注意缺陷多动障碍（多动症、注意力分散、学习困难）、孤独谱系障碍（自闭症）、语言发育迟缓（语言理解、阅读及表达）、言语障碍（字词句等表达障碍、口吃、构音不清等）、动作发育迟缓（大动作、精细动作）、社交障碍（沟通障碍）、感觉统合失调、情绪及行为问题、精神发育迟滞（脑功能发育不全、智力落后）等的诊疗，提供发育评估、智商评估、心理评估（气质、行为、情绪），以及不同需求的体检服务（面向个人或集体，多种套餐备选，含入园入托体检）。"@zh .
+

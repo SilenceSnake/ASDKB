@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department71> <http://www.w3.org/2000/01/rdf-schema#label> "广州市妇女儿童医疗中心儿童医院院区康复科"@zh .
+<https://w3id.org/asdkb/instance/Department71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department71> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital20> .
+<https://w3id.org/asdkb/instance/Department71> <http://www.w3.org/2000/01/rdf-schema#comment> "广州市妇女儿童医疗中心康复科是医院临床重点专科、广州市临床特色技术项目单位，是广东省及华南地区最大的集临床医疗、教学和科研于一体的儿童康复专业机构，全面开展高危儿早期康复、神经康复、精神心理康复、骨科康复、急重症康复、中医康复等，擅长脑瘫、斜颈、语言迟缓、步态异常、发育迟缓/障碍、运动协调障碍、认知障碍、脊柱侧凸、臂丛神经损伤、高危新生儿、婴儿头颅畸形、肌营养不良、脊髓性肌萎缩症、吞咽障碍、脑炎恢复期、脊髓炎恢复期、脊膜膨出修补术后、脊髓损伤后、颅脑外伤、骨与关节畸形术后等疾病的康复。建有脑瘫儿童病例库、血液标本库、网络化信息平台、随访系统。2014年建立中国内地首家“座椅银行”，2019年发起成立由80家单位组成的“小儿脑瘫专病管理联盟”。"@zh .
+

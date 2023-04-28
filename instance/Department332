@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department332> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital94> .
+<https://w3id.org/asdkb/instance/Department332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department332> <http://www.w3.org/2000/01/rdf-schema#label> "重庆医科大学附属儿童医院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department332> <http://www.w3.org/2000/01/rdf-schema#comment> "重庆医科大学附属儿童医院儿童保健科成立于1978年，是国内较早发展的儿童保健科之一，并于2012年成立儿童青少年生长发育和心理健康行为中心。是中华医学会儿科分会常委秘书长及发育行为学组副组长、中华预防医学会儿科分会儿童保健分会副主任委员单位；也是重庆市医学会儿科学会、儿保学会主任委员、重庆市营养学会副理事长及妇幼营养主任委员单位全国五年制规划教材《儿童保健学》、《儿科学》教材主编及副主编单位；重庆市医学重点学科；全国儿科学重点学科。先后获得国家自然科学基金面上项目13项及重点项目1项，国际营养合作研究基金资助项目4项。在国内外学术期刊发表学术论著200余篇（包括SCI收录论文30余篇）。；获得教育部科技进步二等奖，宋庆龄儿科医学奖，重庆市科技进步三等奖二项，重庆市卫生局科技成果二等奖，省级教学成果二等奖。本中心开展了入托入学体检、儿童健康检查；体格生长评价、儿童行为、气质、情绪及智力等评估指导；儿童喂养指导、营养评估、进食困难评估及诊治、食物过敏检测及处理；以及与生长发育相关的遗传代谢性疾病诊疗及咨询；同时开展多种干预训练项目。对生长障碍、营养不良、食物过敏、佝偻病相关症状及体征、注意力缺陷多动障碍、语言障碍、孤独症谱系障碍、智力低下、行为发育问题的早期诊断及干预等具有较高的诊疗水平。"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2074> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City54> .
+<https://w3id.org/asdkb/instance/Geo2074> <http://www.w3.org/2000/01/rdf-schema#label> "东昌区"@zh .
+<https://w3id.org/asdkb/instance/Geo2074> <https://w3id.org/asdkb/ontology/dataproperty/population> "32万人(截至2021年9月24日总人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo2074> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "220502"@zh .
+<https://w3id.org/asdkb/instance/Geo2074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

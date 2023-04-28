@@ -1,3 +1,8 @@
-<https://w3id.org/asdkb/instance/tools18question22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 <https://w3id.org/asdkb/instance/tools18question22> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "24.在您的孩子4-5岁时(或过去一年中)，他/她是否会点头表示“是”?"@zh .
+<https://w3id.org/asdkb/instance/tools18question22> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools18> .
+<https://w3id.org/asdkb/instance/tools18question22> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question22option1> .
+<https://w3id.org/asdkb/instance/tools18question22> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question22option0> .
+<https://w3id.org/asdkb/instance/tools18question22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools18question22> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools18question22> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
 

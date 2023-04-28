@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1568> <http://www.w3.org/2000/01/rdf-schema#label> "郏县"@zh .
+<https://w3id.org/asdkb/instance/Geo1568> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City154> .
+<https://w3id.org/asdkb/instance/Geo1568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1568> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "410425"@zh .
+<https://w3id.org/asdkb/instance/Geo1568> <https://w3id.org/asdkb/ontology/dataproperty/population> "506377人(截至2020年11月1日零时)"@zh .
+

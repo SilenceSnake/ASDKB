@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department311> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital97> .
+<https://w3id.org/asdkb/instance/Department311> <http://www.w3.org/2000/01/rdf-schema#comment> "儿内科是北京301医院儿童医学中心的一部分，与301儿外科、304儿科共同担负着总医院的医疗、教学、科研、保健四大任务。为南开大学的儿科学博士和硕士学位研究生培养点，以及儿科学博士后科研工作站培养点。儿内科有2个病区，目前床位150张。分新生儿专科、儿童重病专科、儿童血液肿瘤专科、儿童保健专科、神经与康复专科、儿童常见病专科（呼吸、肾脏和消化）等特色专业。"@zh .
+<https://w3id.org/asdkb/instance/Department311> <http://www.w3.org/2000/01/rdf-schema#label> "中国人民解放军总医院第一医学中心小儿内科"@zh .
+

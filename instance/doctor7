@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor7> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'长春市第六医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor7> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor7> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科三疗区'"@zh .
+<https://w3id.org/asdkb/instance/doctor7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor7> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "在精神分裂症、孤独症、抑郁症等领域进行着广泛深入的研究。"@zh .
 <https://w3id.org/asdkb/instance/doctor7> <http://www.w3.org/2000/01/rdf-schema#label> "彭新贤"@zh .
-<https://w3id.org/asdkb/instance/doctor7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor7> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department290> .
+<https://w3id.org/asdkb/instance/doctor7> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital134> .
+<https://w3id.org/asdkb/instance/doctor7> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
 

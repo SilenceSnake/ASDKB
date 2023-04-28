@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2196> <http://www.w3.org/2000/01/rdf-schema#label> "青铜峡市"@zh .
+<https://w3id.org/asdkb/instance/Geo2196> <https://w3id.org/asdkb/ontology/dataproperty/population> "274273 人(截至2021年末)"@zh .
+<https://w3id.org/asdkb/instance/Geo2196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2196> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City320> .
+<https://w3id.org/asdkb/instance/Geo2196> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "640381"@zh .
+

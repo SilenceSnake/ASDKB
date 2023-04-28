@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City313> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "632300"@zh .
+<https://w3id.org/asdkb/instance/City313> <http://www.w3.org/2000/01/rdf-schema#label> "黄南藏族自治州"@zh .
+<https://w3id.org/asdkb/instance/City313> <https://w3id.org/asdkb/ontology/dataproperty/population> "276215人（2020年11月1日零时常住人口）"@zh .
+<https://w3id.org/asdkb/instance/City313> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province28> .
+<https://w3id.org/asdkb/instance/City313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+

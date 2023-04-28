@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department49> <http://www.w3.org/2000/01/rdf-schema#comment> "福建中医药大学附属康复医院儿科，是专门从事儿童疾病的诊断、治疗、预防、教学和科研的综合性临床科室。儿科拥有全面的儿童神经发育评估系统，开展有新生儿院后发育追踪评估及指导，可对各年龄段儿童进行个体化的体智能评估，以早期发现脑损伤及神经行为发育异常，并进行早期干预，促进正常化。与儿童康复科共同通过Bobath等手法理疗、感统训练、引导式教育、针灸、推拿等全面的现代康复技术，对脑瘫、自闭症、脑损伤恢复期患儿进行康复治疗。同时，儿科还根据患儿体质运用中医中药、穴位敷贴、推拿按摩、捏脊、穴位注射、辩证施膳等传统疗法，中西医结合治疗小儿反复呼吸道感染、胃肠功能紊乱、营养不良等儿科常见病，取得良好疗效。"@zh .
+<https://w3id.org/asdkb/instance/Department49> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital99> .
+<https://w3id.org/asdkb/instance/Department49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department49> <http://www.w3.org/2000/01/rdf-schema#label> "福建中医药大学附属康复医院儿科"@zh .
+

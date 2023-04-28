@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor441> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理咨询科'"@zh .
-<https://w3id.org/asdkb/instance/doctor441> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'宁波市康宁医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor441> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童及成人心理咨询，儿童、青少年行为问题的咨询与矫治，网络成瘾的心理治疗，儿童行为问题的家庭治疗，儿童及成人精神分裂症、焦虑、抑郁、强迫症的咨询与治疗，儿童自闭症、精神发育迟滞、多动症等治疗与咨询"@zh .
-<https://w3id.org/asdkb/instance/doctor441> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor441> <http://www.w3.org/2000/01/rdf-schema#label> "胡珍玉"@zh .
+<https://w3id.org/asdkb/instance/doctor441> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童及成人心理咨询，儿童、青少年行为问题的咨询与矫治，网络成瘾的心理治疗，儿童行为问题的家庭治疗，儿童及成人精神分裂症、焦虑、抑郁、强迫症的咨询与治疗，儿童自闭症、精神发育迟滞、多动症等治疗与咨询"@zh .
+<https://w3id.org/asdkb/instance/doctor441> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital210> .
+<https://w3id.org/asdkb/instance/doctor441> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor441> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department164> .
 

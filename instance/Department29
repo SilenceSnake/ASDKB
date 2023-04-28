@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department29> <http://www.w3.org/2000/01/rdf-schema#label> "成都市妇女儿童中心医院儿科"@zh .
+<https://w3id.org/asdkb/instance/Department29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department29> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital77> .
+<https://w3id.org/asdkb/instance/Department29> <http://www.w3.org/2000/01/rdf-schema#comment> "成都市妇女儿童中心医院儿童保健与儿童青少年生长发育诊治与研究中心是由儿童保健和儿童内分泌遗传代谢两个专业合并而成，主要从事儿童保健与儿童青少年生长发育性疾病的诊治工作，分为五个亚专业组：营养组、心理行为学组、生长监测组、内分泌遗传代谢组、早期发展干预组。在日月大道总部（妇儿中心）、实业街院区（成都市妇幼保健院）、太升南路院区（成都市儿童医院）都开设有专科及专家门诊，除基础儿保门诊、预防接种、入学（托）体检外，还开设各种亚专科门诊，如营养门诊、心理门诊、多动学习困难门诊、矮身材门诊、肥胖门诊、糖尿病门诊、青春期门诊及婴幼儿早教等，可以为0-18岁儿童提供一个全面的生长发育监测（性发育、体格发育、心理行为发育），尽早发现问题及时治疗。同时还拥有健全的儿童保健三级网络，除负责全市妇幼保健网络的培训和业务指导外，还接受基层医院和社区卫生站儿童保健科的转诊。"@zh .
+

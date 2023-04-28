@@ -1,0 +1,12 @@
+<https://w3id.org/asdkb/instance/icddisease5> <https://w3id.org/asdkb/ontology/dataproperty/patient_groups> "中度至重度智力迟钝（智商低于50）的儿童 "@zh .
+<https://w3id.org/asdkb/instance/icddisease5> <https://w3id.org/asdkb/ontology/dataproperty/definition> "这是一种定义不清的疾病，其病理组织学有效性不确定。之所以列入这一类别，是因为有证据表明，在多动和注意力不集中方面表现出严重问题的中度至重度智力迟钝（智商低于50）儿童经常表现出刻板的行为；这类儿童往往不会从兴奋剂中获益（与智商正常的儿童不同），在服用兴奋剂时可能会表现出严重的烦躁反应（有时伴有精神运动迟缓）；在青春期，过度活动往往被活动不足所取代（这种模式在智力正常的多动症儿童中并不常见）。该综合征还常与各种发育迟缓相关，无论是特定的还是普遍性的。"@zh .
+<https://w3id.org/asdkb/instance/icddisease5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.4> .
+<https://w3id.org/asdkb/instance/icddisease5> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.4"@zh .
+<https://w3id.org/asdkb/instance/icddisease5> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/icddisease0> .
+<https://w3id.org/asdkb/instance/icddisease5> <http://www.w3.org/2000/01/rdf-schema#label> "Overactive disorder associated with mental retardation and stereotyped movements"@en .
+<https://w3id.org/asdkb/instance/icddisease5> <https://w3id.org/asdkb/ontology/objectproperty/hasSymptom> <https://w3id.org/asdkb/instance/symptom60> .
+<https://w3id.org/asdkb/instance/icddisease5> <https://w3id.org/asdkb/ontology/objectproperty/hasSymptom> <https://w3id.org/asdkb/instance/symptom59> .
+<https://w3id.org/asdkb/instance/icddisease5> <https://w3id.org/asdkb/ontology/objectproperty/hasSymptom> <https://w3id.org/asdkb/instance/symptom58> .
+<https://w3id.org/asdkb/instance/icddisease5> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "一些相关的脑病引起的"@zh .
+<https://w3id.org/asdkb/instance/icddisease5> <http://www.w3.org/2000/01/rdf-schema#label> "与智力迟钝和刻板动作相关的过度活跃障碍"@zh .
+

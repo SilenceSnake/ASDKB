@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor444> <http://www.w3.org/2000/01/rdf-schema#label> "杨少萍"@zh .
-<https://w3id.org/asdkb/instance/doctor444> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'武汉儿童医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor444> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童生长发育监测、婴幼儿神经精神发育评估与指导，高危儿早期干预，婴幼儿早期教育和潜能开发，各年龄段儿童智力发育筛查与诊断，儿童心理行为评估：包括儿童注意力测评 儿童个性测验、儿童气质测量、儿童行为问题测评等儿童神经心理保健及测量技术"@zh .
-<https://w3id.org/asdkb/instance/doctor444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor444> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor444> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童心理咨询科'"@zh .
+<https://w3id.org/asdkb/instance/doctor444> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童生长发育监测、婴幼儿神经精神发育评估与指导，高危儿早期干预，婴幼儿早期教育和潜能开发，各年龄段儿童智力发育筛查与诊断，儿童心理行为评估：包括儿童注意力测评 儿童个性测验、儿童气质测量、儿童行为问题测评等儿童神经心理保健及测量技术"@zh .
+<https://w3id.org/asdkb/instance/doctor444> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department256> .
+<https://w3id.org/asdkb/instance/doctor444> <http://www.w3.org/2000/01/rdf-schema#label> "杨少萍"@zh .
+<https://w3id.org/asdkb/instance/doctor444> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital156> .
 

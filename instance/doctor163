@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor163> <http://www.w3.org/2000/01/rdf-schema#label> "朱登纳"@zh .
-<https://w3id.org/asdkb/instance/doctor163> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'郑州大学第三附属医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor163> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童康复科'"@zh .
 <https://w3id.org/asdkb/instance/doctor163> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor163> <http://www.w3.org/2000/01/rdf-schema#label> "朱登纳"@zh .
 <https://w3id.org/asdkb/instance/doctor163> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "脑瘫、植物状态促醒、脊髓损伤、癫痫、发育迟缓、智能低下、遗传代谢性疾病等小儿神经系统疾病的诊治"@zh .
-<https://w3id.org/asdkb/instance/doctor163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor163> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department302> .
+<https://w3id.org/asdkb/instance/doctor163> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital34> .
 

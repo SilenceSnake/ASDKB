@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department201> <http://www.w3.org/2000/01/rdf-schema#comment> "科室现有医护（技）师32人，其中医师15人，包括正、副主任医师6人，博士2人，硕士5人。在读硕士3人。神经科建立各种神经科常见病及疑难病的综合诊断体系，建立了8套病房脑电检测单元，1套神经肌电检测单元。联合神经外科成立了癫痫中心，应用抗癫痫药物，神经电生理调控技术、生酮饮食、ACTH联合糖皮质激素等方法治疗难治性癫痫，取得良好的效果；采用一代、二代测序对各种神经系统遗传疾病的基因检测、及开展相应的酶学检查；采用激素、免疫球蛋白及免疫抑制剂等方法治疗神经免疫性疾病如多发性硬化，免疫性脑炎效果显著，牵头成立了中华医学会儿科分会儿童多发性硬化及其相关性疾病协作组，成为协作组组长单位。年专科门诊总量超过5万人。年出院病人数超过5000人。已经成为国内小儿神经疑难疾病的诊断中心。"@zh .
+<https://w3id.org/asdkb/instance/Department201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department201> <http://www.w3.org/2000/01/rdf-schema#label> "上海市儿童医院神经内科"@zh .
+<https://w3id.org/asdkb/instance/Department201> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital110> .
+

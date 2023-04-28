@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2804> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "411722"@zh .
+<https://w3id.org/asdkb/instance/Geo2804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2804> <http://www.w3.org/2000/01/rdf-schema#label> "上蔡县"@zh .
+<https://w3id.org/asdkb/instance/Geo2804> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City167> .
+<https://w3id.org/asdkb/instance/Geo2804> <https://w3id.org/asdkb/ontology/dataproperty/population> "154.54 万(2019年)"@zh .
+

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor476> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童神经康复科'"@zh .
-<https://w3id.org/asdkb/instance/doctor476> <http://www.w3.org/2000/01/rdf-schema#label> "黄盛宇"@zh .
+<https://w3id.org/asdkb/instance/doctor476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor476> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', '助教'"@zh .
-<https://w3id.org/asdkb/instance/doctor476> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'赣州市妇幼保健院'"@zh .
+<https://w3id.org/asdkb/instance/doctor476> <http://www.w3.org/2000/01/rdf-schema#label> "黄盛宇"@zh .
+<https://w3id.org/asdkb/instance/doctor476> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital214> .
+<https://w3id.org/asdkb/instance/doctor476> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department58> .
 <https://w3id.org/asdkb/instance/doctor476> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症谱系障碍、儿童多动症、儿童抽动障碍、儿童学习困难、儿童智力落后、儿童情绪障碍诊断以及教育咨询，发育行为障碍行为治疗。"@zh .
-<https://w3id.org/asdkb/instance/doctor476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 

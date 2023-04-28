@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor362> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年行为障碍、睡眠障碍诊疗，心理问题咨询，心理治疗。尤其专注于青少年行为障碍的心理和药物结合治疗。"@zh .
-<https://w3id.org/asdkb/instance/doctor362> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'温州医科大学附属第一医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor362> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital172> .
+<https://w3id.org/asdkb/instance/doctor362> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department251> .
 <https://w3id.org/asdkb/instance/doctor362> <http://www.w3.org/2000/01/rdf-schema#label> "杨闯"@zh .
 <https://w3id.org/asdkb/instance/doctor362> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor362> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神卫生科'"@zh .
 

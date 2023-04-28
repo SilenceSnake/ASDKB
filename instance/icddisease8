@@ -1,0 +1,8 @@
+<https://w3id.org/asdkb/instance/icddisease8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/F84.9> .
+<https://w3id.org/asdkb/instance/icddisease8> <http://www.w3.org/2000/01/rdf-schema#label> "广泛性发展障碍，未指明"@zh .
+<https://w3id.org/asdkb/instance/icddisease8> <https://w3id.org/asdkb/ontology/dataproperty/definition> "这是一个剩余诊断类别，应用于符合普遍性发育障碍一般描述的疾病，但缺乏足够的信息或相互矛盾的发现意味着无法满足任何其他F84代码的标准。"@zh .
+<https://w3id.org/asdkb/instance/icddisease8> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/icddisease0> .
+<https://w3id.org/asdkb/instance/icddisease8> <http://www.w3.org/2000/01/rdf-schema#label> "Pervasive developmental disorder, unspecified"@en .
+<https://w3id.org/asdkb/instance/icddisease8> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F84.9 "@zh .
+<https://w3id.org/asdkb/instance/icddisease8> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
+

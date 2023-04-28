@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor91> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广东省人民医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor91> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital63> .
 <https://w3id.org/asdkb/instance/doctor91> <http://www.w3.org/2000/01/rdf-schema#label> "杨静静"@zh .
+<https://w3id.org/asdkb/instance/doctor91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor91> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 儿童、青少年的心理发展领域的研究，包括家庭环境与孩子的成长、发展的关系研究，专长是孤独症、儿童多动症、儿童情绪障碍等多种心理行为问题的心理咨询与心理治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor91> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department63> .
 <https://w3id.org/asdkb/instance/doctor91> <https://w3id.org/asdkb/ontology/dataproperty/title> "'医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor91> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '广东省精神卫生中心'"@zh .
-<https://w3id.org/asdkb/instance/doctor91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 

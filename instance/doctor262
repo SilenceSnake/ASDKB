@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor262> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital15> .
+<https://w3id.org/asdkb/instance/doctor262> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department192> .
+<https://w3id.org/asdkb/instance/doctor262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor262> <http://www.w3.org/2000/01/rdf-schema#label> "杨友"@zh .
 <https://w3id.org/asdkb/instance/doctor262> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童喂养、生长发育、多动症、孤独症、抽动症、语言问题、发育迟缓、智力障碍。"@zh .
 <https://w3id.org/asdkb/instance/doctor262> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor262> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/instance/doctor262> <http://www.w3.org/2000/01/rdf-schema#label> "杨友"@zh .
-<https://w3id.org/asdkb/instance/doctor262> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海儿童医学中心'"@zh .
 

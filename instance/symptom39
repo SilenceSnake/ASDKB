@@ -1,5 +1,7 @@
-<https://w3id.org/asdkb/instance/symptom39> <http://www.w3.org/2000/01/rdf-schema#comment> "经常过度流口水和舌头突出"@zh .
+<https://w3id.org/asdkb/instance/symptom39> <http://www.w3.org/2000/01/rdf-schema#comment> "often excessive drooling and protrusion of the tongue"@en .
 <https://w3id.org/asdkb/instance/symptom39> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom39"@zh .
 <https://w3id.org/asdkb/instance/symptom39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
-<https://w3id.org/asdkb/instance/symptom39> <http://www.w3.org/2000/01/rdf-schema#comment> "often excessive drooling and protrusion of the tongue"@en .
+<https://w3id.org/asdkb/instance/symptom39> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/symptom39> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom011> .
+<https://w3id.org/asdkb/instance/symptom39> <http://www.w3.org/2000/01/rdf-schema#comment> "经常过度流口水和舌头突出"@zh .
 

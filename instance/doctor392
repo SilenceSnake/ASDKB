@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor392> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'中国中医科学院西苑医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor392> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '综合科'"@zh .
-<https://w3id.org/asdkb/instance/doctor392> <http://www.w3.org/2000/01/rdf-schema#label> "万毅"@zh .
-<https://w3id.org/asdkb/instance/doctor392> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor392> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "记忆认知衰退(痴呆)、重症肌无力、进行性肌营养不良、眩晕头晕、情志病、内科杂病"@zh .
-<https://w3id.org/asdkb/instance/doctor392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor392> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department312> .
+<https://w3id.org/asdkb/instance/doctor392> <http://www.w3.org/2000/01/rdf-schema#label> "万毅"@zh .
+<https://w3id.org/asdkb/instance/doctor392> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital180> .
+<https://w3id.org/asdkb/instance/doctor392> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
 

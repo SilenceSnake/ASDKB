@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor116> <http://www.w3.org/2000/01/rdf-schema#label> "周火旺"@zh .
+<https://w3id.org/asdkb/instance/doctor116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor116> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital79> .
 <https://w3id.org/asdkb/instance/doctor116> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor116> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 对儿科领域的常见病、多发病的诊断有丰富的经验，特别擅长儿童保健、精神发育迟滞、脑性瘫痪、癫痫、ADHD、孤独症、小儿神经心理行为异常、睡眠障碍、抽动障碍、儿童糖尿病、甲减、矮身材、侏儒症、性早熟等小儿神经心理行为疾病、小儿内分泌疾病及危急重症的诊治与教学，特别是在小儿脑性瘫痪、高危新生儿的早期干预方面做了很多工作，有较高的造诣。"@zh .
-<https://w3id.org/asdkb/instance/doctor116> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'福建省漳州市医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor116> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
+<https://w3id.org/asdkb/instance/doctor116> <http://www.w3.org/2000/01/rdf-schema#label> "周火旺"@zh .
+<https://w3id.org/asdkb/instance/doctor116> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department45> .
 

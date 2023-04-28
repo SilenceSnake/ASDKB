@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2526> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City318> .
+<https://w3id.org/asdkb/instance/Geo2526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2526> <https://w3id.org/asdkb/ontology/dataproperty/population> "449559 人(截至2020年11月1日零时)"@zh .
+<https://w3id.org/asdkb/instance/Geo2526> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "640105"@zh .
+<https://w3id.org/asdkb/instance/Geo2526> <http://www.w3.org/2000/01/rdf-schema#label> "西夏区"@zh .
+

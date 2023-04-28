@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department312> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital180> .
+<https://w3id.org/asdkb/instance/Department312> <http://www.w3.org/2000/01/rdf-schema#label> "中国中医科学院西苑医院综合科"@zh .
+<https://w3id.org/asdkb/instance/Department312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department312> <http://www.w3.org/2000/01/rdf-schema#comment> "中国中医科学院老年医学研究所老年二科（综合内科），在老一辈专家的指导下，经过几代人的传承和发展，全科医护人员励精图治、以中西医结合老年综合评估和诊疗为特色，在医、科、教等方面都有了长足的发展，形成了名老中医药专家带头，青年骨干专家为主的学术梯队。成为目前北京地区中医系统规模较大、设备完善、条件优良、人员梯队合理，以中西医结合为特色的老年患者综合性诊疗病房。"@zh .
+

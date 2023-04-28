@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1914> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "640202"@zh .
+<https://w3id.org/asdkb/instance/Geo1914> <http://www.w3.org/2000/01/rdf-schema#label> "大武口区"@zh .
+<https://w3id.org/asdkb/instance/Geo1914> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City319> .
+<https://w3id.org/asdkb/instance/Geo1914> <https://w3id.org/asdkb/ontology/dataproperty/population> "298292 人(2020年)"@zh .
+<https://w3id.org/asdkb/instance/Geo1914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

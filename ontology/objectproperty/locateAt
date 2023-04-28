@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/asdkb#"
+     xml:base="https://w3id.org/asdkb"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:asd_kb_ontology="https://w3id.org/asdkb#">
+    <owl:Ontology rdf:about="https://w3id.org/asdkb">
+        <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
+    </owl:Ontology>
+
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/locateAt -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/locateAt">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/city"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/district"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/city"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/province"/>
+        <rdfs:comment xml:lang="zh">所属城市</rdfs:comment>
+        <rdfs:comment xml:lang="zh">所属省份</rdfs:comment>
+        <rdfs:label xml:lang="en">locateAt</rdfs:label>
+        <rdfs:label xml:lang="zh">位于</rdfs:label>
+    </owl:ObjectProperty>
+</rdf:RDF>

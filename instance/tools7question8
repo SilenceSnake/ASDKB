@@ -1,3 +1,10 @@
-<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "感觉器官对刺激几近过度反应"@zh .
+<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools7question8option1> .
+<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools7question8option3> .
 <https://w3id.org/asdkb/instance/tools7question8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools7question8option0> .
+<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools7> .
+<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools7question8option2> .
+<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools7question8> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "感觉器官对刺激几近过度反应"@zh .
 

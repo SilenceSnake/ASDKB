@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department69> <http://www.w3.org/2000/01/rdf-schema#comment> "广州市第一人民医院儿科是专门从事儿童疾病的诊断、治疗、预防、保健、教学和科研的综合性科室，具备一流的人才、先进的技术、齐全的设备、优质的服务和现代化管理。儿科为广东省临床重点专科，在全国、广东省和广州市儿科学术界和围产医学界具有重要影响。医护人员63名，多数为博士或硕士研究生学历，主任医师5名，副主任医师7名，主治医师6名，副主任护师2名，主管护师6名。博士研究生导师1名，硕士研究生导师2名。设新生儿、肾脏、血液、神经、呼吸、消化、内分泌、心血管等8个专科。床位65张，有单人房、三人房和无陪病房。拥有最先进的急救转运车、呼吸机、监护仪、床边X光机、多功能抢救台、层流室等设备。承担广州医科大学教学任务。承担国家自然科学基金项目、国家科技支撑项目、省市科研课题20余项。发表论文百余篇，其中SCI收录论文6篇。“儿童肾病综合征发病机制和治疗系列研究”获广东省科学技术进步奖二等奖。"@zh .
+<https://w3id.org/asdkb/instance/Department69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department69> <http://www.w3.org/2000/01/rdf-schema#label> "广州市第一人民医院儿科"@zh .
+<https://w3id.org/asdkb/instance/Department69> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital67> .
+

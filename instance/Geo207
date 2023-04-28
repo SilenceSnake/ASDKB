@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo207> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City0> .
+<https://w3id.org/asdkb/instance/Geo207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo207> <http://www.w3.org/2000/01/rdf-schema#label> "平谷区"@zh .
+<https://w3id.org/asdkb/instance/Geo207> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "110117"@zh .
+<https://w3id.org/asdkb/instance/Geo207> <https://w3id.org/asdkb/ontology/dataproperty/population> "45.7 万(2021年常住人口)"@zh .
+

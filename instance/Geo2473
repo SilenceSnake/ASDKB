@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2473> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "654026"@zh .
+<https://w3id.org/asdkb/instance/Geo2473> <https://w3id.org/asdkb/ontology/dataproperty/population> "177131人（2019户籍人口）"@zh .
+<https://w3id.org/asdkb/instance/Geo2473> <http://www.w3.org/2000/01/rdf-schema#label> "昭苏县"@zh .
+<https://w3id.org/asdkb/instance/Geo2473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2473> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City334> .
+

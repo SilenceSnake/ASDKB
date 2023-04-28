@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/Geo90> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City329> .
+<https://w3id.org/asdkb/instance/Geo90> <http://www.w3.org/2000/01/rdf-schema#label> "轮台县"@zh .
+<https://w3id.org/asdkb/instance/Geo90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

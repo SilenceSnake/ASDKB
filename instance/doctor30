@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor30> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广东省妇幼保健院'"@zh .
-<https://w3id.org/asdkb/instance/doctor30> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 儿童脑白质病和神经遗传病的诊疗，对神经突触可塑性和儿童孤独症有深入研究。"@zh .
-<https://w3id.org/asdkb/instance/doctor30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor30> <http://www.w3.org/2000/01/rdf-schema#label> "张杰"@zh .
-<https://w3id.org/asdkb/instance/doctor30> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经康复专科'"@zh .
 <https://w3id.org/asdkb/instance/doctor30> <https://w3id.org/asdkb/ontology/dataproperty/title> "'住院医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor30> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department62> .
+<https://w3id.org/asdkb/instance/doctor30> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital108> .
+<https://w3id.org/asdkb/instance/doctor30> <http://www.w3.org/2000/01/rdf-schema#label> "张杰"@zh .
+<https://w3id.org/asdkb/instance/doctor30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor30> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 儿童脑白质病和神经遗传病的诊疗，对神经突触可塑性和儿童孤独症有深入研究。"@zh .
 

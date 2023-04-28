@@ -1,3 +1,9 @@
-<https://w3id.org/asdkb/instance/tools19question16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question16> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question16option2> .
+<https://w3id.org/asdkb/instance/tools19question16> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools19question16> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools19question16> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools19> .
+<https://w3id.org/asdkb/instance/tools19question16> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question16option1> .
 <https://w3id.org/asdkb/instance/tools19question16> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "17. 认出当某事是不公平的"@zh .
+<https://w3id.org/asdkb/instance/tools19question16> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question16option0> .
+<https://w3id.org/asdkb/instance/tools19question16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

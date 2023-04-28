@@ -1,3 +1,9 @@
-<https://w3id.org/asdkb/instance/tools19question57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 <https://w3id.org/asdkb/instance/tools19question57> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "58. 太专注事物的局部而不看全貌。例如，若被要求描述在某个故事中发生了什么，他可能只谈到角色们所穿的衣服种类"@zh .
+<https://w3id.org/asdkb/instance/tools19question57> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question57option2> .
+<https://w3id.org/asdkb/instance/tools19question57> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools19question57> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question57option0> .
+<https://w3id.org/asdkb/instance/tools19question57> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question57option1> .
+<https://w3id.org/asdkb/instance/tools19question57> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools19question57> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools19> .
+<https://w3id.org/asdkb/instance/tools19question57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

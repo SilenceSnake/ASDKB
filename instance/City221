@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City221> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "450600"@zh .
+<https://w3id.org/asdkb/instance/City221> <http://www.w3.org/2000/01/rdf-schema#label> "防城港市"@zh .
+<https://w3id.org/asdkb/instance/City221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City221> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province19> .
+<https://w3id.org/asdkb/instance/City221> <https://w3id.org/asdkb/ontology/dataproperty/population> "1046068 人"@zh .
+

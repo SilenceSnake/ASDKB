@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools18question9> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools18> .
+<https://w3id.org/asdkb/instance/tools18question9> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools18question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question9option0> .
 <https://w3id.org/asdkb/instance/tools18question9> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "10.您的孩子是否会将您的手当成工具或当成他/她自己身体的一部分使用(例如，用你的手指指物或将你的手放在门把手上让你开门等)？"@zh .
 <https://w3id.org/asdkb/instance/tools18question9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools18question9> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools18question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools18question9option1> .
 

@@ -1,3 +1,9 @@
+<https://w3id.org/asdkb/instance/tools19question30> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question30option0> .
+<https://w3id.org/asdkb/instance/tools19question30> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question30option2> .
+<https://w3id.org/asdkb/instance/tools19question30> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question30option1> .
+<https://w3id.org/asdkb/instance/tools19question30> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
 <https://w3id.org/asdkb/instance/tools19question30> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "31. 他一旦开始思考某件事情就无法将它从心里移除"@zh .
 <https://w3id.org/asdkb/instance/tools19question30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question30> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools19> .
+<https://w3id.org/asdkb/instance/tools19question30> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
 

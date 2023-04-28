@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools14question7> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools14question7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools14question7> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools14> .
+<https://w3id.org/asdkb/instance/tools14question7> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools14question7option1> .
+<https://w3id.org/asdkb/instance/tools14question7> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools14question7option0> .
 <https://w3id.org/asdkb/instance/tools14question7> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "你的孩子会正确玩小玩具（例如车子或积木），而不是只把它们放在嘴里、随便乱动或是把它们丟掉？ "@zh .
+<https://w3id.org/asdkb/instance/tools14question7> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
 

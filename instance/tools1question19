@@ -1,3 +1,8 @@
+<https://w3id.org/asdkb/instance/tools1question19> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools1question19> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools1> .
+<https://w3id.org/asdkb/instance/tools1question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools1question19option0> .
+<https://w3id.org/asdkb/instance/tools1question19> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools1question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools1question19option1> .
 <https://w3id.org/asdkb/instance/tools1question19> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "20.不能执行含有简单介词的指令（如“把球放在盒子里”）。"@zh .
 <https://w3id.org/asdkb/instance/tools1question19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 

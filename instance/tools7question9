@@ -1,3 +1,10 @@
-<https://w3id.org/asdkb/instance/tools7question9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 <https://w3id.org/asdkb/instance/tools7question9> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "焦虑反应"@zh .
+<https://w3id.org/asdkb/instance/tools7question9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools7question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools7question9option3> .
+<https://w3id.org/asdkb/instance/tools7question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools7question9option2> .
+<https://w3id.org/asdkb/instance/tools7question9> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools7> .
+<https://w3id.org/asdkb/instance/tools7question9> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools7question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools7question9option0> .
+<https://w3id.org/asdkb/instance/tools7question9> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools7question9option1> .
+<https://w3id.org/asdkb/instance/tools7question9> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
 

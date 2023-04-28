@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City308> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "622900"@zh .
+<https://w3id.org/asdkb/instance/City308> <http://www.w3.org/2000/01/rdf-schema#label> "临夏回族自治州"@zh .
+<https://w3id.org/asdkb/instance/City308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City308> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province27> .
+<https://w3id.org/asdkb/instance/City308> <https://w3id.org/asdkb/ontology/dataproperty/population> "2109750人（2020年11月1日零时常住人口）"@zh .
+

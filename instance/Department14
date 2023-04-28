@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department14> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital216> .
+<https://w3id.org/asdkb/instance/Department14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department14> <http://www.w3.org/2000/01/rdf-schema#label> "北京回龙观医院儿童心理科"@zh .
+<https://w3id.org/asdkb/instance/Department14> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童青少年精神（心理）卫生学组，在该院各界领导的带领下，从无到有，目前拥有由精神科医师、心理咨询师、康复师、社会技能训练师等多学科人员组成的优秀团队，可以对儿童多动症、孤独症、儿童情绪及行为问题等儿童常见病进行有效诊治。该院儿科目前有医师7名，博士2名，硕士2名，高级职称以上人员4名，现任科主任为儿童心理卫生知名教授刘华清主任医师，病区主任汪毅博士毕业于北京大学医学部，导师为我国儿童精神卫生学知名学者王玉凤教授。儿童青少年心理科承担并完成了国家科技支撑计划、北京市科委、北京社会心理研究所、北京市医管局等资助的多个项目，目前承担的在研课题有三个，包括：1、社会技能训练在学校中干预儿童行为问题的推广应用（2012年首都医学发展基金资助）；2、社会技能训练在家庭中干预儿童行为问题的推广应用（2014年“首都临床特色应用研究”专项基金资助）；3、心理韧性训练对儿童行为问题的干预研究（2015年“首都临床特色应用研究”专项基金资助）等；4、北京市流动儿童心理健康状况调查（2014年“北京市社科委北京社会心理研究所课题”专项基金资助）、5、认识行为治疗初级治疗师规范化培训（北京市医管局扬帆计划），总经费约120多万人民币。"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo604> <https://w3id.org/asdkb/ontology/dataproperty/population> "16.05 万(截至2020年11月1日零时)"@zh .
+<https://w3id.org/asdkb/instance/Geo604> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "640425"@zh .
+<https://w3id.org/asdkb/instance/Geo604> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City321> .
+<https://w3id.org/asdkb/instance/Geo604> <http://www.w3.org/2000/01/rdf-schema#label> "彭阳县"@zh .
+<https://w3id.org/asdkb/instance/Geo604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

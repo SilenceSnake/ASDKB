@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor271> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'浙江大学医学院附属儿童医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor271> <http://www.w3.org/2000/01/rdf-schema#label> "黄新文"@zh .
-<https://w3id.org/asdkb/instance/doctor271> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '遗传代谢科'"@zh .
-<https://w3id.org/asdkb/instance/doctor271> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor271> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童遗传性疾病诊治，主要包括儿童先天性甲状腺功能低下症、苯丙酮尿症，葡萄糖6磷酸脱氢酶缺乏症、先天性肾上腺皮质增生症，及串联质谱筛查的氨基酸、有机酸及脂肪酸代谢病筛查结果解读、诊断和治疗，以及遗传病基因检测报告解读，儿童营养喂养及生长发育指导 。"@zh .
+<https://w3id.org/asdkb/instance/doctor271> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department296> .
+<https://w3id.org/asdkb/instance/doctor271> <http://www.w3.org/2000/01/rdf-schema#label> "黄新文"@zh .
+<https://w3id.org/asdkb/instance/doctor271> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital145> .
+<https://w3id.org/asdkb/instance/doctor271> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

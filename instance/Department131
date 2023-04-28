@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department131> <http://www.w3.org/2000/01/rdf-schema#label> "江苏省第二中医院神经内科"@zh .
+<https://w3id.org/asdkb/instance/Department131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department131> <http://www.w3.org/2000/01/rdf-schema#comment> "江苏省第二中医院（南京中医药大学第二附属医院）脑病科，现为南京中医药大学校级重点学科培育单位，医院重点专科。神经内科下设门诊部和住院部，门诊设有普通门诊、专病门诊及专家门诊，住院部设有标准化病区1个，53张床位，包括脑病重症监护室，神经电生理检查室。配备了国内外先进的仪器设备，如磁共振、CT、TCD、脑电、肌电系统、系统康复设备等。科室现有医务人员16人（外聘3人），其中高级职称人员5人，中级职称3人，初级职称8人，老中青互补协作，人才梯队合理，其中博士2人，硕士8人，博士生导师1人，硕士研究生导师4名，省333高层次人才1名，江苏省六大高峰人才2名，《中华中医药杂志》、《南京中医药大学学报》杂志审稿专家2名。担任国家、省级学会副主任委员、常务委员等5人。科室集现代医学抢救、神经康复、健康教育于一体，治疗各种类型中风病、眩晕、头痛、帕金森病等。其中脑血管疾病、眩晕、头痛的诊疗技术，在省内享有较高声誉。科室近3年来引进一批医德高尚，技术过硬的临床专家和学科带头人，如省中西医结合脑病、神经康复、针灸等委员会副主任委员、常务委员等。同时亦引进一批高学历科研能力强的人才，加强学科储备力量。全科医务人员发表省级以上科技论文近50篇。"@zh .
+<https://w3id.org/asdkb/instance/Department131> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital11> .
+

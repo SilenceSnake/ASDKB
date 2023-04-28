@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department61> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital108> .
+<https://w3id.org/asdkb/instance/Department61> <http://www.w3.org/2000/01/rdf-schema#label> "广东省妇幼保健院康复医学科（小儿神经内科）"@zh .
+<https://w3id.org/asdkb/instance/Department61> <http://www.w3.org/2000/01/rdf-schema#comment> "广东省妇幼保健院、广东省儿童医院神经康复科始建于1993年，经过二十余年的发展，逐步建成集医疗、科研、教学于一体的综合康复治疗科室。有小儿神经康复科门诊、小儿神经内科住院部、儿童康复住院部、康复治疗部门、神经电生理室几大部分组成；住院部设置固定床位80张；治疗部门设有康复功能评定室、运动治疗室、作业治疗室、语言治疗室、感觉统合室、吞咽/嗓音训练治疗室、物理因子治疗室、音乐治疗室、针灸推拿室等部门；神经电生理室可以完善包括24小时长程视频脑电图监测、振幅整合脑电图监测、多导睡眠监测仪、肌电图、神经传导测定等检查。"@zh .
+

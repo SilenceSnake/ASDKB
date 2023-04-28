@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor139> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
 <https://w3id.org/asdkb/instance/doctor139> <http://www.w3.org/2000/01/rdf-schema#label> "杨欣伟"@zh .
-<https://w3id.org/asdkb/instance/doctor139> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'西京医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor139> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor139> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital95> .
 <https://w3id.org/asdkb/instance/doctor139> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿神经系统疾病、小儿心理行为疾病及常见病、多发病的诊断治疗，对儿童脑瘫、癫痫的诊断、治疗、特别是缺氧缺血性脑病，智力低下及儿童心理行为疾病"@zh .
+<https://w3id.org/asdkb/instance/doctor139> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor139> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department267> .
 

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department302> <http://www.w3.org/2000/01/rdf-schema#label> "郑州大学第三附属医院儿童康复科"@zh .
+<https://w3id.org/asdkb/instance/Department302> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital34> .
+<https://w3id.org/asdkb/instance/Department302> <http://www.w3.org/2000/01/rdf-schema#comment> "郑州大学第三附属医院儿童康复科(原小儿神经脑瘫康复诊疗科）创立于1992年，2004年经省卫生厅批准为“河南省小儿脑瘫康复治疗中心”，2012年被河南省卫生厅批设为“河南省儿童脑瘫康复医院”， 现为“河南省儿童脑瘫康复质量控制中心”，河南省预防医学会儿童脑瘫预防与康复专业委员会依托单位，河南省残疾人康复协会儿童康复专业委员会主委单位，河南省重点学科，小儿神经专业博士、硕士学位培养点，康复医学与理疗学硕士培养点，河南省首批儿童康复医疗服务示范基地，河南省康复医师住院医师规范化培训基地，河南省残疾儿童辅助器具适配基地，河南省0~6岁残疾儿童(脑瘫、智能低下）抢救性康复定点医疗机构，郑州市0~14岁残疾儿童（脑瘫、智能低下、辅助器具适配）康复救助定点机构，郑州市儿童脑瘫防治重点实验室；科室床位600张，分为8个病区和2个康复训练区，同期住院病人800人左右）。 中心目前有240名工作人员，其中博士4人，硕士46人；高级职称13人；博士生导师1人，硕士生导师5人。"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2081> <https://w3id.org/asdkb/ontology/dataproperty/population> "73.64 万(2021年底)"@zh .
+<https://w3id.org/asdkb/instance/Geo2081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2081> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City28> .
+<https://w3id.org/asdkb/instance/Geo2081> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "150502"@zh .
+<https://w3id.org/asdkb/instance/Geo2081> <http://www.w3.org/2000/01/rdf-schema#label> "科尔沁区"@zh .
+

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor308> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'重庆医科大学附属儿童医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor308> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital94> .
+<https://w3id.org/asdkb/instance/doctor308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor308> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "（1）各种儿童心理行为障碍，如多动症，智力低下、自闭症、学习困难、情绪障碍（焦虑症、恐怕症、强迫症和癔症等）、抑郁症、精神分裂症、抽动障碍、神经性厌食、梦游症和性心理障碍等。（2）正常儿童的心理咨询和保健（对儿童和青少年进行心理卫生指导，促进儿童身心健康）"@zh .
 <https://w3id.org/asdkb/instance/doctor308> <http://www.w3.org/2000/01/rdf-schema#label> "梅其霞"@zh .
-<https://w3id.org/asdkb/instance/doctor308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor308> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor308> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department335> .
 <https://w3id.org/asdkb/instance/doctor308> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
 

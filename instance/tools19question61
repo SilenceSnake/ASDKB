@@ -1,3 +1,9 @@
-<https://w3id.org/asdkb/instance/tools19question61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 <https://w3id.org/asdkb/instance/tools19question61> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "62. 给予不寻常或不合逻辑的做事理由"@zh .
+<https://w3id.org/asdkb/instance/tools19question61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question61> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question61option1> .
+<https://w3id.org/asdkb/instance/tools19question61> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question61option0> .
+<https://w3id.org/asdkb/instance/tools19question61> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question61option2> .
+<https://w3id.org/asdkb/instance/tools19question61> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools19question61> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools19> .
+<https://w3id.org/asdkb/instance/tools19question61> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 

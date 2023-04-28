@@ -1,3 +1,9 @@
+<https://w3id.org/asdkb/instance/tools19question27> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question27option2> .
 <https://w3id.org/asdkb/instance/tools19question27> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "28. 一而再再而三地想着或说着同样的事"@zh .
+<https://w3id.org/asdkb/instance/tools19question27> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
 <https://w3id.org/asdkb/instance/tools19question27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools19question27> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools19> .
+<https://w3id.org/asdkb/instance/tools19question27> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools19question27> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question27option0> .
+<https://w3id.org/asdkb/instance/tools19question27> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools19question27option1> .
 

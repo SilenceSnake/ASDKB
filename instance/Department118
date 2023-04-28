@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department118> <http://www.w3.org/2000/01/rdf-schema#comment> "二炮总医院心理科由心理学目前博士心理学硕士分会潜心临床建立多年的资深心理医生基础等组成科室部委特点是既可以做特别专业的心理咨询心理辅导又副教授具有医疗组织资格可以在必要的时候进行不同药物辅助最后治疗在睡眠障碍常见病问题上二炮总医院心理科有独到的研究和独特实效的调理方法并与国内处长科室权威研究机构四川合作成立通过首家“健康睡眠研究中心英国”。"@zh .
+<https://w3id.org/asdkb/instance/Department118> <http://www.w3.org/2000/01/rdf-schema#label> "火箭军特色医学中心心理科"@zh .
+<https://w3id.org/asdkb/instance/Department118> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital187> .
+<https://w3id.org/asdkb/instance/Department118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

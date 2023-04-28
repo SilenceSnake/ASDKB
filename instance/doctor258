@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor258> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor258> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北京儿童医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor258> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿内科疾病，青春期伴随的生长发育和心理问题：青春期性早熟，性晚熟，乳房发育问题，青春期情绪问题（焦虑、抑郁），青春期网络成瘾，青春期厌食症，青春期父母教育方式，青春期伙伴关系，青春期适应障碍等"@zh .
-<https://w3id.org/asdkb/instance/doctor258> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor258> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department10> .
+<https://w3id.org/asdkb/instance/doctor258> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital28> .
 <https://w3id.org/asdkb/instance/doctor258> <http://www.w3.org/2000/01/rdf-schema#label> "闫春梅"@zh .
 

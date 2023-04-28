@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City163> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province15> .
+<https://w3id.org/asdkb/instance/City163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+<https://w3id.org/asdkb/instance/City163> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "411300"@zh .
+<https://w3id.org/asdkb/instance/City163> <http://www.w3.org/2000/01/rdf-schema#label> "南阳市"@zh .
+<https://w3id.org/asdkb/instance/City163> <https://w3id.org/asdkb/ontology/dataproperty/population> "962.90 万(截止2021年)"@zh .
+

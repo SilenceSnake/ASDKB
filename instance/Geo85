@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo85> <http://www.w3.org/2000/01/rdf-schema#label> "乌拉特前旗"@zh .
+<https://w3id.org/asdkb/instance/Geo85> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "150823"@zh .
+<https://w3id.org/asdkb/instance/Geo85> <https://w3id.org/asdkb/ontology/dataproperty/population> "34.3万人(2016年)"@zh .
+<https://w3id.org/asdkb/instance/Geo85> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City31> .
+<https://w3id.org/asdkb/instance/Geo85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

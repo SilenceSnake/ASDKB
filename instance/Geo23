@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo23> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City35> .
+<https://w3id.org/asdkb/instance/Geo23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo23> <https://w3id.org/asdkb/ontology/dataproperty/population> "22647人（2020年11月1日零时常住人口）"@zh .
+<https://w3id.org/asdkb/instance/Geo23> <http://www.w3.org/2000/01/rdf-schema#label> "阿拉善右旗"@zh .
+<https://w3id.org/asdkb/instance/Geo23> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "152922"@zh .
+

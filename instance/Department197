@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department197> <http://www.w3.org/2000/01/rdf-schema#comment> "上海市第一妇婴保健院发育行为儿科提供语言发育迟缓、孤独症早期评估干预、儿童运动协调能力障碍、婴幼儿营养不良、喂养困难、睡眠障碍及中西医结合儿童保健等诊疗服务。部门拥有硕士及以上学位比例占75%，中高级职称占60%。 具有儿科学博士培养点，致力于引进开发儿童早期神经行为系列评估工具，制定全国常模标准。并作为国内首个引进儿童发育性运动协调障碍诊疗技术的团队，开展早期运动发育的诊疗业务， 该临床研究获得2019年上海市医学科技奖。目前部门在研多个国家自然科学基金项目、省部级和局级课题，近5年团队成员发表SCI索引论文或核心期刊论文100余篇。"@zh .
+<https://w3id.org/asdkb/instance/Department197> <http://www.w3.org/2000/01/rdf-schema#label> "上海市第一妇婴保健院发育行为儿科"@zh .
+<https://w3id.org/asdkb/instance/Department197> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital191> .
+<https://w3id.org/asdkb/instance/Department197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

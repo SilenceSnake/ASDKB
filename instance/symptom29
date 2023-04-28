@@ -1,6 +1,9 @@
 <https://w3id.org/asdkb/instance/symptom29> <http://www.w3.org/2000/01/rdf-schema#comment> "咬伤手腕"@zh .
+<https://w3id.org/asdkb/instance/symptom29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
+<https://w3id.org/asdkb/instance/symptom29> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/symptom29> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom011> .
+<https://w3id.org/asdkb/instance/symptom29> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/symptom28> .
+<https://w3id.org/asdkb/instance/symptom29> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom28"@zh .
 <https://w3id.org/asdkb/instance/symptom29> <http://www.w3.org/2000/01/rdf-schema#comment> "by wrist-biting"@en .
 <https://w3id.org/asdkb/instance/symptom29> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom29"@zh .
-<https://w3id.org/asdkb/instance/symptom29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
-<https://w3id.org/asdkb/instance/symptom29> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom28"@zh .
 

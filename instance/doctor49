@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor49> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海市松江区精神卫生中心'"@zh .
 <https://w3id.org/asdkb/instance/doctor49> <http://www.w3.org/2000/01/rdf-schema#label> "王永强"@zh .
-<https://w3id.org/asdkb/instance/doctor49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor49> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年咨询：一般情绪及行为问题、学习问题、情绪障碍、儿童孤独症等。 成人咨询：一般心理问题、抑郁及焦虑情绪、失眠问题等。"@zh .
+<https://w3id.org/asdkb/instance/doctor49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor49> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', '讲师'"@zh .
-<https://w3id.org/asdkb/instance/doctor49> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理咨询'"@zh .
+<https://w3id.org/asdkb/instance/doctor49> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department204> .
+<https://w3id.org/asdkb/instance/doctor49> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital41> .
+<https://w3id.org/asdkb/instance/doctor49> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年咨询：一般情绪及行为问题、学习问题、情绪障碍、儿童孤独症等。 成人咨询：一般心理问题、抑郁及焦虑情绪、失眠问题等。"@zh .
 

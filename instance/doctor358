@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor358> <http://www.w3.org/2000/01/rdf-schema#label> "戴燕琼"@zh .
-<https://w3id.org/asdkb/instance/doctor358> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童康复中心'"@zh .
-<https://w3id.org/asdkb/instance/doctor358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor358> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor358> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'上海市儿童医院'"@zh .
 <https://w3id.org/asdkb/instance/doctor358> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "1.脑瘫，脑发育迟缓，脑损伤肢体功能障碍，神经系统疾病2.步态异常，足内外翻，内八、外八等异常足部姿势"@zh .
+<https://w3id.org/asdkb/instance/doctor358> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor358> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department200> .
+<https://w3id.org/asdkb/instance/doctor358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor358> <http://www.w3.org/2000/01/rdf-schema#label> "戴燕琼"@zh .
+<https://w3id.org/asdkb/instance/doctor358> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital110> .
 

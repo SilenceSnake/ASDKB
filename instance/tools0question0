@@ -1,3 +1,12 @@
-<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "避免直视他人的眼睛或在适当的时间内不能保持眼神交流"@zh .
 <https://w3id.org/asdkb/instance/tools0question0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question0option3> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question0option1> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question0option6> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question0option5> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "避免直视他人的眼睛或在适当的时间内不能保持眼神交流"@zh .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question0option2> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question0option4> .
+<https://w3id.org/asdkb/instance/tools0question0> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department232> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital185> .
+<https://w3id.org/asdkb/instance/Department232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department232> <http://www.w3.org/2000/01/rdf-schema#label> "苏州大学附属儿童医院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department232> <http://www.w3.org/2000/01/rdf-schema#comment> "苏州大学附属儿童医院儿童保健科儿童心理行为发育保健1．心理咨询：针对常见的儿童心理行为问题，如学习障碍、情绪障碍（焦虑症，学校恐怖症，抑郁症、强迫症等）、饮食障碍、睡眠障碍进行诊断和治疗指导。开展心理测查的项目：韦氏学龄前儿童及学龄儿童智力测验（Wechslet preschool and primary scale of intelligence）,婴儿-初中生社会生活能力量表、瑞文推理测验、绘人测验、家庭环境量表等。2．学习困难、多动症和语言发育迟缓的诊断、治疗：针对其行为问题进行运动、注意、语言等统合治疗训练。3．婴幼儿气质管理：采用婴幼儿气质量表，帮助父母了解孩子的气质特征，指导教育方式，提高父母的管教技能。"@zh .
+

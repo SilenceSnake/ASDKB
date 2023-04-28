@@ -1,5 +1,6 @@
+<https://w3id.org/asdkb/instance/symptom57> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom57"@zh .
 <https://w3id.org/asdkb/instance/symptom57> <http://www.w3.org/2000/01/rdf-schema#comment> "一种类似自闭症的社交和交流障碍"@zh .
 <https://w3id.org/asdkb/instance/symptom57> <http://www.w3.org/2000/01/rdf-schema#comment> "an autistic-like impairment of social interaction and communication"@en .
-<https://w3id.org/asdkb/instance/symptom57> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom57"@zh .
 <https://w3id.org/asdkb/instance/symptom57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/instance/symptom57> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom00> .
 

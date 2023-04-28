@@ -1,3 +1,8 @@
-<https://w3id.org/asdkb/instance/tools6question35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
 <https://w3id.org/asdkb/instance/tools6question35> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "她/他是否经常把谈话转向他/她最喜欢的话题，而不是跟随对方想要谈论的话题?"@zh .
+<https://w3id.org/asdkb/instance/tools6question35> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools6> .
+<https://w3id.org/asdkb/instance/tools6question35> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools6question35> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools6question35option0> .
+<https://w3id.org/asdkb/instance/tools6question35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools6question35> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools6question35> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools6question35option1> .
 

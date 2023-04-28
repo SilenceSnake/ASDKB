@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department170> <http://www.w3.org/2000/01/rdf-schema#comment> "青岛市妇女儿童医院康复科是山东省首家儿童康复专科，是山东省康复医学会小儿神经康复专科分会主委单位，山东省康复治疗师培训基地，半岛儿童康复联盟基地，青岛大学康复与理疗专业（儿童康复）硕士研究生培养点，山东协和学校学生实习基地,全国“精神文明号”单位，青岛市“巾帼文明岗”和“工人先锋号”单位。学科成立于1994年，建科初期得到来自德国慕尼黑儿童中心、香港伊丽莎白医院、香港职业技术学院、日本各大残疾儿疗育所、中国佳木斯大学脑瘫疗育中心、中国康复研究中心等国际和国内一流康复机构专家学者的悉心传授和支持，以高起点、高标准打造出一只技术过硬的学科队伍，医院先后派出10余人次赴德国、奥地利、香港等地的儿童康复机构观摩学习，医生和治疗师定期参加北京、上海、重庆、佳木斯等国内知名医院的神经和康复专科培训，引进和改良了多种适合各种发育异常儿童早期诊断、功能评定和康复治疗的新技术，博采众长，稳步发展。形成了设备先进、技术成熟、医疗服务科学规范的全国知名特色儿童康复专科。先后承担国家和省级继续教育项目10余项，主办“脑瘫、语言障碍和癫痫相关新进展新技术”学习班30余期，常年接收全国各地儿童康复医生和治疗师进修学习，培养了大批儿童康复技术人才。"@zh .
+<https://w3id.org/asdkb/instance/Department170> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital89> .
+<https://w3id.org/asdkb/instance/Department170> <http://www.w3.org/2000/01/rdf-schema#label> "青岛市妇女儿童医院康复科"@zh .
+

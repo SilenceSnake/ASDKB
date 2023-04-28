@@ -1,6 +1,9 @@
-<https://w3id.org/asdkb/instance/symptom42> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom42"@zh .
-<https://w3id.org/asdkb/instance/symptom42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
-<https://w3id.org/asdkb/instance/symptom42> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom48"@zh .
 <https://w3id.org/asdkb/instance/symptom42> <http://www.w3.org/2000/01/rdf-schema#comment> "姿势和步态倾向于基础广泛，肌肉张力低，躯干运动通常不协调，脊柱侧凸或后凸通常会发展"@zh .
+<https://w3id.org/asdkb/instance/symptom42> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/symptom48> .
+<https://w3id.org/asdkb/instance/symptom42> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom42"@zh .
+<https://w3id.org/asdkb/instance/symptom42> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom48"@zh .
 <https://w3id.org/asdkb/instance/symptom42> <http://www.w3.org/2000/01/rdf-schema#comment> "The stance and gait tend to become broad-based, the muscles are hypotonic, trunk movements usually become poorly coordinated, and scoliosis or kyphoscoliosis usually develops. "@en .
+<https://w3id.org/asdkb/instance/symptom42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
+<https://w3id.org/asdkb/instance/symptom42> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/symptom42> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom011> .
 

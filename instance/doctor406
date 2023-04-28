@@ -1,7 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor406> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童发育障碍性疾病的早期筛查、诊断和临床综合干预，包括儿童孤独症、多动症、抽动症等。儿童青少年常见心理行为问题的诊断和治疗，并从事儿童青少年家庭治疗以及心理咨询工作，包括情绪问题、学习困难、社交焦虑、考试焦虑、品行障碍、睡眠障碍、上学拒绝等。"@zh .
-<https://w3id.org/asdkb/instance/doctor406> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'南山区妇幼保健院'"@zh .
-<https://w3id.org/asdkb/instance/doctor406> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor406> <http://www.w3.org/2000/01/rdf-schema#label> "赵刚"@zh .
-<https://w3id.org/asdkb/instance/doctor406> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童心理科'"@zh .
+<https://w3id.org/asdkb/instance/doctor406> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department161> .
+<https://w3id.org/asdkb/instance/doctor406> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
 

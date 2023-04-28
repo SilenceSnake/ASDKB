@@ -1,3 +1,13 @@
 <https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "在与他人交谈时，仍然专注于自己感兴趣的话题"@zh .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question32option4> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question32option2> .
 <https://w3id.org/asdkb/instance/tools0question32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question32option5> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question32option6> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question32option3> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question32option1> .
+<https://w3id.org/asdkb/instance/tools0question32> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question32option0> .
 

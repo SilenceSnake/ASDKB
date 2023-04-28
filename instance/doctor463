@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor463> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department124> .
+<https://w3id.org/asdkb/instance/doctor463> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital241> .
 <https://w3id.org/asdkb/instance/doctor463> <http://www.w3.org/2000/01/rdf-schema#label> "关春荣"@zh .
-<https://w3id.org/asdkb/instance/doctor463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
+<https://w3id.org/asdkb/instance/doctor463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor463> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "新生儿疾病及新生儿重症监护急救知识、小儿神经康复及儿童心理知识；儿童神经心理、神经康复及儿童保健，小儿脑瘫、孤独症、多动症及抽动症等疾病的诊断和康复治疗;儿童保健及早期教育"@zh .
-<https://w3id.org/asdkb/instance/doctor463> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'济宁市任城区妇幼保健院'"@zh .
 <https://w3id.org/asdkb/instance/doctor463> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor463> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '小儿科'"@zh .
 

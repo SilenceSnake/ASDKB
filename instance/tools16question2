@@ -1,3 +1,11 @@
-<https://w3id.org/asdkb/instance/tools16question2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question2option4> .
+<https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools16> .
+<https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question2option5> .
 <https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "孩子一个人玩的时候，他/她会把物品排成一列吗？"@zh .
+<https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools16question2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question2option1> .
+<https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question2option2> .
+<https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools16question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools16question2option3> .
 

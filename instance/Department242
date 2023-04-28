@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department242> <http://www.w3.org/2000/01/rdf-schema#comment> "儿科目前设有门诊、急诊、病房、儿科重点研究室、儿科教研室、儿科新药临床研究室。其中门诊诊室9间，特色治疗室4间，病房床位76张，门诊输液室床位50张。儿科脑病研究室在医院功能检查科、影像科、病理室、免疫室等技术科室的基础上，进一步开展了视频脑电图、24小时动态脑电图、常规脑电图、脑电地形图、血药浓度等检测项目；此外学科还开展了24小时动态心电记录、多导心电图、肺功能仪、微量元素、过敏原试验等检测项目；儿科病房设有儿童重症监护区(PICU)，整个病房按照国际标准ICU流程设计，病房间隔采用玻璃幕墙，透视度极佳，保温效果好，装备了进口人工呼吸机、中心监护仪，并配有心脏除颤器、微量输液泵等现代化的抢救设施；目前科室电子支气管镜技术也在逐步成熟，将会为未来科室救治重症病人提供支持和保障。"@zh .
+<https://w3id.org/asdkb/instance/Department242> <http://www.w3.org/2000/01/rdf-schema#label> "天津中医药大学第一附属医院儿科"@zh .
+<https://w3id.org/asdkb/instance/Department242> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital151> .
+

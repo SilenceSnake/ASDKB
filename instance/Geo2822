@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2822> <https://w3id.org/asdkb/ontology/dataproperty/population> "490573人(2020年11月1日零时常住人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo2822> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "512022"@zh .
+<https://w3id.org/asdkb/instance/Geo2822> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City251> .
+<https://w3id.org/asdkb/instance/Geo2822> <http://www.w3.org/2000/01/rdf-schema#label> "乐至县"@zh .
+

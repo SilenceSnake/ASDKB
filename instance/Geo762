@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo762> <https://w3id.org/asdkb/ontology/dataproperty/population> "276076（2020年）"@zh .
+<https://w3id.org/asdkb/instance/Geo762> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City227> .
+<https://w3id.org/asdkb/instance/Geo762> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "451226000000"@zh .
+<https://w3id.org/asdkb/instance/Geo762> <http://www.w3.org/2000/01/rdf-schema#label> "环江毛南族自治县"@zh .
+

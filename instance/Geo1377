@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo1377> <https://w3id.org/asdkb/ontology/dataproperty/population> "54.34 万(截至2021年7月)"@zh .
+<https://w3id.org/asdkb/instance/Geo1377> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "410325"@zh .
+<https://w3id.org/asdkb/instance/Geo1377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo1377> <http://www.w3.org/2000/01/rdf-schema#label> "嵩县"@zh .
+<https://w3id.org/asdkb/instance/Geo1377> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City153> .
+

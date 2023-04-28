@@ -1,3 +1,13 @@
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question19option1> .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question19option6> .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question19option5> .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
 <https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "没有意识到他/她的行为如何影响他人"@zh .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question19option4> .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question19option3> .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question19option0> .
 <https://w3id.org/asdkb/instance/tools0question19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question19> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question19option2> .
 

@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor173> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿癫痫病、神经免疫性疾病、遗传代谢性疾病,线粒体肌病,药物难治性癫痫，婴儿痉挛症，"@zh .
 <https://w3id.org/asdkb/instance/doctor173> <http://www.w3.org/2000/01/rdf-schema#label> "方方"@zh .
-<https://w3id.org/asdkb/instance/doctor173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor173> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor173> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北京儿童医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor173> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '神经内科'"@zh .
+<https://w3id.org/asdkb/instance/doctor173> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department11> .
+<https://w3id.org/asdkb/instance/doctor173> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital28> .
 

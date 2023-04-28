@@ -1,3 +1,9 @@
+<https://w3id.org/asdkb/instance/tools2question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question10option2> .
+<https://w3id.org/asdkb/instance/tools2question10> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom02> .
+<https://w3id.org/asdkb/instance/tools2question10> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom10> .
 <https://w3id.org/asdkb/instance/tools2question10> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "11. 自由使用语言，但不能适应社会环境或不同听众的需要"@zh .
+<https://w3id.org/asdkb/instance/tools2question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question10option1> .
 <https://w3id.org/asdkb/instance/tools2question10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools2question10> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools2> .
+<https://w3id.org/asdkb/instance/tools2question10> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools2question10option0> .
 

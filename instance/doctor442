@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor442> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿童保健科'"@zh .
-<https://w3id.org/asdkb/instance/doctor442> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长身材矮小，性早熟，营养不良，遗传代谢病等儿童生长发育疾病的诊断与治疗，及小儿多动症、抽动症、自闭症、小儿睡眠问题，睡眠障碍，语言发育迟缓，构音问题，口吃，喂养困难，遗尿症等发育行为疾病的诊断、治疗。"@zh .
 <https://w3id.org/asdkb/instance/doctor442> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor442> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department245> .
+<https://w3id.org/asdkb/instance/doctor442> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长身材矮小，性早熟，营养不良，遗传代谢病等儿童生长发育疾病的诊断与治疗，及小儿多动症、抽动症、自闭症、小儿睡眠问题，睡眠障碍，语言发育迟缓，构音问题，口吃，喂养困难，遗尿症等发育行为疾病的诊断、治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor442> <http://www.w3.org/2000/01/rdf-schema#label> "张亚群"@zh .
-<https://w3id.org/asdkb/instance/doctor442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor442> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'威海市立医院'"@zh .
+<https://w3id.org/asdkb/instance/doctor442> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital174> .
 

@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department48> <http://www.w3.org/2000/01/rdf-schema#comment> "福建中医药大学附属第三人民医院康复治疗中心依托国家中医药管理局中医康复研究中心人才和技术，引进国际先进设备，结合中医药传统康复，开展物理治疗、作业治疗、言语治疗、认知治疗、感觉统合训练、中医传统康复治疗以及康复工程等治疗项目，目前拥有500平方米康复治疗区，是集医疗、教学、科研为一体的康复专科。中心整合福建中医药大学康复医学院专家资源，组成了一支高素质的专业康复团队,以福建中医药大学党委书记陈立典教授为学术带头人，以原福建中医药大学针灸学院院长，中国针灸学会理事，福建针灸学会会长吴强教授为学科带头人的康复团队，其中高级职称7人，中级职称9人，初级职称12人，秉承“早期介入、全面康复”的现代康复理念，通过中西医结合传统康复与现代康复融合的多治疗手段，在成人、小儿脑病康复治疗等方面具有独特的优势。针对不同年龄、不同疾病的功能障碍特点进行准确的功能评定，制定个体化康复治疗方案。运用现代康复手段对患者进行针对性的物理治疗、作业治疗、言语治疗等先进技术的同时，结合中医理论配合汤药内服、外用针灸、推拿、药物敷贴等治疗，以促进患者各项功能最大限度的恢复，功能改善率达80%以上，让患者早日回归家庭和社会。"@zh .
+<https://w3id.org/asdkb/instance/Department48> <http://www.w3.org/2000/01/rdf-schema#label> "福建中医药大学附属第三人民医院康复科"@zh .
+<https://w3id.org/asdkb/instance/Department48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department48> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital228> .
+

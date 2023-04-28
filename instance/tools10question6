@@ -1,3 +1,8 @@
 <https://w3id.org/asdkb/instance/tools10question6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools10question6> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools10> .
+<https://w3id.org/asdkb/instance/tools10question6> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools10question6> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom12> .
+<https://w3id.org/asdkb/instance/tools10question6> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools10question6option1> .
+<https://w3id.org/asdkb/instance/tools10question6> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools10question6option0> .
 <https://w3id.org/asdkb/instance/tools10question6> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "当你的孩子一个人待了一段时间后，他/她是否会试图吸引你的注意，比如哭或大声呼叫？"@zh .
 

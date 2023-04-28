@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo228> <https://w3id.org/asdkb/ontology/dataproperty/population> "334948人（截至2020年11月1日零时常住人口）"@zh .
+<https://w3id.org/asdkb/instance/Geo228> <http://www.w3.org/2000/01/rdf-schema#label> "沾化县"@zh .
+<https://w3id.org/asdkb/instance/Geo228> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "371603"@zh .
+<https://w3id.org/asdkb/instance/Geo228> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City149> .
+<https://w3id.org/asdkb/instance/Geo228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

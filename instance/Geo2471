@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2471> <https://w3id.org/asdkb/ontology/dataproperty/population> "186750 人(截至2019年末)"@zh .
+<https://w3id.org/asdkb/instance/Geo2471> <http://www.w3.org/2000/01/rdf-schema#label> "巩留县"@zh .
+<https://w3id.org/asdkb/instance/Geo2471> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "654024"@zh .
+<https://w3id.org/asdkb/instance/Geo2471> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City334> .
+<https://w3id.org/asdkb/instance/Geo2471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+

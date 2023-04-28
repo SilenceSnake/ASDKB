@@ -1,3 +1,13 @@
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question38option3> .
 <https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "倾向于成为一个完美主义者(也就是说，希望每件事都“顺其自然”，或者任何时候都放在某个地方)"@zh .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question38option2> .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom01> .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question38option6> .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question38option4> .
 <https://w3id.org/asdkb/instance/tools0question38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question38option1> .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question38option0> .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/tools0question38> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools0question38option5> .
 

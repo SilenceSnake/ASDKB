@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor183> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital122> .
 <https://w3id.org/asdkb/instance/doctor183> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor183> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department106> .
 <https://w3id.org/asdkb/instance/doctor183> <http://www.w3.org/2000/01/rdf-schema#label> "赵雪妮"@zh .
-<https://w3id.org/asdkb/instance/doctor183> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'黑龙江省医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor183> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '儿科'"@zh .
-<https://w3id.org/asdkb/instance/doctor183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
 <https://w3id.org/asdkb/instance/doctor183> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童保健及发育行为疾病1.小儿多动症，抽动症，语言发育迟缓及孤独症的评估及个体化治疗。2.儿童矮小，性早熟，食物过敏及儿童营养问题和儿童生长迟缓的评估及个体化治疗。3.儿童发育迟缓，心理行为问题的评估及个体化治疗。"@zh .
 

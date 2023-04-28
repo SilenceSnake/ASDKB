@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department225> <http://www.w3.org/2000/01/rdf-schema#comment> "神经科始建于70年代末。是目前首都儿科研究所医疗、科研及教学密切结合的专业科室。专业队伍由具有丰富临床经验和科研能力的老中青专家组成。多数中青年技术骨干具有研究生学历，并曾在欧美、日本等国家研修、学习。科内设有病房、门诊、电生理研究室（诱发电位、脑电图、肌电图室），相关科室有：生长发育研究室、遗传研究室、生化室、神经影像检查、病毒室等。患儿源于全国各地。 主要诊治：各种惊厥性疾病的病因诊断及治疗；脑性瘫痪及智力低下的病因诊断及确诊后的治疗；注意力缺陷-多动障碍、抽动症诊断及治疗；部分神经肌肉病临床、基因诊断及治疗：如进行性肌营养不良、脊髓性肌萎缩等；部分代谢性疾病的临床、基因诊断及治疗：如苯丙酮尿症、甲基丙二酸尿症、线粒体脑肌病、溶酶体病等；神经-感染性疾病的诊断及治疗（脑炎、脑膜炎、感染性神经根炎）；儿童睡眠障碍诊断及治疗（发作性睡病、入睡困难、夜惊、梦魇、梦游）；儿童学习困难的病因诊断及治疗。 "@zh .
+<https://w3id.org/asdkb/instance/Department225> <http://www.w3.org/2000/01/rdf-schema#label> "首都儿科研究所附属儿童医院神经内科"@zh .
+<https://w3id.org/asdkb/instance/Department225> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital104> .
+<https://w3id.org/asdkb/instance/Department225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

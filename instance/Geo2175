@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2175> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "650107"@zh .
+<https://w3id.org/asdkb/instance/Geo2175> <http://www.w3.org/2000/01/rdf-schema#label> "达坂城区"@zh .
+<https://w3id.org/asdkb/instance/Geo2175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2175> <https://w3id.org/asdkb/ontology/dataproperty/population> "34081人(2017年末户籍人口)"@zh .
+<https://w3id.org/asdkb/instance/Geo2175> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City323> .
+

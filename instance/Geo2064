@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2064> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City300> .
+<https://w3id.org/asdkb/instance/Geo2064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2064> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "620523"@zh .
+<https://w3id.org/asdkb/instance/Geo2064> <http://www.w3.org/2000/01/rdf-schema#label> "甘谷县"@zh .
+<https://w3id.org/asdkb/instance/Geo2064> <https://w3id.org/asdkb/ontology/dataproperty/population> "50.18 万(2021年)"@zh .
+

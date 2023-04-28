@@ -1,5 +1,7 @@
-<https://w3id.org/asdkb/instance/symptom52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/instance/symptom52> <http://www.w3.org/2000/01/rdf-schema#comment> "语言能力的严重退化或丧失"@zh .
-<https://w3id.org/asdkb/instance/symptom52> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom52"@zh .
+<https://w3id.org/asdkb/instance/symptom52> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom010> .
 <https://w3id.org/asdkb/instance/symptom52> <http://www.w3.org/2000/01/rdf-schema#comment> "regression in, or loss of, language"@en .
+<https://w3id.org/asdkb/instance/symptom52> <http://www.w3.org/2000/01/rdf-schema#comment> "语言能力的严重退化或丧失"@zh .
+<https://w3id.org/asdkb/instance/symptom52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/instance/symptom52> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/symptom52> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom52"@zh .
 

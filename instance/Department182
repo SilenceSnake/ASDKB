@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department182> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital96> .
+<https://w3id.org/asdkb/instance/Department182> <http://www.w3.org/2000/01/rdf-schema#comment> "山东大学齐鲁医院儿科始建于1924年，是中国最早的西医儿科之一，经过近百年的发展和几代人的共同努力，积累了深厚的科室文化底蕴，已成为一个亚专业齐全，梯队建设合理的综合强科。山东大学齐鲁医院儿科是山东省医药卫生重点学科、山东大学“985”重点学科、第一批山东省省级危重儿童和新生儿救治中心、国家一类重点儿科住院医师培训基地、住院医师规范化培训国家级示范基地、毕业后医学教育国家示范基地、国家级儿科骨干师资培训基地、国家级临床药理试验基地。为中华医学会儿科分会常委单位、山东省医学会儿科分会主委单位。2021年获批“国家儿童健康与疾病临床医学研究中心”核心单位及“省级儿童疾病区域医疗中心”共建单位，在全国的影响力显著提高。儿科亚专业齐全，包括神经、血液和肿瘤、呼吸、消化、免疫、心血管、肾脏、内分泌、重症医学、新生儿、儿童保健及发育行为等12个亚专业。儿科门诊全年开设普通门诊、专家门诊、知名专家门诊、国际医疗（特需）门诊以及多学科综合门诊（MDT）。具有独立的发热门诊系统、急诊系统及抢救观察室、输液中心。年门诊量25万余人次，其中急诊患者6万余人次。儿科住院部包括8个专业病区，开放住院床位246张，每年出院病人数达1.5万余人次。"@zh .
+<https://w3id.org/asdkb/instance/Department182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department182> <http://www.w3.org/2000/01/rdf-schema#label> "山东大学齐鲁医院小儿内科"@zh .
+

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/Geo2530> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "640181"@zh .
+<https://w3id.org/asdkb/instance/Geo2530> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/City318> .
+<https://w3id.org/asdkb/instance/Geo2530> <http://www.w3.org/2000/01/rdf-schema#label> "灵武市"@zh .
+<https://w3id.org/asdkb/instance/Geo2530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/district> .
+<https://w3id.org/asdkb/instance/Geo2530> <https://w3id.org/asdkb/ontology/dataproperty/population> "294156 人(2020年，灵武市常住总人口)"@zh .
+

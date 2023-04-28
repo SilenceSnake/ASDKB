@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department158> <http://www.w3.org/2000/01/rdf-schema#comment> "南京市儿童医院康复医学科（南京市脑瘫儿童康复训练技术指导中心），南京市市级临床重点专科，是集儿童康复教学、医疗、科研为一体的综合性儿童康复诊疗中心。运用运动疗法(PT)、配合作业疗法(0T)、言语治疗(ST)、感觉统合训练、情景模拟训练、理疗、磁疗、脑超声、经颅磁、神经阻滞技术、水疗、针灸、推拿、智能训练系统、悬吊运动训练（S-E-T）、密集训练、矫形器、引导式教育、手术及药物治疗为一体的综合方法进行治疗，并运用表面肌电康复评估系统对患儿进行综合评估，取得了满意的效果，达省内同行业先进水平。"@zh .
+<https://w3id.org/asdkb/instance/Department158> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital117> .
+<https://w3id.org/asdkb/instance/Department158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+<https://w3id.org/asdkb/instance/Department158> <http://www.w3.org/2000/01/rdf-schema#label> "南京医科大学附属儿童医院康复医学科"@zh .
+

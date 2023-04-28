@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor66> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'广东三九脑科医院'"@zh .
-<https://w3id.org/asdkb/instance/doctor66> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 儿童孤独症、自闭症、人格障碍、儿童行为障碍；难治性精神分裂症、抑郁症、双相障碍。癫痫所致精神障碍、脑器质性精神障碍。各种药物成瘾的治疗。"@zh .
-<https://w3id.org/asdkb/instance/doctor66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor66> <http://www.w3.org/2000/01/rdf-schema#label> "郝新民"@zh .
-<https://w3id.org/asdkb/instance/doctor66> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '心理行为医学科'"@zh .
+<https://w3id.org/asdkb/instance/doctor66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor66> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor66> <http://www.w3.org/2000/01/rdf-schema#label> "郝新民"@zh .
+<https://w3id.org/asdkb/instance/doctor66> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 儿童孤独症、自闭症、人格障碍、儿童行为障碍；难治性精神分裂症、抑郁症、双相障碍。癫痫所致精神障碍、脑器质性精神障碍。各种药物成瘾的治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor66> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department59> .
+<https://w3id.org/asdkb/instance/doctor66> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital53> .
 

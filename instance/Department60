@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/Department60> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital108> .
+<https://w3id.org/asdkb/instance/Department60> <http://www.w3.org/2000/01/rdf-schema#label> "广东省妇幼保健院儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/Department60> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童保健科是集保健、科研、管理、教学为一体的专业科室，创立于1944年，一直致力于推动全省儿童健康事业的发展。为广东省儿童保健业务指导中心、广东省儿童保健新技术培训中心、全国儿童死亡监测广东点、广东省妇幼保健院重点专业科室；承担中山大学、广州医学院、广东医学院、广东药学院等高等院校的本科教学及临床教学；业务水平、专科建设、人力资源等方面在全国及全省儿童保健界均处于领先地位。"@zh .
+<https://w3id.org/asdkb/instance/Department60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
+

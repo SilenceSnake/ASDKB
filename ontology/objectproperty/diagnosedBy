@@ -11,9 +11,9 @@
         <owl:versionIRI rdf:resource="https://w3id.org/asdkb/1.0"/>
     </owl:Ontology>
 
-    <!-- https://w3id.org/asdkb/ontology/property/diagnosedBy -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/diagnosedBy -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/property/diagnosedBy">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/diagnosedBy">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/physician"/>
         <rdfs:label xml:lang="en">diagnosedBy</rdfs:label>

@@ -1,0 +1,6 @@
+<https://w3id.org/asdkb/instance/City242> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "511000"@zh .
+<https://w3id.org/asdkb/instance/City242> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province22> .
+<https://w3id.org/asdkb/instance/City242> <http://www.w3.org/2000/01/rdf-schema#label> "内江市"@zh .
+<https://w3id.org/asdkb/instance/City242> <https://w3id.org/asdkb/ontology/dataproperty/population> "398.8 万(2022年户籍人口)"@zh .
+<https://w3id.org/asdkb/instance/City242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .
+

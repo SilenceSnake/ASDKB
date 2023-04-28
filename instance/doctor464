@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor464> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "治疗焦虑，抑郁，强迫，失眠，儿童青少年情绪障碍，高中生厌学，大学生情感咨询。心理治疗方面，擅长运用绘画、沙盘、oh卡、舞动等艺术治疗技巧。诊治其它疾病如神经性厌食、神经性贪食，恐艾滋病、恐癌症、疑病症、躯体形式障碍、胃肠激惹综合症、心身疾病、酒精戒断综合症状态、社交恐怖症、惊恐发作、广泛性发育障碍、习惯与冲动控制障碍、神经衰弱、癔症性精神障碍、躁狂抑郁双向情感障碍、恐惧症、场所恐惧症、老年痴呆、老年顽固性失眠、老年痴呆和并性格变异"@zh .
 <https://w3id.org/asdkb/instance/doctor464> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/doctor> .
-<https://w3id.org/asdkb/instance/doctor464> <https://w3id.org/asdkb/ontology/dataproperty/hospital_department> " '精神科'"@zh .
+<https://w3id.org/asdkb/instance/doctor464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor464> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital205> .
+<https://w3id.org/asdkb/instance/doctor464> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "治疗焦虑，抑郁，强迫，失眠，儿童青少年情绪障碍，高中生厌学，大学生情感咨询。心理治疗方面，擅长运用绘画、沙盘、oh卡、舞动等艺术治疗技巧。诊治其它疾病如神经性厌食、神经性贪食，恐艾滋病、恐癌症、疑病症、躯体形式障碍、胃肠激惹综合症、心身疾病、酒精戒断综合症状态、社交恐怖症、惊恐发作、广泛性发育障碍、习惯与冲动控制障碍、神经衰弱、癔症性精神障碍、躁狂抑郁双向情感障碍、恐惧症、场所恐惧症、老年痴呆、老年顽固性失眠、老年痴呆和并性格变异"@zh .
+<https://w3id.org/asdkb/instance/doctor464> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department19> .
 <https://w3id.org/asdkb/instance/doctor464> <http://www.w3.org/2000/01/rdf-schema#label> "汪静"@zh .
-<https://w3id.org/asdkb/instance/doctor464> <https://w3id.org/asdkb/ontology/dataproperty/hospital> "'北京市海淀医院'"@zh .
 

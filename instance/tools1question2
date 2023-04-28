@@ -1,3 +1,8 @@
-<https://w3id.org/asdkb/instance/tools1question2> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "3.经常不能注意到社交方面或外界环境的讯息。"@zh .
 <https://w3id.org/asdkb/instance/tools1question2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_question> .
+<https://w3id.org/asdkb/instance/tools1question2> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom11> .
+<https://w3id.org/asdkb/instance/tools1question2> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/tools1> .
+<https://w3id.org/asdkb/instance/tools1question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools1question2option1> .
+<https://w3id.org/asdkb/instance/tools1question2> <https://w3id.org/asdkb/ontology/objectproperty/hasOption> <https://w3id.org/asdkb/instance/tools1question2option0> .
+<https://w3id.org/asdkb/instance/tools1question2> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/symptom00> .
+<https://w3id.org/asdkb/instance/tools1question2> <https://w3id.org/asdkb/ontology/dataproperty/question_content> "3.经常不能注意到社交方面或外界环境的讯息。"@zh .
 
