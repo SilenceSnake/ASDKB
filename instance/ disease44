@@ -1,30 +1,31 @@
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools11> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools8> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools19> .
-<https://w3id.org/asdkb/instance/disease44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/432091002> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools5> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools0> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/patient_groups> "患有自闭症的群体"@zh .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools18> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools2> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools7> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools15> .
-<https://w3id.org/asdkb/instance/disease44> <http://www.w3.org/2000/01/rdf-schema#label> "学者症候群"@zh .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "学者症候群（英语：Savant syndrome）是指仅在某个很有限的领域有超出常人的表现，然而却广泛地在其他方面有明显的心智障碍。这样的突出表现有多种不同形式，包括演奏乐器、绘画、记忆、心算、日历运算能力等。学者症候群常见于自闭症、亚斯伯格症候群或脑伤患者身上。[1][2]学者症候群并没有被正式纳入DSM-5的诊断，因为其心智障碍的部分多半可以归类于其他疾病。"@zh .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools3> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/SCTID> "432091002"@zh .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F88"@zh .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools10> .
 <https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools1> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools4> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools13> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools16> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/pathogeny> "遗传和环境因素"@zh .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools5> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "Savant 综合征"@zh .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools3> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "Savant 综合征（障碍）"@zh .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/SCTID> "432091002"@zh .
 <https://w3id.org/asdkb/instance/disease44> <http://www.w3.org/2000/01/rdf-schema#label> "Disorder of psychological development (disorder)"@en .
 <https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools17> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/synonym> "Savant 综合征（障碍）；Savant 综合征"@zh .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools0> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools4> .
 <https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools12> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools9> .
-<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools6> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools19> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/icd-10_code> "F88"@zh .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools2> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools8> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools10> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/patient_groups> "患有自闭症的群体"@zh .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools11> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools15> .
 <https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools14> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "学者症候群（英语：Savant syndrome）是指仅在某个很有限的领域有超出常人的表现，然而却广泛地在其他方面有明显的心智障碍。这样的突出表现有多种不同形式，包括演奏乐器、绘画、记忆、心算、日历运算能力等。学者症候群常见于自闭症、亚斯伯格症候群或脑伤患者身上。[1][2]学者症候群并没有被正式纳入DSM-5的诊断，因为其心智障碍的部分多半可以归类于其他疾病。"@zh .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools16> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools9> .
+<https://w3id.org/asdkb/instance/disease44> <http://www.w3.org/2000/01/rdf-schema#label> "学者症候群"@zh .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools7> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools6> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools13> .
+<https://w3id.org/asdkb/instance/disease44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/432091002> .
+<https://w3id.org/asdkb/instance/disease44> <https://w3id.org/asdkb/ontology/objectproperty/interventionMethod> <https://w3id.org/asdkb/instance/tools18> .
 
