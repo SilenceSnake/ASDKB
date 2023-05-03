@@ -1,4 +1,0 @@
-<https://w3id.org/asdkb/instance/icddisease9> <http://www.w3.org/2000/01/rdf-schema#label> "其他相关疾病"@zh .
-<https://w3id.org/asdkb/instance/icddisease9> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/icddisease0> .
-<https://w3id.org/asdkb/instance/icddisease9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/other_related__diseases> .
-

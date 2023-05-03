@@ -7,6 +7,5 @@
 <https://w3id.org/asdkb/instance/tools17> <https://w3id.org/asdkb/ontology/dataproperty/time> "20分钟"@zh .
 <https://w3id.org/asdkb/instance/tools17> <https://w3id.org/asdkb/ontology/dataproperty/rule> "所有项目都以“通过”或“失败”的形式评分。每个域的失败项目将转换为分数。两个项目域的分数是 0、0.5 或 1，而四个项目域的分数是 0、0.25、0.50、0.75 或 1。将所有分数加起来为总分。2.25–2.75 STAT 的截止分数"@zh .
 <https://w3id.org/asdkb/instance/tools17> <https://w3id.org/asdkb/ontology/dataproperty/author> "Stone, Coonrod, & Ousley, 2000"@en .
-<https://w3id.org/asdkb/instance/tools17> <https://w3id.org/asdkb/ontology/classes/physician> "2.75"@zh .
 <https://w3id.org/asdkb/instance/tools17> <http://www.w3.org/2000/01/rdf-schema#label> "自闭症幼儿筛查工具(STAT)"@zh .
 

@@ -1,4 +1,4 @@
-<https://w3id.org/asdkb/instance/tools1> <https://w3id.org/asdkb/ontology/classes/physician> "67"@zh .
+<https://w3id.org/asdkb/instance/tools1> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "67"@zh .
 <https://w3id.org/asdkb/instance/tools1> <http://www.w3.org/2000/01/rdf-schema#label> "孤独症行为检查表(ABC)"@zh .
 <https://w3id.org/asdkb/instance/tools1> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "53"@zh .
 <https://w3id.org/asdkb/instance/tools1> <http://www.w3.org/2000/01/rdf-schema#label> "Autism Behavior Checklist"@en .
