@@ -4,12 +4,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
   <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/physician">
-    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0031831"/>
-    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C0031831"/>
+    <rdfs:subClassOf rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0031831"/>
+    <rdfs:subClassOf rdf:resource="http://linkedlifedata.com/resource/umls/id/C0031831"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/screening_tool">
-    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C2041469"/>
-    <owl:equivalentClass rdf:resource="http://linkedlifedata.com/resource/umls/id/C2041469"/>
+    <rdfs:subClassOf rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C2041469"/>
+    <rdfs:subClassOf rdf:resource="http://linkedlifedata.com/resource/umls/id/C2041469"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder">
     <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C1510586"/>
