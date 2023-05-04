@@ -84,19 +84,8 @@
     <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/diagnosticStandard">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/option"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/diagnostic_standard"/>
-        <rdfs:label xml:lang="en">diagnosticStandard</rdfs:label>
+        <rdfs:label xml:lang="en">matchStandard</rdfs:label>
         <rdfs:label xml:lang="zh">命中标准</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/district -->
-
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/district">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/district"/>
-        <rdfs:label xml:lang="en">district</rdfs:label>
-        <rdfs:label xml:lang="zh">所属区</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -109,17 +98,6 @@
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/option"/>
         <rdfs:label xml:lang="en">hasOption</rdfs:label>
         <rdfs:label xml:lang="zh">选项</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/hasQuestion -->
-
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/hasQuestion">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/screening_question"/>
-        <rdfs:label xml:lang="en">hasQuestion</rdfs:label>
-        <rdfs:label xml:lang="zh">问题</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -168,17 +146,6 @@
         <rdfs:comment xml:lang="zh">所属省份</rdfs:comment>
         <rdfs:label xml:lang="en">locateAt</rdfs:label>
         <rdfs:label xml:lang="zh">位于</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/province -->
-
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/province">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/province"/>
-        <rdfs:label xml:lang="en">province</rdfs:label>
-        <rdfs:label xml:lang="zh">所属省</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -271,20 +238,6 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/dataproperty/definition -->
-
-    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperty/definition">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/EBP"/>
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital_department"/>
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-        <rdfs:label xml:lang="en">Definition</rdfs:label>
-        <rdfs:label xml:lang="zh">定义</rdfs:label>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- https://w3id.org/asdkb/ontology/dataproperty/hospital_level -->
 
     <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperty/hospital_level">
@@ -303,6 +256,20 @@
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
         <rdfs:label xml:lang="en">ICD-10 Code</rdfs:label>
         <rdfs:label xml:lang="zh">ICD-10编码</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/dataproperty/introduction -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperty/introduction">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/EBP"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital_department"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Introduction</rdfs:label>
+        <rdfs:label xml:lang="zh">简介</rdfs:label>
     </owl:DatatypeProperty>
     
 
@@ -398,7 +365,7 @@
     <!-- https://w3id.org/asdkb/ontology/dataproperty/screening_boundary -->
 
     <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperty/screening_boundary">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_question"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
         <rdfs:label xml:lang="en">Screening Boundary</rdfs:label>
         <rdfs:label xml:lang="zh">筛查界限</rdfs:label>
