@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department172> <http://www.w3.org/2000/01/rdf-schema#label> "清华大学玉泉医院精神卫生科"@zh .
-<https://w3id.org/asdkb/instance/Department172> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital222> .
-<https://w3id.org/asdkb/instance/Department172> <http://www.w3.org/2000/01/rdf-schema#comment> "清华大学玉泉医院精神卫生科于2004年设立，现有主任医师、教授、博士生导师1名，客座教授1名、副主任医师1名，主治医师3名，医师2名。是清华大学医学院精神卫生学硕士、博士点和临床科研进修培训基地。现有在读硕士、博士和博士后各1名，已培养博士和博士后各1名。开设了普通精神卫生门诊、专家门诊、特需心理咨询专家门诊和开放式临床心理康复病房。学科承担了清华大学 8 年制医学生的“医学心理学”的和研究生“精神病和精神卫生学”教学任务，主持了国家十一五攻关项目，国家自然科学基金，国家自然青年基金，清华裕元基金及国际合作项目等8 项。除医院装备CT和MRI以外，现科室也装备了电脑心理测量仪、生物反馈仪、重复经颅磁刺激仪和沙盘治疗仪等心理检测治疗设备，在医院支持下，2010年率先在国内教学医院精神卫生科，装备了国际先进的日本岛津32道光纤导联FOIRE-3000近红外脑皮层成像分析系统。该系统利用近红外光观察静息和任务状态下各脑区脱氧血红蛋白和氧合血红蛋白的时间依赖性曲线特征和空间变化特征，可反映特定时间段的脑认知、联想和心理症状变化的关系。目前正在用于临床观察抑郁症、焦虑症、强迫症、躯体形式障碍和精神分裂症等脑功能性疾病的诊疗前后的变化。为临床诊疗和心理干预提供了参考指南和循证分析研究的数据。"@zh .
-

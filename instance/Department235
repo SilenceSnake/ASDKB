@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department235> <http://www.w3.org/2000/01/rdf-schema#comment> "滕州市中心人民医院儿内科成立于1959年，2007年被评为滕州市医药卫生重点专科，2009年被评为枣庄市医药重点学科、枣庄市十大名优学科，2010年获山东省医疗质量示范科室，2011年获山东省地市级中心医院临床重点专科。现有医护人员180人，医生60人，主任医师8人，副主任医师12人，主治医师12人，住院医师28人；硕士研究生36人，在职在读研究生2人，主任护师3人，副主任护师12人。分设6个病区，开放床位220张，下设PICU、NICU、新生儿、呼吸、消化、神经、泌尿、血液、内分泌、结缔、康复等专业。年门诊量36万人次，年出院病人8300余人。"@zh .
-<https://w3id.org/asdkb/instance/Department235> <http://www.w3.org/2000/01/rdf-schema#label> "滕州市中心人民医院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department235> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital178> .
-

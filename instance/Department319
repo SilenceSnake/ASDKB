@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department319> <http://www.w3.org/2000/01/rdf-schema#comment> "中山市博爱医院儿童保健科是集科研、教学、临床为一体的儿童保健工作执行和业务指导机构，承担着对全市儿童保健医务人员的业务培训及指导，先后被授予中山市“青少年科普教育基地”， “广东省儿童心理卫生保健示范单位”、“广东省社区科普工作先进集体” “中山市智力残疾康复技术指导中心”。目前有医护人员31名，其中主任医师3名，副主任医师2名，儿科学博士、硕士生导师1名，主治医师4名，主管护师5名，儿童心理医师3名（心理硕士研究生2名），小儿内分泌研究生1名。"@zh .
-<https://w3id.org/asdkb/instance/Department319> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital6> .
-<https://w3id.org/asdkb/instance/Department319> <http://www.w3.org/2000/01/rdf-schema#label> "中山市博爱医院儿保科"@zh .
-

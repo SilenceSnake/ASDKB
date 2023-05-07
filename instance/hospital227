@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/hospital227> <http://www.w3.org/2000/01/rdf-schema#label> "江门市妇幼保健院"@zh .
 <https://w3id.org/asdkb/instance/hospital227> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0750-7361110(门诊)"@zh .
-<https://w3id.org/asdkb/instance/hospital227> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
 <https://w3id.org/asdkb/instance/hospital227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital227> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital227> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City201> .
 <https://w3id.org/asdkb/instance/hospital227> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省江门市蓬江区星河路2号"@zh .
-<https://w3id.org/asdkb/instance/hospital227> <https://w3id.org/asdkb/ontology/dataproperty/city> "江门市"@zh .
 

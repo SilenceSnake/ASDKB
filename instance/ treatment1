@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/treatment1> <http://www.w3.org/2000/01/rdf-schema#label> "感觉统合(ASI)"@zh .
+<https://w3id.org/asdkb/instance/treatment1> <http://www.w3.org/2000/01/rdf-schema#label> "Ayres Sensory Integrationn"@en .
+<https://w3id.org/asdkb/instance/treatment1> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "该方法的目标是使学习者能从身体和环境中整合感觉信息(视觉、听觉、触觉、本体感受和前庭觉)，以使用恰当的行为做出反应。"@zh .
+<https://w3id.org/asdkb/instance/treatment1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
+

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor113> <http://www.w3.org/2000/01/rdf-schema#label> "王子才"@zh .
 <https://w3id.org/asdkb/instance/doctor113> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital75> .
-<https://w3id.org/asdkb/instance/doctor113> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿神经专业，对小儿癫痫、脑性瘫痪的早期诊断、智力低下、学习困难、儿童心理行为异常(如注意缺陷多动障碍、孤独症等)有较深研究;对小儿智力测验、脑性瘫痪家庭运动康复训练有深入研究和丰富经验。"@zh .
 <https://w3id.org/asdkb/instance/doctor113> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor113> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department196> .
+<https://w3id.org/asdkb/instance/doctor113> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
 <https://w3id.org/asdkb/instance/doctor113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor113> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿神经专业，对小儿癫痫、脑性瘫痪的早期诊断、智力低下、学习困难、儿童心理行为异常(如注意缺陷多动障碍、孤独症等)有较深研究;对小儿智力测验、脑性瘫痪家庭运动康复训练有深入研究和丰富经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor113> <http://www.w3.org/2000/01/rdf-schema#label> "王子才"@zh .
 

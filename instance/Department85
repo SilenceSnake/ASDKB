@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department85> <http://www.w3.org/2000/01/rdf-schema#comment> "海南省妇幼保健院(海南省儿童医院)儿童康复科开业于2013年10月8日，由发育行为专科和神经康复专科组成。中心致力于发育行为专科、神经发育专科等领域的临床和科研工作，对孤独症谱系障碍、智能发育迟缓、注意缺陷多动障碍、学习困难、情绪行为障碍及脑瘫等问题开展了一系列的诊断和康复治疗工作。中心立足于岛内，在海南残疾儿童的康复教育方面做出了卓有成效的工作，得到了社会的认可和患者的好评。2014年3月，全国妇联、中国妇女发展基金会授予海南省妇女儿童医学中心为“全国自闭症儿童家庭关怀行动自闭症儿童早期诊断干预培训示范基地”。2015年，本中心被海南省妇女联合会授予“巾帼文明岗”称号；同时还是海南省残疾人联合会指定的“海南省抢救性孤独症、智力低下、脑瘫儿童康复项目定点机构”，也是海南省康复医学会儿童康复专业委员会主任委员单位，是目前海南省各亚专业最齐全和发展最完善的儿童康复中心，承担着向全省各级妇幼机构及基层综合医院推广儿童康复工作的重任。"@zh .
-<https://w3id.org/asdkb/instance/Department85> <http://www.w3.org/2000/01/rdf-schema#label> "海南省妇女儿童医学中心儿童康复中心"@zh .
-<https://w3id.org/asdkb/instance/Department85> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital198> .
-

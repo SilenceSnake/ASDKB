@@ -1,5 +1,5 @@
 <https://w3id.org/asdkb/instance/treatment27> <http://www.w3.org/2000/01/rdf-schema#label> "视觉提示(VS)"@zh .
-<https://w3id.org/asdkb/instance/treatment27> <https://w3id.org/asdkb/ontology/dataproperty/definition> "一种辅助学习者在没有其他辅助的情况下，完成目标行为的策略。"@zh .
-<https://w3id.org/asdkb/instance/treatment27> <http://www.w3.org/2000/01/rdf-schema#label> "Visual Supports"@en .
+<https://w3id.org/asdkb/instance/treatment27> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "一种辅助学习者在没有其他辅助的情况下，完成目标行为的策略。"@zh .
 <https://w3id.org/asdkb/instance/treatment27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
+<https://w3id.org/asdkb/instance/treatment27> <http://www.w3.org/2000/01/rdf-schema#label> "Visual Supports"@en .
 

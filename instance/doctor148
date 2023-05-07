@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor148> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor148> <http://www.w3.org/2000/01/rdf-schema#label> "陆小兵"@zh .
 <https://w3id.org/asdkb/instance/doctor148> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital8> .
 <https://w3id.org/asdkb/instance/doctor148> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长抑郁症、精神分裂症、双相情感障碍、强迫症、焦虑症、偏头痛、睡眠障碍、青少年情绪行为障碍、癫痫所致精神障碍、老年痴呆等的诊断与治疗，特别对难治性精神病的治疗有独特的方法。对精神障碍患者的妊娠问题有丰富的临床经验和科学见解。开展精神障碍患者生育咨询。对精神疾病患者合并的代谢性疾病（肥胖、闭经等）有行之有效的综合干预模式。开展心理咨询和心理治疗。"@zh .
-<https://w3id.org/asdkb/instance/doctor148> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department78> .
-<https://w3id.org/asdkb/instance/doctor148> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor148> <https://w3id.org/asdkb/ontology/dataproperty/department> "精神科"@zh .
 

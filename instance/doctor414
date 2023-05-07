@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor414> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department257> .
-<https://w3id.org/asdkb/instance/doctor414> <http://www.w3.org/2000/01/rdf-schema#label> "李晶晶"@zh .
 <https://w3id.org/asdkb/instance/doctor414> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "早产儿脑损伤、儿童斜颈、儿童脑性瘫痪、运动障碍、发育迟滞、智力障碍、孤独谱系障碍、颅内感染、周围神经损伤、语言障碍、中毒性脑病等儿童神经系统疾病的诊断、评估和治疗，同时对儿童常见疾病给出合理的建议和用药咨询。"@zh .
 <https://w3id.org/asdkb/instance/doctor414> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital156> .
+<https://w3id.org/asdkb/instance/doctor414> <https://w3id.org/asdkb/ontology/dataproperty/department> "康复医学科"@zh .
 <https://w3id.org/asdkb/instance/doctor414> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor414> <http://www.w3.org/2000/01/rdf-schema#label> "李晶晶"@zh .
 

@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor144> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor144> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital110> .
 <https://w3id.org/asdkb/instance/doctor144> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "1.脑瘫、发育迟缓、发育协调障碍、高危儿筛查、脊髓损伤、偏瘫、脑外伤等脑血管疾病。2.精神发育迟缓、自闭症。3.各种言语－语言障碍、摄食－吞咽障碍的诊断及治疗。4.骨科康复、传统康复。5.心理测量、心理咨询、心理治疗。6.失用症、失认症等高级脑功能障碍。"@zh .
 <https://w3id.org/asdkb/instance/doctor144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor144> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童康复中心"@zh .
 <https://w3id.org/asdkb/instance/doctor144> <http://www.w3.org/2000/01/rdf-schema#label> "冯金彩"@zh .
-<https://w3id.org/asdkb/instance/doctor144> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor144> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department200> .
 

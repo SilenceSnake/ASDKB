@@ -1,5 +1,5 @@
 <https://w3id.org/asdkb/instance/treatment5> <http://www.w3.org/2000/01/rdf-schema#label> "区别强化替代行为/竞争行为/其他行为(DR)"@zh .
-<https://w3id.org/asdkb/instance/treatment5> <https://w3id.org/asdkb/ontology/dataproperty/definition> "一种通过对替代行为/竞争行为/其他行为提供强化，使目标行为增加或减少的策略。"@zh .
 <https://w3id.org/asdkb/instance/treatment5> <http://www.w3.org/2000/01/rdf-schema#label> "Differential Reinforcement of Alternative, Incompatible, or Other Behavior"@en .
+<https://w3id.org/asdkb/instance/treatment5> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "一种通过对替代行为/竞争行为/其他行为提供强化，使目标行为增加或减少的策略。"@zh .
 <https://w3id.org/asdkb/instance/treatment5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
 

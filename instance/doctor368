@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor368> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital235> .
-<https://w3id.org/asdkb/instance/doctor368> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department160> .
+<https://w3id.org/asdkb/instance/doctor368> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor368> <http://www.w3.org/2000/01/rdf-schema#label> "朱晓茜"@zh .
 <https://w3id.org/asdkb/instance/doctor368> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年精神心理疾病诊治，心理咨询与心理治疗"@zh .
-<https://w3id.org/asdkb/instance/doctor368> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor368> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital235> .
+<https://w3id.org/asdkb/instance/doctor368> <https://w3id.org/asdkb/ontology/dataproperty/department> "临床心理科"@zh .
 

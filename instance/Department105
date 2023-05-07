@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department105> <http://www.w3.org/2000/01/rdf-schema#comment> "河南中医学院第一附属医院康复中心是卫生部临床重点专科、国家中医药管理局重点学科，国家中医药管理局重点专科，河南省中西医结合康复诊疗中心，河南省中医、中西医结合康复专业委员会主任委员单位，也是河南省康复专业重要的教学培训基地。目前，在医院努力建设临床研究型医院的办院方针指导下，康复中心正努力开拓进取，朝着国内一流的康复中心迈进。"@zh .
-<https://w3id.org/asdkb/instance/Department105> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital127> .
-<https://w3id.org/asdkb/instance/Department105> <http://www.w3.org/2000/01/rdf-schema#label> "河南中医药大学第一附属医院康复中心"@zh .
-

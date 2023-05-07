@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor357> <http://www.w3.org/2000/01/rdf-schema#label> "麦思茗"@zh .
 <https://w3id.org/asdkb/instance/doctor357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department77> .
-<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital8> .
+<https://w3id.org/asdkb/instance/doctor357> <http://www.w3.org/2000/01/rdf-schema#label> "麦思茗"@zh .
 <https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿抑郁、焦虑症、强迫症"@zh .
+<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital8> .
+<https://w3id.org/asdkb/instance/doctor357> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿少精神科"@zh .
 

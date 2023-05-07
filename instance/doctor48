@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor48> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健"@zh .
 <https://w3id.org/asdkb/instance/doctor48> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital40> .
-<https://w3id.org/asdkb/instance/doctor48> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department215> .
-<https://w3id.org/asdkb/instance/doctor48> <http://www.w3.org/2000/01/rdf-schema#label> "龚建华"@zh .
 <https://w3id.org/asdkb/instance/doctor48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor48> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "对儿童多动症、孤独症、语言障碍、学习困难、维生素缺乏症、微量元素缺乏和中毒（如锌缺乏、铅中毒）等方面诊治有独特经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor48> <http://www.w3.org/2000/01/rdf-schema#label> "龚建华"@zh .
 <https://w3id.org/asdkb/instance/doctor48> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor48> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "对儿童多动症、孤独症、语言障碍、学习困难、维生素缺乏症、微量元素缺乏和中毒（如锌缺乏、铅中毒）等方面诊治有独特经验。"@zh .
 

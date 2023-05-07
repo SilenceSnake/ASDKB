@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department55> <http://www.w3.org/2000/01/rdf-schema#comment> "心理科始于1998年，科主任高鸿云教授，主要针对0－18岁儿童青少年各类心理行为问题和精神障碍的诊治。设有心理咨询门诊、注意力门诊、孤独症及心理发育门诊、慢性疼痛和喂养障碍门诊，开展的心理测评包括智力测验、注意力测验、心理发育评价、个性测试及各种精神症状和行为评定，并提供各种形式的心理治疗，包括游戏治疗、家庭治疗及父母培训等，擅长于儿童多动症、孤独症以及各种不明原因的疼痛、呕吐或其它躯体症状的诊治。科室目前有6位医师（高级职称3名，中级职称1名，住院医生2名），4位治疗师。"@zh .
-<https://w3id.org/asdkb/instance/Department55> <http://www.w3.org/2000/01/rdf-schema#label> "复旦大学附属儿科医院心理科"@zh .
-<https://w3id.org/asdkb/instance/Department55> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital107> .
-<https://w3id.org/asdkb/instance/Department55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

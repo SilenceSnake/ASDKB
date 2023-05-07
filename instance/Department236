@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department236> <http://www.w3.org/2000/01/rdf-schema#label> "天津市安定医院儿童青少年心理科"@zh .
-<https://w3id.org/asdkb/instance/Department236> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital130> .
-<https://w3id.org/asdkb/instance/Department236> <http://www.w3.org/2000/01/rdf-schema#comment> "针对青少儿心理发育特点和心理健康需求，努力打造一所集早期识别、早期诊断与治疗、心理功能康复、危机干预和预防性干预、相关咨询等医、教、研、防为一体的全面的医疗服务机构。"@zh .
-<https://w3id.org/asdkb/instance/Department236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

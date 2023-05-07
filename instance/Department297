@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department297> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital18> .
-<https://w3id.org/asdkb/instance/Department297> <http://www.w3.org/2000/01/rdf-schema#comment> "nan"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/asdkb/instance/Department297> <http://www.w3.org/2000/01/rdf-schema#label> "浙江省儿童医院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department54> <http://www.w3.org/2000/01/rdf-schema#label> "复旦大学附属儿科医院康复科"@zh .
-<https://w3id.org/asdkb/instance/Department54> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital107> .
-<https://w3id.org/asdkb/instance/Department54> <http://www.w3.org/2000/01/rdf-schema#comment> "复旦大学附属儿科医院康复科成立于2000年，本着“严谨求实，厚积薄发”的医疗理念，在医教研各方面追求全面发展，目前已成为国内颇具规模和影响力的儿童康复机构。本科作为集治疗、研究和培训为一体的三级甲等医院特色专科，在传统的中医针灸、推拿、理疗治疗技术基础上，还发展了运动治疗（PT）、作业治疗（OT）、语言治疗（ST）、认知运动疗法、婴儿训练、新生儿康复评估、家庭康复指导等技术，并通过十余年的实践和探索，逐渐建立了“脑瘫儿童康复标准化评估体系以及脑瘫儿早期筛查和干预体系”；创立了特色康复服务模式—“中心辐射基地型”链式康复模式（脑瘫儿童医疗-社区-家庭链式康复服务模式），为国内外患有各种疾病（如脑瘫、精神发育迟滞、骨折、脑外伤、脑炎、脊髓损伤、斜颈、周围神经肌肉疾病等）的儿童提供了中西医相结合的综合性康复治疗，取得了良好的康复效果，促进了这些儿童功能提升、帮助他们早日回归社会、融入社会。康复科还针对危重症患者和急慢性病住院患者，进行了急性期床旁康复评估和早期干预，发展了儿童危重症康复、心肺康复和骨关节康复技术，显著促进了患者的早期功能恢复，协助缩短住院时间。"@zh .
-

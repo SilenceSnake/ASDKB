@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department173> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital238> .
-<https://w3id.org/asdkb/instance/Department173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department173> <http://www.w3.org/2000/01/rdf-schema#label> "日照市妇幼保健院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department173> <http://www.w3.org/2000/01/rdf-schema#comment> "日照市妇幼保健院儿童保健科是市级重点建设专科，是山东省儿童早期发展示范基地，主要负责0~6岁儿童的健康管理和全市医疗保健机构和托幼机构儿童保健业务技术指导等工作。主要特色服务项目有：儿童早期发展门诊：作为该市唯一一家山东省儿童早期发展示范基地，为0~3岁儿童提供全程服务，有金、银卡会员服务项目：主要包括为儿童建立健康档案、定期体格检查、生长发育监测、营养喂养指导、五官保健指导、常见病防治、智力测验、早期教育、神经运动检查、ASQ儿童发育筛查、先天性髋关节不良筛查等，将查体结果和宝宝照片一同打印存放，为每一位会员宝宝留下成长记录。儿童心理行为门诊：主要开展抽动症、多动症、自闭症和智力障碍等疾病的诊疗工作，通过50多个儿童心理测评项目，全面地了解孩子的智力水平和个性心理特征，及时发现问题并早期干预，保证孩子身心健康成长。"@zh .
-

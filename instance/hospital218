@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital218> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/instance/hospital218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital218> <https://w3id.org/asdkb/ontology/dataproperty/address> "福建省福州市鼓楼区八一七中路145号"@zh .
-<https://w3id.org/asdkb/instance/hospital218> <https://w3id.org/asdkb/ontology/dataproperty/city> "福州市"@zh .
-<https://w3id.org/asdkb/instance/hospital218> <http://www.w3.org/2000/01/rdf-schema#label> "福建省福州儿童医院"@zh .
 <https://w3id.org/asdkb/instance/hospital218> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0591-83616161(免费预约咨询电话),0591-83322708"@zh .
+<https://w3id.org/asdkb/instance/hospital218> <http://www.w3.org/2000/01/rdf-schema#label> "福建省福州儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital218> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital218> <https://w3id.org/asdkb/ontology/dataproperty/address> "福建省福州市鼓楼区八一七中路145号"@zh .
+<https://w3id.org/asdkb/instance/hospital218> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City114> .
+<https://w3id.org/asdkb/instance/hospital218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

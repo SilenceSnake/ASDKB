@@ -1,9 +1,4 @@
-<https://w3id.org/asdkb/instance/symptom30> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom012> .
 <https://w3id.org/asdkb/instance/symptom30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
-<https://w3id.org/asdkb/instance/symptom30> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom02> .
-<https://w3id.org/asdkb/instance/symptom30> <http://www.w3.org/2000/01/rdf-schema#comment> " lack spontaneity, initiative, and creativity in the organization of their leisure time and have difficulty applying conceptualizations in decision-making in work"@en .
-<https://w3id.org/asdkb/instance/symptom30> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom30"@zh .
-<https://w3id.org/asdkb/instance/symptom30> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/symptom24> .
 <https://w3id.org/asdkb/instance/symptom30> <http://www.w3.org/2000/01/rdf-schema#comment> "在闲暇时间时缺乏自发性、主动性和创造性，在工作决策中难以应用概念化 "@zh .
-<https://w3id.org/asdkb/instance/symptom30> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom24"@zh .
+<https://w3id.org/asdkb/instance/symptom30> <http://www.w3.org/2000/01/rdf-schema#comment> " lack spontaneity, initiative, and creativity in the organization of their leisure time and have difficulty applying conceptualizations in decision-making in work"@en .
 

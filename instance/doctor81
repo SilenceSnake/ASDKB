@@ -1,5 +1,5 @@
 <https://w3id.org/asdkb/instance/doctor81> <https://w3id.org/asdkb/ontology/dataproperty/title> "none"@zh .
 <https://w3id.org/asdkb/instance/doctor81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor81> <http://www.w3.org/2000/01/rdf-schema#label> "田春贤"@zh .
 <https://w3id.org/asdkb/instance/doctor81> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 擅长：评定各种儿童感觉统合失调，根据儿童感觉统合失调情况制定个体化康复训练方案，对儿童多动症、胆小、注意力不集中、动作不协调、孤独症(自闭症)等疗效显著。"@zh .
+<https://w3id.org/asdkb/instance/doctor81> <http://www.w3.org/2000/01/rdf-schema#label> "田春贤"@zh .
 

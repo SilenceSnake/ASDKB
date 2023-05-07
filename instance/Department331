@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department331> <http://www.w3.org/2000/01/rdf-schema#comment> "nan"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/asdkb/instance/Department331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department331> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital131> .
-<https://w3id.org/asdkb/instance/Department331> <http://www.w3.org/2000/01/rdf-schema#label> "重庆市妇幼保健院睡眠心理科"@zh .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department26> <http://www.w3.org/2000/01/rdf-schema#label> "潮州市中心医院儿一科"@zh .
-<https://w3id.org/asdkb/instance/Department26> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital55> .
-<https://w3id.org/asdkb/instance/Department26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department26> <http://www.w3.org/2000/01/rdf-schema#comment> "主要业务：儿童各系统疾患的诊治，危重疑难病人的救治及监护，小儿癫痫诊治，重症肺炎，消化系统疾病，小儿脑炎，急慢性肾炎，肾病综合征，颅内感染，血液病，各种风湿性疾病的诊治。拟开展脑瘫患儿康复治疗、儿童生长发育障碍、自闭症、多动症的健康咨询及治疗，新生儿疾患的诊治，疑难新生儿救治、监护等新生儿疾患的诊治，新生儿复苏和合并症的抢救、新生儿缺氧缺血性脑病(HIE)、新生儿高胆血症、新生儿破伤风、早产儿治疗。"@zh .
-

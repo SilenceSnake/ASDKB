@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department78> <http://www.w3.org/2000/01/rdf-schema#label> "广州医科大学附属脑科医院精神科"@zh .
-<https://w3id.org/asdkb/instance/Department78> <http://www.w3.org/2000/01/rdf-schema#comment> "广州脑科医院精神科包括成人精神科、早期干预科和社区精神科。成人精神科拥有主任医师1人，副主任医师4人，主治医师6人，其中博士1人，硕士8人，研究生导师1人以及70余名专业医护人员，包括六病区（男）、七病区（女）、八病区（男）三个病区，共计225张床位。随着医院的精神科被评为国家临床重点专科，该科得到了全面发展的机遇。首席指导专家马崔教授，具有50余年的精神科临床诊治经验，曾任中华精神科学会常务委员，中国心理卫生协会理事，广东省心理卫生协会副理事长，广东省心理学会理事，广东省司法精神病鉴定委员会委员。该科曾被多次评为卓越病区、广州市卫生局优秀护理集体。科主任余国汉教授拥有30余年丰富的诊疗、教学、科研和科室管理经验。科副主任郑英君为医学博士、精神病与精神卫生学博士后、我院精神分裂科研方向学科带头人，《惠爱心理论坛》创始人。本科室承担中山大学、南方医科大学以及广州医学院的精神病学教学任务，同时承担大量省内外进修医生的教学任务，诊断严谨、带教系统规范。科室正努力改变传统的精神科诊疗理念，全力开展精神疾病全病程治疗与康复全新诊疗模式的研发与临床应用，注重个体化治疗、认知行为心理治疗、利博曼精神康复以及个案管理的有机整合，专业团队为每一位病人全病程保驾护航。"@zh .
-<https://w3id.org/asdkb/instance/Department78> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital8> .
-

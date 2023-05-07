@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/doctor379> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童及成人口吃（结巴）、口齿不清、嗓音问题、儿童语言障碍、自闭症、吞咽及喂养困难的评估与治疗。包括：1、言语流畅障碍（说话结巴、口吃、不流畅）、2、语音障碍（口齿不清、构音障碍、唇腭裂术后语音矫正）、嗓音障碍（发声疲劳、声音嘶哑、声带小结、发声紧张、声带术后康复训练、嗓音美容、艺术嗓音问题、青春期音高异常、变性人嗓音问题等）。"@zh .
 <https://w3id.org/asdkb/instance/doctor379> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital108> .
-<https://w3id.org/asdkb/instance/doctor379> <http://www.w3.org/2000/01/rdf-schema#label> "蒙朦"@zh .
-<https://w3id.org/asdkb/instance/doctor379> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主管技师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor379> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department61> .
 <https://w3id.org/asdkb/instance/doctor379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor379> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主管技师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor379> <https://w3id.org/asdkb/ontology/dataproperty/department> "康复医学科（小儿神经内科）"@zh .
+<https://w3id.org/asdkb/instance/doctor379> <http://www.w3.org/2000/01/rdf-schema#label> "蒙朦"@zh .
 

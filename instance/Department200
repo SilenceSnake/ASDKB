@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department200> <http://www.w3.org/2000/01/rdf-schema#comment> "十五年前上海市儿童康复中心首创将体外反搏技术用于小儿脑瘫的治疗，获得了满意的疗效，目前该项目的科研处于国际领先水平。并通过十年的努力使体外反搏技术治疗小儿脑瘫在全国得以推广。中心还先后承担中华医学会远程教学项目、国家级继续教育项目、上海中医药大学康复专业的教学工作。中心现拥有一支专业的医疗、教学、科研人才队伍。全部人员为上海市儿童医院正式职工，全体具备专业资质，具有丰富的专业知识和临床经验。设有物理疗法（PT）、作业疗法（OT）、语言疗法（ST）、体外反搏、康复教育、高危儿早期筛查和干预、感觉统合训练，以及中西医结合针灸、推拿、药浴等治疗方法。中心创立16年以来以治疗残疾儿童提高人口素质为宗旨已积累了4000例以上的小儿脑瘫治疗成功经验，康复总有效率达90％以上，取得了良好的社会效益。同时，也积极开展探索各种儿科疾病的康复治疗：如脑炎和脑外伤后遗症、精神发育迟缓（智力低下）、周围神经损伤后遗症、视神经萎缩、心肌炎、重症肌无力等，并取得了满意的疗效。中心还依托儿童医院的专科优势，联合上海市儿童保健所，形成监控网络，为使脑瘫高危儿能在1岁内处于严密的医学监控下正在作不懈努力。"@zh .
-<https://w3id.org/asdkb/instance/Department200> <http://www.w3.org/2000/01/rdf-schema#label> "上海市儿童医院儿童康复中心"@zh .
-<https://w3id.org/asdkb/instance/Department200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department200> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital110> .
-

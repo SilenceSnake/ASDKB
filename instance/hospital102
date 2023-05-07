@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital102> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital102> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0571-85126600(总机),0571-85129501(门诊预约),0571-85029595(24小时心理援助热线)"@zh .
-<https://w3id.org/asdkb/instance/hospital102> <https://w3id.org/asdkb/ontology/dataproperty/city> "杭州市"@zh .
 <https://w3id.org/asdkb/instance/hospital102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital102> <http://www.w3.org/2000/01/rdf-schema#label> "杭州市第七人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital102> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0571-85126600(总机),0571-85129501(门诊预约),0571-85029595(24小时心理援助热线)"@zh .
+<https://w3id.org/asdkb/instance/hospital102> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital102> <https://w3id.org/asdkb/ontology/dataproperty/address> "浙江省杭州市天目山路305号"@zh .
+<https://w3id.org/asdkb/instance/hospital102> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City86> .
+<https://w3id.org/asdkb/instance/hospital102> <http://www.w3.org/2000/01/rdf-schema#label> "杭州市第七人民医院"@zh .
 

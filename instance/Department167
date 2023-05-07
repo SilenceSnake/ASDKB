@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department167> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital87> .
-<https://w3id.org/asdkb/instance/Department167> <http://www.w3.org/2000/01/rdf-schema#comment> "秦皇岛妇幼保健院儿科为市级重点发展学科，目前拥有副高级以上职称的人员5人，开设2个病区，80张床位，在我市占重要位置。除普通门诊外，还设有儿童哮喘门诊、身材矮小门诊（体格生长偏离门诊）、营养缺乏与小儿肥胖门诊等。按呼吸、循环、神经系统和消化、血液、泌尿、内分泌系统划分为两个病区。治疗各种类型的肺炎、急慢性胃炎、小儿胃十二指肠溃疡、腹泻病、各种脑炎、脑病、急慢性肾炎、肾病、小儿血尿等、各型先天性心脏病、心律失常、心肌炎、川畸病等。先后有五项科研获省、市级科技成果奖。"@zh .
-<https://w3id.org/asdkb/instance/Department167> <http://www.w3.org/2000/01/rdf-schema#label> "秦皇岛市妇幼保健院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

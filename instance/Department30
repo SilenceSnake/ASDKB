@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department30> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital24> .
-<https://w3id.org/asdkb/instance/Department30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department30> <http://www.w3.org/2000/01/rdf-schema#comment> "成都医学院第一附属医院康复医学科成立于1987年，是四川省内乃至国内较早成立的康复医学科之一，拥有各种先进的康复评定及治疗设备。科室建筑面积3500m2，分为康复治疗部、住院病区、康复门诊、疼痛门诊、高压氧舱室、肌电图与神经传导检测室、骨密度测定室。开展病床70余张，康复医师12名，其中教授1名，副主任医师3名，主治医师3名，博士1名，硕士8名，康复治疗师20名，其中主管治疗师2名，本科以上学历12名。2008年由四川省康复医学会授牌四川省疼痛与瘫痪康复中心，2009年获批为四川省首批康复医师规范化培训基地，2010年通过成都市社保局检查评审，成为大成都度范围内十家康复9大项定点报销的医疗机构之一，2011年国家教育部批准招收康复治疗学本科专业，2012年成立康复医学系，2015年获批国家级康复医师规范化培训基地。近年发表论文30余篇，其中SCI收录1篇，Medline收录1篇，中文核心12篇，科技核心22篇；主编专著1部，副主编2部，参编4部，厅局级、校级课题13项，曾获科学技术进步成果奖4项。"@zh .
-<https://w3id.org/asdkb/instance/Department30> <http://www.w3.org/2000/01/rdf-schema#label> "成都医学院第一附属医院康复医学科"@zh .
-

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital169> <https://w3id.org/asdkb/ontology/dataproperty/address> "湖北省武汉市武昌街道口武珞路745号"@zh .
 <https://w3id.org/asdkb/instance/hospital169> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "027-87862877(咨询电话),027-87169551(预约咨询电话),4006677400(电话预约)"@zh .
-<https://w3id.org/asdkb/instance/hospital169> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital169> <https://w3id.org/asdkb/ontology/dataproperty/city> "武汉市"@zh .
+<https://w3id.org/asdkb/instance/hospital169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital169> <http://www.w3.org/2000/01/rdf-schema#label> "湖北省妇幼保健院"@zh .
+<https://w3id.org/asdkb/instance/hospital169> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital169> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City168> .
 

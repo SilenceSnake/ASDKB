@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department227> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital148> .
-<https://w3id.org/asdkb/instance/Department227> <http://www.w3.org/2000/01/rdf-schema#comment> "四川大学华西第二医院康复医学科于2016年10月正式成立，全科共有职工43名。由妇科盆底康复、儿童康复两部分组成。科室现有医师11名，护理7名，其他卫生技术人员25人，其中主任医师1名，副主任医师1名，副主任技师1名，博士研究生5名，硕士研究生11名。现已成为集医疗、教学、科研为一体的妇女儿童专业康复机构，拥有较高临床水平和学科影响力。科室主要治疗疾病：儿童康复：发育落后、脑瘫、运动姿势异常、肌张力增高、斜颈、马蹄足、足内/外翻、扁平足、O/X型腿、脑炎恢复期、外伤后肢体活动障碍、早产高危儿随访、智力发育落后、注意力缺陷多动障碍、自闭症、学习困难、情绪障碍、感统失调、语言发育迟缓、口齿不清、早期遗传代谢性疾病、喂养困难、吸吮吞咽困难。"@zh .
-<https://w3id.org/asdkb/instance/Department227> <http://www.w3.org/2000/01/rdf-schema#label> "四川大学华西第二医院康复医学科"@zh .
-

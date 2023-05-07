@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital134> <https://w3id.org/asdkb/ontology/dataproperty/address> "吉林省长春市宽城区亚泰北大街3188号"@zh .
 <https://w3id.org/asdkb/instance/hospital134> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0431-82961921(导诊台),0431-81968777(本部),0431-82703922(西广门诊部)"@zh .
 <https://w3id.org/asdkb/instance/hospital134> <http://www.w3.org/2000/01/rdf-schema#label> "长春市第六医院"@zh .
+<https://w3id.org/asdkb/instance/hospital134> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City50> .
+<https://w3id.org/asdkb/instance/hospital134> <https://w3id.org/asdkb/ontology/dataproperty/address> "吉林省长春市宽城区亚泰北大街3188号"@zh .
 <https://w3id.org/asdkb/instance/hospital134> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/instance/hospital134> <https://w3id.org/asdkb/ontology/dataproperty/city> "长春市"@zh .
+<https://w3id.org/asdkb/instance/hospital134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

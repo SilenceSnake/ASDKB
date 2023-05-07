@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor178> <http://www.w3.org/2000/01/rdf-schema#label> "李国良"@zh .
 <https://w3id.org/asdkb/instance/doctor178> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor178> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department273> .
+<https://w3id.org/asdkb/instance/doctor178> <https://w3id.org/asdkb/ontology/dataproperty/department> "神经内科"@zh .
+<https://w3id.org/asdkb/instance/doctor178> <http://www.w3.org/2000/01/rdf-schema#label> "李国良"@zh .
+<https://w3id.org/asdkb/instance/doctor178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor178> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "癫痫及各种发作性疾病，脑血管病，头痛，失眠，焦虑，"@zh .
 

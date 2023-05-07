@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor133> <http://www.w3.org/2000/01/rdf-schema#label> "许鹏飞"@zh .
-<https://w3id.org/asdkb/instance/doctor133> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor133> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童呼吸系统疾病和过敏性疾病的诊治。对食物迟发过敏、自闭症、多发性抽动有独到的研究和理解。对于婴幼儿牛奶蛋白过敏、反复湿疹、腹泻、厌奶和辅食添加困难都有自己独特的观点。"@zh .
-<https://w3id.org/asdkb/instance/doctor133> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department313> .
 <https://w3id.org/asdkb/instance/doctor133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor133> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童呼吸系统疾病和过敏性疾病的诊治。对食物迟发过敏、自闭症、多发性抽动有独到的研究和理解。对于婴幼儿牛奶蛋白过敏、反复湿疹、腹泻、厌奶和辅食添加困难都有自己独特的观点。"@zh .
+<https://w3id.org/asdkb/instance/doctor133> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor133> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
+<https://w3id.org/asdkb/instance/doctor133> <http://www.w3.org/2000/01/rdf-schema#label> "许鹏飞"@zh .
 

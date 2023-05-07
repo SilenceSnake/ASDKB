@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor396> <http://www.w3.org/2000/01/rdf-schema#label> "邵智"@zh .
+<https://w3id.org/asdkb/instance/doctor396> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童孤独症康复治疗中心"@zh .
+<https://w3id.org/asdkb/instance/doctor396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor396> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor396> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital196> .
 <https://w3id.org/asdkb/instance/doctor396> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、婴幼儿童心理健康保健、婴幼儿养育和儿童心理发育障碍防治"@zh .
-<https://w3id.org/asdkb/instance/doctor396> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor396> <http://www.w3.org/2000/01/rdf-schema#label> "邵智"@zh .
-<https://w3id.org/asdkb/instance/doctor396> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department328> .
 

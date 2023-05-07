@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital59> <https://w3id.org/asdkb/ontology/dataproperty/city> "郑州市"@zh .
+<https://w3id.org/asdkb/instance/hospital59> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City151> .
 <https://w3id.org/asdkb/instance/hospital59> <http://www.w3.org/2000/01/rdf-schema#label> "河南省中医院"@zh .
-<https://w3id.org/asdkb/instance/hospital59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital59> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0371—60908747 "@zh .
+<https://w3id.org/asdkb/instance/hospital59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital59> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital59> <https://w3id.org/asdkb/ontology/dataproperty/address> "郑州市东风路6号  "@zh .
 

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor160> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "脑损伤高危新生儿（早产、窒息缺氧、颅内出血等）GMs评估、神经发育监测和早期康复干预。脑性瘫痪、精神发育迟滞、智力低下、语言发育迟缓、脑炎、脑外伤等神经系统疾病功能障碍的康复评估与中西医结合康复治疗。"@zh .
-<https://w3id.org/asdkb/instance/doctor160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor160> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department54> .
 <https://w3id.org/asdkb/instance/doctor160> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor160> <https://w3id.org/asdkb/ontology/dataproperty/department> "康复科"@zh .
+<https://w3id.org/asdkb/instance/doctor160> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "脑损伤高危新生儿（早产、窒息缺氧、颅内出血等）GMs评估、神经发育监测和早期康复干预。脑性瘫痪、精神发育迟滞、智力低下、语言发育迟缓、脑炎、脑外伤等神经系统疾病功能障碍的康复评估与中西医结合康复治疗。"@zh .
 <https://w3id.org/asdkb/instance/doctor160> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital107> .
+<https://w3id.org/asdkb/instance/doctor160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor160> <http://www.w3.org/2000/01/rdf-schema#label> "汪军"@zh .
 

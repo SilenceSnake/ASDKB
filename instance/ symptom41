@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/symptom41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/instance/symptom41> <http://www.w3.org/2000/01/rdf-schema#comment> "retain a kind of \"social smile\", looking at or \"through\" people, but not interacting socially with them in early childhood (although social interaction often develops later). "@en .
+<https://w3id.org/asdkb/instance/symptom41> <http://www.w3.org/2000/01/rdf-schema#comment> "保持一种“社交微笑”，看着或“透过”人们，但在幼儿时期不与他们进行社交互动（尽管社交互动通常在以后发展）。 "@zh .
+

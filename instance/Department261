@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department261> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童康复部成立于2014年4月2日，综合性开展孤独谱系障碍、精神发育迟滞等儿童常见精神疾病的诊断、评估、康复治疗和临床研究，目前为国家级、省级以及武汉市残联指定的康复训练专业机构。科室负责人为汤珺副主任医师。"@zh .
-<https://w3id.org/asdkb/instance/Department261> <http://www.w3.org/2000/01/rdf-schema#label> "武汉市精神卫生中心儿童康复部"@zh .
-<https://w3id.org/asdkb/instance/Department261> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital129> .
-<https://w3id.org/asdkb/instance/Department261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

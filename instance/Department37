@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department37> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital30> .
-<https://w3id.org/asdkb/instance/Department37> <http://www.w3.org/2000/01/rdf-schema#comment> "东莞市妇幼保健院儿童保健科是东莞市儿童保健服务行业权威机构，担负着全市儿童保健业务的规划、指导、培训的工作，并为全市儿童提供全方位、多层次的优质服务，目前人员共17人，其中副主任医师1人，主治医师4人，医师12人，配置设备包括：生物反馈仪，注意力分配能力测定仪，儿童心理量表测定仪，儿童视力筛查仪等一批先进设备，并且采用了全市儿童保健计算网络化管理系统，具体开展的服务项目有：生长发育；智力筛查；早期教育；高危儿筛查；营养指导；计划免疫；口腔保健；眼保健；儿童心理；儿童常见心理行为问题{儿童注意缺陷多动障碍（多动症）；儿童自闭症（孤独症）；学习困难；儿童情绪障碍；儿童语言障碍；儿童顽固性不良习惯（习惯习抽动症、吸吮手指或咬指甲、遗尿症、口吃等）；儿童感觉统合失调；精神运动发育迟缓；气质评定等。为了儿童保健事业，东莞市妇幼保健院儿童保健科全体医务人员将再接再厉，继往开来，为我国的保健事业贡献我们的一份力量。"@zh .
-<https://w3id.org/asdkb/instance/Department37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department37> <http://www.w3.org/2000/01/rdf-schema#label> "东莞市妇幼保健院儿童保健科"@zh .
-

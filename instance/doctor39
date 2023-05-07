@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor39> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor39> <http://www.w3.org/2000/01/rdf-schema#label> "李平甘"@zh .
 <https://w3id.org/asdkb/instance/doctor39> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital35> .
-<https://w3id.org/asdkb/instance/doctor39> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department317> .
 <https://w3id.org/asdkb/instance/doctor39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor39> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童神经、精神、心理的疾病及儿童保健，如癫痫、脑性瘫痪、脑炎、多动症、抽动症、孤独症等各种疾病。"@zh .
+<https://w3id.org/asdkb/instance/doctor39> <http://www.w3.org/2000/01/rdf-schema#label> "李平甘"@zh .
+<https://w3id.org/asdkb/instance/doctor39> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
+<https://w3id.org/asdkb/instance/doctor39> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师'"@zh .
 

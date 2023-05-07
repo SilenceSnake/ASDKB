@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor218> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor218> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department10> .
-<https://w3id.org/asdkb/instance/doctor218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor218> <http://www.w3.org/2000/01/rdf-schema#label> "王爱华"@zh .
 <https://w3id.org/asdkb/instance/doctor218> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital28> .
+<https://w3id.org/asdkb/instance/doctor218> <https://w3id.org/asdkb/ontology/dataproperty/department> "精神心理科"@zh .
+<https://w3id.org/asdkb/instance/doctor218> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor218> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童心理咨询和家庭治疗，具有结构式家庭治疗、意象对话、父母效能训练、心理测量等资格。尤其对儿童多动症、情绪障碍、心神障碍等疾病进行研究"@zh .
+<https://w3id.org/asdkb/instance/doctor218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

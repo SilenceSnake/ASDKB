@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department337> <http://www.w3.org/2000/01/rdf-schema#comment> "珠海市妇幼保健院儿童康复科是专业的儿童康复机构，服务范围是小儿各种发育障碍性疾病及损伤性疾病，尤其是神经发育障碍性疾病的诊断、评定、治疗、康复和康复服务。2005年中国康复医学会儿童康复专业委员会、中国爱德基金会与美国CPN（中国合作伙伴联盟：西雅图Good Samaritan医院儿童治疗中心及其他医院）建立合作关系，我院该合作项目的中国脑瘫康复临床和教学示范中心南部的示范基地。业务范围：脑瘫、癫痫、发育迟缓、神经损伤、智力低下、肢体功能障碍、抽动障碍、语言障碍、进食障碍、遗传性疾病（如先天性或进行性肌营养不良、21三体综合症等）、少见罕见病、脑炎脑损伤后遗症、新生儿期缺氧缺血脑病、颅内出血等恢复期、早产儿脑损伤、骨关节损伤等疾病恢复期功能障碍的诊断、评估和康复治疗。"@zh .
-<https://w3id.org/asdkb/instance/Department337> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital194> .
-<https://w3id.org/asdkb/instance/Department337> <http://www.w3.org/2000/01/rdf-schema#label> "珠海市妇幼保健院儿童康复科"@zh .
-<https://w3id.org/asdkb/instance/Department337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

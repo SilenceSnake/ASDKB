@@ -1,11 +1,11 @@
-<https://w3id.org/asdkb/instance/tools12> <http://www.w3.org/2000/01/rdf-schema#label> "Gilliam Autism Rating Scale-2nd Edition"@en .
-<https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/definition> "GARS-2包含42个项目，描述自闭症患者的特征行为。这些项目被分成三个分量表:刻板行为、沟通和社会互动。"@zh .
-<https://w3id.org/asdkb/instance/tools12> <http://www.w3.org/2000/01/rdf-schema#label> "Gilliam孤独症评分量表-第2版(GARS-2)"@zh .
-<https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/time> "15-29分钟"@zh .
-<https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/author> "Gilliam, 2006"@en .
-<https://w3id.org/asdkb/instance/tools12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
 <https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/age> "3-22岁"@zh .
-<https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工或专家"@zh .
+<https://w3id.org/asdkb/instance/tools12> <http://www.w3.org/2000/01/rdf-schema#label> "Gilliam Autism Rating Scale-2nd Edition"@en .
+<https://w3id.org/asdkb/instance/tools12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/author> "Gilliam, 2006"@en .
 <https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/rule> "分数为从0（从未观察到），1（很少观察到），2（有时观察到）到3（经常观察到，将所有题目的分数加起来。CARS上30的截止值灵敏度为.88，特异性为.86.其他研究在儿童身上也发现了类似的结果。然而，一些研究人员建议对非常年幼的儿童进行更高的截止值，对青少年和成人使用较低的截止值。在一项大型研究中，4岁儿童的截止值为30，但在2岁儿童中，32的截止值是最佳的."@zh .
+<https://w3id.org/asdkb/instance/tools12> <http://www.w3.org/2000/01/rdf-schema#label> "Gilliam孤独症评分量表-第2版(GARS-2)"@zh .
 <https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "30"@zh .
+<https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "GARS-2包含42个项目，描述自闭症患者的特征行为。这些项目被分成三个分量表:刻板行为、沟通和社会互动。"@zh .
+<https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/time> "15-29分钟"@zh .
+<https://w3id.org/asdkb/instance/tools12> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工或专家"@zh .
 

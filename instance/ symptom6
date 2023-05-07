@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/symptom6> <http://www.w3.org/2000/01/rdf-schema#comment> "缺乏社会情感沟通"@zh .
+<https://w3id.org/asdkb/instance/symptom6> <http://www.w3.org/2000/01/rdf-schema#comment> "a lack of socio-emotional reciprocity"@en .
+<https://w3id.org/asdkb/instance/symptom6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+

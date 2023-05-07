@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor377> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿生长发育相关营养喂养（母乳喂养，特殊奶粉添加，辅食添加，矮小，食物过敏）、行为（语言障碍，孤独症的诊断）。"@zh .
-<https://w3id.org/asdkb/instance/doctor377> <http://www.w3.org/2000/01/rdf-schema#label> "钟元峰"@zh .
 <https://w3id.org/asdkb/instance/doctor377> <https://w3id.org/asdkb/ontology/dataproperty/title> "'医师', '助教'"@zh .
+<https://w3id.org/asdkb/instance/doctor377> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿生长发育相关营养喂养（母乳喂养，特殊奶粉添加，辅食添加，矮小，食物过敏）、行为（语言障碍，孤独症的诊断）。"@zh .
 <https://w3id.org/asdkb/instance/doctor377> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital94> .
-<https://w3id.org/asdkb/instance/doctor377> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department332> .
 <https://w3id.org/asdkb/instance/doctor377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor377> <http://www.w3.org/2000/01/rdf-schema#label> "钟元峰"@zh .
+<https://w3id.org/asdkb/instance/doctor377> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健科"@zh .
 

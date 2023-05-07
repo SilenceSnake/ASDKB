@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department224> <http://www.w3.org/2000/01/rdf-schema#label> "首都儿科研究所附属儿童医院保健科"@zh .
-<https://w3id.org/asdkb/instance/Department224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department224> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital104> .
-<https://w3id.org/asdkb/instance/Department224> <http://www.w3.org/2000/01/rdf-schema#comment> "保健科是建院时即组建的以儿童内科为基础，以保健为特色的临床科室。多年来在老一代儿童保健专家的关怀下，历届科主任（钟明月、马婷、李海鹰、金春华）的努力下，逐渐发展壮大，儿保理念不断创新，专业设置更加完善，已经成为医院的特色科室。为推进临床报告的标准化、数字化，在首都儿科研究所老专家高振敏的鼎立支持和帮助下，保健科研究将0-6岁小儿精神心理发育评定量表开发成临床应用软件，现已完成并应用于临床。2004年又首次成功举办了全国儿童保健新进展学习班和北京市儿童神经心理发育评估学习班，逐步将软件向全国推广，培训全国各地学员100余名，软件在全国不同地区均有应用，为我所赢得了良好声誉，得到各地医护人员的好评，扩大了首都儿研所的知名度。保健科每年接收多名儿童保健医生进修学习，提供儿保专科护士的进修和培训。"@zh .
-

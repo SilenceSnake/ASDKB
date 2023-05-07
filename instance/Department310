@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department310> <http://www.w3.org/2000/01/rdf-schema#comment> "北京301医院第一附属医院神经内科属中国人民北京301医院（301医院）神经疾病中心一部分，拥有各类技术人员30人，医生10人，均具有硕士或博士学历。学科带头人在重要学术团体任职，在北京神经病学专业具有较高知名度。该科与北京协和医院神经内科、宣武医院神经内科、北京301医院神经内科、北京301医院神经介入科有密切的学术联系。该科均由高年资、高学历的医生亲临担纲临床一线医生，为患者提供优质、精良的技术服务。"@zh .
-<https://w3id.org/asdkb/instance/Department310> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital168> .
-<https://w3id.org/asdkb/instance/Department310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department310> <http://www.w3.org/2000/01/rdf-schema#label> "中国人民解放军总医院第四医学中心神经内科"@zh .
-

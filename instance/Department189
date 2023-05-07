@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department189> <http://www.w3.org/2000/01/rdf-schema#label> "山西医科大学第一医院精神卫生科"@zh .
-<https://w3id.org/asdkb/instance/Department189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department189> <http://www.w3.org/2000/01/rdf-schema#comment> "山西医科大学第一医院精神卫生科创建于原神经精神科，1990年独立建科，2011年被评为山西医科大学重点建设学科，2012年被评为山西省医学重点学科，2016年被评为山西省临床医学重点专科。经过多年发展，该学科在精神病学网络排名中连续两年位列华北五省市第四，连续三年全国排名提名。目前，该科是国家药物临床研究基地、山西省精神卫生专业住院医师/专科医师/专科护士培训基地。此外，也是山西省心理卫生协会、山西省医学会精神病学专业委员会、山西省卫生厅精神卫生医疗质量控制部、山西省医师协会精神科医师分会、山西省护理学会精神卫生专业委员会和山西省预防医学会精神卫生专业委员会等学术团体的挂靠单位。"@zh .
-<https://w3id.org/asdkb/instance/Department189> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital150> .
-

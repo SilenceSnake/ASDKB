@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department114> <http://www.w3.org/2000/01/rdf-schema#comment> "湖南省儿童医院康复中心是1995年经省卫生厅、省残联联合评估后挂牌成立，为湖南省最早开展儿童康复单位，2000年成立湖南省康复医学会儿童康复专业委员会，该中心是主任委员挂靠单位，是国家级和省级儿童康复继续教育基地。现有医务工作人员70余人 其中高级职称10余人，中级职称30余人，研究生5人，形成了良好的人才发展梯队，每年把专业人才送到北京、上海、南京、佳木斯、香港等地学习深造。现开设2个病房，开放病床120张，年均床使率＞120%；为满足不同层次的治疗需要，还开设了家庭病床门诊治疗，现每年住院和门诊治疗病人可达1200人以上，2001年起我们开展了康复科专科门诊并开设语言治疗和精神发育迟滞诊疗等二级专科门诊，中心至今已在专业刊物上发表医学论文100余篇，主编《小儿脑瘫家庭康复训练手册》和《好父母育出好孩“智”》2本科普读物，参编多部医学书籍，发表百余篇科普文章。积极开展儿童康复科研工作和引进国内外康复新技术。目前承担厅级课题2项，院级课题多项。2006年成功承办了第二届全国儿童康复医学会学术会议和第九届小儿脑瘫康复学术会议。通过近20年的努力，学科得到极大的发展，2007年康复中心评为湖南省卫生厅重点专科。"@zh .
-<https://w3id.org/asdkb/instance/Department114> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital154> .
-<https://w3id.org/asdkb/instance/Department114> <http://www.w3.org/2000/01/rdf-schema#label> "湖南省儿童医院儿童康复中心"@zh .
-

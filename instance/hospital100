@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital100> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0871-65324888(总机)"@zh .
-<https://w3id.org/asdkb/instance/hospital100> <https://w3id.org/asdkb/ontology/dataproperty/city> "昆明市"@zh .
+<https://w3id.org/asdkb/instance/hospital100> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital100> <http://www.w3.org/2000/01/rdf-schema#label> "昆明医科大学第一附属医院"@zh .
 <https://w3id.org/asdkb/instance/hospital100> <https://w3id.org/asdkb/ontology/dataproperty/address> "云南省昆明市西昌路295号"@zh .
+<https://w3id.org/asdkb/instance/hospital100> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City264> .
+<https://w3id.org/asdkb/instance/hospital100> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0871-65324888(总机)"@zh .
 <https://w3id.org/asdkb/instance/hospital100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital100> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department143> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童保健科作为本市儿童保健业务指导中心，坚持贯彻预防为主的方针，保健与临床相结合，面向全体、面向基层的指导方针，主要任务是根据儿童的生理特点，开展经常性的预防保健、宣传教育、培训工作，以达到保障儿童身体健康，提高人口素质的目的。目前主要负责辖区内儿童保健业务指导；负责托幼机构卫生保健的管理；在开展门诊业务的同时，开展科研教学、预防保健和健康教育工作。儿保科下设儿童普通保健、儿童营养、儿童心理卫生、儿童康复、儿童耳鼻喉保健、儿童眼保健6个二级科室，主要发展方向的技术特色有：儿童心理门诊：开展儿童心理咨询、智能测查与评估、儿童心理行为测评、气质测定等服务，并采用心理素质训练、心理疏导、脑电生物反馈训练、感觉统合训练等治疗方法，对学习困难、多动症、焦虑症、忧郁症的儿童进行多方位的治疗。从06年起开展儿童孤独症的诊治工作，采用系统的诊疗规范包括对疑诊儿童的Cars评估、ABC量表测评、训练前的ATEC评估等 ，由专科医生和训练师们结合评估结果和临床症状，建立初步的诊断并制定治疗、教育方案并进行细致的一对一个体化训练和感觉统合训练课程，为孤独症患儿及家庭提供更多的心理帮助，使我科儿童孤独症的诊治技术在市内相同领域步于先列。同时注重测定婴幼儿神经系统及早期发育水平，开展儿童早期发展训练如婴儿抚触、被动操、水浴、被动操等早期促进项目。"@zh .
-<https://w3id.org/asdkb/instance/Department143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department143> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital176> .
-<https://w3id.org/asdkb/instance/Department143> <http://www.w3.org/2000/01/rdf-schema#label> "连云港市妇幼保健院儿童保健科"@zh .
-

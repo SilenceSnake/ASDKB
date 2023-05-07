@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital224> <https://w3id.org/asdkb/ontology/dataproperty/address> "苏州市相城区广前路11号、大庄里路14号"@zh .
+<https://w3id.org/asdkb/instance/hospital224> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City77> .
 <https://w3id.org/asdkb/instance/hospital224> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital224> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0512-65331367(院办),0512-69000159(总机)"@zh .
-<https://w3id.org/asdkb/instance/hospital224> <http://www.w3.org/2000/01/rdf-schema#label> "苏州市广济医院"@zh .
-<https://w3id.org/asdkb/instance/hospital224> <https://w3id.org/asdkb/ontology/dataproperty/city> "苏州市"@zh .
-<https://w3id.org/asdkb/instance/hospital224> <https://w3id.org/asdkb/ontology/dataproperty/address> "苏州市相城区广前路11号、大庄里路14号"@zh .
 <https://w3id.org/asdkb/instance/hospital224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital224> <http://www.w3.org/2000/01/rdf-schema#label> "苏州市广济医院"@zh .
 

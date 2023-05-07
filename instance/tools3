@@ -1,12 +1,12 @@
-<https://w3id.org/asdkb/instance/tools3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
-<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "16"@zh .
-<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/age> "5-10分钟"@zh .
-<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/definition> "AQ已经开发了三个版本:儿童、青少年和成人。AQ有50个项目，围绕着五个子领域:社会互动、沟通、注意细节、注意力转换和想象。"@zh .
-<https://w3id.org/asdkb/instance/tools3> <http://www.w3.org/2000/01/rdf-schema#label> "孤独症谱系指数(AQ)"@zh .
 <https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/author> "Baron-Cohen, Wheelwright, Skinner, Martin & Clubley, 2001"@en .
-<https://w3id.org/asdkb/instance/tools3> <http://www.w3.org/2000/01/rdf-schema#label> "Autism Spectrum Quotient"@en .
-<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/time> "5-10分钟"@zh .
-<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/rule> "“完全同意”或“稍微同意”的回答在以下项目上得分1分：1、2、4、5、6、7、9、12、13、16、18、19、20、21、22、23、26、33、35、39、41、42、43、45、46。“完全不同意”或“有点不同意”的回答在以下项目上得分1分：3、8、10、11、14、15、17、24、25、27、28、29、30、31、32、34、36、37、38、40、44、47、48、49、50。超过16分就有较大可能性患病，32分为临界点，超过32分基本确诊。"@zh .
-<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/classes/physician> "32"@zh .
+<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "16"@zh .
 <https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工(青少年儿童版本);自测(成年人版本)"@zh .
+<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/instance/tools3> <http://www.w3.org/2000/01/rdf-schema#label> "孤独症谱系指数(AQ)"@zh .
+<https://w3id.org/asdkb/instance/tools3> <http://www.w3.org/2000/01/rdf-schema#label> "Autism Spectrum Quotient"@en .
+<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/classes/physician> "32"@zh .
+<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/age> "5-10分钟"@zh .
+<https://w3id.org/asdkb/instance/tools3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "AQ已经开发了三个版本:儿童、青少年和成人。AQ有50个项目，围绕着五个子领域:社会互动、沟通、注意细节、注意力转换和想象。"@zh .
+<https://w3id.org/asdkb/instance/tools3> <https://w3id.org/asdkb/ontology/dataproperty/rule> "“完全同意”或“稍微同意”的回答在以下项目上得分1分：1、2、4、5、6、7、9、12、13、16、18、19、20、21、22、23、26、33、35、39、41、42、43、45、46。“完全不同意”或“有点不同意”的回答在以下项目上得分1分：3、8、10、11、14、15、17、24、25、27、28、29、30、31、32、34、36、37、38、40、44、47、48、49、50。超过16分就有较大可能性患病，32分为临界点，超过32分基本确诊。"@zh .
 

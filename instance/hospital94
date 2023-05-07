@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital94> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital94> <http://www.w3.org/2000/01/rdf-schema#label> "重庆医科大学附属儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital94> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital94> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City233> .
 <https://w3id.org/asdkb/instance/hospital94> <https://w3id.org/asdkb/ontology/dataproperty/address> "重庆市渝中区中山二路136号"@zh .
 <https://w3id.org/asdkb/instance/hospital94> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "023-63632756(总机),023-63622984(门诊预约),023-63635145(特需预约),023-61966227(礼嘉分院)"@zh .
-<https://w3id.org/asdkb/instance/hospital94> <https://w3id.org/asdkb/ontology/dataproperty/city> "重庆市"@zh .
-<https://w3id.org/asdkb/instance/hospital94> <http://www.w3.org/2000/01/rdf-schema#label> "重庆医科大学附属儿童医院"@zh .
 

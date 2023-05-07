@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital143> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0551-62922114(查号台),0551-62922406(绩溪路门诊),0551-62922269(绩溪路门诊),0551-62922180(长江路门诊),0551-62922197(长江路门"@zh .
+<https://w3id.org/asdkb/instance/hospital143> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital143> <http://www.w3.org/2000/01/rdf-schema#label> "安徽医科大学第一附属医院"@zh .
 <https://w3id.org/asdkb/instance/hospital143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital143> <https://w3id.org/asdkb/ontology/dataproperty/city> "合肥市"@zh .
-<https://w3id.org/asdkb/instance/hospital143> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital143> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City97> .
 <https://w3id.org/asdkb/instance/hospital143> <https://w3id.org/asdkb/ontology/dataproperty/address> "安徽省合肥市绩溪路218号"@zh .
+<https://w3id.org/asdkb/instance/hospital143> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0551-62922114(查号台),0551-62922406(绩溪路门诊),0551-62922269(绩溪路门诊),0551-62922180(长江路门诊),0551-62922197(长江路门"@zh .
 

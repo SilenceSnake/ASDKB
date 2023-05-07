@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department163> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital200> .
-<https://w3id.org/asdkb/instance/Department163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department163> <http://www.w3.org/2000/01/rdf-schema#comment> "宁波市妇女儿童医院儿童保健科是集保健、科研、教学、临床、康复、管理为一体的儿童早期发展指导中心，也是全市儿童健康服务业务指导中心。主要负责全市0~18岁儿童身心健康的保健指导工作，同时肩负着全市新生儿疾病筛查的诊治随访工作。孤独症、多动症、语言障碍等发育行为专科：由发育行为儿科医生、发育评估师和心理咨询师构成。采用多种智力、情绪、能力测评工具进行智力、情绪、气质、感觉统合能力的评估。对正常儿童进行预见性发育指导。对多动症、孤独症谱系障碍、学习困难和其他行为问题（爱哭、胆小、咬手指、遗尿等）患儿进行定期评估、感觉统合、视听训练、心理咨询、药物以及家长指导课堂等综合治疗方案。"@zh .
-<https://w3id.org/asdkb/instance/Department163> <http://www.w3.org/2000/01/rdf-schema#label> "宁波市妇女儿童医院儿童保健科"@zh .
-

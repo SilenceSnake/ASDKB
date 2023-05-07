@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/symptom48> <http://www.w3.org/2000/01/rdf-schema#comment> "ataxia"@en .
+<https://w3id.org/asdkb/instance/symptom48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
+<https://w3id.org/asdkb/instance/symptom48> <http://www.w3.org/2000/01/rdf-schema#comment> "运动失调"@zh .
+

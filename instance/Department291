@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department291> <http://www.w3.org/2000/01/rdf-schema#comment> "长春市心理卫生中心在采用生物学治疗的同时，运用精神分析疗法、认知疗法、行为疗法、森田疗法、催眠疗法、家庭治疗、各种团体治疗及行为矫正、生活技能训练等心理治疗方法为市民解决婚姻恋爱、人际交往、职业选择、青少年行为、学习、适应、生活应激事件等问题，开展各种类型神经症（焦虑症、恐怖症、强迫症等）、抑郁症、失眠症、癔病、人格障碍、心理生理障碍、性心理障碍、各种应激障碍、社会适应障碍及一些心身疾病的诊断与治疗。"@zh .
-<https://w3id.org/asdkb/instance/Department291> <http://www.w3.org/2000/01/rdf-schema#label> "长春市第六医院心理科"@zh .
-<https://w3id.org/asdkb/instance/Department291> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital134> .
-<https://w3id.org/asdkb/instance/Department291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

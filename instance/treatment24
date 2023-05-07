@@ -1,5 +1,5 @@
 <https://w3id.org/asdkb/instance/treatment24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
-<https://w3id.org/asdkb/instance/treatment24> <https://w3id.org/asdkb/ontology/dataproperty/definition> "一种以技术手段为核心的干预方法，该技术主要可以支持学习者表现出目标行为"@zh .
-<https://w3id.org/asdkb/instance/treatment24> <http://www.w3.org/2000/01/rdf-schema#label> "Technology-Aided Instruction and Intervention"@en .
 <https://w3id.org/asdkb/instance/treatment24> <http://www.w3.org/2000/01/rdf-schema#label> "技术辅助教学和干预(TAII)"@zh .
+<https://w3id.org/asdkb/instance/treatment24> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "一种以技术手段为核心的干预方法，该技术主要可以支持学习者表现出目标行为"@zh .
+<https://w3id.org/asdkb/instance/treatment24> <http://www.w3.org/2000/01/rdf-schema#label> "Technology-Aided Instruction and Intervention"@en .
 

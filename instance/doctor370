@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor370> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital209> .
-<https://w3id.org/asdkb/instance/doctor370> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神分裂症、双相情感障碍、抑郁症、各种轻型心理障碍的诊断治疗和心理治疗；精神科医疗纠纷咨询；精神病患者民事和刑事能力咨询；道路交通事故涉及的智力和精神障碍的评残咨询"@zh .
-<https://w3id.org/asdkb/instance/doctor370> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department276> .
+<https://w3id.org/asdkb/instance/doctor370> <https://w3id.org/asdkb/ontology/dataproperty/department> "精神科"@zh .
 <https://w3id.org/asdkb/instance/doctor370> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor370> <http://www.w3.org/2000/01/rdf-schema#label> "杨福收"@zh .
+<https://w3id.org/asdkb/instance/doctor370> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神分裂症、双相情感障碍、抑郁症、各种轻型心理障碍的诊断治疗和心理治疗；精神科医疗纠纷咨询；精神病患者民事和刑事能力咨询；道路交通事故涉及的智力和精神障碍的评残咨询"@zh .
+<https://w3id.org/asdkb/instance/doctor370> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital209> .
+<https://w3id.org/asdkb/instance/doctor370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department109> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital111> .
-<https://w3id.org/asdkb/instance/Department109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department109> <http://www.w3.org/2000/01/rdf-schema#label> "衡阳市中心医院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department109> <http://www.w3.org/2000/01/rdf-schema#comment> "衡阳市中心医院儿科是衡阳市最早成立的儿科之一，现已发展成为集医疗、教学及科研为一体的儿科学科。下设普通儿科病房、儿重症监护室（PICU）、新生儿重症监护室（新生儿科）、儿科门急诊、儿科教研室等。其中新生儿重症监护室是由香港儿童医健基金会、美国雷曼兄弟基金会与复旦大学附属儿科医院在我院儿科原有新生儿病区基础上筹建而成的，是该基金会在中国内地新生儿专项援助项目之一，复旦大学附属儿科医院为全程技术指导单位，负责指导重症监护室的规划，流程，布局及人才的培训。 "@zh .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department124> <http://www.w3.org/2000/01/rdf-schema#label> "济宁市任城区妇幼保健院小儿科"@zh .
-<https://w3id.org/asdkb/instance/Department124> <http://www.w3.org/2000/01/rdf-schema#comment> "济宁中区妇幼保健院小儿科为我院重点学科之一，设有重症监护室，配备有多参数监护仪、红外辐射抢救台、婴儿培养箱、婴儿氧舱、微量输液泵、经皮黄疸测试仪、CPAP婴儿呼吸系统等先进仪器设备，开展早产儿与极低体重儿监护及静脉营养、新生儿窒息复苏及合并症救治、新生儿高胆红素血症诊治、新生儿呼吸窘迫综合症的抢救及呼吸管理、新生儿脑损伤的恢复期治疗及护理，小儿哮喘的分级治疗与预防等。"@zh .
-<https://w3id.org/asdkb/instance/Department124> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital241> .
-<https://w3id.org/asdkb/instance/Department124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

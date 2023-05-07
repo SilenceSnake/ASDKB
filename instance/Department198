@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department198> <http://www.w3.org/2000/01/rdf-schema#label> "上海市东方医院临床心理科"@zh .
-<https://w3id.org/asdkb/instance/Department198> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital144> .
-<https://w3id.org/asdkb/instance/Department198> <http://www.w3.org/2000/01/rdf-schema#comment> "临床心理科科室拥有国内知名的临床心理专家常规开展神经症、心境障碍、心身疾病及其他心理行为紊乱的咨询和治疗，尤以抑郁症、焦虑症的综合治疗（包括药物和心理治疗）为特色。并在综合性医院开展会诊联络精神病学服务，对系统家庭治疗及文化与心理与精神健康，以及与躯体疾病的关系进行了深入的探讨科室，与浦东新区、大宁社区等有良好的协作关系，开展到社区的心理咨询与讲座活动。临床心理科与美国布朗大学、哈佛大学等大学，德国弗莱堡大学、海德堡大学等大学有良好的合作关系已经开展了“抑郁症家庭功能的跨文化研究”等国际合作课题。承担了国家科技部支撑课题和国家自然科学基金课题。"@zh .
-<https://w3id.org/asdkb/instance/Department198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

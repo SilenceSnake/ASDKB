@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital192> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0760-88823566(总机),076089880000(总机),0760-88823818(院总值班电话)"@zh .
-<https://w3id.org/asdkb/instance/hospital192> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省中山市孙文东路2号"@zh .
-<https://w3id.org/asdkb/instance/hospital192> <http://www.w3.org/2000/01/rdf-schema#label> "中山市人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital192> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City212> .
 <https://w3id.org/asdkb/instance/hospital192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital192> <http://www.w3.org/2000/01/rdf-schema#label> "中山市人民医院"@zh .
 <https://w3id.org/asdkb/instance/hospital192> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital192> <https://w3id.org/asdkb/ontology/dataproperty/city> "中山市"@zh .
+<https://w3id.org/asdkb/instance/hospital192> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省中山市孙文东路2号"@zh .
+<https://w3id.org/asdkb/instance/hospital192> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0760-88823566(总机),076089880000(总机),0760-88823818(院总值班电话)"@zh .
 

@@ -1,5 +1,5 @@
-<https://w3id.org/asdkb/instance/treatment20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
-<https://w3id.org/asdkb/instance/treatment20> <https://w3id.org/asdkb/ontology/dataproperty/definition> "学习者监督和记录自己的行为，并对恰当行为进行自我奖励，该策略的目的是让学习者学会区分恰当行为和非恰当行为。"@zh .
+<https://w3id.org/asdkb/instance/treatment20> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "学习者监督和记录自己的行为，并对恰当行为进行自我奖励，该策略的目的是让学习者学会区分恰当行为和非恰当行为。"@zh .
 <https://w3id.org/asdkb/instance/treatment20> <http://www.w3.org/2000/01/rdf-schema#label> "Self-Management"@en .
+<https://w3id.org/asdkb/instance/treatment20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
 <https://w3id.org/asdkb/instance/treatment20> <http://www.w3.org/2000/01/rdf-schema#label> "自我管理(SM)"@zh .
 

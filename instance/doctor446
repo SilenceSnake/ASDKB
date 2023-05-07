@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor446> <http://www.w3.org/2000/01/rdf-schema#label> "叶祎"@zh .
-<https://w3id.org/asdkb/instance/doctor446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor446> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor446> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department96> .
 <https://w3id.org/asdkb/instance/doctor446> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童营养喂养，性早熟，身材矮小等相关疾病诊治"@zh .
+<https://w3id.org/asdkb/instance/doctor446> <http://www.w3.org/2000/01/rdf-schema#label> "叶祎"@zh .
+<https://w3id.org/asdkb/instance/doctor446> <https://w3id.org/asdkb/ontology/dataproperty/department> "小儿营养保健科"@zh .
+<https://w3id.org/asdkb/instance/doctor446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department219> <http://www.w3.org/2000/01/rdf-schema#comment> "盛京医院儿童保健科（即基础儿科）成立于1979 年。设有儿童保健、儿童营养、儿童心理、儿科遗传等四大专业。系辽宁省学习困难诊治中心、辽宁省科学育儿咨询中心、遗传性疾病产前诊断中心。现有医生8人，护士4人。其中教授4人（博士生导师1人，硕士生导师3人），副教授1人，讲师3人。具有医学博士学位1人，医学硕士学位6人。4人曾在法国、美国、澳大利亚留学或研修。我科共培养硕士研究生 30人，博士生5人，其中有8名毕业生在美国、加拿大的著名大学或医院工作。先后承担国家、部、省级科研课题20余项，获省级以上科研成果3项。 "@zh .
-<https://w3id.org/asdkb/instance/Department219> <http://www.w3.org/2000/01/rdf-schema#label> "盛京医院儿保科"@zh .
-<https://w3id.org/asdkb/instance/Department219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department219> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital46> .
-

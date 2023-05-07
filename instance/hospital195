@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital195> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0373-3029611(咨询处)"@zh .
-<https://w3id.org/asdkb/instance/hospital195> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/instance/hospital195> <http://www.w3.org/2000/01/rdf-schema#label> "新乡医学院第三附属医院"@zh .
-<https://w3id.org/asdkb/instance/hospital195> <https://w3id.org/asdkb/ontology/dataproperty/city> "新乡市"@zh .
 <https://w3id.org/asdkb/instance/hospital195> <https://w3id.org/asdkb/ontology/dataproperty/address> "新乡市华兰大道东段"@zh .
+<https://w3id.org/asdkb/instance/hospital195> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City157> .
+<https://w3id.org/asdkb/instance/hospital195> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0373-3029611(咨询处)"@zh .
+<https://w3id.org/asdkb/instance/hospital195> <http://www.w3.org/2000/01/rdf-schema#label> "新乡医学院第三附属医院"@zh .
+<https://w3id.org/asdkb/instance/hospital195> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
 <https://w3id.org/asdkb/instance/hospital195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

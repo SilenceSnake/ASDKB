@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor59> <http://www.w3.org/2000/01/rdf-schema#label> "赖成标"@zh .
-<https://w3id.org/asdkb/instance/doctor59> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department75> .
-<https://w3id.org/asdkb/instance/doctor59> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童期情绪障碍儿童遗尿症儿童胰腺功能不全并中性粒细胞减少症综合征儿童抽动障碍儿童期精神障碍及精神发育迟缓儿童孤独症儿童学习能力障碍儿童精神分裂症儿童遗粪症儿童口吃"@zh .
+<https://w3id.org/asdkb/instance/doctor59> <https://w3id.org/asdkb/ontology/dataproperty/department> "急诊科"@zh .
 <https://w3id.org/asdkb/instance/doctor59> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital29> .
+<https://w3id.org/asdkb/instance/doctor59> <http://www.w3.org/2000/01/rdf-schema#label> "赖成标"@zh .
 <https://w3id.org/asdkb/instance/doctor59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor59> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor59> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童期情绪障碍儿童遗尿症儿童胰腺功能不全并中性粒细胞减少症综合征儿童抽动障碍儿童期精神障碍及精神发育迟缓儿童孤独症儿童学习能力障碍儿童精神分裂症儿童遗粪症儿童口吃"@zh .
 

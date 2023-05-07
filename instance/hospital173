@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital173> <http://www.w3.org/2000/01/rdf-schema#label> "济宁市第一人民医院"@zh .
-<https://w3id.org/asdkb/instance/hospital173> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital173> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0537-6056666(咨询电话),0537-2253104(门诊服务台),0537-6051113(东院咨询),0537-2257120(急诊)"@zh .
-<https://w3id.org/asdkb/instance/hospital173> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省济宁市健康路6号"@zh .
+<https://w3id.org/asdkb/instance/hospital173> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital173> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City141> .
 <https://w3id.org/asdkb/instance/hospital173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital173> <https://w3id.org/asdkb/ontology/dataproperty/city> "济宁市"@zh .
+<https://w3id.org/asdkb/instance/hospital173> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省济宁市健康路6号"@zh .
+<https://w3id.org/asdkb/instance/hospital173> <http://www.w3.org/2000/01/rdf-schema#label> "济宁市第一人民医院"@zh .
 

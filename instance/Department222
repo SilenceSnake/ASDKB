@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department222> <http://www.w3.org/2000/01/rdf-schema#label> "十堰市太和医院儿科门诊科"@zh .
-<https://w3id.org/asdkb/instance/Department222> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童医疗中心Ⅰ病区简介科内现有人员主任医师5人，副主任医师2人，主治医师3人，住院医师8人，硕士生5人，硕士生导师2人，已培养硕士研究生4名；在读研究生2人，每年培训来自全市的专科进修生4～6人，近3年举办国内及省内儿科医师培训班共2次，为武汉大学儿科神经及血液专业硕士培养点。每年完成湖北医药学院教学任务近300学时。每年均开展2-3项省级、国家级新技术、新业务，10余篇论文在国内、外各级杂志发表。"@zh .
-<https://w3id.org/asdkb/instance/Department222> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital19> .
-<https://w3id.org/asdkb/instance/Department222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/hospital98> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital98> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省济南市历下区文化东路49号"@zh .
-<https://w3id.org/asdkb/instance/hospital98> <https://w3id.org/asdkb/ontology/dataproperty/city> "济南市"@zh .
 <https://w3id.org/asdkb/instance/hospital98> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0531-88933887,0531-88942284"@zh .
+<https://w3id.org/asdkb/instance/hospital98> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City134> .
+<https://w3id.org/asdkb/instance/hospital98> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省济南市历下区文化东路49号"@zh .
 <https://w3id.org/asdkb/instance/hospital98> <http://www.w3.org/2000/01/rdf-schema#label> "山东省精神卫生中心"@zh .
 <https://w3id.org/asdkb/instance/hospital98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

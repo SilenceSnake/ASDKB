@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/doctor43> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor43> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital5> .
 <https://w3id.org/asdkb/instance/doctor43> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童保健（婴幼儿喂养指导、生长发育评估等），儿童发育于行为咨询以及相关疾病（多动症、孤独症、阿斯伯格综合症等）的诊治"@zh .
 <https://w3id.org/asdkb/instance/doctor43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor43> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department314> .
+<https://w3id.org/asdkb/instance/doctor43> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
 <https://w3id.org/asdkb/instance/doctor43> <http://www.w3.org/2000/01/rdf-schema#label> "李咏梅"@zh .
-<https://w3id.org/asdkb/instance/doctor43> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital5> .
 

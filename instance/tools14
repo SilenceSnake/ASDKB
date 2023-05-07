@@ -1,11 +1,11 @@
-<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/definition> "M-CHAT是一份针对父母和照顾者的23个项目的问卷，由是/否组成。M-CHAT基于CHAT;但是，它不包括需要医生观察/给药的项目。"@zh .
-<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工"@zh .
-<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/author> "Robbins, Fein, Barton, & Green, 2001"@en .
-<https://w3id.org/asdkb/instance/tools14> <http://www.w3.org/2000/01/rdf-schema#label> "Modified Checklist for Autism in Toddlers"@en .
-<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/time> "5-10分钟"@zh .
 <https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/rule> "关键性项目中有两项或两项以上的答案为未通过，或是所有项目当中有任何三项的答案为未通过，该名儿童就被评定为未通过。检查表判定为未通过的儿童并非全都达到自闭症范围诊断的标淮。然而，未通过检查表的儿童应该由医师做进一步的评估，或是交由专家做发展评估。粗体字的项目为关键性项目2、7、9、13、14、15。下为M-CHAT上所有项目未通过的答案。1.否、2.否、3.否、4.否、5.否、6.否、7.否、8.否、9.否、10.否、11.是、12.否、13.否、14.否、15.否、16.否、17.否、18.是、19.否、20.是、21.否、22.是、23.否"@zh .
-<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "3"@zh .
+<https://w3id.org/asdkb/instance/tools14> <http://www.w3.org/2000/01/rdf-schema#label> "Modified Checklist for Autism in Toddlers"@en .
+<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "M-CHAT是一份针对父母和照顾者的23个项目的问卷，由是/否组成。M-CHAT基于CHAT;但是，它不包括需要医生观察/给药的项目。"@zh .
 <https://w3id.org/asdkb/instance/tools14> <http://www.w3.org/2000/01/rdf-schema#label> "修订版幼儿自闭症检查表(M-CHAT)"@zh .
-<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/age> "16-30个月"@zh .
 <https://w3id.org/asdkb/instance/tools14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/age> "16-30个月"@zh .
+<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/author> "Robbins, Fein, Barton, & Green, 2001"@en .
+<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工"@zh .
+<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "3"@zh .
+<https://w3id.org/asdkb/instance/tools14> <https://w3id.org/asdkb/ontology/dataproperty/time> "5-10分钟"@zh .
 

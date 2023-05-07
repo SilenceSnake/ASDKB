@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department125> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital171> .
-<https://w3id.org/asdkb/instance/Department125> <http://www.w3.org/2000/01/rdf-schema#label> "暨南大学附属第一医院康复科"@zh .
-<https://w3id.org/asdkb/instance/Department125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department125> <http://www.w3.org/2000/01/rdf-schema#comment> "暨南大学附属第一医院是华南地区较早成立康复科的医院。近年，医院康复科有了飞速的发展，是广东省临床重点专科；具有较高知名度的神经心理和康复硕士、博士研究生培养点；是国家级医学继续教育培训基地；是广州市康复专业医疗人员培训基地。本科室拥有教育部重点文科基地脑损伤与认知障碍研究室，拥有国内一流的“语言障碍中心”，是遍布全国的“语言障碍诊治仪ZM2.1”的发源地，是广州医科大学、南方医科大学、广东省中医药大学、三峡大学、湘潭职业技术学校、湛江师范学院、黄埔卫生学校、青岛卫生学校等全国多家院校康复专业学生实习基地。"@zh .
-

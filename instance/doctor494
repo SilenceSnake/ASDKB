@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor494> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "针药并用治疗痛经、更年期综合症、黄褐斑、痤疮、失眠、忧郁症、自闭症等"@zh .
-<https://w3id.org/asdkb/instance/doctor494> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department208> .
-<https://w3id.org/asdkb/instance/doctor494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor494> <http://www.w3.org/2000/01/rdf-schema#label> "王海丽"@zh .
 <https://w3id.org/asdkb/instance/doctor494> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor494> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "针药并用治疗痛经、更年期综合症、黄褐斑、痤疮、失眠、忧郁症、自闭症等"@zh .
+<https://w3id.org/asdkb/instance/doctor494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor494> <https://w3id.org/asdkb/ontology/dataproperty/department> "针灸科"@zh .
 

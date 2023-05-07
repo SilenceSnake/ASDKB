@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/hospital88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital88> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital88> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市西城区西什库大街8号"@zh .
+<https://w3id.org/asdkb/instance/hospital88> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City0> .
 <https://w3id.org/asdkb/instance/hospital88> <http://www.w3.org/2000/01/rdf-schema#label> "北京大学第一医院"@zh .
-<https://w3id.org/asdkb/instance/hospital88> <https://w3id.org/asdkb/ontology/dataproperty/city> "北京市"@zh .
+<https://w3id.org/asdkb/instance/hospital88> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市西城区西什库大街8号"@zh .
+<https://w3id.org/asdkb/instance/hospital88> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital88> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "010-83572211(北大医院总机),010-66551056(院办),010-83228989(男科中心),010-66551531(北大妇幼)"@zh .
 

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital267> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "暂无电话"@zh .
 <https://w3id.org/asdkb/instance/hospital267> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital267> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "暂无电话"@zh .
+<https://w3id.org/asdkb/instance/hospital267> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City114> .
 <https://w3id.org/asdkb/instance/hospital267> <https://w3id.org/asdkb/ontology/dataproperty/address> "福建省福州市晋安区鼓山镇横屿路966号"@zh .
-<https://w3id.org/asdkb/instance/hospital267> <https://w3id.org/asdkb/ontology/dataproperty/city> "福州市"@zh .
-<https://w3id.org/asdkb/instance/hospital267> <http://www.w3.org/2000/01/rdf-schema#label> "福建省儿童医院"@zh .
 <https://w3id.org/asdkb/instance/hospital267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital267> <http://www.w3.org/2000/01/rdf-schema#label> "福建省儿童医院"@zh .
 

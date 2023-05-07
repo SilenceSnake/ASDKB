@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor142> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "诊治抑郁症、双相情感障碍、应激障碍、强迫症、焦虑障碍、睡眠障碍等成人常见精神疾病"@zh .
+<https://w3id.org/asdkb/instance/doctor142> <https://w3id.org/asdkb/ontology/dataproperty/department> "精神科"@zh .
 <https://w3id.org/asdkb/instance/doctor142> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor142> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department6> .
 <https://w3id.org/asdkb/instance/doctor142> <http://www.w3.org/2000/01/rdf-schema#label> "张玲"@zh .
+<https://w3id.org/asdkb/instance/doctor142> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "诊治抑郁症、双相情感障碍、应激障碍、强迫症、焦虑障碍、睡眠障碍等成人常见精神疾病"@zh .
 <https://w3id.org/asdkb/instance/doctor142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital104> <https://w3id.org/asdkb/ontology/dataproperty/city> "北京市"@zh .
-<https://w3id.org/asdkb/instance/hospital104> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "010-85695555(总机),010-85613495(挂号咨询)"@zh .
-<https://w3id.org/asdkb/instance/hospital104> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital104> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市朝阳区雅宝路2号"@zh .
 <https://w3id.org/asdkb/instance/hospital104> <http://www.w3.org/2000/01/rdf-schema#label> "首都儿科研究所附属儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital104> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City0> .
+<https://w3id.org/asdkb/instance/hospital104> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市朝阳区雅宝路2号"@zh .
+<https://w3id.org/asdkb/instance/hospital104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital104> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital104> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "010-85695555(总机),010-85613495(挂号咨询)"@zh .
 

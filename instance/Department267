@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department267> <http://www.w3.org/2000/01/rdf-schema#label> "西京医院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department267> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital95> .
-<https://w3id.org/asdkb/instance/Department267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department267> <http://www.w3.org/2000/01/rdf-schema#comment> "第四军医大学西京医院儿科，是第四军医大学重点学科之一，是中国西北地区综合医院中力量最强的儿童疾病的诊治专科，具有一流的设备、技术和服务，服务宗旨是\"尽心尽力诊治，全心全意服务\"。 "@zh .
-

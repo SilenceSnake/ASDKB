@@ -1,5 +1,5 @@
-<https://w3id.org/asdkb/instance/tools0question29option6> <https://w3id.org/asdkb/ontology/dataproperty/option_content> "7.每天持续进行"@zh .
-<https://w3id.org/asdkb/instance/tools0question29option6> <https://w3id.org/asdkb/ontology/objectproperty/hit> <https://w3id.org/asdkb/instance/D22> .
 <https://w3id.org/asdkb/instance/tools0question29option6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/option> .
+<https://w3id.org/asdkb/instance/tools0question29option6> <https://w3id.org/asdkb/ontology/dataproperty/option_content> "7.每天持续进行"@zh .
 <https://w3id.org/asdkb/instance/tools0question29option6> <https://w3id.org/asdkb/ontology/dataproperty/score> "6.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/asdkb/instance/tools0question29option6> <https://w3id.org/asdkb/ontology/objectproperty/matchStandard> <https://w3id.org/asdkb/instance/D22> .
 

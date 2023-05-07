@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department151> <http://www.w3.org/2000/01/rdf-schema#label> "南昌大学第一附属医院心身医学科"@zh .
-<https://w3id.org/asdkb/instance/Department151> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital142> .
-<https://w3id.org/asdkb/instance/Department151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department151> <http://www.w3.org/2000/01/rdf-schema#comment> "该科的前身为江西医学院（现为南昌大学医学院）精神医学教研室，由我国知名的精神病学家张开汉教授组建于1980年。多年来该学科一直坚持精神医学的临床、教学及科研工作，于2006年正式成立南昌大学第一附属医院精神医学科，集南昌大学第一附院精神科、南昌大学第一临床医学院精神医学教研室、医学心理学教研室三名为一体。2011年被中国医师协会授予“健康中国-抑郁症及睡眠障碍”健康教育基地，现已发展成为江西省规模最大的集教学、科研、临床为一体的精神医学专科。"@zh .
-

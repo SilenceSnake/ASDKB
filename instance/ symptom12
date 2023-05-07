@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/symptom12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/instance/symptom12> <http://www.w3.org/2000/01/rdf-schema#comment> "a relative lack of creativity and fantasy in thought processes"@en .
+<https://w3id.org/asdkb/instance/symptom12> <http://www.w3.org/2000/01/rdf-schema#comment> "思维过程中相对缺乏创造力和幻想"@zh .
+

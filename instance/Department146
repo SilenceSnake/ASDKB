@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department146> <http://www.w3.org/2000/01/rdf-schema#label> "临沂市人民医院临床心理科"@zh .
-<https://w3id.org/asdkb/instance/Department146> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital149> .
-<https://w3id.org/asdkb/instance/Department146> <http://www.w3.org/2000/01/rdf-schema#comment> "临沂市人民医院心理科是我市首家专业心理咨询与治疗机构（1997年成立）。自成立至今，科室不断发展完善，在医疗环境、设备设施、人才建设、新技术新项目的引进与发展及科研等方面已处于省内先进水平，获得了良好的社会效益和很高的社会评价。目前科室有临床心理专家2名和临床心理医生4名（在职博士1名，硕士研究生2名，北大心理学学士1名），并聘请我国著名心理学家及省内知名精神卫生专家担任顾问。心理咨询与治疗：运用国内外先进的心理学理论和心理咨询与治疗技术为各年龄段的人群提供服务，主要包括：抑郁症；恐惧症、焦虑症、强迫症、躯体形式障碍（长期查不出明确原因的躯体不适或疑病）等）、分离障碍、应激相关障碍；神经性厌食/贪食/呕吐、失眠症、神经性头痛、非器质性性功能障碍等；人格障碍、性心理障碍；儿童多动症、抽动症、品行障碍、儿童分离性焦虑症、儿童（社交）恐惧症、遗尿症和口吃等；器质性精神障碍、早期或康复期精神病性障碍；考试焦虑、厌学心理、青春期性困惑和情感问题、婚恋与家庭问题、子女教育、人际关系、孕产期心理问题、更年期及老年人心理问题；网络依赖；人生规划等；"@zh .
-<https://w3id.org/asdkb/instance/Department146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

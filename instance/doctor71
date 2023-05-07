@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor71> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department315> .
-<https://w3id.org/asdkb/instance/doctor71> <http://www.w3.org/2000/01/rdf-schema#label> "唐春"@zh .
-<https://w3id.org/asdkb/instance/doctor71> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童发育行为疾病的诊治，对儿童孤独症、多动症、阿斯伯格综合征、抽动症、语言发育迟滞、学习困难、问题行为等均有丰富的诊断和矫治经验。"@zh .
 <https://w3id.org/asdkb/instance/doctor71> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor71> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童发育行为中心"@zh .
 <https://w3id.org/asdkb/instance/doctor71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor71> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童发育行为疾病的诊治，对儿童孤独症、多动症、阿斯伯格综合征、抽动症、语言发育迟滞、学习困难、问题行为等均有丰富的诊断和矫治经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor71> <http://www.w3.org/2000/01/rdf-schema#label> "唐春"@zh .
 <https://w3id.org/asdkb/instance/doctor71> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital5> .
 

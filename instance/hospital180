@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital180> <http://www.w3.org/2000/01/rdf-schema#label> "中国中医科学院西苑医院"@zh .
+<https://w3id.org/asdkb/instance/hospital180> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市海淀区西苑操场1号(颐和园东侧)"@zh .
 <https://w3id.org/asdkb/instance/hospital180> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital180> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "010-62875599(总机),010-62835678(咨询),010-62869939(咨询),010-62835252(门诊),010-62835255(门诊),010-62835462"@zh .
+<https://w3id.org/asdkb/instance/hospital180> <http://www.w3.org/2000/01/rdf-schema#label> "中国中医科学院西苑医院"@zh .
+<https://w3id.org/asdkb/instance/hospital180> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City0> .
 <https://w3id.org/asdkb/instance/hospital180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital180> <https://w3id.org/asdkb/ontology/dataproperty/city> "北京市"@zh .
-<https://w3id.org/asdkb/instance/hospital180> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市海淀区西苑操场1号(颐和园东侧)"@zh .
 

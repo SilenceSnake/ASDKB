@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital124> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0416-3341700(门诊)"@zh .
-<https://w3id.org/asdkb/instance/hospital124> <http://www.w3.org/2000/01/rdf-schema#label> "锦州市康宁医院"@zh .
-<https://w3id.org/asdkb/instance/hospital124> <https://w3id.org/asdkb/ontology/dataproperty/address> "锦州市凌河区百官屯417号（紫荆山）"@zh .
-<https://w3id.org/asdkb/instance/hospital124> <https://w3id.org/asdkb/ontology/dataproperty/city> "锦州市"@zh .
+<https://w3id.org/asdkb/instance/hospital124> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City42> .
 <https://w3id.org/asdkb/instance/hospital124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital124> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0416-3341700(门诊)"@zh .
 <https://w3id.org/asdkb/instance/hospital124> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital124> <https://w3id.org/asdkb/ontology/dataproperty/address> "锦州市凌河区百官屯417号（紫荆山）"@zh .
+<https://w3id.org/asdkb/instance/hospital124> <http://www.w3.org/2000/01/rdf-schema#label> "锦州市康宁医院"@zh .
 

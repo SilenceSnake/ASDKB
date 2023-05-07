@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor67> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital192> .
-<https://w3id.org/asdkb/instance/doctor67> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
 <https://w3id.org/asdkb/instance/doctor67> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童精神运动发育迟缓、脑瘫、语言障碍、儿童抽动症、孤独症谱系障碍、儿童多动症的诊治，高危儿生长发育监测、儿童保健等。对儿童呼吸道感染、消化道等疾病也有丰富的治疗经验。"@zh .
 <https://w3id.org/asdkb/instance/doctor67> <http://www.w3.org/2000/01/rdf-schema#label> "伍红星"@zh .
-<https://w3id.org/asdkb/instance/doctor67> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department324> .
+<https://w3id.org/asdkb/instance/doctor67> <https://w3id.org/asdkb/ontology/dataproperty/department> "康复医学科"@zh .
+<https://w3id.org/asdkb/instance/doctor67> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital192> .
+<https://w3id.org/asdkb/instance/doctor67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor67> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
 

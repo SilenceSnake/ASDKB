@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department25> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital219> .
-<https://w3id.org/asdkb/instance/Department25> <http://www.w3.org/2000/01/rdf-schema#label> "常州市儿童医院儿童健康研究中心"@zh .
-<https://w3id.org/asdkb/instance/Department25> <http://www.w3.org/2000/01/rdf-schema#comment> "常州儿童医院儿童保健科设在门诊大楼二楼，是医院院独具特色的专业科室之一。自创建以来，稳步发展，目前已具备一定规模。根据儿童心理特点设置了宽敞、生动的门诊室、咨询室、检测室训练场所，设施完备，由具有丰富临床经验、医德高尚的专业医师供您选择、为您服务。常州儿童医院儿童保健科开展诊治项目如下：生长发育检测，营养指导，四病防治（佝偻病营养性贫血、反复呼吸道感染、消化不良及厌食），身材矮小，肥胖症，维生素与微量元素缺乏症，铅中毒防治，多动症、抽动症，儿童孤独症，学习困难、智力低下，语言发育障碍，亚健康状态，青春期发育异常（包括性早熟，青春发育延迟）。常州儿童医院儿童保健科设有生长发育测评室，心理行为测试室，智力测评室、脑电生物反馈治疗室等，配有青少年心理性为量表，营养评价系统，采用心理测验软件，与国际先进水平接轨，对小儿多动症、孤独症、感觉统合失调、焦虑症、抑郁症等进行快速诊断。常州儿童医院儿童保健科积极加强专业培训和科室建设，以优质的医疗质量为广大儿童的身心健康服务，为儿童德、智、体、美全面发展贡献力量。近十年来，相继开展智商测定和童心理行为评估，如：儿童行为问卷、儿童气质测定、感觉统合能力评定、儿童孤独症ABC评定量表、多动症评定量表等，为广大有需求的儿童及家长提供专业咨询、评估及指导。"@zh .
-<https://w3id.org/asdkb/instance/Department25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

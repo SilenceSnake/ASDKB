@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department51> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童保健中心全体员工将以优美的环境、优质的服务和精湛的技术为全市儿童提供最专业的保健服务，促进全市儿童健康、全面的发展。"@zh .
-<https://w3id.org/asdkb/instance/Department51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department51> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital262> .
-<https://w3id.org/asdkb/instance/Department51> <http://www.w3.org/2000/01/rdf-schema#label> "抚顺市妇幼保健院儿童保健科"@zh .
-

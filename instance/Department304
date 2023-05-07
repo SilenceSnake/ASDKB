@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department304> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital34> .
-<https://w3id.org/asdkb/instance/Department304> <http://www.w3.org/2000/01/rdf-schema#comment> "郑州大学第三附属医院（河南省妇幼保健院）儿内科是河南省教育厅和卫生厅双重点学科，是临床医学硕士学位、博士学位授权点，是河南省规模最大、专业设置最为齐全的省级儿科医疗、教学、培训和科研单位，承担着郑州大学本科生、硕士研究生、博士研究生、留学生的儿科学教学任务和儿科进修医师的培养任务，为全省儿科医学事业的发展和儿童健康做出了突出贡献。学科自1997年以来连续四次被评为河南省教育厅重点学科、河南省卫生厅临床医学重点学科。目前拥有河南省卫生厅批准成立的四个中心和一个新生儿脑损伤重点实验室。即：“河南省儿童重症救护中心”、“河南省新生儿重症救护网络中心”、“河南省新生儿重症救护专业人员培训中心”、“河南省儿童医疗质量控制中心”。是河南省新生儿重症救护网络协作委员会和专家委员会所在单位。"@zh .
-<https://w3id.org/asdkb/instance/Department304> <http://www.w3.org/2000/01/rdf-schema#label> "郑州大学第三附属医院小儿内科"@zh .
-

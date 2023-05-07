@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor228> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department5> .
-<https://w3id.org/asdkb/instance/doctor228> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童心理咨询，儿童抽动障碍，儿童注意缺陷多动障碍，精神发育迟滞，品行障碍，儿童情绪障碍行为问题、儿童情感性精神障碍及儿童精神分裂症的诊治等"@zh .
 <https://w3id.org/asdkb/instance/doctor228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor228> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor228> <http://www.w3.org/2000/01/rdf-schema#label> "梁月竹"@zh .
+<https://w3id.org/asdkb/instance/doctor228> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童精神科"@zh .
+<https://w3id.org/asdkb/instance/doctor228> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor228> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童心理咨询，儿童抽动障碍，儿童注意缺陷多动障碍，精神发育迟滞，品行障碍，儿童情绪障碍行为问题、儿童情感性精神障碍及儿童精神分裂症的诊治等"@zh .
 

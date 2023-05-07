@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/doctor87> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "对新生儿疾病及儿童心理行为问题的诊断治疗尤为擅长，如婴儿神经精神发育障碍、儿童多动症、孤独症、语言障碍、学习困难、儿童行为问题等。"@zh .
-<https://w3id.org/asdkb/instance/doctor87> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital34> .
-<https://w3id.org/asdkb/instance/doctor87> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department304> .
-<https://w3id.org/asdkb/instance/doctor87> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor87> <https://w3id.org/asdkb/ontology/dataproperty/department> "小儿内科"@zh .
 <https://w3id.org/asdkb/instance/doctor87> <http://www.w3.org/2000/01/rdf-schema#label> "冯红旗"@zh .
+<https://w3id.org/asdkb/instance/doctor87> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital34> .
+<https://w3id.org/asdkb/instance/doctor87> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

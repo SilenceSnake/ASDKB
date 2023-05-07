@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor184> <http://www.w3.org/2000/01/rdf-schema#label> "郑毅"@zh .
 <https://w3id.org/asdkb/instance/doctor184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor184> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神障碍的诊疗与预防，特别是对儿童精神疾病的诊疗防治、健全人格的培养、脑潜能开发、学习困难、儿童青少年行为相关障碍、儿童精神障碍遗传及行为基因学有特殊研究。"@zh .
+<https://w3id.org/asdkb/instance/doctor184> <http://www.w3.org/2000/01/rdf-schema#label> "郑毅"@zh .
 <https://w3id.org/asdkb/instance/doctor184> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor184> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department5> .
+<https://w3id.org/asdkb/instance/doctor184> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童精神科"@zh .
+<https://w3id.org/asdkb/instance/doctor184> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神障碍的诊疗与预防，特别是对儿童精神疾病的诊疗防治、健全人格的培养、脑潜能开发、学习困难、儿童青少年行为相关障碍、儿童精神障碍遗传及行为基因学有特殊研究。"@zh .
 

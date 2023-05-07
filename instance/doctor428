@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor428> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department17> .
+<https://w3id.org/asdkb/instance/doctor428> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神分裂症，双相情感障碍，抑郁症，物质成瘾，儿童心理行为问题，孤独症，多动症"@zh .
+<https://w3id.org/asdkb/instance/doctor428> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital247> .
 <https://w3id.org/asdkb/instance/doctor428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor428> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor428> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神分裂症，双相情感障碍，抑郁症，物质成瘾，儿童心理行为问题，孤独症，多动症"@zh .
+<https://w3id.org/asdkb/instance/doctor428> <https://w3id.org/asdkb/ontology/dataproperty/department> "精神科"@zh .
 <https://w3id.org/asdkb/instance/doctor428> <http://www.w3.org/2000/01/rdf-schema#label> "刘永翼"@zh .
-<https://w3id.org/asdkb/instance/doctor428> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital247> .
 

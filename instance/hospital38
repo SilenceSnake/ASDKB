@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital38> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital38> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0531-87964990,81309156 "@zh .
-<https://w3id.org/asdkb/instance/hospital38> <https://w3id.org/asdkb/ontology/dataproperty/city> "济南市"@zh .
 <https://w3id.org/asdkb/instance/hospital38> <http://www.w3.org/2000/01/rdf-schema#label> "济南市儿童医院"@zh .
+<https://w3id.org/asdkb/instance/hospital38> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City134> .
 <https://w3id.org/asdkb/instance/hospital38> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省济南市槐荫区经十路430号 ‎ "@zh .
 

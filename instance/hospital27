@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/hospital27> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital27> <http://www.w3.org/2000/01/rdf-schema#label> "广州市妇女儿童医疗中心"@zh .
-<https://w3id.org/asdkb/instance/hospital27> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省广州市越秀区人民中路402号 "@zh .
-<https://w3id.org/asdkb/instance/hospital27> <https://w3id.org/asdkb/ontology/dataproperty/city> "广州市"@zh .
 <https://w3id.org/asdkb/instance/hospital27> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "(020)81886910 ，(020)81887403 "@zh .
+<https://w3id.org/asdkb/instance/hospital27> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City195> .
+<https://w3id.org/asdkb/instance/hospital27> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省广州市越秀区人民中路402号 "@zh .
 <https://w3id.org/asdkb/instance/hospital27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor472> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor472> <https://w3id.org/asdkb/ontology/dataproperty/department> "心身医学科"@zh .
 <https://w3id.org/asdkb/instance/doctor472> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital142> .
+<https://w3id.org/asdkb/instance/doctor472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor472> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor472> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "焦虑障碍、强迫性障碍、躯体形式障碍、创伤后应激障碍、抑郁障碍、双相情感障碍、精神分裂症等疾病的诊治。"@zh .
 <https://w3id.org/asdkb/instance/doctor472> <http://www.w3.org/2000/01/rdf-schema#label> "黄国明"@zh .
-<https://w3id.org/asdkb/instance/doctor472> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department151> .
-<https://w3id.org/asdkb/instance/doctor472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

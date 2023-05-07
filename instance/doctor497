@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor497> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department51> .
-<https://w3id.org/asdkb/instance/doctor497> <http://www.w3.org/2000/01/rdf-schema#label> "王松"@zh .
-<https://w3id.org/asdkb/instance/doctor497> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', '讲师'"@zh .
-<https://w3id.org/asdkb/instance/doctor497> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童发育迟缓 智力语言落后 自闭症 脑损伤 脑性瘫痪 多动症 注意力不集中 感统失调等诊断和治疗 早产儿 高危儿 儿童保健等管理和诊疗"@zh .
 <https://w3id.org/asdkb/instance/doctor497> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital262> .
+<https://w3id.org/asdkb/instance/doctor497> <http://www.w3.org/2000/01/rdf-schema#label> "王松"@zh .
+<https://w3id.org/asdkb/instance/doctor497> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/doctor497> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童发育迟缓 智力语言落后 自闭症 脑损伤 脑性瘫痪 多动症 注意力不集中 感统失调等诊断和治疗 早产儿 高危儿 儿童保健等管理和诊疗"@zh .
 <https://w3id.org/asdkb/instance/doctor497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor497> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', '讲师'"@zh .
 

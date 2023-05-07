@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor44> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 小儿脑瘫、孤独症、脑积水、脑萎缩、脑炎及脑外伤后遗症等病诊断和治疗有丰富的经验。"@zh .
-<https://w3id.org/asdkb/instance/doctor44> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor44> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital37> .
-<https://w3id.org/asdkb/instance/doctor44> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department308> .
 <https://w3id.org/asdkb/instance/doctor44> <http://www.w3.org/2000/01/rdf-schema#label> "鲍建瑾"@zh .
+<https://w3id.org/asdkb/instance/doctor44> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 小儿脑瘫、孤独症、脑积水、脑萎缩、脑炎及脑外伤后遗症等病诊断和治疗有丰富的经验。"@zh .
+<https://w3id.org/asdkb/instance/doctor44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor44> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor44> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital37> .
+<https://w3id.org/asdkb/instance/doctor44> <https://w3id.org/asdkb/ontology/dataproperty/department> "康复医学科"@zh .
 

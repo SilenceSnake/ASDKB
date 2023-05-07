@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital111> <https://w3id.org/asdkb/ontology/dataproperty/city> "衡阳市"@zh .
-<https://w3id.org/asdkb/instance/hospital111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital111> <http://www.w3.org/2000/01/rdf-schema#label> "衡阳市中心医院"@zh .
+<https://w3id.org/asdkb/instance/hospital111> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City184> .
 <https://w3id.org/asdkb/instance/hospital111> <https://w3id.org/asdkb/ontology/dataproperty/address> "衡阳市雁城路12号(雁峰公园斜对面)"@zh .
-<https://w3id.org/asdkb/instance/hospital111> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0734-8275760(总值班室),0734-8275705(门诊办公室)"@zh .
 <https://w3id.org/asdkb/instance/hospital111> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital111> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0734-8275760(总值班室),0734-8275705(门诊办公室)"@zh .
+<https://w3id.org/asdkb/instance/hospital111> <http://www.w3.org/2000/01/rdf-schema#label> "衡阳市中心医院"@zh .
+<https://w3id.org/asdkb/instance/hospital111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

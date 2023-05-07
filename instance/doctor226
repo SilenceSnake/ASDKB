@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor226> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department261> .
 <https://w3id.org/asdkb/instance/doctor226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor226> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor226> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital129> .
-<https://w3id.org/asdkb/instance/doctor226> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "孤独症（自闭症，孤独谱系障碍）、精神发育迟滞(智能障碍)，多动症（注意缺陷多动障碍）、抽动症（抽动障碍）、选择性缄默、儿童青少年情绪障碍等儿童青少年常见心理疾病的诊断治疗。"@zh .
 <https://w3id.org/asdkb/instance/doctor226> <http://www.w3.org/2000/01/rdf-schema#label> "汤珺"@zh .
+<https://w3id.org/asdkb/instance/doctor226> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童康复部"@zh .
+<https://w3id.org/asdkb/instance/doctor226> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor226> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "孤独症（自闭症，孤独谱系障碍）、精神发育迟滞(智能障碍)，多动症（注意缺陷多动障碍）、抽动症（抽动障碍）、选择性缄默、儿童青少年情绪障碍等儿童青少年常见心理疾病的诊断治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor226> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital129> .
 

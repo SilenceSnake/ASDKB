@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor95> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、脑瘫、智障、语言言语发育障碍、先天性甲减早筛及诊治。"@zh .
 <https://w3id.org/asdkb/instance/doctor95> <http://www.w3.org/2000/01/rdf-schema#label> "张玉琼"@zh .
 <https://w3id.org/asdkb/instance/doctor95> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital30> .
-<https://w3id.org/asdkb/instance/doctor95> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department38> .
-<https://w3id.org/asdkb/instance/doctor95> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor95> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、脑瘫、智障、语言言语发育障碍、先天性甲减早筛及诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor95> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童康复科"@zh .
 <https://w3id.org/asdkb/instance/doctor95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor95> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
 

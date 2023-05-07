@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department74> <http://www.w3.org/2000/01/rdf-schema#comment> "广州医学院荔湾医院儿科拥有技术熟练的医护人员30人，其中副主任医师5人，主治医师12人，护师5人；全新装修的病房环境优雅。配备有呼吸机、多功能监护仪、血氧饱和度监护仪、血压监护仪、蓝光治疗仪、红外线辐射抢救台、雾化吸入器、胆红素皮测仪、早产儿培养箱、床边X光机、心电图仪、微量输液泵等先进设备。擅长儿童及新生儿各系统疾病的诊治。多年来完成科研课题3项，其中省级课题1项，科技成果奖1项。"@zh .
-<https://w3id.org/asdkb/instance/Department74> <http://www.w3.org/2000/01/rdf-schema#label> "广州市荔湾中心医院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department74> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital29> .
-<https://w3id.org/asdkb/instance/Department74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

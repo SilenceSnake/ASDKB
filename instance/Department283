@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department283> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital243> .
-<https://w3id.org/asdkb/instance/Department283> <http://www.w3.org/2000/01/rdf-schema#label> "宜春市第三人民医院精神科"@zh .
-<https://w3id.org/asdkb/instance/Department283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department283> <http://www.w3.org/2000/01/rdf-schema#comment> "宜春市第三人民医院精神科经过近40年的培养、磨砺，造就了一批技术过硬、作风优良的专业技术队伍，有高中级医务人员160余人。主要治疗精神分裂症、情感性精神障碍、儿童精神障碍、老年精神障碍、癫痫性精神障碍等。每年门诊人次3万余人，住院人次2000余人，同时以优惠价格收治长年托管的慢性精神病人，为单位、家人解除后顾之忧。住院环境舒适，2003年新建的住院大楼，内设空调、有线电视、娱疗室（内有象棋、扑克牌、麻将、卡拉OK、书刊杂志、乒乓球、羽毛球、健身器械等）及宾馆式的优质病房，以满足患者的不同需求。"@zh .
-

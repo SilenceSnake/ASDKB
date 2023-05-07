@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital99> <https://w3id.org/asdkb/ontology/dataproperty/city> "福州市"@zh .
-<https://w3id.org/asdkb/instance/hospital99> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital99> <https://w3id.org/asdkb/ontology/dataproperty/address> "福州市鼓楼区湖东支路13号"@zh .
-<https://w3id.org/asdkb/instance/hospital99> <http://www.w3.org/2000/01/rdf-schema#label> "福建中医药大学附属康复医院"@zh .
+<https://w3id.org/asdkb/instance/hospital99> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital99> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0591-88529015(办公室),0591-12320,0591-968808,0591-88529297(预约电话)"@zh .
 <https://w3id.org/asdkb/instance/hospital99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital99> <http://www.w3.org/2000/01/rdf-schema#label> "福建中医药大学附属康复医院"@zh .
+<https://w3id.org/asdkb/instance/hospital99> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City114> .
 

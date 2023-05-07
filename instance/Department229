@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department229> <http://www.w3.org/2000/01/rdf-schema#comment> "开展了预防接种、婴儿游泳、儿童发育水平诊断及指导、高危儿早期综合干预、儿童眼保健、儿童气质测评、儿童多动症多轴诊断及综合治疗、儿童口腔功能评估、儿童进食障碍的诊断及治疗、儿童心理行为矫治、儿童骨龄测评、性早熟及矮身材的诊断及治疗工作、儿童生长发育监测、儿童营养咨询、儿童智力测试、入托体检、婴儿抚触、儿童营养不良、佝偻病、儿童营养性贫血、儿童单纯性肥胖等体弱儿童的综合管理等业务项目。"@zh .
-<https://w3id.org/asdkb/instance/Department229> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital225> .
-<https://w3id.org/asdkb/instance/Department229> <http://www.w3.org/2000/01/rdf-schema#label> "四川省妇幼保健院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

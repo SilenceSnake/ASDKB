@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/treatment8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
+<https://w3id.org/asdkb/instance/treatment8> <http://www.w3.org/2000/01/rdf-schema#label> "运动与锻炼(EXM)"@zh .
+<https://w3id.org/asdkb/instance/treatment8> <http://www.w3.org/2000/01/rdf-schema#label> "Exercise and Movement"@en .
+<https://w3id.org/asdkb/instance/treatment8> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "使用体力活动，特定的运动技能，或正念运动的方法使学习者习得目标行为。"@zh .
+

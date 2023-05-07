@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor189> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department159> .
+<https://w3id.org/asdkb/instance/doctor189> <https://w3id.org/asdkb/ontology/dataproperty/department> "神经内科"@zh .
 <https://w3id.org/asdkb/instance/doctor189> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital117> .
-<https://w3id.org/asdkb/instance/doctor189> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor189> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童常见病及多发病等，儿童神经内科疾病，如脑，神经，肌肉等疾病，癫痫，抽动症，多动症，重症肌无力，格林巴利，周围神经病变等"@zh .
+<https://w3id.org/asdkb/instance/doctor189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor189> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor189> <http://www.w3.org/2000/01/rdf-schema#label> "何燕"@zh .
 

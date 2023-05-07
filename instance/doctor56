@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor56> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童孤独症、阿斯伯格综合征、儿童多动症、学习障碍、抽动症、儿童问题行为、睡眠障碍、情绪障碍等儿童心理行为疾病的诊断、评估、咨询、治疗、教养指导及正常儿童养育环境的最佳构建指导。"@zh .
-<https://w3id.org/asdkb/instance/doctor56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor56> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department318> .
 <https://w3id.org/asdkb/instance/doctor56> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital35> .
-<https://w3id.org/asdkb/instance/doctor56> <http://www.w3.org/2000/01/rdf-schema#label> "郭嘉"@zh .
+<https://w3id.org/asdkb/instance/doctor56> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童孤独症、阿斯伯格综合征、儿童多动症、学习障碍、抽动症、儿童问题行为、睡眠障碍、情绪障碍等儿童心理行为疾病的诊断、评估、咨询、治疗、教养指导及正常儿童养育环境的最佳构建指导。"@zh .
 <https://w3id.org/asdkb/instance/doctor56> <https://w3id.org/asdkb/ontology/dataproperty/title> "'医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor56> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科神经内分泌专科"@zh .
+<https://w3id.org/asdkb/instance/doctor56> <http://www.w3.org/2000/01/rdf-schema#label> "郭嘉"@zh .
 

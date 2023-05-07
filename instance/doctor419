@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor419> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department175> .
-<https://w3id.org/asdkb/instance/doctor419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor419> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor419> <http://www.w3.org/2000/01/rdf-schema#label> "童秀斌"@zh .
 <https://w3id.org/asdkb/instance/doctor419> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital105> .
 <https://w3id.org/asdkb/instance/doctor419> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童生长发育监测，身材矮小，性早熟，婴幼儿喂养与营养，儿童早期发展，发育迟缓，语言发育障碍，注意缺陷多动障碍等发育行为问题及儿童常见疾病的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor419> <http://www.w3.org/2000/01/rdf-schema#label> "童秀斌"@zh .
+<https://w3id.org/asdkb/instance/doctor419> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健科"@zh .
 

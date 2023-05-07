@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor37> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor37> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "语言障碍、多动症、情绪障碍等各种儿童心理疾病的诊治、儿童孤独症早期诊断与家庭训练督导、儿童心理咨询与家庭养育指导、儿童游戏治疗。"@zh .
-<https://w3id.org/asdkb/instance/doctor37> <http://www.w3.org/2000/01/rdf-schema#label> "万国斌"@zh .
 <https://w3id.org/asdkb/instance/doctor37> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital3> .
-<https://w3id.org/asdkb/instance/doctor37> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department212> .
-<https://w3id.org/asdkb/instance/doctor37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor37> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/doctor37> <http://www.w3.org/2000/01/rdf-schema#label> "万国斌"@zh .
 

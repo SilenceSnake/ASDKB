@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor488> <http://www.w3.org/2000/01/rdf-schema#label> "梁颖慧"@zh .
+<https://w3id.org/asdkb/instance/doctor488> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童少年精神科"@zh .
 <https://w3id.org/asdkb/instance/doctor488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor488> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年各种心理问题咨询及精神障碍诊治，如儿童青少年精神分裂症，儿童青少年抑郁症，儿童青少年双相情感障碍，儿童多动症，儿童孤独症的诊断及治疗，童年情绪障碍等的诊断。"@zh .
 <https://w3id.org/asdkb/instance/doctor488> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital209> .
-<https://w3id.org/asdkb/instance/doctor488> <http://www.w3.org/2000/01/rdf-schema#label> "梁颖慧"@zh .
-<https://w3id.org/asdkb/instance/doctor488> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department275> .
 <https://w3id.org/asdkb/instance/doctor488> <https://w3id.org/asdkb/ontology/dataproperty/title> "'医师', ''"@zh .
 

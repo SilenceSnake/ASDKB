@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital196> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital196> <http://www.w3.org/2000/01/rdf-schema#label> "重庆市第九人民医院"@zh .
-<https://w3id.org/asdkb/instance/hospital196> <https://w3id.org/asdkb/ontology/dataproperty/city> "重庆市"@zh .
 <https://w3id.org/asdkb/instance/hospital196> <https://w3id.org/asdkb/ontology/dataproperty/address> "重庆市北碚区嘉陵村69号"@zh .
+<https://w3id.org/asdkb/instance/hospital196> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City233> .
 <https://w3id.org/asdkb/instance/hospital196> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "023-63221327(预约咨询),023-68865991(总值班),023-68865906(院办公室)"@zh .
+<https://w3id.org/asdkb/instance/hospital196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital196> <http://www.w3.org/2000/01/rdf-schema#label> "重庆市第九人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital196> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 

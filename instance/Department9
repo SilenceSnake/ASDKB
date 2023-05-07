@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department9> <http://www.w3.org/2000/01/rdf-schema#comment> "北京儿童医院儿童保健中心成立于七十年代，2000年6月1日正式由保健科更名为儿童保健中心。中心拥有一支雄厚的专业队伍、完整的儿童保健服务内容和流畅的检测程序，是一家集挂号、缴费、检测和诊疗于一体的儿童保健机构。北京儿童医院儿童保健中心设有新生儿行为测查、婴幼儿抚触、小儿生长发育及精神发育测评、儿童营养评价，听力筛查、视力筛查、超声骨密度检查、超声骨龄检查、智力筛查、智力测评、0-1岁52项神经运动检查、气质测评、铅损伤筛查、血铅测查、微量元素测评、血常规测查、25羟维生素D检测、注意力测评与训练、孤独症测评、人体成分测查、早期发育训练、语言测评、语言障碍训练、保健咨询以及健康教育，儿童免疫规划等多项与保健相关的服务，同时也可接纳幼儿园、中小学生集体儿童的健康体检工作。其中，小儿生长发育与营养、精神发育测评与早期干预是中心的工作重点及亮点。"@zh .
-<https://w3id.org/asdkb/instance/Department9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department9> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital28> .
-<https://w3id.org/asdkb/instance/Department9> <http://www.w3.org/2000/01/rdf-schema#label> "北京儿童医院儿童保健中心"@zh .
-

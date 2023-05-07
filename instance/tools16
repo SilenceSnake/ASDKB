@@ -1,11 +1,11 @@
-<https://w3id.org/asdkb/instance/tools16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
-<https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/definition> "Q-CHAT包含了M-CHAT中10个最具区别性的项目。项目得分为是/否。"@zh .
 <https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "52"@zh .
-<https://w3id.org/asdkb/instance/tools16> <http://www.w3.org/2000/01/rdf-schema#label> "Quantitative Checklist for Autism in Toddlers"@en .
 <https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工"@zh .
-<https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/rule> "所有25个项目都使用5分频率等级进行评分，得分范围从0到4，将分数之和作为总分。正常人的平均分数为26分，患者的平均分为52分"@zh .
-<https://w3id.org/asdkb/instance/tools16> <http://www.w3.org/2000/01/rdf-schema#label> "幼儿自闭症定量检查表(Q-CHAT)"@zh .
 <https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/age> "16-30个月"@zh .
-<https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/author> "Allison, Auyeung, & Baron-Cohen, 2012"@en .
+<https://w3id.org/asdkb/instance/tools16> <http://www.w3.org/2000/01/rdf-schema#label> "Quantitative Checklist for Autism in Toddlers"@en .
+<https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "Q-CHAT包含了M-CHAT中10个最具区别性的项目。项目得分为是/否。"@zh .
 <https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/time> "5-10分钟"@zh .
+<https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/rule> "所有25个项目都使用5分频率等级进行评分，得分范围从0到4，将分数之和作为总分。正常人的平均分数为26分，患者的平均分为52分"@zh .
+<https://w3id.org/asdkb/instance/tools16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools16> <http://www.w3.org/2000/01/rdf-schema#label> "幼儿自闭症定量检查表(Q-CHAT)"@zh .
+<https://w3id.org/asdkb/instance/tools16> <https://w3id.org/asdkb/ontology/dataproperty/author> "Allison, Auyeung, & Baron-Cohen, 2012"@en .
 

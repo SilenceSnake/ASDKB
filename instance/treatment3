@@ -1,5 +1,5 @@
+<https://w3id.org/asdkb/instance/treatment3> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "将低频发生的，更困难的任务反应嵌入到高频发生的，低难度的任务之中，以维持低频行为的发生。"@zh .
 <https://w3id.org/asdkb/instance/treatment3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
-<https://w3id.org/asdkb/instance/treatment3> <https://w3id.org/asdkb/ontology/dataproperty/definition> "将低频发生的，更困难的任务反应嵌入到高频发生的，低难度的任务之中，以维持低频行为的发生。"@zh .
-<https://w3id.org/asdkb/instance/treatment3> <http://www.w3.org/2000/01/rdf-schema#label> "行为动能干预(BMI)"@zh .
 <https://w3id.org/asdkb/instance/treatment3> <http://www.w3.org/2000/01/rdf-schema#label> "Behavioral Momentum Intervention"@en .
+<https://w3id.org/asdkb/instance/treatment3> <http://www.w3.org/2000/01/rdf-schema#label> "行为动能干预(BMI)"@zh .
 

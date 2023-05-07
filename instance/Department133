@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department133> <http://www.w3.org/2000/01/rdf-schema#label> "江西省儿童医院神经内科"@zh .
-<https://w3id.org/asdkb/instance/Department133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department133> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital158> .
-<https://w3id.org/asdkb/instance/Department133> <http://www.w3.org/2000/01/rdf-schema#comment> "江西省儿童医院神经科正式成立于1979年，现有开放病床102张，是我国组建小儿神经专业较早、病床规模最大小儿神经专业科室之一。拥有全省一流的小儿神经科医疗、教学、科研仪器设备和专业队伍。为江西省医学领先学科、医院三大重点发展专科之一。整体专业水平在全省居领先地位，在全国处于先进水平。该科专业技术实力雄厚，拥有一大批高层次专业队伍，现有神经专业医生12名，其中现有临床经验丰富，专业理论扎实的主任医师、教授5名，中青年医师队伍整齐，有副教授、副主任医师3名，主治医师3名，硕士研究生导师3名，获卫生厅特殊津贴1名。江西省卫生系统学术和技术带头人培养对象1名，医院优秀人才培养对象2名，医院优秀科技工作者2名，在8个专业学术团体担任不同职务，人人均有明确的专业发展方向。"@zh .
-

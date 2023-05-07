@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital44> <https://w3id.org/asdkb/ontology/dataproperty/city> "广州市"@zh .
 <https://w3id.org/asdkb/instance/hospital44> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "86-020-39195566 "@zh .
-<https://w3id.org/asdkb/instance/hospital44> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
-<https://w3id.org/asdkb/instance/hospital44> <https://w3id.org/asdkb/ontology/dataproperty/address> "广州市番禺区亚运南路63号 "@zh .
-<https://w3id.org/asdkb/instance/hospital44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital44> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City195> .
 <https://w3id.org/asdkb/instance/hospital44> <http://www.w3.org/2000/01/rdf-schema#label> "温州医科大学附属第二医院"@zh .
+<https://w3id.org/asdkb/instance/hospital44> <https://w3id.org/asdkb/ontology/dataproperty/address> "广州市番禺区亚运南路63号 "@zh .
+<https://w3id.org/asdkb/instance/hospital44> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
+<https://w3id.org/asdkb/instance/hospital44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

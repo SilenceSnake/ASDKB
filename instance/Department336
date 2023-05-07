@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department336> <http://www.w3.org/2000/01/rdf-schema#label> "珠海市妇幼保健院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department336> <http://www.w3.org/2000/01/rdf-schema#comment> "珠海市妇幼保健院儿童保健科集预防保健、教学、科研、基层指导、健康教育为一体，除预防保健门诊工作外还承担着全市儿童保健技术指导、培训、督导工作，并且是全市基层医院、社区卫生服务中心人员儿童保健技术进修基地。是中国优生科学协会儿童健康管理示范基地、广东省儿童早期发展示范基地、国家妇幼中心儿童营养与饮食行为试点门诊，是本市最早开设矮小性早熟门诊，唯一开设儿童身高促进门诊的单位。人员组成：儿童保健科现有医护人员25人，包括医生12人，护士8人，康复技师1人，幼师1人，信息员3人。医生队伍中正高职称2人，副高职称5人，中级职称5人，初级职称2人；护士队伍中中级职称2人，初级职称6人。开展业务：新生儿访视，散居儿童保健，集体儿童保健，围产高危儿保健，体弱儿管理，儿童常见病多发病防治，专科疾病诊疗，0-2岁儿童早期发展评估，0-2岁儿童早期发展指导，视力筛查仪检查，超声骨密度检查，儿童营养与饮食行为分析，人体成分分析，辅食制作技能家长实操培训、儿童及成人预防接种，健康教育，《出生医学证明》办理等。"@zh .
-<https://w3id.org/asdkb/instance/Department336> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital194> .
-<https://w3id.org/asdkb/instance/Department336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/symptom21> <http://www.w3.org/2000/01/rdf-schema#comment> "there are motor stereotypies"@en .
+<https://w3id.org/asdkb/instance/symptom21> <http://www.w3.org/2000/01/rdf-schema#comment> "存在运动刻板印象"@zh .
+<https://w3id.org/asdkb/instance/symptom21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/restrictive_repetitive_and_stereotyped_behaviorsr> .
+

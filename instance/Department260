@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department260> <http://www.w3.org/2000/01/rdf-schema#comment> "儿少病区成立于2007年8月份。为国内最大的中南地区唯一的精神科儿童病房，主要收治18周岁以下的各类精神障碍儿童。采用专业精神科临床治疗、心理治疗、康复治疗相结合的特色治疗方式。科室负责人为马筠主任医师。"@zh .
-<https://w3id.org/asdkb/instance/Department260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department260> <http://www.w3.org/2000/01/rdf-schema#label> "武汉市精神卫生中心儿少病区"@zh .
-<https://w3id.org/asdkb/instance/Department260> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital129> .
-

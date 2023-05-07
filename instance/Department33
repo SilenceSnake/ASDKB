@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department33> <http://www.w3.org/2000/01/rdf-schema#label> "大连市妇女儿童医疗中心(集团)希望广场儿童院区神经康复"@zh .
-<https://w3id.org/asdkb/instance/Department33> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital116> .
-<https://w3id.org/asdkb/instance/Department33> <http://www.w3.org/2000/01/rdf-schema#comment> "大连市儿童医院康复综合科是集门诊、病房、康复训练为一体的临床学科。学科建设秉承规范、精准、与国内国际先进康复理念接轨的道路。康复科成立以来，一直致力于高危儿的早期评估及干预、发育障碍儿童的早期诊断与康复训练、重症患儿以及外科术后病人的康复早期介入等康复医疗工作。是GMs国内定点评估站点，是目前大连地区唯一一家对早产儿和脑损伤等高危儿开展GMs以及TIMP运动评估技术进行早期评估并积极干预的医疗机构。"@zh .
-

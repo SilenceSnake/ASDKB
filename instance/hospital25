@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital25> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital25> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0311-85065514(医务科),85052741(院办) "@zh .
 <https://w3id.org/asdkb/instance/hospital25> <https://w3id.org/asdkb/ontology/dataproperty/address> "河北省石家庄市建华南大街147号  "@zh .
 <https://w3id.org/asdkb/instance/hospital25> <http://www.w3.org/2000/01/rdf-schema#label> "河北省妇幼保健中心"@zh .
-<https://w3id.org/asdkb/instance/hospital25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital25> <https://w3id.org/asdkb/ontology/dataproperty/city> "石家庄市"@zh .
+<https://w3id.org/asdkb/instance/hospital25> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City2> .
+<https://w3id.org/asdkb/instance/hospital25> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department209> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital51> .
-<https://w3id.org/asdkb/instance/Department209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department209> <http://www.w3.org/2000/01/rdf-schema#label> "深圳市儿童医院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department209> <http://www.w3.org/2000/01/rdf-schema#comment> "深圳市儿童医院儿童保健中心是集科研、教学、医疗为一体的综合科室，并开展了一系列儿童保健新技术新业务，已成为深圳市儿童保健诊疗中心，担负着全市儿童生长发育中各种疑难病症的诊治任务。儿童保健中心以儿童生长发育全面监测为基础，进行儿童营养性疾病的诊疗，，影响力辐射到周边省、市地区及全国各地，这个年轻而充满活力的科室仍在不断进取和拓展中。该中心技术力量雄厚，拥有3名主任医师，1名副主任医师，1名博士，5名硕士。近年在各医学核心期刊发表论文30余篇，完成了5个科研课题。该中心拥有脑超声波治疗仪、经颅磁治疗仪等先进设备.该科除了进行健康儿童的身体保健，还进行儿童生长发育性疾病、儿童营养性疾病诊治。 该科可进行骨密度及骨龄测量；脑超声波治疗、经颅磁治疗治疗等。"@zh .
-

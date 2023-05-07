@@ -1,9 +1,4 @@
-<https://w3id.org/asdkb/instance/symptom23> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom16"@zh .
 <https://w3id.org/asdkb/instance/symptom23> <http://www.w3.org/2000/01/rdf-schema#comment> "对日常生活或个人环境细节变化的抵制（如家庭中装饰品或家具的移动）。 "@zh .
-<https://w3id.org/asdkb/instance/symptom23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/restrictive_repetitive_and_stereotyped_behaviorsr> .
-<https://w3id.org/asdkb/instance/symptom23> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom012> .
-<https://w3id.org/asdkb/instance/symptom23> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom01> .
 <https://w3id.org/asdkb/instance/symptom23> <http://www.w3.org/2000/01/rdf-schema#comment> "a resistance to changes in routine or in details of the personal environment (such as the movement of ornaments or furniture in the family home)."@en .
-<https://w3id.org/asdkb/instance/symptom23> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/symptom16> .
-<https://w3id.org/asdkb/instance/symptom23> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom23"@zh .
+<https://w3id.org/asdkb/instance/symptom23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/restrictive_repetitive_and_stereotyped_behaviorsr> .
 

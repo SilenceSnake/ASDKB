@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department280> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital160> .
-<https://w3id.org/asdkb/instance/Department280> <http://www.w3.org/2000/01/rdf-schema#label> "徐州市儿童医院儿保科"@zh .
-<https://w3id.org/asdkb/instance/Department280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department280> <http://www.w3.org/2000/01/rdf-schema#comment> "儿保科是医院继儿童保健所之后成立的科室，也是淮海经济区规模最大的儿童保健专业科室，集儿童医疗、保健 、 心理咨询于一体。承担了本地区大部分儿童的医疗保健任务。对儿童生长发育过程中出现的各种问题的诊断及治疗均有丰富的临床经验，尤其在儿童多动症（学习困难）、抽动症、 孤独症、 儿童心理行为障碍疾病的诊断上享有较高声誉，并能根据不同疾病进行针对性的特色治疗。对儿童肥胖、儿童营养、生长发育迟缓、喂养困难、饮食调节、运动训练、健康教育、智力障碍、异食癖以及遗传代谢性疾病、先天畸形等给予指导与治疗。并开展各年龄组小儿的智力测试、心理测试等。"@zh .
-

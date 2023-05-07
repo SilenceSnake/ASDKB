@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department275> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童少年精神科是该院二级分科的重点科室，编制床位60张。经过多年的发展，现已成为有一定规模，在国内颇具影响力的知名专科。病房充分体现“以人为本”的理念，急、重症病人在重症监护室由专人监护和照顾，急性症状缓解后实行开放治疗、康复治疗和社会功能恢复治疗。对不同阶段的病人采用不同的治疗方法，采用科学、高效、多层次和多种方法相结合，以提高患者的治愈率，降低复发率，减轻患者的疾病负担。针对儿童少年特点，病房内设有多种活动场所和娱乐设施，如健康教育室、手工室、乒乓球室、棋牌室、读书室等。"@zh .
-<https://w3id.org/asdkb/instance/Department275> <http://www.w3.org/2000/01/rdf-schema#label> "新乡医学院第二附属医院儿童少年精神科"@zh .
-<https://w3id.org/asdkb/instance/Department275> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital209> .
-

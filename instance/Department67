@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department67> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital186> .
-<https://w3id.org/asdkb/instance/Department67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department67> <http://www.w3.org/2000/01/rdf-schema#comment> "nan"^^<http://www.w3.org/2001/XMLSchema#double> .
-<https://w3id.org/asdkb/instance/Department67> <http://www.w3.org/2000/01/rdf-schema#label> "广西壮族自治区人民医院儿童青少年心理门诊"@zh .
-

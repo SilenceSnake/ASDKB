@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor222> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor222> <http://www.w3.org/2000/01/rdf-schema#label> "李先宾"@zh .
-<https://w3id.org/asdkb/instance/doctor222> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department6> .
 <https://w3id.org/asdkb/instance/doctor222> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "精神分裂症、双相情感障碍、抑郁症、焦虑症、恐怖症、强迫症等精神障碍的诊疗和康复。心理创伤治疗，康复训练。精神病前驱期的早期识别和干预。服用精神科药物所致高催乳素血症等其他毒副反应的处置。"@zh .
+<https://w3id.org/asdkb/instance/doctor222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor222> <http://www.w3.org/2000/01/rdf-schema#label> "李先宾"@zh .
+<https://w3id.org/asdkb/instance/doctor222> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor222> <https://w3id.org/asdkb/ontology/dataproperty/department> "精神科"@zh .
 

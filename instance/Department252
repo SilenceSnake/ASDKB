@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department252> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital230> .
-<https://w3id.org/asdkb/instance/Department252> <http://www.w3.org/2000/01/rdf-schema#label> "乌鲁木齐儿童医院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department252> <http://www.w3.org/2000/01/rdf-schema#comment> "乌鲁木齐儿童医院儿保科承担着社区及全市乃至全疆的儿童保健工作。服务对象0～18岁儿童。儿保科肩负地段以及散居儿童的计划免疫任务。和对儿童心理咨询、儿童生长发育监测等保健工作。儿童生长发育监测包括：体重、身高、头围、胸围、听力及视力筛查、营养评价等内容；贫血筛查及如何纠正贫血的咨询；微量元素测定（包括：锌、铜、铁、钙、镁、铅、镉）及铅中毒的诊断咨询；小儿的合理喂养和膳食平衡指导（如：蛋白质、糖、脂肪及各种维生素和微量元素的均衡摄入）行为、心理发育门诊：针对孩子在发育过程中出现的如咬指甲、吸吮手指、屏气发作、发脾气、依赖性行为、拔毛发癖、习惯性擦腿动作等行为问题；注意缺陷多动障碍、学习困难；儿童情绪问题，如：焦虑、学校恐怖、强迫、忧郁等；抽动障碍；孤独症；儿童偏食、厌食等；儿童睡眠障碍；我们开设的注意力测试、心理评估、心理咨询及治疗可给孩子提供帮助。同时开展了儿童气质及智力测试。走在了全疆的前列。是我科的特色所在。"@zh .
-<https://w3id.org/asdkb/instance/Department252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

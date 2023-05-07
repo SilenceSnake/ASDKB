@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor152> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', '讲师'"@zh .
-<https://w3id.org/asdkb/instance/doctor152> <http://www.w3.org/2000/01/rdf-schema#label> "李景兴"@zh .
-<https://w3id.org/asdkb/instance/doctor152> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital111> .
-<https://w3id.org/asdkb/instance/doctor152> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department109> .
-<https://w3id.org/asdkb/instance/doctor152> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "新生儿神经行为测定（NBNA）、高危儿筛查、婴幼儿运动发育评估、小儿神经心理发育检查表等康复评定。擅长将现代运动康复及推拿疗法之优点结合起来，发展成为神经发育运动推拿疗法、并与感统、作业疗法结合针灸、推拿、中药的中西结合康复疗法治疗儿童脑性瘫痪、运动障碍、发育迟滞、孤独症谱系障碍、颅内感染、周围神经损伤、语言发育障碍、中毒性脑病、颅脑创伤后等儿童神经系统疾病。擅长通过运动、推拿促进儿童神经、运动、生长发育；通过运动结合推拿的矫正手法治疗早期先天性马蹄内翻足、O型腿、X型腿、周围神经损伤如臂丛神经损伤等儿童神经系统致残性疾病以及视神经萎缩、斜视、肌性斜颈、多动症、孤独症等患儿；推拿治疗食欲不振、消化吸收不良、疳积、腹胀、腹痛、功能性便秘、呕吐、易惊、夜啼、非感染性腹泻、体质虚弱易感冒等内科疾病患儿。"@zh .
 <https://w3id.org/asdkb/instance/doctor152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor152> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "新生儿神经行为测定（NBNA）、高危儿筛查、婴幼儿运动发育评估、小儿神经心理发育检查表等康复评定。擅长将现代运动康复及推拿疗法之优点结合起来，发展成为神经发育运动推拿疗法、并与感统、作业疗法结合针灸、推拿、中药的中西结合康复疗法治疗儿童脑性瘫痪、运动障碍、发育迟滞、孤独症谱系障碍、颅内感染、周围神经损伤、语言发育障碍、中毒性脑病、颅脑创伤后等儿童神经系统疾病。擅长通过运动、推拿促进儿童神经、运动、生长发育；通过运动结合推拿的矫正手法治疗早期先天性马蹄内翻足、O型腿、X型腿、周围神经损伤如臂丛神经损伤等儿童神经系统致残性疾病以及视神经萎缩、斜视、肌性斜颈、多动症、孤独症等患儿；推拿治疗食欲不振、消化吸收不良、疳积、腹胀、腹痛、功能性便秘、呕吐、易惊、夜啼、非感染性腹泻、体质虚弱易感冒等内科疾病患儿。"@zh .
+<https://w3id.org/asdkb/instance/doctor152> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师', '讲师'"@zh .
+<https://w3id.org/asdkb/instance/doctor152> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital111> .
+<https://w3id.org/asdkb/instance/doctor152> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
+<https://w3id.org/asdkb/instance/doctor152> <http://www.w3.org/2000/01/rdf-schema#label> "李景兴"@zh .
 

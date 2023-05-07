@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/symptom64> <http://www.w3.org/2000/01/rdf-schema#comment> "对日常生活或个人环境细节变化的抵制（如家庭中装饰品或家具的移动）"@zh .
+<https://w3id.org/asdkb/instance/symptom64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/restrictive_repetitive_and_stereotyped_behaviors> .
+<https://w3id.org/asdkb/instance/symptom64> <http://www.w3.org/2000/01/rdf-schema#comment> "restricted, repetitive, stereotyped patterns of behaviour, interests, and activities"@en .
+

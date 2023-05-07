@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor126> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor126> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department167> .
-<https://w3id.org/asdkb/instance/doctor126> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "对儿科各种疑难病症有独道见解。"@zh .
 <https://w3id.org/asdkb/instance/doctor126> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital87> .
-<https://w3id.org/asdkb/instance/doctor126> <http://www.w3.org/2000/01/rdf-schema#label> "张春瑞"@zh .
+<https://w3id.org/asdkb/instance/doctor126> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "对儿科各种疑难病症有独道见解。"@zh .
+<https://w3id.org/asdkb/instance/doctor126> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
 <https://w3id.org/asdkb/instance/doctor126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor126> <http://www.w3.org/2000/01/rdf-schema#label> "张春瑞"@zh .
+<https://w3id.org/asdkb/instance/doctor126> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
 

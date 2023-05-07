@@ -34,7 +34,7 @@
   <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/age">
     <owl:equivalentClass rdf:resource="http://purl.org/autism-ontology/class/1.0/autism-rules.owl#subject_age"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/restricted_and_repetitive_behavior">
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/restrictive_repetitive_and_stereotyped_behaviors">
     <owl:equivalentClass rdf:resource="http://purl.org/autism-ontology/class/1.0/autism-rules.owl#Restricted_and_Repetitive_Behavior"/>
   </rdf:Description>
 </rdf:RDF>

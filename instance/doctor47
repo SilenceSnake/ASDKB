@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor47> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital39> .
-<https://w3id.org/asdkb/instance/doctor47> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、智力障碍、脑性瘫痪、发育迟缓等儿童神经发育障碍的诊断及中西医结合康复。"@zh .
-<https://w3id.org/asdkb/instance/doctor47> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor47> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department41> .
 <https://w3id.org/asdkb/instance/doctor47> <http://www.w3.org/2000/01/rdf-schema#label> "赵勇"@zh .
+<https://w3id.org/asdkb/instance/doctor47> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor47> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童孤独症、智力障碍、脑性瘫痪、发育迟缓等儿童神经发育障碍的诊断及中西医结合康复。"@zh .
+<https://w3id.org/asdkb/instance/doctor47> <https://w3id.org/asdkb/ontology/dataproperty/department> "小儿神经康复中心"@zh .
+<https://w3id.org/asdkb/instance/doctor47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor47> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital39> .
 

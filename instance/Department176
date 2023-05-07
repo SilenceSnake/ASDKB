@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department176> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童保健科是集儿童保健、疾病防治、科研及教学为一体的专业科室，是厦门市儿童保健业务指导中心，它承担着全市儿童保健技术指导、培训、督导工作，负责厦门大学医学院儿少卫生与妇幼保健专业的教学工作。曾获得是市科学技术进步三等奖一项，近三年科室共发表国家级及省级论文14篇。目前拥有主任医师1人、副主任医师3人、主治医师1人、医师3人，主管护师1人、护师2人、保健护士3人，其中硕士研究生3人。"@zh .
-<https://w3id.org/asdkb/instance/Department176> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital4> .
-<https://w3id.org/asdkb/instance/Department176> <http://www.w3.org/2000/01/rdf-schema#label> "厦门市妇幼保健院儿童保健科"@zh .
-

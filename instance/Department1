@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department1> <http://www.w3.org/2000/01/rdf-schema#label> "安徽省儿童医院康复医学科"@zh .
-<https://w3id.org/asdkb/instance/Department1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department1> <http://www.w3.org/2000/01/rdf-schema#comment> "康复医学科成立于1992年，现为安徽省“十二五”临床重点培育专科，安徽医科大学儿童康复专业硕士授予点，安徽省残联儿童康复指导单位，合肥市脑瘫定点医院。历经二十余年的发展，现已成为治疗手段齐全的集康复、医疗、教学、科研为一体的临床学科。科室现有工作人员94人，其中高级职称5人、中级职称20人。学科带头人童光磊，安徽医科大学教授、硕士生导师，江淮名医，中国医师协会儿科及康复学会委员、中国妇幼保健协会儿童康复专业委员会常务委员、中国康复医学会儿童康复分会委员、安徽省物理医学与康复学会常委；科室其他医师在中华医学会儿科学分会、中国妇幼保健协会、安徽省康复医学会、安徽省运动医学会、安徽省儿童医疗协会、安徽省中医药学会、安徽省针灸学会、安徽省预防医学会等担任常务委员或委员职务。"@zh .
-<https://w3id.org/asdkb/instance/Department1> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital163> .
-

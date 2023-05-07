@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor119> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 有着丰富的临床经验，对针灸科各种疾病有独特的治疗方法，疗效满意，如中风(脑梗塞、脑血栓形成、脑出血后遗症)偏瘫(半身不遂)、面神经麻痹(口眼歪斜)、三叉神经痛、偏头痛、风湿、各种痛症。如颈椎病所致的头晕、头痛、颈痛、腰椎疾病所致的腰腿痛，坐骨神经痛、腰肌劳损等。肩关节周围炎、臂丛神经痛及各种关节痛。如减肥、美容(雀斑、黄褐斑、痤疮、扁平疣)特别是近几年开展“天灸”为我市填补了一项医学空白，给哮喘、过敏性鼻炎、慢性胃肠疾患的患者带来福音。对儿童脑瘫、自闭症(孤独症)有一定的研究。"@zh .
-<https://w3id.org/asdkb/instance/doctor119> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital82> .
-<https://w3id.org/asdkb/instance/doctor119> <http://www.w3.org/2000/01/rdf-schema#label> "高雨梅"@zh .
 <https://w3id.org/asdkb/instance/doctor119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor119> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital82> .
+<https://w3id.org/asdkb/instance/doctor119> <https://w3id.org/asdkb/ontology/dataproperty/department> "针灸科"@zh .
 <https://w3id.org/asdkb/instance/doctor119> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor119> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department134> .
+<https://w3id.org/asdkb/instance/doctor119> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 有着丰富的临床经验，对针灸科各种疾病有独特的治疗方法，疗效满意，如中风(脑梗塞、脑血栓形成、脑出血后遗症)偏瘫(半身不遂)、面神经麻痹(口眼歪斜)、三叉神经痛、偏头痛、风湿、各种痛症。如颈椎病所致的头晕、头痛、颈痛、腰椎疾病所致的腰腿痛，坐骨神经痛、腰肌劳损等。肩关节周围炎、臂丛神经痛及各种关节痛。如减肥、美容(雀斑、黄褐斑、痤疮、扁平疣)特别是近几年开展“天灸”为我市填补了一项医学空白，给哮喘、过敏性鼻炎、慢性胃肠疾患的患者带来福音。对儿童脑瘫、自闭症(孤独症)有一定的研究。"@zh .
+<https://w3id.org/asdkb/instance/doctor119> <http://www.w3.org/2000/01/rdf-schema#label> "高雨梅"@zh .
 

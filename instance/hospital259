@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital259> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
 <https://w3id.org/asdkb/instance/hospital259> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "010-89449200(咨询电话),010-89449760"@zh .
 <https://w3id.org/asdkb/instance/hospital259> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市顺义区顺康路1号"@zh .
+<https://w3id.org/asdkb/instance/hospital259> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City0> .
 <https://w3id.org/asdkb/instance/hospital259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital259> <https://w3id.org/asdkb/ontology/dataproperty/city> "北京市"@zh .
-<https://w3id.org/asdkb/instance/hospital259> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
 <https://w3id.org/asdkb/instance/hospital259> <http://www.w3.org/2000/01/rdf-schema#label> "北京儿童医院顺义妇儿医院"@zh .
 

@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/doctor319> <http://www.w3.org/2000/01/rdf-schema#label> "王俊宏"@zh .
-<https://w3id.org/asdkb/instance/doctor319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor319> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department39> .
 <https://w3id.org/asdkb/instance/doctor319> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "多动症、抽动症、紫癜、病毒性心肌炎、小儿脾胃病、反复呼吸道感染、遗尿等"@zh .
+<https://w3id.org/asdkb/instance/doctor319> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
+<https://w3id.org/asdkb/instance/doctor319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor319> <http://www.w3.org/2000/01/rdf-schema#label> "王俊宏"@zh .
 <https://w3id.org/asdkb/instance/doctor319> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 

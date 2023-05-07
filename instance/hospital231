@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital231> <https://w3id.org/asdkb/ontology/dataproperty/address> "甘肃省兰州市定西路53号"@zh .
 <https://w3id.org/asdkb/instance/hospital231> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0931-8610843(咨询),0931-8619717(挂号室),0931-7849151(医办室)"@zh .
 <https://w3id.org/asdkb/instance/hospital231> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital231> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City296> .
 <https://w3id.org/asdkb/instance/hospital231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital231> <https://w3id.org/asdkb/ontology/dataproperty/city> "兰州市"@zh .
 <https://w3id.org/asdkb/instance/hospital231> <http://www.w3.org/2000/01/rdf-schema#label> "甘肃省康复中心医院"@zh .
+<https://w3id.org/asdkb/instance/hospital231> <https://w3id.org/asdkb/ontology/dataproperty/address> "甘肃省兰州市定西路53号"@zh .
 

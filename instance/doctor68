@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor68> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department285> .
-<https://w3id.org/asdkb/instance/doctor68> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor68> <http://www.w3.org/2000/01/rdf-schema#label> "郝会芳"@zh .
+<https://w3id.org/asdkb/instance/doctor68> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor68> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "在小儿脑损伤、发育迟滞、语言发育迟缓、脑性瘫痪、儿童孤独症等疾病的诊治方面有独特的经验。在儿科常见病、多发病及疑难杂症诊治方面有丰富的经验。"@zh .
 <https://w3id.org/asdkb/instance/doctor68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor68> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital179> .
+<https://w3id.org/asdkb/instance/doctor68> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
 

@@ -1,4 +1,4 @@
-<https://w3id.org/asdkb/instance/tools3question46option1> <https://w3id.org/asdkb/ontology/dataproperty/option_content> "稍微同意"@zh .
 <https://w3id.org/asdkb/instance/tools3question46option1> <https://w3id.org/asdkb/ontology/dataproperty/score> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<https://w3id.org/asdkb/instance/tools3question46option1> <https://w3id.org/asdkb/ontology/dataproperty/option_content> "稍微同意"@zh .
 <https://w3id.org/asdkb/instance/tools3question46option1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/option> .
 

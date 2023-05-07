@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department111> <http://www.w3.org/2000/01/rdf-schema#comment> "湖北省妇幼保健院儿内科技术力量雄厚，设备先进，经验丰富，每年1000人危急重症患儿的抢救，抢救成功率在99.8%以上，治愈率98%以上。picu目前拥有高档呼吸机、进口多参数监护仪、辐射抢救暖床、进口复苏器、全自动输液泵、血气分析仪、微量血糖、血电解质测定仪、床边心电图机及x光机，德国耶格肺功能仪、潘太克斯纤维支气管镜、儿童电子胃镜、肠镜，进口消化道动力测定仪及生物反馈治疗仪、24小时ph监测仪、呼吸睡眠监测仪、体外变态反应测定仪等，专门配置2台奔驰、依维柯救护车和车载急救设备用于小儿急救专用。"@zh .
-<https://w3id.org/asdkb/instance/Department111> <http://www.w3.org/2000/01/rdf-schema#label> "湖北省妇幼保健院小儿内科"@zh .
-<https://w3id.org/asdkb/instance/Department111> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital169> .
-<https://w3id.org/asdkb/instance/Department111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department10> <http://www.w3.org/2000/01/rdf-schema#label> "北京儿童医院精神心理科"@zh .
-<https://w3id.org/asdkb/instance/Department10> <http://www.w3.org/2000/01/rdf-schema#comment> "科室历史：北京儿童医院于2017年8月成立精神科， 包括精神病专业和临床心理专业。其前身是神经内科心理门诊，成立于1999年9月。基本情况：精神科包括精神病专业和临床心理专业。现有主任医师3人，副主任医师2人。精神病与精神卫生学专业博士2人，硕士3人。均参加国家FSDA组织的GCP培训。专业心理测量技师2人。精神科包括精神疾病诊室、心理治疗室、心理访谈室、心理测量室、沙盘治疗室、生物反馈室等。针对儿童的心理健康、精神健康、神经心理发育等进行测试评估、访谈诊断、治疗干预。心理测量包括智力发育、认知功能、注意力、情绪和行为、人格特点、自我意识、精神健康、家庭环境等。诊疗范围包括精神疾病和心理咨询等，包括注意缺陷多动障碍、孤独症谱系障碍、抽动症、学习困难、言语和语言发育障碍、情绪和行为障碍、心身疾病、网络成瘾行为、睡眠障碍、精神残疾(孤独症)评估等。"@zh .
-<https://w3id.org/asdkb/instance/Department10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department10> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital28> .
-

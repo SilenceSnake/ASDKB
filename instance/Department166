@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department166> <http://www.w3.org/2000/01/rdf-schema#comment> "康复医学科是莆田第一家拥有独立病区的康复医疗科室，内设康复大厅、体疗室、作业治疗室、低中频治疗室、脑瘫治疗室、言语治疗室；目前共有医疗人员12名，其中副主任医师以上4人，医师5人，治疗师3人。科室目前主要治疗：脑血管意外及脑外伤的早期康复、偏瘫、截瘫、脑瘫、截肢、骨关节伤病、颈椎腰腿痛、风湿病、手外伤、关节置换术后、周围神经损伤等一系列康复治疗。"@zh .
-<https://w3id.org/asdkb/instance/Department166> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital201> .
-<https://w3id.org/asdkb/instance/Department166> <http://www.w3.org/2000/01/rdf-schema#label> "莆田市第一医院康复医学科"@zh .
-<https://w3id.org/asdkb/instance/Department166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

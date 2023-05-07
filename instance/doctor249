@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor249> <http://www.w3.org/2000/01/rdf-schema#label> "杨荣旺"@zh .
-<https://w3id.org/asdkb/instance/doctor249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor249> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童心理科"@zh .
 <https://w3id.org/asdkb/instance/doctor249> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童发育障碍、注意缺陷多动障碍、行为障碍、情绪障碍等的诊治"@zh .
-<https://w3id.org/asdkb/instance/doctor249> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital145> .
 <https://w3id.org/asdkb/instance/doctor249> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor249> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department295> .
+<https://w3id.org/asdkb/instance/doctor249> <http://www.w3.org/2000/01/rdf-schema#label> "杨荣旺"@zh .
+<https://w3id.org/asdkb/instance/doctor249> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital145> .
+<https://w3id.org/asdkb/instance/doctor249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

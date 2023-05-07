@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor93> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "对癫痫、中枢神经系统感染、脑性瘫痪及各类脑病、周围神经及肌肉疾病、抽动障碍、注意缺陷多动障碍、智力低下、孤独症等发育障碍、行为问题、情绪障碍等疾病的临床诊治。"@zh .
-<https://w3id.org/asdkb/instance/doctor93> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/none> .
-<https://w3id.org/asdkb/instance/doctor93> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital21> .
-<https://w3id.org/asdkb/instance/doctor93> <http://www.w3.org/2000/01/rdf-schema#label> "胡正"@zh .
-<https://w3id.org/asdkb/instance/doctor93> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
 <https://w3id.org/asdkb/instance/doctor93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor93> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor93> <https://w3id.org/asdkb/ontology/dataproperty/department> "神经内科"@zh .
+<https://w3id.org/asdkb/instance/doctor93> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital21> .
+<https://w3id.org/asdkb/instance/doctor93> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "对癫痫、中枢神经系统感染、脑性瘫痪及各类脑病、周围神经及肌肉疾病、抽动障碍、注意缺陷多动障碍、智力低下、孤独症等发育障碍、行为问题、情绪障碍等疾病的临床诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor93> <http://www.w3.org/2000/01/rdf-schema#label> "胡正"@zh .
 

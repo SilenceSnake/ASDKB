@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department27> <http://www.w3.org/2000/01/rdf-schema#label> "郴州市儿童医院儿童康复科"@zh .
-<https://w3id.org/asdkb/instance/Department27> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童康复科是湘南地区最大、功能最全的儿童神经功能障碍评估及康复治疗中心，科室创建于2007年3月。科室目前开放病床50张，医务人员35名，高中级职称10名，硕士4名，年出院病人800余名，各类治疗量40000多人次。所有人员均通过专业培训。科室围绕着儿童发育过程中各类高危患儿及因各种原因导致的脑发育不全、脑积水、缺氧缺血性脑病、精神运动发育迟缓、脑炎、脑出血、脑外伤等疾病的恢复期，超早期做出正确的功能评估，在形成固定的神经系统残疾之前给予系统的监测和综合治疗。他们倡导早期、综合、坚持的治疗原则，实行家长陪护制，家长与训练师双方互动，共同参与。这里的患儿有着不同程度的残障，他们的宗旨就是，通过早期查及专业康复训练，尽可能把患儿的病残降到最低，使他们最大程度的回归社会。"@zh .
-<https://w3id.org/asdkb/instance/Department27> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital232> .
-<https://w3id.org/asdkb/instance/Department27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

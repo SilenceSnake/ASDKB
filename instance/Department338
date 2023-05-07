@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department338> <http://www.w3.org/2000/01/rdf-schema#comment> "珠海市妇幼保健院儿童心理行为科成立于2001年7月，是珠海市首家咨询、检测、诊断、训练和教育儿童心理行为问题的专业机构；2009年加挂临床心理科。自建科以来积极创新，现在科室已具备较强的临床、教学、科研能力。科室现有工作人员19人，其中高级职称2人，中级职称6人，初级职称11人；硕士研究生2人。科室于2005年经国家级专家评审团评为首批“广东省儿童心理卫生保健示范单位”；2011年被珠海市残联评定为“珠海市智力残疾康复技术指导中心”；2012年被珠海市残联评定为“珠海市残疾人证智力残疾评定单位”、“珠海市香洲区智力残疾康复技术指导中心”；2014年被珠海市残联评定为“珠海市孤独症残疾儿童康复服务定点机构”。中山大学静进教授及邹小兵教授是科室特聘教授，常年指导科室工作。科室在全国有一定的先进性和影响力，常年接受珠三角相关单位人员进修以及福建、湖北、河南、四川、江西、澳门等地方人员进修培训；曾接受过中山大学、澳门城市大学的硕博研究生、广东医学院、北师珠、清远职业技术学院的学生临床实习；并举办各级继续培训班，邀请了来自英国、美国、新西兰及国内香港、澳门、北京、上海、广州等地的专家教授讲学，受到了广泛的好评。"@zh .
-<https://w3id.org/asdkb/instance/Department338> <http://www.w3.org/2000/01/rdf-schema#label> "珠海市妇幼保健院儿童心理科"@zh .
-<https://w3id.org/asdkb/instance/Department338> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital194> .
-

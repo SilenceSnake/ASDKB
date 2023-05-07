@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/hospital3> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City197> .
+<https://w3id.org/asdkb/instance/hospital3> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital3> <https://w3id.org/asdkb/ontology/dataproperty/address> "深圳市福田区红荔路2004号 "@zh .
-<https://w3id.org/asdkb/instance/hospital3> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "红荔院区咨询台：0755-82869700；福强院区咨询台：0755-82869797 "@zh .
-<https://w3id.org/asdkb/instance/hospital3> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital3> <https://w3id.org/asdkb/ontology/dataproperty/city> "深圳市"@zh .
 <https://w3id.org/asdkb/instance/hospital3> <http://www.w3.org/2000/01/rdf-schema#label> "深圳市妇幼保健院"@zh .
+<https://w3id.org/asdkb/instance/hospital3> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "红荔院区咨询台：0755-82869700；福强院区咨询台：0755-82869797 "@zh .
 

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital242> <https://w3id.org/asdkb/ontology/dataproperty/city> "北京市"@zh .
+<https://w3id.org/asdkb/instance/hospital242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital242> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级"@zh .
 <https://w3id.org/asdkb/instance/hospital242> <https://w3id.org/asdkb/ontology/dataproperty/address> "北京市海淀区香山一棵松50号"@zh .
 <https://w3id.org/asdkb/instance/hospital242> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "4000655120(综合服务),010-62856916,010-62856918"@zh .
+<https://w3id.org/asdkb/instance/hospital242> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City0> .
 <https://w3id.org/asdkb/instance/hospital242> <http://www.w3.org/2000/01/rdf-schema#label> "首都医科大学三博脑科医院"@zh .
-<https://w3id.org/asdkb/instance/hospital242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

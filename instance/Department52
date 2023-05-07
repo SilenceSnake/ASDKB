@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department52> <http://www.w3.org/2000/01/rdf-schema#label> "阜阳市人民医院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department52> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital189> .
-<https://w3id.org/asdkb/instance/Department52> <http://www.w3.org/2000/01/rdf-schema#comment> "阜阳市人民医院儿科是阜阳市集临床、科研、教学为一体儿童诊疗中心。技术力量雄厚,诊疗设备先进,多年来承担阜阳市儿科疑难、危重症的诊治及抢救及下级医院转诊工作。共有医师35名，其中主任医师7名,副主任医师5 名,主治医师13名,医学硕士6名，护士46名，中级职称6名。设备完善，拥有德国西门子呼吸机6台，sle高频呼吸机二台，高端STEPHAN牌CPAP机4台、infan flowCPAP机一台，长颈鹿多功能培育箱1台，血气分析仪2台及多参数监护仪，早产儿培温箱，新生儿红外线辐射抢救台，蓝光治疗箱，无创脉氧监护仪，微量快速血糖分析仪，经皮胆红素测定仪、微量输液泵、亚低温治疗仪、心电除颤仪等先进诊疗仪器及设备多台。"@zh .
-<https://w3id.org/asdkb/instance/Department52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

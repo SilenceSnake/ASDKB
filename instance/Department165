@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department165> <http://www.w3.org/2000/01/rdf-schema#comment> "宁波市康宁医院心身医学科成立于20世纪80年代中期，设有50张床位，其中宾馆式病房6间。2003年成为宁波市心理咨询师培训中心指定心理咨询实习基地。主要收治各类神经症、睡眠障碍、情绪不稳定、人格偏离正常、社会适应不良、学习困难等患者。疗效显著，达省内领先水平。目前开展的特色诊疗项目：认知心理治疗、改良森田疗法、生物反馈治疗、松驰（放松）疗法、催眠疗法。"@zh .
-<https://w3id.org/asdkb/instance/Department165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department165> <http://www.w3.org/2000/01/rdf-schema#label> "宁波市康宁医院心身医学科"@zh .
-<https://w3id.org/asdkb/instance/Department165> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital210> .
-

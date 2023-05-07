@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital194> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital194> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省珠海市香洲区南屏南琴路3366号(南院区)"@zh .
-<https://w3id.org/asdkb/instance/hospital194> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0756-2313115(咨询),0756-2313088(院办),0756-2313124(客服热线)"@zh .
-<https://w3id.org/asdkb/instance/hospital194> <https://w3id.org/asdkb/ontology/dataproperty/city> "珠海市"@zh .
 <https://w3id.org/asdkb/instance/hospital194> <http://www.w3.org/2000/01/rdf-schema#label> "珠海市妇幼保健院"@zh .
 <https://w3id.org/asdkb/instance/hospital194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital194> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital194> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City198> .
+<https://w3id.org/asdkb/instance/hospital194> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0756-2313115(咨询),0756-2313088(院办),0756-2313124(客服热线)"@zh .
+<https://w3id.org/asdkb/instance/hospital194> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省珠海市香洲区南屏南琴路3366号(南院区)"@zh .
 

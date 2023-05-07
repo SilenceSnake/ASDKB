@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor233> <http://www.w3.org/2000/01/rdf-schema#label> "赵亚茹"@zh .
 <https://w3id.org/asdkb/instance/doctor233> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital46> .
-<https://w3id.org/asdkb/instance/doctor233> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor233> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department219> .
 <https://w3id.org/asdkb/instance/doctor233> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "矮小症，生长激素缺乏，性早熟，特纳综合症，小于胎龄儿等生长发育问题。儿童语言障碍的诊断与治疗，儿童心理发育评价与保健，儿童学习困难、儿童青少年心理行为问题的诊断与治疗。"@zh .
+<https://w3id.org/asdkb/instance/doctor233> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿保科"@zh .
+<https://w3id.org/asdkb/instance/doctor233> <http://www.w3.org/2000/01/rdf-schema#label> "赵亚茹"@zh .
+<https://w3id.org/asdkb/instance/doctor233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor233> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 

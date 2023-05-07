@@ -1,0 +1,5 @@
+<https://w3id.org/asdkb/instance/treatment15> <http://www.w3.org/2000/01/rdf-schema#label> "父母实施的干预(PII)"@zh .
+<https://w3id.org/asdkb/instance/treatment15> <http://www.w3.org/2000/01/rdf-schema#label> "Parent-Implemented Intervention"@en .
+<https://w3id.org/asdkb/instance/treatment15> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "由父母实施的干预，可以促进学习者的社会沟通技能，并减少挑战性行为。"@zh .
+<https://w3id.org/asdkb/instance/treatment15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/EBP> .
+

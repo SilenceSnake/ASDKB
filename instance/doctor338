@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor338> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital221> .
-<https://w3id.org/asdkb/instance/doctor338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor338> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "1、精神分裂症、抑郁症、焦虑症等的急性期治疗及康复期心理社会功能康复治疗 2、儿童青少年情绪与行为问题的咨询与治疗，包括 情绪障碍、注意力不集中、厌学、家庭内暴力行为、上网时间过长、青春期躁动 儿童多动症、自闭症、抽动症等"@zh .
+<https://w3id.org/asdkb/instance/doctor338> <https://w3id.org/asdkb/ontology/dataproperty/department> "临床心理科"@zh .
 <https://w3id.org/asdkb/instance/doctor338> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor338> <http://www.w3.org/2000/01/rdf-schema#label> "钟意娟"@zh .
-<https://w3id.org/asdkb/instance/doctor338> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department266> .
+<https://w3id.org/asdkb/instance/doctor338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor338> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital221> .
 

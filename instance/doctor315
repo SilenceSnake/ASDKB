@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/doctor315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor315> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor315> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "1儿童营养性疾病诊治，针对儿童的体格发育、喂养问题提供咨询指导，矫正儿童体重不增、喂养困难、营养不良、厌食、挑食、拒奶、吃饭慢、含饭不咽、流涎等问题。2.儿童心理行为疾病诊治，擅长诊治儿童多动症、抽动症、孤独症、发育迟缓等神经心理发育行为疾病，矫正儿童注意力不集中、多动冲动、不自主抽动及发声、语言运动落后、脑发育迟缓、学习困难、社交退缩、睡眠困难、遗尿等问题。"@zh .
-<https://w3id.org/asdkb/instance/doctor315> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital212> .
 <https://w3id.org/asdkb/instance/doctor315> <http://www.w3.org/2000/01/rdf-schema#label> "刘秀梅"@zh .
-<https://w3id.org/asdkb/instance/doctor315> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department43> .
+<https://w3id.org/asdkb/instance/doctor315> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "1儿童营养性疾病诊治，针对儿童的体格发育、喂养问题提供咨询指导，矫正儿童体重不增、喂养困难、营养不良、厌食、挑食、拒奶、吃饭慢、含饭不咽、流涎等问题。2.儿童心理行为疾病诊治，擅长诊治儿童多动症、抽动症、孤独症、发育迟缓等神经心理发育行为疾病，矫正儿童注意力不集中、多动冲动、不自主抽动及发声、语言运动落后、脑发育迟缓、学习困难、社交退缩、睡眠困难、遗尿等问题。"@zh .
+<https://w3id.org/asdkb/instance/doctor315> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/doctor315> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor315> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital212> .
 

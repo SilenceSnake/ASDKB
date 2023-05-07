@@ -1,0 +1,4 @@
+<https://w3id.org/asdkb/instance/symptom38> <http://www.w3.org/2000/01/rdf-schema#comment> "几乎总是无法控制肠道和膀胱 "@zh .
+<https://w3id.org/asdkb/instance/symptom38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/other_symptoms> .
+<https://w3id.org/asdkb/instance/symptom38> <http://www.w3.org/2000/01/rdf-schema#comment> "almost always a failure to gain bowel and bladder control"@en .
+

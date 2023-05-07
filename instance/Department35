@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department35> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital86> .
-<https://w3id.org/asdkb/instance/Department35> <http://www.w3.org/2000/01/rdf-schema#comment> "神经内科成立于2008年，是东莞市社保特色专科。科室位于住院部6楼，由神经内科一区、二区、VIP病区、NICU病区及神经功能检测部组成。编制普通病床100张，NICU病床10张。科室配套设备完善，拥有三维经颅多普勒仪、肌电图/诱发电位仪、32导无纸脑电图/脑电地形图仪、成人及儿童心理检测仪、吞咽功能治疗仪，上下肢智能训练仪、颈腰椎牵引等神经功能检测及治疗设备。科室现有神经专科医生14人，其中主任医师1人，副主任医师2名，主治医师8人，住院医师3人。医生有较高的学历构成，其中研究生学历9人，本科学历5人，每年选派多名医师到国内大型医院学习进修专业技能。"@zh .
-<https://w3id.org/asdkb/instance/Department35> <http://www.w3.org/2000/01/rdf-schema#label> "东莞市滨海湾中心医院 神经内科"@zh .
-

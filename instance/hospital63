@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital63> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital63> <https://w3id.org/asdkb/ontology/dataproperty/address> "佛山市南海区平洲永安中路58号 "@zh .
-<https://w3id.org/asdkb/instance/hospital63> <http://www.w3.org/2000/01/rdf-schema#label> "广东省人民医院"@zh .
-<https://w3id.org/asdkb/instance/hospital63> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0757-86786098 "@zh .
-<https://w3id.org/asdkb/instance/hospital63> <https://w3id.org/asdkb/ontology/dataproperty/city> "佛山市"@zh .
 <https://w3id.org/asdkb/instance/hospital63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital63> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City200> .
+<https://w3id.org/asdkb/instance/hospital63> <http://www.w3.org/2000/01/rdf-schema#label> "广东省人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital63> <https://w3id.org/asdkb/ontology/dataproperty/address> "佛山市南海区平洲永安中路58号 "@zh .
+<https://w3id.org/asdkb/instance/hospital63> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0757-86786098 "@zh .
+<https://w3id.org/asdkb/instance/hospital63> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 

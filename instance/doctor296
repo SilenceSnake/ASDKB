@@ -1,6 +1,6 @@
+<https://w3id.org/asdkb/instance/doctor296> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿科"@zh .
 <https://w3id.org/asdkb/instance/doctor296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor296> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital178> .
-<https://w3id.org/asdkb/instance/doctor296> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department235> .
 <https://w3id.org/asdkb/instance/doctor296> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "小儿肾炎、肾病、小儿反复咳嗽、支气管炎、肺炎、抽动症、儿童保健、小儿血液病"@zh .
 <https://w3id.org/asdkb/instance/doctor296> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor296> <http://www.w3.org/2000/01/rdf-schema#label> "邱厚兴"@zh .

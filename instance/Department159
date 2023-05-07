@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department159> <http://www.w3.org/2000/01/rdf-schema#label> "南京医科大学附属儿童医院神经内科"@zh .
-<https://w3id.org/asdkb/instance/Department159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department159> <http://www.w3.org/2000/01/rdf-schema#comment> "神经内科系江苏省最早成立的小儿神经专科，是南京市临床重点专科，专业病床89张。主要开展小儿神经系统各类疾病的诊治，如癫痫及各种抽搐、瘫痪、感染、头痛、智力低下、注意力涣散、多动症、抽动症、睡眠困难、围产期异常与各种脑损伤后遗症等的诊治。并设有专家及专科门诊、癫痫专病门诊、肌病门诊、神经电生理中心等，是集医疗、教学、科研为一体的完整专业体系。年门诊专科病人达5万5千余人次，病房收治病人4千7百余人次，治愈好转率95%以上。现有主任医师5名，副主任医师7名，硕士研究生导师5名，博士4名、硕士15名。并有一批专业素质高、业务能力强的临床医疗、神经电生理及护理队伍。"@zh .
-<https://w3id.org/asdkb/instance/Department159> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital117> .
-

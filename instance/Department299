@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department299> <http://www.w3.org/2000/01/rdf-schema#label> "浙江中医药大学附属嘉兴市中医院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department299> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital213> .
-<https://w3id.org/asdkb/instance/Department299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department299> <http://www.w3.org/2000/01/rdf-schema#comment> "嘉兴中医院儿科设有小儿神经内科、小儿呼吸内科、小儿泌尿专科、小儿内分泌专科、小儿消化内科、小儿心血管内科及小儿疑难病专科等，并设有童趣化病房、温馨的新生儿病房及重症监护病房。通过不断探索，积累了较多成熟独到的临床经验，以中西医结合的方法，采用最经济、最方便的原则，因病、因人制宜，救治了大量的患儿。慕名而至的患者使门诊量居高不下，年门诊病人近60000人次，年住院患儿近3000人次。"@zh .
-

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital107> <http://www.w3.org/2000/01/rdf-schema#label> "复旦大学附属儿科医院"@zh .
-<https://w3id.org/asdkb/instance/hospital107> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-64931990(万源路门诊部总机),021-64931923(医疗咨询),021-64931990转1001(枫林路门诊部),021-64175173(医疗咨询)"@zh .
 <https://w3id.org/asdkb/instance/hospital107> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital107> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-64931990(万源路门诊部总机),021-64931923(医疗咨询),021-64931990转1001(枫林路门诊部),021-64175173(医疗咨询)"@zh .
 <https://w3id.org/asdkb/instance/hospital107> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市闵行区万源路399号"@zh .
-<https://w3id.org/asdkb/instance/hospital107> <https://w3id.org/asdkb/ontology/dataproperty/city> "上海市"@zh .
+<https://w3id.org/asdkb/instance/hospital107> <http://www.w3.org/2000/01/rdf-schema#label> "复旦大学附属儿科医院"@zh .
 <https://w3id.org/asdkb/instance/hospital107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital107> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City72> .
 

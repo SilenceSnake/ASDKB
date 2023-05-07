@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department330> <http://www.w3.org/2000/01/rdf-schema#comment> "重庆妇幼保健院儿童保健科肩负着指导全市儿保工作和开展院内儿保业务的双重任务。全科有高级职称4人（王继林、李玉华、甘文玲、毕贵苹），中级职称5人、初级职称5人。建有设备完善的婴幼儿亲子活动室、儿童视听训练室、感觉综合训练室。重庆妇幼保健院儿童保健科开设了儿童健康检查、营养指导、计划免疫、智力测试等门诊。对纠正儿童体格发育偏离、指导科学喂养、诊治各种营养不良性疾病（贫血、佝偻病、维生素微量元素缺乏症、单纯性肥胖等等）取得良好的效果。引进美国产耳声发射仪测查新生儿和婴幼儿听力，可及早发现听力损伤以采取干预措施。在全市率先开展婴幼儿早期教育、学龄儿童学习困难诊断和训练，通过儿保的各项检查、测试、咨询、指导、训练等，全方位地保护和促进儿童身体、智力、社会适应能力的健康发展！"@zh .
-<https://w3id.org/asdkb/instance/Department330> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital131> .
-<https://w3id.org/asdkb/instance/Department330> <http://www.w3.org/2000/01/rdf-schema#label> "重庆市妇幼保健院儿童保健科"@zh .
-

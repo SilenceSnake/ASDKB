@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor246> <http://www.w3.org/2000/01/rdf-schema#label> "王琳"@zh .
-<https://w3id.org/asdkb/instance/doctor246> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长0-3岁婴幼儿常见疾病和问题，如新生儿疾病，婴幼儿喂养、湿疹过敏、免疫接种相关问题、消化不良、生长发育，矮小，性早熟，出生缺陷、自闭症，疾病儿童的疫苗接种等疾病诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor246> <https://w3id.org/asdkb/ontology/dataproperty/department> "保健科"@zh .
 <https://w3id.org/asdkb/instance/doctor246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor246> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department224> .
-<https://w3id.org/asdkb/instance/doctor246> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital104> .
 <https://w3id.org/asdkb/instance/doctor246> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor246> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长0-3岁婴幼儿常见疾病和问题，如新生儿疾病，婴幼儿喂养、湿疹过敏、免疫接种相关问题、消化不良、生长发育，矮小，性早熟，出生缺陷、自闭症，疾病儿童的疫苗接种等疾病诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor246> <http://www.w3.org/2000/01/rdf-schema#label> "王琳"@zh .
+<https://w3id.org/asdkb/instance/doctor246> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital104> .
 

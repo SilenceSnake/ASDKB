@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department77> <http://www.w3.org/2000/01/rdf-schema#label> "广州医科大学附属脑科医院儿少精神科"@zh .
-<https://w3id.org/asdkb/instance/Department77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department77> <http://www.w3.org/2000/01/rdf-schema#comment> "广州医科大学附属脑科医院儿少科是广东省最早的儿童精神科，长期承担广州医科大学和中山大学等多个高校的临床教学和实习培养，儿少病房位于总院的明爱楼二楼，开放病床40张。科室环境舒适温馨且充满童趣，诊疗技术力量雄厚，配备儿少心理卫生方向的精神科医师团队、个体心理治疗师团队、家庭治疗师团队和护理团队共计40余名专业人员，致力于研究和诊治18岁及以下的儿童青少年情绪障碍、首发精神病、孤独症谱系障碍和多动症（ADHD），在常规提供药物治疗、物理治疗和心理治疗的基础上，整理出了一套行之有效的整合干预模式，形成了具有鲜明特色的临床整合干预项目，至今已帮助了大量的儿童青少年及其家庭。"@zh .
-<https://w3id.org/asdkb/instance/Department77> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital8> .
-

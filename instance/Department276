@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department276> <http://www.w3.org/2000/01/rdf-schema#comment> "河南省精神病医院精神科主要收治精神分裂症、情感性精神障碍，偏执性精神病，人格障碍等。根据病情采取封闭、开放两种管理模式，满足不同层次病人的需要。开展以病人为中心的系统化整体护理，定期康复讲座，开展心理和多种康复治疗，使患者达到生理、心理社会康复，重返社会。"@zh .
-<https://w3id.org/asdkb/instance/Department276> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital209> .
-<https://w3id.org/asdkb/instance/Department276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department276> <http://www.w3.org/2000/01/rdf-schema#label> "新乡医学院第二附属医院精神科"@zh .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department147> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital149> .
-<https://w3id.org/asdkb/instance/Department147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department147> <http://www.w3.org/2000/01/rdf-schema#label> "临沂市人民医院小儿康复科"@zh .
-<https://w3id.org/asdkb/instance/Department147> <http://www.w3.org/2000/01/rdf-schema#comment> "小儿康复科诊治范围儿童神经康复及儿童发育行为康复。对儿童脑性瘫痪、运动发育障碍、儿童孤独症、智力低下、言语障碍、心理行为问题的诊断及行为治疗、痉挛肌肉毒素注射及中枢损伤后步态分析与矫正。"@zh .
-

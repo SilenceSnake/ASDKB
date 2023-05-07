@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department174> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital203> .
-<https://w3id.org/asdkb/instance/Department174> <http://www.w3.org/2000/01/rdf-schema#comment> "三明市第二医院心理科成立于2001年。该科坐诊医师陈美英,现任福建省心理卫生协会理事、福建省医学会精神病学分会委员、福建省医学会科学普及分会委员，曾到北京大学精神卫生研究所进修“临床心理治疗、儿童心理咨询与治疗”一年，师从于杨晓玲、唐登华等教授。通过努力学习和专业训练，2001年取得中国心理学会心理测量专业委员会颁发的“心理测验资格证书”，是我省首批取得卫生部颁发的“心理治疗师资格证书”，也是我省首位取得福建省人事厅颁发的“临床心理专业副主任医师资格证书”。多年来被永安一中、福建水力电力学院等多所学校聘为“心理健康教育校外辅导员”，并经常深入学校、机关、企事业单位进行“心理健康知识讲座”，2005年永安电视台《走遍燕城》拍摄制作并播放了专题节目。"@zh .
-<https://w3id.org/asdkb/instance/Department174> <http://www.w3.org/2000/01/rdf-schema#label> "三明市第二医院临床心理科"@zh .
-<https://w3id.org/asdkb/instance/Department174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

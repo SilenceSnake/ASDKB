@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor213> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童精神障碍、儿童情绪与行为障碍、儿童与青少年心理障碍的诊治、抽动症"@zh .
-<https://w3id.org/asdkb/instance/doctor213> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department253> .
-<https://w3id.org/asdkb/instance/doctor213> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital157> .
-<https://w3id.org/asdkb/instance/doctor213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor213> <http://www.w3.org/2000/01/rdf-schema#label> "白雪光"@zh .
 <https://w3id.org/asdkb/instance/doctor213> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor213> <https://w3id.org/asdkb/ontology/dataproperty/department> "精神卫生中心"@zh .
+<https://w3id.org/asdkb/instance/doctor213> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童精神障碍、儿童情绪与行为障碍、儿童与青少年心理障碍的诊治、抽动症"@zh .
+<https://w3id.org/asdkb/instance/doctor213> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital157> .
+<https://w3id.org/asdkb/instance/doctor213> <http://www.w3.org/2000/01/rdf-schema#label> "白雪光"@zh .
+<https://w3id.org/asdkb/instance/doctor213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

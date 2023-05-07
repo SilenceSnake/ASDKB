@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department239> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital159> .
-<https://w3id.org/asdkb/instance/Department239> <http://www.w3.org/2000/01/rdf-schema#comment> "1988年，天津市儿童医院在全国儿童医院中率先建立了心理科。设心理咨询室、测查室和治疗室，年门诊量5000余人次。开展各年龄阶段儿童的神经心理测评及各种心理障碍、心理问题的诊治。在儿童孤独症、抽动——秽语综合症、多动症及学习困难的研究方面处于国内领先水平。已开展的生物反馈、经络导平、感觉统合等多种治疗为我市首创。特别是针对统合失调引起的多动症、学习困难及功能性障碍开展的感觉统合治疗，寓训练治疗于游戏之中，使孩子在各种感觉运动训练中，大脑的整合功能得到不断完善。天津市儿童医院心理科可对婴儿期至初中的少儿智力、运动、语言发育水平和社会适应能力及个性、行为、气质进行评价，对心理障碍、多动症、抽动—秽语综合症、学习困难、智力迟缓、情感障碍、品行障碍、语言障碍、进食障碍、睡眠障碍、情绪偏异、性别认同障碍及儿童精神病等进行诊治。"@zh .
-<https://w3id.org/asdkb/instance/Department239> <http://www.w3.org/2000/01/rdf-schema#label> "天津市儿童医院心理科"@zh .
-<https://w3id.org/asdkb/instance/Department239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

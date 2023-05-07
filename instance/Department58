@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department58> <http://www.w3.org/2000/01/rdf-schema#comment> "赣州市妇幼保健院儿童神经康复科系赣州市医学重点建设学科，赣州市首家康复医疗机构，唯一一家专科儿童康复医疗机构，率先开展了高危儿管理专科门诊，也是赣州自闭症儿童定点诊断机构。科室对于神经系统常见疾病、儿童发育行为障碍、非进行性神经系统损伤的诊疗水平全市领先。在硬件、软件设施及规模上在国内均属一流水平，系江西省最大的、知名度较高的神经疾病诊疗与康复中心之一，在国内享有较高的知名度和良好的声誉。"@zh .
-<https://w3id.org/asdkb/instance/Department58> <http://www.w3.org/2000/01/rdf-schema#label> "赣州市妇幼保健院儿童神经康复科"@zh .
-<https://w3id.org/asdkb/instance/Department58> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital214> .
-

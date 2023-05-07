@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital83> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital83> <https://w3id.org/asdkb/ontology/dataproperty/address> "成都市高新南区繁雄大道万象北路18号 "@zh .
-<https://w3id.org/asdkb/instance/hospital83> <http://www.w3.org/2000/01/rdf-schema#label> "成都市第一人民医院"@zh .
-<https://w3id.org/asdkb/instance/hospital83> <https://w3id.org/asdkb/ontology/dataproperty/city> "成都市"@zh .
 <https://w3id.org/asdkb/instance/hospital83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital83> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "急救电话：  85313526 体检咨询：  85316698 全天候关爱中心：  60113668（24小时） 咨询电话：  85311726（08:00-17:30） "@zh .
+<https://w3id.org/asdkb/instance/hospital83> <https://w3id.org/asdkb/ontology/dataproperty/address> "成都市高新南区繁雄大道万象北路18号 "@zh .
+<https://w3id.org/asdkb/instance/hospital83> <http://www.w3.org/2000/01/rdf-schema#label> "成都市第一人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital83> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City234> .
+<https://w3id.org/asdkb/instance/hospital83> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 

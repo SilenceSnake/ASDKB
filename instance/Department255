@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department255> <http://www.w3.org/2000/01/rdf-schema#label> "武汉儿童医院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department255> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童保健科是集保健、科研、教学、培训、指导为一体的市级儿童保健中心。是卫生部“儿童喂养行为干预”诊疗合作中心；是世界卫生组织儿童卫生合作中心“儿童铅暴露监测及干预”协作单位；是省级“新生儿疾病筛查”诊疗中心；是湖北省生长发育重点专科和武汉市首批妇幼保健重点专科。科室长期致力于为广大儿童提供优质的保健服务，促进儿童生理、心理和行为的全面发展，现开展儿童保健专科业务30余项，特色专科主要为：儿童生长发育专科、儿童营养与喂养专科、高危儿专科、儿童早期发展专科、儿童心理和行为专科、新生儿疾病筛查诊断专科、儿童神经心理发育监测及早期干预、视力筛查、听力筛查、计划免疫及婴儿游泳抚触中心等。"@zh .
-<https://w3id.org/asdkb/instance/Department255> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital156> .
-<https://w3id.org/asdkb/instance/Department255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

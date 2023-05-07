@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor99> <https://w3id.org/asdkb/ontology/dataproperty/title> "'医师'"@zh .
-<https://w3id.org/asdkb/instance/doctor99> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "ADHD/注意缺陷多动障碍(多动症)、智力发育障碍(智障)、痴呆、孤独症、阿斯伯格综合征、学习障碍、失眠障碍、梦游症、夜惊症、梦语症、REM睡眠行为障碍、遗尿症、发作性睡病、不宁腿综合征、睡眠呼吸障碍、抑郁症、焦虑症等认知、睡眠障碍的诊治。"@zh .
 <https://w3id.org/asdkb/instance/doctor99> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital186> .
-<https://w3id.org/asdkb/instance/doctor99> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department67> .
-<https://w3id.org/asdkb/instance/doctor99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor99> <https://w3id.org/asdkb/ontology/dataproperty/title> "'医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor99> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童青少年心理门诊"@zh .
 <https://w3id.org/asdkb/instance/doctor99> <http://www.w3.org/2000/01/rdf-schema#label> "张鸿"@zh .
+<https://w3id.org/asdkb/instance/doctor99> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "ADHD/注意缺陷多动障碍(多动症)、智力发育障碍(智障)、痴呆、孤独症、阿斯伯格综合征、学习障碍、失眠障碍、梦游症、夜惊症、梦语症、REM睡眠行为障碍、遗尿症、发作性睡病、不宁腿综合征、睡眠呼吸障碍、抑郁症、焦虑症等认知、睡眠障碍的诊治。"@zh .
+<https://w3id.org/asdkb/instance/doctor99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

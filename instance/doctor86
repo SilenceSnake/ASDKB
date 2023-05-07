@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor86> <https://w3id.org/asdkb/ontology/dataproperty/department> "耳鼻喉-头颈外科"@zh .
 <https://w3id.org/asdkb/instance/doctor86> <http://www.w3.org/2000/01/rdf-schema#label> "吴立新"@zh .
-<https://w3id.org/asdkb/instance/doctor86> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department98> .
-<https://w3id.org/asdkb/instance/doctor86> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital61> .
 <https://w3id.org/asdkb/instance/doctor86> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '副教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor86> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital61> .
 <https://w3id.org/asdkb/instance/doctor86> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长各种耳聋、耳鸣、眩晕、梅尼埃病、听神经病、听神经瘤、耳石症、大前庭导水管、儿童孤独症、聋哑人残余听力及佩戴助听器等。"@zh .
 <https://w3id.org/asdkb/instance/doctor86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

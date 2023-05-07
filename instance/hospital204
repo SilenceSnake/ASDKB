@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital204> <http://www.w3.org/2000/01/rdf-schema#label> "中国福利会国际和平妇幼保健院"@zh .
-<https://w3id.org/asdkb/instance/hospital204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital204> <https://w3id.org/asdkb/ontology/dataproperty/city> "上海市"@zh .
-<https://w3id.org/asdkb/instance/hospital204> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital204> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-64070434(总机)"@zh .
+<https://w3id.org/asdkb/instance/hospital204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital204> <http://www.w3.org/2000/01/rdf-schema#label> "中国福利会国际和平妇幼保健院"@zh .
 <https://w3id.org/asdkb/instance/hospital204> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市徐汇区衡山路910号"@zh .
+<https://w3id.org/asdkb/instance/hospital204> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital204> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City72> .
 

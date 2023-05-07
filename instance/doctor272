@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor272> <http://www.w3.org/2000/01/rdf-schema#label> "张发明"@zh .
-<https://w3id.org/asdkb/instance/doctor272> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "艰难梭菌感染、肠道菌群失调、慢性腹泻，不明原因腹痛，不明原因出血，腹胀，便秘，克罗恩病，溃疡性结肠炎，放射性肠炎，营养不良，免疫缺陷性肠炎，慢性胰腺炎，粪菌移植，肠梗阻，肿瘤肠道并发症，痔疮，肛门病变的无痛微创治疗，晚期肿瘤的姑息治疗；癫痫病；抽动秽语综合症。"@zh .
-<https://w3id.org/asdkb/instance/doctor272> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital17> .
-<https://w3id.org/asdkb/instance/doctor272> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor272> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department157> .
 <https://w3id.org/asdkb/instance/doctor272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor272> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor272> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "艰难梭菌感染、肠道菌群失调、慢性腹泻，不明原因腹痛，不明原因出血，腹胀，便秘，克罗恩病，溃疡性结肠炎，放射性肠炎，营养不良，免疫缺陷性肠炎，慢性胰腺炎，粪菌移植，肠梗阻，肿瘤肠道并发症，痔疮，肛门病变的无痛微创治疗，晚期肿瘤的姑息治疗；癫痫病；抽动秽语综合症。"@zh .
+<https://w3id.org/asdkb/instance/doctor272> <https://w3id.org/asdkb/ontology/dataproperty/department> "消化医学中心"@zh .
+<https://w3id.org/asdkb/instance/doctor272> <http://www.w3.org/2000/01/rdf-schema#label> "张发明"@zh .
+<https://w3id.org/asdkb/instance/doctor272> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital17> .
 

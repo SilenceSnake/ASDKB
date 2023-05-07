@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department257> <http://www.w3.org/2000/01/rdf-schema#comment> "康复科设立的特色专科有：儿童多动症、学习困难、精神、情绪行为异常、周围神经损伤的诊断和治疗；脑性瘫痪、脑损伤儿的追踪观察；儿童智力和语言运动发育监测等。除以上特色专科外，康复科还有三大特色项目：一是各种测试：智力测试，发育商测试，注意力测试，康复评定，人格、个性、行为测试等神经心理测试；骨密度测试二是特殊训练：包括脑电生物反馈训练，感觉统合训练，学习能力的训练和言语、认知训练等。适用于注意力不集中、精神发育迟滞，学习能力发育不足，交往能力障碍，语言发育迟缓，抽动障碍、神经损伤等症。三是疾病的特殊治疗：许多疾病可在康复科得到无创伤性、无痛苦、有确切疗效的治疗。如脑损伤儿的早期干预，脑性瘫痪的综合治疗，发育迟缓和姿势异常儿的针对性训练，一岁以内的斜颈，伤口不愈，肌肉挛缩，感染性疾病迁延不愈的理疗等。"@zh .
-<https://w3id.org/asdkb/instance/Department257> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital156> .
-<https://w3id.org/asdkb/instance/Department257> <http://www.w3.org/2000/01/rdf-schema#label> "武汉儿童医院康复医学科"@zh .
-<https://w3id.org/asdkb/instance/Department257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor312> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor312> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年心理卫生  婚姻与家庭治疗擅长各种儿童与青少年心理障碍：学习困难、注意缺陷伴多动障碍、情绪障碍、品行障碍、进食障碍、广泛发育障碍等擅长各类婚姻与家庭心理问题：亲子关系不良家庭、青少年成长中的困惑、婚姻与情感冲突、家庭周期变化、家庭特殊问题以及各种意外、应激事件对家庭的挫折等"@zh .
-<https://w3id.org/asdkb/instance/doctor312> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department198> .
-<https://w3id.org/asdkb/instance/doctor312> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital144> .
-<https://w3id.org/asdkb/instance/doctor312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor312> <http://www.w3.org/2000/01/rdf-schema#label> "孟馥"@zh .
+<https://w3id.org/asdkb/instance/doctor312> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor312> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年心理卫生  婚姻与家庭治疗擅长各种儿童与青少年心理障碍：学习困难、注意缺陷伴多动障碍、情绪障碍、品行障碍、进食障碍、广泛发育障碍等擅长各类婚姻与家庭心理问题：亲子关系不良家庭、青少年成长中的困惑、婚姻与情感冲突、家庭周期变化、家庭特殊问题以及各种意外、应激事件对家庭的挫折等"@zh .
+<https://w3id.org/asdkb/instance/doctor312> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital144> .
+<https://w3id.org/asdkb/instance/doctor312> <https://w3id.org/asdkb/ontology/dataproperty/department> "临床心理科"@zh .
 

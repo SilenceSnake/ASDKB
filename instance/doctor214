@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor214> <http://www.w3.org/2000/01/rdf-schema#label> "任永平"@zh .
-<https://w3id.org/asdkb/instance/doctor214> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "诊治小儿神经康复、小儿神经内科疾病，如小儿癫痫、小儿瘫痪、小儿多动症、颅内感染、头痛、智力、行为发育障碍等疾病，尤其擅长对小儿脑瘫的早期诊断，早期治疗及其疗效的评价"@zh .
-<https://w3id.org/asdkb/instance/doctor214> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital94> .
-<https://w3id.org/asdkb/instance/doctor214> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor214> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department334> .
 <https://w3id.org/asdkb/instance/doctor214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor214> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor214> <https://w3id.org/asdkb/ontology/dataproperty/department> "神经内科"@zh .
+<https://w3id.org/asdkb/instance/doctor214> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital94> .
+<https://w3id.org/asdkb/instance/doctor214> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "诊治小儿神经康复、小儿神经内科疾病，如小儿癫痫、小儿瘫痪、小儿多动症、颅内感染、头痛、智力、行为发育障碍等疾病，尤其擅长对小儿脑瘫的早期诊断，早期治疗及其疗效的评价"@zh .
+<https://w3id.org/asdkb/instance/doctor214> <http://www.w3.org/2000/01/rdf-schema#label> "任永平"@zh .
 

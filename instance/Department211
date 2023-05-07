@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department211> <http://www.w3.org/2000/01/rdf-schema#label> "深圳市儿童医院心理科"@zh .
-<https://w3id.org/asdkb/instance/Department211> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital51> .
-<https://w3id.org/asdkb/instance/Department211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department211> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童的心理卫生影响孩子的终身成就，心理科是随着社会的进步与时俱进地发展。深圳市儿童医院的心理科业务已经开展十多年，以前一直行政归属于儿童保健科。目前，心理科正式成立建科。建科伊始，心理科就按照国内外高水平心理卫生中心或精神科标准建设，与国内外知名医疗机构有联系和合作，是集科研、教学、医疗为一体的专业科室，对深圳市周边的影响力将逐渐辐射和发展。"@zh .
-

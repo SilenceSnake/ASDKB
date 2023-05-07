@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department122> <http://www.w3.org/2000/01/rdf-schema#comment> "康复科创建于1999年，现有专家和专业技术人员60多名，其中高级职称8人，中级职称20人，硕士研究生以上学历11人，世界卫生组织复康协作中心香港复康会项目总监贝维斯女士曾为该中心名誉主任。是山东省中医药重点专科，济南市临床重点专科，山东省临床重点专科建设单位。是山东省残联和济南市残联定点康复救助机构，承担了国家级、省级及市级贫困脑瘫儿童康复救助项目。现开放床位120余张，日在训儿童达200余人。主要收治的疾病包括：小儿脑性瘫痪、精神发育迟缓、语言发育迟缓、周围神经损伤及脑外伤、脑炎等各种原因引起的认知、运动及语言发育障碍等，开展了脑损伤高危儿的早期干预治疗。评估及治疗方法规范齐全，开设了运动、精细、语言、认知功能测评、物理治疗(PT)、语言治疗(ST)、作业治疗(OT)、视听治疗、教育康复（包括早期教育和特殊教育、引导式教育）、传统中医治疗（包括推拿点穴、针灸、穴位封闭）、B超引导下肉毒毒素注射技术、物理因子治疗（蜡疗、中药汽疗、磁疗、水疗、电疗、药浴、灸疗、高压氧等）及矫形支具的配备、外科矫形手术治疗等。"@zh .
-<https://w3id.org/asdkb/instance/Department122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department122> <http://www.w3.org/2000/01/rdf-schema#label> "济南市儿童医院儿童康复科"@zh .
-<https://w3id.org/asdkb/instance/Department122> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital38> .
-

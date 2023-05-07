@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital2> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital2> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "027-85836685（六角亭院区）、82281733（二七院区）  "@zh .
-<https://w3id.org/asdkb/instance/hospital2> <https://w3id.org/asdkb/ontology/dataproperty/address> "武汉市硚口游艺路93号 "@zh .
-<https://w3id.org/asdkb/instance/hospital2> <http://www.w3.org/2000/01/rdf-schema#label> "武汉精神卫生中心"@zh .
-<https://w3id.org/asdkb/instance/hospital2> <https://w3id.org/asdkb/ontology/dataproperty/city> "武汉市"@zh .
+<https://w3id.org/asdkb/instance/hospital2> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital2> <https://w3id.org/asdkb/ontology/dataproperty/address> "武汉市硚口游艺路93号 "@zh .
+<https://w3id.org/asdkb/instance/hospital2> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City168> .
+<https://w3id.org/asdkb/instance/hospital2> <http://www.w3.org/2000/01/rdf-schema#label> "武汉精神卫生中心"@zh .
 

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital261> <http://www.w3.org/2000/01/rdf-schema#label> "天津医科大学总医院滨海医院"@zh .
-<https://w3id.org/asdkb/instance/hospital261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital261> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "二级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital261> <http://www.w3.org/2000/01/rdf-schema#label> "天津医科大学总医院滨海医院"@zh .
 <https://w3id.org/asdkb/instance/hospital261> <https://w3id.org/asdkb/ontology/dataproperty/address> "天津市滨海新区汉沽医院路28号"@zh .
-<https://w3id.org/asdkb/instance/hospital261> <https://w3id.org/asdkb/ontology/dataproperty/city> "天津市"@zh .
 <https://w3id.org/asdkb/instance/hospital261> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "022-67127856"@zh .
+<https://w3id.org/asdkb/instance/hospital261> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City1> .
 

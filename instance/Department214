@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department214> <http://www.w3.org/2000/01/rdf-schema#comment> "深圳市康宁医院(深圳市精神卫生中心)始建于1980年。医院坚持医疗服务“以病人为中心”，秉承“心理健康 以人为本”的理念，集精神卫生的医教研防于一体。医院门诊部设于厚德楼1-5楼，提供精神专科门诊、急诊服务，年门诊量达20余万人次，医疗设备齐全，技术力量雄厚，品牌特色突出，就医环境舒适。门诊部常年开展成人心理治疗、儿少心理治疗、性心理治疗等服务，设有普通精神科、临床心理科、老年精神科、儿少精神科、情感障碍科、睡眠障碍科、中医精神科、名医馆，以及医学临床检验科、医技科(脑电图室、超声室、心电图室及放射科)、心理测验室等辅助科室。临床科室有中高级职称医师、精神科专家、心理专家坐诊，辅助科室由经验丰富的技师操作。"@zh .
-<https://w3id.org/asdkb/instance/Department214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department214> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital183> .
-<https://w3id.org/asdkb/instance/Department214> <http://www.w3.org/2000/01/rdf-schema#label> "深圳市康宁医院儿少心理科"@zh .
-

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department241> <http://www.w3.org/2000/01/rdf-schema#comment> "天津医科大学总医院神经内科是天津市乃至全国闻名的神经病学诊疗中心，集临床、科研和教学于一体，致力于脑血管疾病、神经系统自身免疫性疾病、癫痫及神经系统变性病等各类疾病的临床综合诊治与研究工作。拥有4个病区160张住院床位、8张床位的重症监护病房(NICU)，以及8个无假日门急诊的临床服务平台，年门诊量21万，年出院人数超过4500人。并拥有使用面积达5400m2 包括神经免疫、神经生化、神经电生理及流行病学四个研究方向的专业实验室研究平台（神经病学研究所）。可支配的国家级项目资助经费逾4000万元。医教研队伍人力资源丰富，人员结构合理。每年培养毕业的博硕士研究生、进修生约50名，海外实习、见习留学生近100名。"@zh .
-<https://w3id.org/asdkb/instance/Department241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department241> <http://www.w3.org/2000/01/rdf-schema#label> "天津医科大学总医院神经内科"@zh .
-<https://w3id.org/asdkb/instance/Department241> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital139> .
-

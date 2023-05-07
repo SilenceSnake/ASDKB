@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/hospital220> <http://www.w3.org/2000/01/rdf-schema#label> "枣庄市立第二医院"@zh .
-<https://w3id.org/asdkb/instance/hospital220> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital220> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0632-8076238,0632-8076112"@zh .
-<https://w3id.org/asdkb/instance/hospital220> <https://w3id.org/asdkb/ontology/dataproperty/city> "枣庄市"@zh .
-<https://w3id.org/asdkb/instance/hospital220> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省枣庄市市中区汇泉路6号"@zh .
 <https://w3id.org/asdkb/instance/hospital220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital220> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省枣庄市市中区汇泉路6号"@zh .
+<https://w3id.org/asdkb/instance/hospital220> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City137> .
+<https://w3id.org/asdkb/instance/hospital220> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 

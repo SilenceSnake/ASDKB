@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital138> <https://w3id.org/asdkb/ontology/dataproperty/city> "上海市"@zh .
+<https://w3id.org/asdkb/instance/hospital138> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital138> <http://www.w3.org/2000/01/rdf-schema#label> "上海交通大学医学院附属瑞金医院"@zh .
+<https://w3id.org/asdkb/instance/hospital138> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City72> .
 <https://w3id.org/asdkb/instance/hospital138> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-34186000(总机),021-64370045(总机),021-64717398(远洋分院),021-67888999(北院)"@zh .
 <https://w3id.org/asdkb/instance/hospital138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital138> <http://www.w3.org/2000/01/rdf-schema#label> "上海交通大学医学院附属瑞金医院"@zh .
 <https://w3id.org/asdkb/instance/hospital138> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市黄浦区瑞金二路197号(永嘉路口)"@zh .
-<https://w3id.org/asdkb/instance/hospital138> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 

@@ -1,6 +1,6 @@
-<https://w3id.org/asdkb/instance/hospital54> <https://w3id.org/asdkb/ontology/dataproperty/city> "深圳市"@zh .
-<https://w3id.org/asdkb/instance/hospital54> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省深圳市盐田区东海大道363号 "@zh .
 <https://w3id.org/asdkb/instance/hospital54> <http://www.w3.org/2000/01/rdf-schema#label> "深圳市盐港医院"@zh .
 <https://w3id.org/asdkb/instance/hospital54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital54> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0755-25201554，25208373 "@zh .
+<https://w3id.org/asdkb/instance/hospital54> <https://w3id.org/asdkb/ontology/dataproperty/address> "广东省深圳市盐田区东海大道363号 "@zh .
+<https://w3id.org/asdkb/instance/hospital54> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City197> .
 

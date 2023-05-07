@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department89> <http://www.w3.org/2000/01/rdf-schema#comment> "精神科自1954年建院以来就设有精神科门诊和住院病区，目前积极申报浙江省重点学科。精神科共有五个病区，300多张住院床位，高级职称医师30多位，精神科技术力量雄厚。主要收治精神分裂症、情感性精神障碍、脑器质精神障碍、癔症、应激障碍、酒精等物质依赖、人格障碍等。主要采取药物治疗、无抽搐电休克治疗、中西医结合及心理治疗和其他辅助治疗方式。"@zh .
-<https://w3id.org/asdkb/instance/Department89> <http://www.w3.org/2000/01/rdf-schema#label> "杭州市第七人民医院精神科"@zh .
-<https://w3id.org/asdkb/instance/Department89> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital102> .
-

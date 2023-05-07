@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department253> <http://www.w3.org/2000/01/rdf-schema#label> "武汉大学人民医院精神卫生中心"@zh .
-<https://w3id.org/asdkb/instance/Department253> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital157> .
-<https://w3id.org/asdkb/instance/Department253> <http://www.w3.org/2000/01/rdf-schema#comment> "精神卫生中心（湖北省精神卫生中心）创建于1956年，是国家临床重点专科（精神科），国家精神心理疾病临床医学研究中心（核心单位）、国家住院医师规范化培训基地、国家食品药品监督管理局药物临床试验机构（精神科）、美国Stanley基金会精神疾病合作研究中心、中国医师协会精神科医师分会会长单位、国家规范教材主编/副主编单位；也是湖北省医学会精神医学专业委员会主任委员单位、湖北省精神医学质量控制中心、湖北省突发公共事件社会心理援助中心、湖北省抑郁症诊疗中心、湖北省神经精神病研究所、湖北省人民医院法医鉴定所、“985”认知与神经信息科学拓展平台的主要组成部分，是国务院学位委员会评定的博士和硕士学位授予点、临床医学博士后流动站，是湖北省精神医学/临床心理学医疗、教学、科研、培训和公共卫生中心。连续多年入选“复旦大学专科声誉排行榜”和“中国医院科技影响力排名”的前十强。获全国卫生计生系统先进集体、\"东方之星\"救援先进集体称号。"@zh .
-

@@ -1,11 +1,11 @@
-<https://w3id.org/asdkb/instance/tools4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
 <https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/time> "5分钟"@zh .
-<https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工(青少年儿童版本);自测(成年人版本)"@zh .
-<https://w3id.org/asdkb/instance/tools4> <http://www.w3.org/2000/01/rdf-schema#label> "孤独症谱系指数-10(AQ-10)"@zh .
 <https://w3id.org/asdkb/instance/tools4> <http://www.w3.org/2000/01/rdf-schema#label> "Autism Spectrum Quotient – 10"@en .
-<https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/age> "18-24个月"@zh .
+<https://w3id.org/asdkb/instance/tools4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
+<https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "这个10项量表采用李克特量表5分制(总是、通常、有时、很少、从不). "@zh .
 <https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/rule> "稍微同意第1、7、8、10题，得1分。对第2、3、4、5、6、9题有明确或轻微的分歧，得1分。如果个人超过6分，考虑参考他们进行专科诊断评估。"@zh .
 <https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/author> "Allison, Auyeung, & Baron-Cohen, 2012"@en .
-<https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/definition> "这个10项量表采用李克特量表5分制(总是、通常、有时、很少、从不). "@zh .
+<https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工(青少年儿童版本);自测(成年人版本)"@zh .
+<https://w3id.org/asdkb/instance/tools4> <http://www.w3.org/2000/01/rdf-schema#label> "孤独症谱系指数-10(AQ-10)"@zh .
 <https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/screening_boundary> "6"@zh .
+<https://w3id.org/asdkb/instance/tools4> <https://w3id.org/asdkb/ontology/dataproperty/age> "18-24个月"@zh .
 

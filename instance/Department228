@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department228> <http://www.w3.org/2000/01/rdf-schema#label> "四川省八一康复中心儿童康复科"@zh .
-<https://w3id.org/asdkb/instance/Department228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department228> <http://www.w3.org/2000/01/rdf-schema#comment> "科室有高、中、初级职称的儿科医师、康复医师、神经外科医师及治疗师、护士近百人组成儿童康复团队。科室开展儿科常见病，多发病的诊治工作；儿童运动发育落后、脑瘫、脑外伤后遗症、中枢神经系统感染后遗症、智障等的康复评估、干预及康复治疗，脑损伤高危儿的超早期干预。"@zh .
-<https://w3id.org/asdkb/instance/Department228> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital229> .
-

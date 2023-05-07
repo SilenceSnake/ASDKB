@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department258> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital2> .
-<https://w3id.org/asdkb/instance/Department258> <http://www.w3.org/2000/01/rdf-schema#comment> "心理专科门诊以各种轻性心理障碍如神经衰弱、抑郁症、各种神经症及人格障碍等的诊断治疗为主，包括有各种心理障碍的心理咨询、婚恋、工作、生活与心理咨询。"@zh .
-<https://w3id.org/asdkb/instance/Department258> <http://www.w3.org/2000/01/rdf-schema#label> "武汉精神卫生中心精神科"@zh .
-<https://w3id.org/asdkb/instance/Department258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

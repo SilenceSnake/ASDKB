@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/doctor485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor485> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童学习障碍、言语认知障碍、自闭症、脑瘫、语言发育迟缓、智障儿童等的评定、训练、治疗及家庭方案指导"@zh .
-<https://w3id.org/asdkb/instance/doctor485> <http://www.w3.org/2000/01/rdf-schema#label> "史文红"@zh .
-<https://w3id.org/asdkb/instance/doctor485> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department82> .
 <https://w3id.org/asdkb/instance/doctor485> <https://w3id.org/asdkb/ontology/dataproperty/title> "'', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor485> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital166> .
+<https://w3id.org/asdkb/instance/doctor485> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童学习障碍、言语认知障碍、自闭症、脑瘫、语言发育迟缓、智障儿童等的评定、训练、治疗及家庭方案指导"@zh .
+<https://w3id.org/asdkb/instance/doctor485> <https://w3id.org/asdkb/ontology/dataproperty/department> "心理咨询科"@zh .
+<https://w3id.org/asdkb/instance/doctor485> <http://www.w3.org/2000/01/rdf-schema#label> "史文红"@zh .
 

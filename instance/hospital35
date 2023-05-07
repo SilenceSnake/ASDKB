@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital35> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0660-3863000 "@zh .
-<https://w3id.org/asdkb/instance/hospital35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital35> <https://w3id.org/asdkb/ontology/dataproperty/city> "汕尾市"@zh .
 <https://w3id.org/asdkb/instance/hospital35> <http://www.w3.org/2000/01/rdf-schema#label> "中山大学孙逸仙纪念医院"@zh .
+<https://w3id.org/asdkb/instance/hospital35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital35> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0660-3863000 "@zh .
+<https://w3id.org/asdkb/instance/hospital35> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City207> .
 <https://w3id.org/asdkb/instance/hospital35> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital35> <https://w3id.org/asdkb/ontology/dataproperty/address> "汕尾市城区火车站片区汕可路西侧、站前横路以南 "@zh .
 

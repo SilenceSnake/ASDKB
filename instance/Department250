@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department250> <http://www.w3.org/2000/01/rdf-schema#comment> "儿童精神心理科于2016年成立，是温州市医学会儿科分会身心医学学组组长单位，服务于来自浙南及闽北地区的全国其他地区的儿少精神问题患儿。学科主攻方向为儿童和青少年精神疾病、心身疾病和心理卫生问题的医疗、教学、科研和训练，组织开展适应儿童青少年心理特点包括青春期话题、社交技能训练、家庭治疗、集体心理治疗、个别心理治疗等多种治疗方法相结合模式的综合医疗工作。同时承担带教温州医科大学精神医学学院的教学工作。"@zh .
-<https://w3id.org/asdkb/instance/Department250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department250> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital44> .
-<https://w3id.org/asdkb/instance/Department250> <http://www.w3.org/2000/01/rdf-schema#label> "温州医科大学附属第二医院小儿精神心理科"@zh .
-

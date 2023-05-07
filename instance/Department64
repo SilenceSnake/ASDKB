@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department64> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital63> .
-<https://w3id.org/asdkb/instance/Department64> <http://www.w3.org/2000/01/rdf-schema#comment> "广东省人民医院心理精神科（广东省精神卫生中心、广东省精神卫生研究所）创建于1959年，是广东省唯一一家省级心理/精神卫生专业机构。精研所是广东省精神卫生专业临床、科研和教学指导中心，南方医科大学、汕头大学医学院精神卫生专业研究生培养基地，广东省精神卫生特色专科。负责全省心理/精神疾病防治和康复的技术指导、宣传教育以及科研、医师培训等工作。精研所为广东省人民政府指定的精神疾病司法鉴定复核单位，为中国睡眠研究会睡眠与心理卫生专业委员会主任委员单位，为广东省医师协会精神科医师分会和广东省预防医学会精神卫生专业委员会主任委员单位，同时也是中国睡眠研究会南方培训中心。在临床服务方面，精神科提供各类精神障碍（如焦虑症、抑郁症、双相情感障碍、精神分裂症）的门诊和住院诊断、治疗和系统康复；擅长处理人际交往障碍、学习障碍、儿童青少年心理问题、妇女心理障碍、适应障碍、应激、老年心理障碍、睡眠障碍、性心理障碍、药物依赖、网络成瘾等心理行为问题的咨询、治疗；同时提供就业指导、职业压力调适、婚姻与家庭关系的咨询与指导。开展多种心理（包括智力、人格、心理状况、情绪状况等）测验和司法精神医学鉴定；开展包括正电子发射、核磁共振等脑影像学、多导睡眠仪等多项特殊检查和各项临床检验检查；同时开展生物反馈治疗、经颅磁刺激治疗、失眠仪治疗及音乐治疗等物理治疗。"@zh .
-<https://w3id.org/asdkb/instance/Department64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department64> <http://www.w3.org/2000/01/rdf-schema#label> "广东省人民医院心理精神科"@zh .
-

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital269> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-63240090(总机),021-37798103(门诊服务台)"@zh .
-<https://w3id.org/asdkb/instance/hospital269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital269> <http://www.w3.org/2000/01/rdf-schema#label> "上海市第一人民医院（南部）"@zh .
-<https://w3id.org/asdkb/instance/hospital269> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市松江区新松江路650号"@zh .
-<https://w3id.org/asdkb/instance/hospital269> <https://w3id.org/asdkb/ontology/dataproperty/city> "上海市"@zh .
+<https://w3id.org/asdkb/instance/hospital269> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-63240090(总机),021-37798103(门诊服务台)"@zh .
+<https://w3id.org/asdkb/instance/hospital269> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City72> .
 <https://w3id.org/asdkb/instance/hospital269> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital269> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市松江区新松江路650号"@zh .
+<https://w3id.org/asdkb/instance/hospital269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

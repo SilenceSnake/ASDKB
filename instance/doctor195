@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor195> <https://w3id.org/asdkb/ontology/dataproperty/department> "心理科"@zh .
+<https://w3id.org/asdkb/instance/doctor195> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital121> .
 <https://w3id.org/asdkb/instance/doctor195> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor195> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "强迫症、自伤、焦虑相关障碍、双相情感障碍、抑郁症和心因性失眠的药物治疗和心理治疗；并且擅长于健康人群的人际关系咨询，使来访者拥有更好的生活。能使用中、英双语同时提供药物治疗和心理治疗。门诊主要提供药物治疗+心理教育。系统的心理治疗另行预约。"@zh .
 <https://w3id.org/asdkb/instance/doctor195> <http://www.w3.org/2000/01/rdf-schema#label> "丁丽君"@zh .
-<https://w3id.org/asdkb/instance/doctor195> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital121> .
-<https://w3id.org/asdkb/instance/doctor195> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department180> .
+<https://w3id.org/asdkb/instance/doctor195> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "强迫症、自伤、焦虑相关障碍、双相情感障碍、抑郁症和心因性失眠的药物治疗和心理治疗；并且擅长于健康人群的人际关系咨询，使来访者拥有更好的生活。能使用中、英双语同时提供药物治疗和心理治疗。门诊主要提供药物治疗+心理教育。系统的心理治疗另行预约。"@zh .
 

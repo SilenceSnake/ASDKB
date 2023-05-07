@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor236> <http://www.w3.org/2000/01/rdf-schema#label> "宋风玲"@zh .
 <https://w3id.org/asdkb/instance/doctor236> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor236> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital38> .
-<https://w3id.org/asdkb/instance/doctor236> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department121> .
-<https://w3id.org/asdkb/instance/doctor236> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童身材矮小等生长发育迟缓，儿童早期营养，高危儿童脑病的防治等"@zh .
 <https://w3id.org/asdkb/instance/doctor236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor236> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童身材矮小等生长发育迟缓，儿童早期营养，高危儿童脑病的防治等"@zh .
+<https://w3id.org/asdkb/instance/doctor236> <http://www.w3.org/2000/01/rdf-schema#label> "宋风玲"@zh .
+<https://w3id.org/asdkb/instance/doctor236> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健所"@zh .
+<https://w3id.org/asdkb/instance/doctor236> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital38> .
 

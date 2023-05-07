@@ -57,35 +57,13 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/department -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/diagnosticExpert -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/department">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/physician"/>
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/hospital_department"/>
-        <rdfs:label xml:lang="en">depertment</rdfs:label>
-        <rdfs:label xml:lang="zh">所属科室</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/diagnosedBy -->
-
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/diagnosedBy">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/diagnosticExpert">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/physician"/>
-        <rdfs:label xml:lang="en">diagnosedBy</rdfs:label>
+        <rdfs:label xml:lang="en">diagnosticExpert</rdfs:label>
         <rdfs:label xml:lang="zh">诊断专家</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/diagnosticStandard -->
-
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/diagnosticStandard">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/option"/>
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/diagnostic_standard"/>
-        <rdfs:label xml:lang="en">matchStandard</rdfs:label>
-        <rdfs:label xml:lang="zh">命中标准</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -116,7 +94,6 @@
     <!-- https://w3id.org/asdkb/ontology/objectproperty/hospital -->
 
     <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/hospital">
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital_department"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
         <rdfs:label xml:lang="en">hospital</rdfs:label>
         <rdfs:label xml:lang="zh">所属医院</rdfs:label>
@@ -124,12 +101,12 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/intervenedBy -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/interventionMethod -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/intervenedBy">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/interventionMethod">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/EBP"/>
-        <rdfs:label xml:lang="en">intervenedBy</rdfs:label>
+        <rdfs:label xml:lang="en">interventionMethod</rdfs:label>
         <rdfs:label xml:lang="zh">干预方法</rdfs:label>
     </owl:ObjectProperty>
     
@@ -150,12 +127,23 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/screeningTool -->
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/matchStandard -->
 
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/screeningTool">
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/matchStandard">
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/option"/>
+        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/diagnostic_standard"/>
+        <rdfs:label xml:lang="en">matchStandard</rdfs:label>
+        <rdfs:label xml:lang="zh">命中标准</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- https://w3id.org/asdkb/ontology/objectproperty/screeningMethod -->
+
+    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/screeningMethod">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
         <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
-        <rdfs:label xml:lang="en">screeningTool</rdfs:label>
+        <rdfs:label xml:lang="en">screeningMethod</rdfs:label>
         <rdfs:label xml:lang="zh">筛查量表</rdfs:label>
     </owl:ObjectProperty>
     
@@ -180,6 +168,18 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
+    
+
+
+    <!-- https://w3id.org/asdkb/department -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/department">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/physician"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">Hospital Department</rdfs:label>
+        <rdfs:label xml:lang="zh">科室</rdfs:label>
+    </owl:DatatypeProperty>
     
 
 
@@ -265,7 +265,6 @@
     <owl:DatatypeProperty rdf:about="https://w3id.org/asdkb/ontology/dataproperty/introduction">
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/EBP"/>
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder"/>
-        <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/hospital_department"/>
         <rdfs:domain rdf:resource="https://w3id.org/asdkb/ontology/class/screening_tool"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
         <rdfs:label xml:lang="en">Introduction</rdfs:label>
@@ -592,15 +591,6 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/class/hospital_department -->
-
-    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/hospital_department">
-        <rdfs:label xml:lang="en">Hospital Department</rdfs:label>
-        <rdfs:label xml:lang="zh">科室</rdfs:label>
-    </owl:Class>
-    
-
-
     <!-- https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction -->
 
     <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction">
@@ -687,22 +677,22 @@
     
 
 
+    <!-- https://w3id.org/asdkb/ontology/class/standard_of_impairments_in_social_interaction -->
+
+    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/standard_of_impairments_in_social_interaction">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/diagnostic_standard"/>
+        <rdfs:label xml:lang="en">Standard of Impairments in Social Interaction</rdfs:label>
+        <rdfs:label xml:lang="zh">社交障碍标准</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- https://w3id.org/asdkb/ontology/class/standard_of_repetitive_behavior -->
 
     <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/standard_of_repetitive_behavior">
         <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/diagnostic_standard"/>
         <rdfs:label xml:lang="en">Standard of Repetitive Behavior</rdfs:label>
         <rdfs:label xml:lang="zh">刻板行为标准</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- https://w3id.org/asdkb/ontology/class/standard_of_social_interaction -->
-
-    <owl:Class rdf:about="https://w3id.org/asdkb/ontology/class/standard_of_social_interaction">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/asdkb/ontology/class/diagnostic_standard"/>
-        <rdfs:label xml:lang="en">Standard of Social Interaction</rdfs:label>
-        <rdfs:label xml:lang="zh">社交障碍标准</rdfs:label>
     </owl:Class>
     
 

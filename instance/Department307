@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department307> <http://www.w3.org/2000/01/rdf-schema#label> "中国康复研究中心儿童康复科"@zh .
-<https://w3id.org/asdkb/instance/Department307> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital211> .
-<https://w3id.org/asdkb/instance/Department307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department307> <http://www.w3.org/2000/01/rdf-schema#comment> "nan"^^<http://www.w3.org/2001/XMLSchema#double> .
-

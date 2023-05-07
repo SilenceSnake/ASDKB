@@ -1,4 +1,4 @@
-<https://w3id.org/asdkb/instance/City182> <http://www.w3.org/2000/01/rdf-schema#label> "оЖоя╩л"@zh .
+<https://w3id.org/asdkb/instance/City182> <http://www.w3.org/2000/01/rdf-schema#label> "株洲市"@zh .
 <https://w3id.org/asdkb/instance/City182> <https://w3id.org/asdkb/ontology/dataproperty/regionalism_code> "430200"@zh .
 <https://w3id.org/asdkb/instance/City182> <https://w3id.org/asdkb/ontology/objectproperty/locateAt> <https://w3id.org/asdkb/instance/Province17> .
 <https://w3id.org/asdkb/instance/City182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/city> .

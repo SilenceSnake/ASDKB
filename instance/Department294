@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department294> <http://www.w3.org/2000/01/rdf-schema#label> "浙江大学医学院附属儿童医院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department294> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital145> .
-<https://w3id.org/asdkb/instance/Department294> <http://www.w3.org/2000/01/rdf-schema#comment> "浙江省儿童医院儿童保健科致力于保障和促进儿童身心健康，跟踪国际前沿的研究进展，并应用于临床实践，开展儿童营养、生长发育、儿童心理与行为发育的评价与干预，遗传代谢性疾病的诊断治疗。在学科带头人赵正言教授的带领下，本学科被评为浙江省医学重点学科，已获包括美国国立卫生研究院（NIH）、国家自然基金、卫生部科教司、浙江省科技厅重点项目在内的三十余项科研项目，共计经费500余万元，共发表论文80余篇，其中SCI收录十余篇，荣获省科技厅、卫生厅等部门颁发的各类奖项6项。"@zh .
-

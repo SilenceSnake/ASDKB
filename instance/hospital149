@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital149> <http://www.w3.org/2000/01/rdf-schema#label> "临沂市人民医院"@zh .
-<https://w3id.org/asdkb/instance/hospital149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital149> <https://w3id.org/asdkb/ontology/dataproperty/city> "临沂市"@zh .
-<https://w3id.org/asdkb/instance/hospital149> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0539-8078000(总服务台),0539-8226999(总值班),0539-8216277(急救)"@zh .
-<https://w3id.org/asdkb/instance/hospital149> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital149> <https://w3id.org/asdkb/ontology/dataproperty/address> "山东省临沂市兰山区解放路东段27号"@zh .
+<https://w3id.org/asdkb/instance/hospital149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital149> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City146> .
+<https://w3id.org/asdkb/instance/hospital149> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0539-8078000(总服务台),0539-8226999(总值班),0539-8216277(急救)"@zh .
+<https://w3id.org/asdkb/instance/hospital149> <http://www.w3.org/2000/01/rdf-schema#label> "临沂市人民医院"@zh .
+<https://w3id.org/asdkb/instance/hospital149> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
 

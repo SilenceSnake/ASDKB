@@ -1,8 +1,4 @@
-<https://w3id.org/asdkb/instance/symptom3> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom00> .
-<https://w3id.org/asdkb/instance/symptom3> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom3"@zh .
-<https://w3id.org/asdkb/instance/symptom3> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom0"@zh .
-<https://w3id.org/asdkb/instance/symptom3> <http://www.w3.org/2000/01/rdf-schema#comment> "a lack of modulation of behaviour according to social context"@en .
-<https://w3id.org/asdkb/instance/symptom3> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/symptom0> .
-<https://w3id.org/asdkb/instance/symptom3> <http://www.w3.org/2000/01/rdf-schema#comment> "缺乏根据社交环境调整行为的能力 "@zh .
 <https://w3id.org/asdkb/instance/symptom3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
+<https://w3id.org/asdkb/instance/symptom3> <http://www.w3.org/2000/01/rdf-schema#comment> "缺乏根据社交环境调整行为的能力 "@zh .
+<https://w3id.org/asdkb/instance/symptom3> <http://www.w3.org/2000/01/rdf-schema#comment> "a lack of modulation of behaviour according to social context"@en .
 

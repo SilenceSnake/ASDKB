@@ -1,7 +1,7 @@
 <https://w3id.org/asdkb/instance/hospital237> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级甲等"@zh .
-<https://w3id.org/asdkb/instance/hospital237> <https://w3id.org/asdkb/ontology/dataproperty/city> "呼和浩特市"@zh .
-<https://w3id.org/asdkb/instance/hospital237> <http://www.w3.org/2000/01/rdf-schema#label> "内蒙古自治区精神卫生中心"@zh .
-<https://w3id.org/asdkb/instance/hospital237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
+<https://w3id.org/asdkb/instance/hospital237> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City24> .
 <https://w3id.org/asdkb/instance/hospital237> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0471-4935343(院办),0471-4935431(医务科),0471-4935440(总值班),0471-4910098(心理热线)"@zh .
+<https://w3id.org/asdkb/instance/hospital237> <http://www.w3.org/2000/01/rdf-schema#label> "内蒙古自治区精神卫生中心"@zh .
 <https://w3id.org/asdkb/instance/hospital237> <https://w3id.org/asdkb/ontology/dataproperty/address> "内蒙古自治区呼和浩特市新城区乌兰察布西路23号(总院)"@zh .
+<https://w3id.org/asdkb/instance/hospital237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department248> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital44> .
-<https://w3id.org/asdkb/instance/Department248> <http://www.w3.org/2000/01/rdf-schema#comment> "主要开展的工作包括：1、高危儿的早期筛查和早期干预；2、小儿发育迟缓的筛查和干预（包括运动发育迟缓、语言发育迟缓等）；3、脑性瘫痪的诊断和治疗；4、重症颅脑损伤、脑炎、脊髓损伤所致的肢体功能障碍和周围神经损伤（包括面神经瘫痪、坐骨神经损伤）；5、小儿自闭症的筛查、诊断和干预；6、多动症、学习困难、抽动症等行为心理异常的诊断和干预；7、小儿先天出生缺陷、遗传代谢病、小儿骨关节术后等疾病的康复治疗。目前治疗的手段有运动疗法、物理因子治疗、作业疗法、传统医学康复疗法、 语言治疗、康复工程、药物治疗、手术治疗、心理与教育康复等。脑瘫治疗总有效率97.8%，年龄小者可治愈或“正常化”；年龄大者可改善运动功能和认知功能以及言语功能，提高生活能力。对脑外伤、脑炎所致的功能障碍有效率为100%。2008年率先在浙江省内开展高危新生儿早期筛查和干预，有效地减少了高危新生儿的后遗症。对自闭症患儿开展了ADOS和ADIR 等诊断技术，对多动症儿童采取心理治疗和功能训练相结合原则，有效减少多动症状，提高学业成绩。儿童康复年收治500余例患者,疑难危重症达16.4%，好转率98%，平均住院日14.5天。"@zh .
-<https://w3id.org/asdkb/instance/Department248> <http://www.w3.org/2000/01/rdf-schema#label> "温州医科大学附属第二医院儿童康复科"@zh .
-<https://w3id.org/asdkb/instance/Department248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

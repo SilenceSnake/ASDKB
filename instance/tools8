@@ -1,9 +1,9 @@
-<https://w3id.org/asdkb/instance/tools8> <https://w3id.org/asdkb/ontology/dataproperty/time> "10分钟"@zh .
-<https://w3id.org/asdkb/instance/tools8> <http://www.w3.org/2000/01/rdf-schema#label> "Developmental Checklist-Early Screen"@en .
-<https://w3id.org/asdkb/instance/tools8> <http://www.w3.org/2000/01/rdf-schema#label> "发育检查表-早期筛查(DBD-ES)"@zh .
+<https://w3id.org/asdkb/instance/tools8> <https://w3id.org/asdkb/ontology/dataproperty/author> "Gray & Tonge, 2005"@en .
 <https://w3id.org/asdkb/instance/tools8> <https://w3id.org/asdkb/ontology/dataproperty/age> "18-48个月"@zh .
 <https://w3id.org/asdkb/instance/tools8> <https://w3id.org/asdkb/ontology/dataproperty/user> "家长,护工"@zh .
-<https://w3id.org/asdkb/instance/tools8> <https://w3id.org/asdkb/ontology/dataproperty/definition> "DBD-ES是一个由DPC-P衍生而来的17项工具，用于筛查18-48个月发育迟缓儿童的自闭症。结果通过非加权分数报告。"@zh .
-<https://w3id.org/asdkb/instance/tools8> <https://w3id.org/asdkb/ontology/dataproperty/author> "Gray & Tonge, 2005"@en .
+<https://w3id.org/asdkb/instance/tools8> <http://www.w3.org/2000/01/rdf-schema#label> "发育检查表-早期筛查(DBD-ES)"@zh .
+<https://w3id.org/asdkb/instance/tools8> <https://w3id.org/asdkb/ontology/dataproperty/introduction> "DBD-ES是一个由DPC-P衍生而来的17项工具，用于筛查18-48个月发育迟缓儿童的自闭症。结果通过非加权分数报告。"@zh .
+<https://w3id.org/asdkb/instance/tools8> <http://www.w3.org/2000/01/rdf-schema#label> "Developmental Checklist-Early Screen"@en .
+<https://w3id.org/asdkb/instance/tools8> <https://w3id.org/asdkb/ontology/dataproperty/time> "10分钟"@zh .
 <https://w3id.org/asdkb/instance/tools8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/screening_tool> .
 

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
-<https://w3id.org/asdkb/instance/doctor398> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital169> .
-<https://w3id.org/asdkb/instance/doctor398> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor398> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department110> .
 <https://w3id.org/asdkb/instance/doctor398> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童营养性疾病、心理行为疾病、儿童生长发育障碍"@zh .
+<https://w3id.org/asdkb/instance/doctor398> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', ''"@zh .
 <https://w3id.org/asdkb/instance/doctor398> <http://www.w3.org/2000/01/rdf-schema#label> "汪鸿"@zh .
+<https://w3id.org/asdkb/instance/doctor398> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健科"@zh .
+<https://w3id.org/asdkb/instance/doctor398> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital169> .
+<https://w3id.org/asdkb/instance/doctor398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

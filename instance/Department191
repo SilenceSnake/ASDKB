@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department191> <http://www.w3.org/2000/01/rdf-schema#label> "商丘市第一人民医院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department191> <http://www.w3.org/2000/01/rdf-schema#comment> "商丘市第一人民医院儿科一病区分为儿科普通病区和儿科康复病区。目前有医生10名，康复技师8名，护士25名，其中有主任医师1名，副主任医师1名，中医副主任医师1人，主治医师3名，住院医师4名，硕士2人。主管护师4名，护师7名，本科有床位48张，其特色是小儿神经专业、脑病康复。医生到北京大学一院小儿神经专业进修1人，天津儿童医院进修1人，上海复旦大学儿科医院进修小儿神经1人，北京中国康复中心进修脑病康复1人,北京儿童医院进修呼吸专业1名，郑州大学三附院小儿脑瘫康复中心进修1人。参加佳木斯大学康复医学院主办的全国小儿脑瘫康复学习班5人，河南中医学院一院脑瘫康复中心进修功能训练1人。护士进修到北京大学一院儿科、北京协和医院儿科、北京儿童医院各1名，郑州大学三附院河南省小儿脑瘫康复中心4名。"@zh .
-<https://w3id.org/asdkb/instance/Department191> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital132> .
-<https://w3id.org/asdkb/instance/Department191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-

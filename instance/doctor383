@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor383> <https://w3id.org/asdkb/ontology/dataproperty/department> "国医堂"@zh .
 <https://w3id.org/asdkb/instance/doctor383> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital151> .
-<https://w3id.org/asdkb/instance/doctor383> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department243> .
 <https://w3id.org/asdkb/instance/doctor383> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长内外兼治——以中药从内调脏腑，以推拿从外和气血，治疗多种常规疗法难以解决的顽疾杂症。[适应症]1、痉挛性斜颈; 2、功能性内科疾病；3、陈旧性顽固性颈肩腰腿痛;4、小儿肌性斜颈;5、小儿发育迟滞"@zh .
-<https://w3id.org/asdkb/instance/doctor383> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 <https://w3id.org/asdkb/instance/doctor383> <http://www.w3.org/2000/01/rdf-schema#label> "王金贵"@zh .
+<https://w3id.org/asdkb/instance/doctor383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor383> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
 

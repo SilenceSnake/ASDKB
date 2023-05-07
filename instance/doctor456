@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor456> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童青少年的多动症、学习困难、儿童感觉统合失调、抽动障碍以及儿童行为、情绪障碍等心理行为问题和疾病的诊断和治疗。尤其擅长儿童心理健康咨询、亲子关系辅导。"@zh .
-<https://w3id.org/asdkb/instance/doctor456> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department256> .
-<https://w3id.org/asdkb/instance/doctor456> <http://www.w3.org/2000/01/rdf-schema#label> "彭安娜"@zh .
-<https://w3id.org/asdkb/instance/doctor456> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital156> .
+<https://w3id.org/asdkb/instance/doctor456> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童心理咨询科"@zh .
 <https://w3id.org/asdkb/instance/doctor456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor456> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor456> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital156> .
+<https://w3id.org/asdkb/instance/doctor456> <http://www.w3.org/2000/01/rdf-schema#label> "彭安娜"@zh .
+<https://w3id.org/asdkb/instance/doctor456> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "擅长儿童青少年的多动症、学习困难、儿童感觉统合失调、抽动障碍以及儿童行为、情绪障碍等心理行为问题和疾病的诊断和治疗。尤其擅长儿童心理健康咨询、亲子关系辅导。"@zh .
 

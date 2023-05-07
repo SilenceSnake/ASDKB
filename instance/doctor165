@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor165> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
-<https://w3id.org/asdkb/instance/doctor165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor165> <http://www.w3.org/2000/01/rdf-schema#label> "柯晓燕"@zh .
+<https://w3id.org/asdkb/instance/doctor165> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童心理研究中心"@zh .
 <https://w3id.org/asdkb/instance/doctor165> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "孤独症谱系障碍、多动、抽动症等儿童精神心理障碍的临床诊治具有丰富的临床经验，尤其专长于孤独症的早期诊断和病理机制的研究"@zh .
 <https://w3id.org/asdkb/instance/doctor165> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital74> .
-<https://w3id.org/asdkb/instance/doctor165> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/none> .
+<https://w3id.org/asdkb/instance/doctor165> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主任医师', '教授'"@zh .
+<https://w3id.org/asdkb/instance/doctor165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 

@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department303> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital34> .
-<https://w3id.org/asdkb/instance/Department303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department303> <http://www.w3.org/2000/01/rdf-schema#label> "郑州大学第三附属医院小儿保健科"@zh .
-<https://w3id.org/asdkb/instance/Department303> <http://www.w3.org/2000/01/rdf-schema#comment> "郑州大学第三附属医院（河南省妇幼保健院）儿童保健科承担着全省的儿童保健的专业培训和业务指导；承担着卫生部、卫生厅的5岁以下儿童死亡监测、儿童疾病综合管理、早期综合发展项目、肥胖调查、留守儿童营养与健康等多项妇幼保健项目的执行和实施；承担着郑州大学医学院本科班儿童保健学的教学；针对影响儿童健康的主要因素开展应用性研究，同时还开展儿童保健各专业门诊。科内由经验丰富、医术精湛高年资专家和年富力强的中青年骨干组成。有正、副教授9名，主治医师4名，医师2名；副主任护师1名，主管护师1名，护师2名；幼教4名。其中博士3名，硕士6名，共设6个专业，各专业团结协作，为广大儿童提供了优质的医疗保健服务。"@zh .
-

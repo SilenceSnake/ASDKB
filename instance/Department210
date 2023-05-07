@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department210> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital51> .
-<https://w3id.org/asdkb/instance/Department210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department210> <http://www.w3.org/2000/01/rdf-schema#label> "深圳市儿童医院特诊中心"@zh .
-<https://w3id.org/asdkb/instance/Department210> <http://www.w3.org/2000/01/rdf-schema#comment> "特诊科成立于2004年。实行以收费划价、取药、检验、诊断与治疗一条龙式服务。现每天就诊病人约200人左右。"@zh .
-

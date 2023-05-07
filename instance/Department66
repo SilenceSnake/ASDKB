@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department66> <http://www.w3.org/2000/01/rdf-schema#label> "广西壮族自治区人民医院儿科"@zh .
-<https://w3id.org/asdkb/instance/Department66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department66> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital186> .
-<https://w3id.org/asdkb/instance/Department66> <http://www.w3.org/2000/01/rdf-schema#comment> "广西壮族自治区人民医院儿科是广西壮族自治区临床重点专科建设项目，现有医务人员62人，其中主任医师5名、副主任医师7名，主治医师9名，副主任护师3人，主管护师11人；医学博士1人，医学硕士8人。儿科包括儿科门诊，儿科急诊和儿童发热门诊；儿科病房设有3个病区即儿科病房，新生儿病房和儿童重症病房。儿科门诊由8间医生诊室、吸入治疗室、肺功能室、变态反应疾病诊治室，脑循环治疗室和音乐治疗室等组成。候诊大厅有整洁的座椅、冷热水供水机、电视机供候诊的家长、患儿使用，还设有儿童游戏区，供患儿进行滑滑梯、骑小木马等游戏活动。每年平均门诊、急诊量超15万人次，年住院病人超3000人次。"@zh .
-

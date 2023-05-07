@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital64> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级乙等"@zh .
-<https://w3id.org/asdkb/instance/hospital64> <http://www.w3.org/2000/01/rdf-schema#label> "上海交通大学医学院附属新华医院"@zh .
-<https://w3id.org/asdkb/instance/hospital64> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市宝山区漠河路50号 "@zh .
 <https://w3id.org/asdkb/instance/hospital64> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "021-56691101 "@zh .
 <https://w3id.org/asdkb/instance/hospital64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
-<https://w3id.org/asdkb/instance/hospital64> <https://w3id.org/asdkb/ontology/dataproperty/city> "上海市"@zh .
+<https://w3id.org/asdkb/instance/hospital64> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "三级乙等"@zh .
+<https://w3id.org/asdkb/instance/hospital64> <https://w3id.org/asdkb/ontology/dataproperty/address> "上海市宝山区漠河路50号 "@zh .
+<https://w3id.org/asdkb/instance/hospital64> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City72> .
+<https://w3id.org/asdkb/instance/hospital64> <http://www.w3.org/2000/01/rdf-schema#label> "上海交通大学医学院附属新华医院"@zh .
 

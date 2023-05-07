@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department126> <http://www.w3.org/2000/01/rdf-schema#comment> "暨南大学附属第一医院新生儿科由我国儿科著名老前辈冯泽康和李着算等教授在1981年组建，几十年来在他们的带领下得到不断发展，目前设有床位60张，其中NICU病床16张，是儿科的特色专科。科室技术力量雄厚，拥有20名医师，教授、主任医师2人，副教授、副主任医师1人，主治医师10人，其中具有博士学位者4人，硕士学位者有10人。已经开展了脑损伤、呼吸、营养、感染、黄疸、遗传代谢、肾脏7个亚专业。1987年被国务院学位委员会批准为新生儿硕士学位授予点，培养新生儿硕士生70余名（包括澳门和台湾学生），其中大部分已成为广东省各级医院的新生儿学科带头人。2011年被国务院学位委员会批准为新生儿博士学位授予点，成为广东省能培养新生儿专业博士研究生为数不多的单位之一。"@zh .
-<https://w3id.org/asdkb/instance/Department126> <http://www.w3.org/2000/01/rdf-schema#label> "暨南大学附属第一医院新生儿科"@zh .
-<https://w3id.org/asdkb/instance/Department126> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital171> .
-

@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/hospital32> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0574-63812910 0574—63909603 "@zh .
 <https://w3id.org/asdkb/instance/hospital32> <https://w3id.org/asdkb/ontology/dataproperty/address> "慈溪市浒山街道青少年宫南路100号 "@zh .
+<https://w3id.org/asdkb/instance/hospital32> <https://w3id.org/asdkb/ontology/objectproperty/city> <https://w3id.org/asdkb/instance/City87> .
+<https://w3id.org/asdkb/instance/hospital32> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "一级甲等"@zh .
 <https://w3id.org/asdkb/instance/hospital32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital> .
 <https://w3id.org/asdkb/instance/hospital32> <http://www.w3.org/2000/01/rdf-schema#label> "慈溪市第六人民医院"@zh .
-<https://w3id.org/asdkb/instance/hospital32> <https://w3id.org/asdkb/ontology/dataproperty/city> "慈溪市"@zh .
-<https://w3id.org/asdkb/instance/hospital32> <https://w3id.org/asdkb/ontology/dataproperty/hospital_level> "一级甲等"@zh .
+<https://w3id.org/asdkb/instance/hospital32> <https://w3id.org/asdkb/ontology/dataproperty/contact_details> "0574-63812910 0574—63909603 "@zh .
 

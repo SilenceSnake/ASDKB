@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department53> <http://www.w3.org/2000/01/rdf-schema#comment> "儿保科（前身为儿童保健组），成立于 1954年，是我国最早开展儿童保健工作的单位之一。经过60余年的发展，目前儿童保健科已成为集儿保门诊、儿童发育行为、儿童营养等医疗、教学和科研为一体的专业科室，在上海市及全国儿保学界处于领先地位。目前科室有教授、主任医师2人，副主任医师2人，主治医师2人，住院医师2名，一批专业的护师和治疗师团队，多名医生先后赴国外研修学成归来。随着儿童保健工作步步深入，科室的业务范围逐年扩大。目前的业务内容有：小儿生长发育监测包括正常小儿和早产儿生长发育定期随访、喂养指导、育儿咨询和发育评估；儿童营养性疾病包括矮小、消瘦、肥胖及各类慢性营养素缺乏性疾病及喂养行为问题的诊断与治疗；发育行为儿科包括孤独症谱系障碍、注意力缺陷多动障碍、精神发育迟滞、学习困难、儿童行为障碍、儿童情绪障碍等的诊治；儿童视听发育早期筛查和干预、脑诱发电位在儿科临床的应用。其中突出的一大专科特色：孤独症谱系障碍的早期筛查、早期诊断和早期干预的系统诊治体系，与国际接轨，处于国内的领先地位。建立以社区为基地依托儿童保健三级网络开展孤独症早期筛查和管理模式，并于2013年11月首次将国际先进的孤独症早期干预模式－早期介入干预丹佛模式（Early Start Denver Model, ESDM）引入中国，在创始人萨利.罗杰斯（Sally Rogers）教授及其团队，为国内培养了第一批批ESDM干预实践人员。目前年门诊人次数超过3万，各类儿童保健专科评估和康复训练年人次数超过3万余次。"@zh .
-<https://w3id.org/asdkb/instance/Department53> <http://www.w3.org/2000/01/rdf-schema#label> "复旦大学附属儿科医院儿童保健科"@zh .
-<https://w3id.org/asdkb/instance/Department53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department53> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital107> .
-

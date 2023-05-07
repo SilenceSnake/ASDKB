@@ -1,9 +1,4 @@
-<https://w3id.org/asdkb/instance/symptom5> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom012> .
-<https://w3id.org/asdkb/instance/symptom5> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/asdkb/instance/symptom00> .
 <https://w3id.org/asdkb/instance/symptom5> <http://www.w3.org/2000/01/rdf-schema#comment> "社交、情感和交际行为的统一性差"@zh .
 <https://w3id.org/asdkb/instance/symptom5> <http://www.w3.org/2000/01/rdf-schema#comment> "a weak integration of social, emotional, and communicative behaviours"@en .
-<https://w3id.org/asdkb/instance/symptom5> <https://w3id.org/asdkb/ontology/objectproperty/isPartOf> <https://w3id.org/asdkb/instance/symptom0> .
 <https://w3id.org/asdkb/instance/symptom5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/impairments_in_social_interaction> .
-<https://w3id.org/asdkb/instance/symptom5> <https://w3id.org/asdkb/ontology/dataproperty/parent_symptom_id> "symptom0"@zh .
-<https://w3id.org/asdkb/instance/symptom5> <https://w3id.org/asdkb/ontology/dataproperty/symptom_id> "symptom5"@zh .
 

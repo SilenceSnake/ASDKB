@@ -1,5 +1,0 @@
-<https://w3id.org/asdkb/instance/Department113> <https://w3id.org/asdkb/ontology/objectproperty/hospital> <https://w3id.org/asdkb/instance/hospital154> .
-<https://w3id.org/asdkb/instance/Department113> <http://www.w3.org/2000/01/rdf-schema#label> "湖南省儿童医院儿童保健所"@zh .
-<https://w3id.org/asdkb/instance/Department113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/hospital_department> .
-<https://w3id.org/asdkb/instance/Department113> <http://www.w3.org/2000/01/rdf-schema#comment> "湖南省儿童医院儿童保健所是湖南省规模最大的儿童保健中心，是湖南省卫生厅重点专科和妇幼项目指导培训单位，是湖南省医学会儿童保健专业学组和微量元素与健康专业委员会及湖南省妇幼保健与优生优育协会发育行为儿科专业委员会挂靠单位,是世界卫生组织和国家卫生部儿童疾病综合管理的培训基地。与美国纽约州立基础研究院联合建立儿童孤独症研究合作中心，现有医护人员24人，其中高级职称7人，博士后1人。儿童保健所坚持以保健与临床相结合、预防与干预相结合、躯体与心理相结合、个体与群体相结合为发展目标，开展系列特色专科门诊，在开展生长发育监测、四病防治、营养咨询、计划免疫等常规项目的基础上，在国内率先开展了青春期医学，开设了青春期医学门诊及青少年心理咨询门诊。率先在省内开展铅中毒和铅污染防治特色专科，开设了多动症、抽动症、学习困难、心理咨询、身材矮小、肥胖症、性早熟等专科门诊。开展新技术新项目30余项，首次引进美国ABA训练方法训练和治疗儿童孤独症，脑电生物反馈和感觉统合训练技术治疗儿童多动症，青少年骨龄评价系统科学预测身高等新项目填补了省内空白，每年开展1~2期肥胖儿童科学减肥夏令营。"@zh .
-

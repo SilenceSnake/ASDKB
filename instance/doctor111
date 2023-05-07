@@ -1,7 +1,7 @@
-<https://w3id.org/asdkb/instance/doctor111> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department100> .
 <https://w3id.org/asdkb/instance/doctor111> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital25> .
-<https://w3id.org/asdkb/instance/doctor111> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 擅长儿童营养、生长发育、儿童心理、智力开发等保健及相关疾病的诊治。对儿童注意缺陷多动障碍、学习困难、智力低下、抽动障碍、感觉统合失调、孤独症、佝偻病、贫血、营养不良、小儿厌食症,铅中毒等疾病积累了丰富的临床经验。"@zh .
-<https://w3id.org/asdkb/instance/doctor111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
+<https://w3id.org/asdkb/instance/doctor111> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童保健科"@zh .
 <https://w3id.org/asdkb/instance/doctor111> <http://www.w3.org/2000/01/rdf-schema#label> "李小萍"@zh .
+<https://w3id.org/asdkb/instance/doctor111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor111> <https://w3id.org/asdkb/ontology/dataproperty/title> "'主治医师'"@zh .
+<https://w3id.org/asdkb/instance/doctor111> <https://w3id.org/asdkb/ontology/dataproperty/specialty> " 擅长儿童营养、生长发育、儿童心理、智力开发等保健及相关疾病的诊治。对儿童注意缺陷多动障碍、学习困难、智力低下、抽动障碍、感觉统合失调、孤独症、佝偻病、贫血、营养不良、小儿厌食症,铅中毒等疾病积累了丰富的临床经验。"@zh .
 

@@ -1,7 +1,7 @@
+<https://w3id.org/asdkb/instance/doctor259> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
+<https://w3id.org/asdkb/instance/doctor259> <https://w3id.org/asdkb/ontology/dataproperty/department> "儿童青少年精神科"@zh .
 <https://w3id.org/asdkb/instance/doctor259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/asdkb/ontology/class/physician> .
 <https://w3id.org/asdkb/instance/doctor259> <http://www.w3.org/2000/01/rdf-schema#label> "赵志民"@zh .
-<https://w3id.org/asdkb/instance/doctor259> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年的情绪问题（抑郁、焦虑、强迫）、多动症、精神疾病的诊断、治疗和心理治疗"@zh .
-<https://w3id.org/asdkb/instance/doctor259> <https://w3id.org/asdkb/ontology/dataproperty/title> "'副主任医师', ''"@zh .
-<https://w3id.org/asdkb/instance/doctor259> <https://w3id.org/asdkb/ontology/objectproperty/department> <https://w3id.org/asdkb/instance/Department202> .
 <https://w3id.org/asdkb/instance/doctor259> <https://w3id.org/asdkb/ontology/objectproperty/workAt> <https://w3id.org/asdkb/instance/hospital106> .
+<https://w3id.org/asdkb/instance/doctor259> <https://w3id.org/asdkb/ontology/dataproperty/specialty> "儿童青少年的情绪问题（抑郁、焦虑、强迫）、多动症、精神疾病的诊断、治疗和心理治疗"@zh .
 
