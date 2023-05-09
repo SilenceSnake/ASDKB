@@ -3,6 +3,45 @@
    xmlns:owl="http://www.w3.org/2002/07/owl#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/autism_spectrum_disorder">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C1510586"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/F84.1">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0338986"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/F84.2">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0035372"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/F84.5">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0236792"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/F84.9">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0524528"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/39951000119105">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C3531798"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/F84.8">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0349331"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/F84.3">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0349329"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/408857007">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/vocabulary/SNOMEDCT_US/408857007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/43614003">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/vocabulary/SNOMEDCT_US/43614003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/408856003">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/vocabulary/SNOMEDCT_US/408856003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/F84.0">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0004352"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/F84.4">
+    <owl:equivalentClass rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0349330"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/asdkb/ontology/class/physician">
     <rdfs:subClassOf rdf:resource="https://uts.nlm.nih.gov/uts/umls/concept/C0031831"/>
     <rdfs:subClassOf rdf:resource="http://linkedlifedata.com/resource/umls/id/C0031831"/>
