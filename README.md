@@ -10,6 +10,10 @@
 - Manual ontology mapping to UMLS and ADAR: [mapping/](./mapping/)
 - Other sample docs and images: [docs/](./docs/)
 
+## RDF Dumps
+
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7915674.svg)](https://doi.org/10.5281/zenodo.7915674)
+
 ## Namespace
 
 - class: <http://w3id.org/asdkb/ontology/class/>
@@ -19,6 +23,6 @@
 
 ### Demo
 
-We developed a prototype system at [http://w3id.org/asdkb/demo](http://111.67.195.163:7112/).
+We developed a prototype system at [http://asdkb.org.cn/](http://asdkb.org.cn/).
 
 ![demo](./docs/demo.PNG)
