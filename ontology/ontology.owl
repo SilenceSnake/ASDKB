@@ -91,16 +91,6 @@
     
 
 
-    <!-- https://w3id.org/asdkb/ontology/objectproperty/hospital -->
-
-    <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/hospital">
-        <rdfs:range rdf:resource="https://w3id.org/asdkb/ontology/class/hospital"/>
-        <rdfs:label xml:lang="en">hospital</rdfs:label>
-        <rdfs:label xml:lang="zh">所属医院</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
     <!-- https://w3id.org/asdkb/ontology/objectproperty/interventionMethod -->
 
     <owl:ObjectProperty rdf:about="https://w3id.org/asdkb/ontology/objectproperty/interventionMethod">
